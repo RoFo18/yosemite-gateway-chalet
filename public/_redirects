@@ -321,3 +321,8 @@ https://www.skijunemountain.com/*    https://yosemitechalet.us/:splat    301!
 /wp-content/plugins/*                          /404.html                           410
 /wp-content/themes/*                           /404.html                           410
 /wp-json/*                                     /404.html                           410
+# spam pages injected on the old host; tell Google they are gone for good
+/goods.php                                     /404.html                           410
+/shop.php                                      /404.html                           410
+/goods.php/*                                   /404.html                           410
+/shop.php/*                                    /404.html                           410
