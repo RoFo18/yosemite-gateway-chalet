@@ -1,0 +1,30 @@
+---
+url: /experiences/spa-and-hot-springs/
+title: Spa and Hot Springs
+nav_title: Spa and hot springs
+eyebrow: Recovery, Eastern Sierra style
+kicker: Year round
+seo_title: "Spa and Hot Springs near June Lake and Mammoth | Yosemite Gateway Chalet"
+description: "The Double Eagle Creekside Spa is a 15-minute walk from the chalet. Natural hot springs near Mammoth are about 35 minutes away, and Travertine Hot Springs near Bridgeport about 50."
+topic: hot springs near June Lake
+hero: hot-creek-eastern-sierra
+hero_alt: Steam rising from hot springs in the Eastern Sierra
+lead: Start with the tub on the back deck. Then go further.
+updated: 2026-10-26
+related: [/experiences/dining/, /experiences/winter/, /gallery/]
+---
+## The Creekside Spa
+
+The Double Eagle's Creekside Spa is a fifteen-minute walk from the chalet. It offers dozens of treatments for the end of a long day outdoors, and treatment guests can use the fitness center and indoor pool. [Double Eagle Resort and Spa](https://www.doubleeagle.com/).
+
+## Natural hot springs near Mammoth
+
+{{ figure("natural-hot-spring-soak", "Bathers in a natural hot spring with mountain views", None, "right") }}
+
+About thirty-five minutes from the chalet, southeast of Mammoth Lakes, natural mineral springs have been gathered into rock tubs. They are anything but commercial and take some patience to find, and the views are worth it. Be considerate, and thank the volunteers who maintain them if you meet them.
+
+## Travertine Hot Springs
+
+True hot spring devotees won't mind the fifty-minute drive north to Travertine Hot Springs, just south of Bridgeport, with views every bit as good. Take Highway 395 north and turn on Jack Sawyer Road about half a mile south of Bridgeport, just before the ranger station, then follow the dirt road about a mile. Travertine is clothing optional.
+
+{{ note("Hot springs are natural and unregulated. Water temperatures vary and can be dangerous, especially at Hot Creek itself, where soaking is prohibited. Follow posted rules.") }}

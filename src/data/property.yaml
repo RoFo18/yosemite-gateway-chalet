@@ -1,0 +1,95 @@
+# Single source of truth for every fact on the site.
+# Templates, structured data, llms.txt and the FAQ all read from here.
+# Change a fact once, here, and rebuild.
+
+name: Yosemite Gateway Chalet
+former_name: Sierra Vista Chalet
+tagline: A private log chalet at the edge of Yosemite's high country
+site_url: https://yosemitegatewaychalet.com
+
+address:
+  street: 4835 Highway 158
+  city: June Lake
+  region: CA
+  postal: "93529"
+  country: US
+  area: June Lake Loop, Mono County, Eastern Sierra
+# From the property's own Google Maps listing embed on the original site.
+geo:
+  lat: 37.7628
+  lng: -119.1099
+
+phone:
+  display: (844) SKI-JUNE
+  digits: (844) 754-5863
+  tel: "+18447545863"
+
+booking:
+  vrbo_url: https://www.vrbo.com/452799
+  vrbo_id: "452799"
+  direct_note: Returning guests can book direct.
+
+# Never publish an email address. Inquiries go through the /inquire/ form.
+
+home:
+  type: Whole-home rental
+  square_feet: 4000
+  max_overnight_guests: 8
+  max_on_property: 10
+  max_cars: 3
+  bedrooms: 3
+  full_baths: 3
+  half_baths: 1
+  check_in: "4:30 pm"
+  check_in_24: "16:30"
+  check_out: "10:00 am"
+  check_out_24: "10:00"
+  tax: Mono County's 15% transient occupancy tax
+  tax_rate: "15%"
+  pets: false
+  smoking_indoors: false
+
+beds:
+  - {type: California King, count: 2}
+  - {type: Queen, count: 1}
+  - {type: Pull-out couch, count: 1}
+  - {type: Queen futon, count: 1}
+
+amenities:
+  - Outdoor hydrotherapy tub under Carson Peak
+  - Two-person jacuzzi in the master suite
+  - Ruby-red claw-foot tub in the Elsie Room
+  - Grand Room with 21'6" ceilings, open fireplace and oak bar
+  - Remodeled gourmet kitchen with a handmade copper sink
+  - 11.5-foot dining table of local timber
+  - Wood stove in the family room
+  - Wifi
+  - Washer and dryer
+  - Organic cotton linens and towels
+  - Geothermal heat pumps
+  - Parking for three cars
+
+distances:
+  - {place: June Mountain Ski Area, value: "1", unit: mi, note: "2 minutes"}
+  - {place: June Lake village, value: "5", unit: min, note: "by car"}
+  - {place: Double Eagle Creekside Spa, value: "15", unit: min, note: "on foot"}
+  - {place: Mono Lake, value: "17", unit: min, note: "by car"}
+  - {place: Mammoth Yosemite Airport, value: "25", unit: min, note: "by car"}
+  - {place: Yosemite, Tioga Pass entrance, value: "27", unit: mi, note: "about 40 minutes, seasonal"}
+  - {place: Mammoth Lakes, value: "30", unit: min, note: "by car"}
+  - {place: Tuolumne Meadows, value: "45", unit: min, note: "seasonal"}
+  - {place: Bodie State Historic Park, value: "1", unit: hr, note: "by car"}
+  - {place: Yosemite Valley, value: "2 to 2.5", unit: hr, note: "via Tioga Road, seasonal"}
+  - {place: Reno, value: "155", unit: mi, note: ""}
+  - {place: San Francisco Bay Area, value: "307", unit: mi, note: "under 6 hours in summer"}
+  - {place: Los Angeles, value: "320", unit: mi, note: "about 5 hours"}
+  - {place: Las Vegas, value: "323", unit: mi, note: ""}
+  - {place: San Diego, value: "388", unit: mi, note: ""}
+
+# The short band on the home page
+headline_distances:
+  - {value: "1", unit: mi, label: June Mountain}
+  - {value: "27", unit: mi, label: Tioga Pass entrance}
+  - {value: "45", unit: min, label: Tuolumne Meadows}
+  - {value: "17", unit: min, label: Mono Lake}
+  - {value: "30", unit: min, label: Mammoth Lakes}
