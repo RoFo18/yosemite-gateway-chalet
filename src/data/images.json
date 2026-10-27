@@ -59,6 +59,15 @@
    360
   ]
  },
+ "carson-peak-scree-run": {
+  "color": "#9a8676",
+  "h": 1182,
+  "w": 664,
+  "widths": [
+   480,
+   664
+  ]
+ },
  "carson-peak-summit-view": {
   "color": "#2b6a8c",
   "h": 856,
@@ -235,6 +244,15 @@
    1800
   ]
  },
+ "family-hike-toward-reversed-peak": {
+  "color": "#736e68",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
  "family-room-evening": {
   "color": "#4f3519",
   "h": 330,
@@ -332,6 +350,15 @@
  },
  "garage-climbing-wall": {
   "color": "#6d6962",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
+ "garage-climbing-wall-handholds": {
+  "color": "#616770",
   "h": 1024,
   "w": 768,
   "widths": [
@@ -635,6 +662,15 @@
    800,
    1200,
    1651
+  ]
+ },
+ "kid-paddleboard-rush-creek-carson-peak": {
+  "color": "#748286",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
   ]
  },
  "kids-ski-free-june-mountain": {
@@ -960,6 +996,16 @@
    1024
   ]
  },
+ "winter-walk-home-from-fern-creek": {
+  "color": "#687386",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "yellow-bellied-marmot": {
   "color": "#829168",
   "h": 768,
@@ -988,6 +1034,16 @@
    480,
    800,
    872
+  ]
+ },
+ "yost-meadow-out-the-back-door": {
+  "color": "#70867a",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "young-angler-fly-fishing-creek": {

@@ -8,6 +8,6 @@ description: "Stories from the Yosemite Gateway Chalet and June Lake: paddleboar
 updated: 2026-10-27
 ---
 <ul class="posts">
-{% for u in ["/journal/paddleboarding-rush-creek-june-lake/", "/journal/june-lakes-fall-feast-for-the-senses/", "/journal/better-than-a-june-lake-hotel/", "/journal/the-spirit-of-glisse/", "/journal/yosemite-gateway-chalet-in-the-news/"] %}{% set p = pages[u] %}<li><a href="{{ u }}"><span class="p-date">Updated {{ p.updated.strftime("%B %Y") }}</span><span class="p-title">{{ p.title }}</span><span class="p-desc">{{ p.description }}</span></a></li>
+{% for u in ["/journal/paddleboarding-rush-creek-june-lake/", "/journal/june-lakes-fall-feast-for-the-senses/", "/journal/better-than-a-june-lake-hotel/", "/journal/the-spirit-of-glisse/", "/journal/yosemite-gateway-chalet-in-the-news/"] %}{% set p = pages[u] %}<li><a href="{{ u }}"><span class="p-title">{{ p.title }}</span><span class="p-desc">{{ p.description }}</span></a></li>
 {% endfor %}
 </ul>

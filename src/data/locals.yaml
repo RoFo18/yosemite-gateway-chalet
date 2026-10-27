@@ -31,7 +31,7 @@ locals:
   - id: tiger-bar
     name: The Tiger Bar
     kind: BarOrPub
-    what: June Lake's historic bar and grill, under new management since 2026 from the same owners as La Parrilla.
+    what: June Lake's historic bar and grill, under new management from the same owners as La Parrilla.
     address: June Lake village
     used_on: [/experiences/dining/]
     posts:

@@ -5,7 +5,7 @@ nav_title: Lakes and paddleboarding
 eyebrow: Climbing, riding, birding and lake days
 kicker: Summer
 seo_title: "Summer in June Lake: Paddleboarding, Lakes, Climbing | Yosemite Gateway Chalet"
-description: "Summer from the chalet: five paddleboards for Rush Creek and Silver Lake, Grant Lake swims, Gull Lake's rope swing, bouldering, birding and races."
+description: "Summer from the chalet: six paddleboards, one kid-size, for Rush Creek and Silver Lake, Grant Lake swims, Gull Lake's rope swing, bouldering, birding and races."
 topic: summer in June Lake
 hero: paddleboards-silver-lake-shore
 hero_alt: "Four paddleboards pulled up on the shore of Silver Lake under the aspens"
@@ -15,7 +15,9 @@ related: [/experiences/hiking/, /fly-fishing/, /guides/tuolumne-meadows/]
 ---
 ## Paddleboards in the garage
 
-Five stand-up paddleboards wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Carry them down to the shore of Silver Lake, a few minutes away, and you are on the water. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the canyon walls. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
+Five stand-up paddleboards and a kid-size board wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Carry them down to the shore of Silver Lake, a few minutes away, and you are on the water. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the canyon walls. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
+
+{{ guide_says("The kid-size board is the most fought-over object in the house. Settle who gets it before you leave the driveway. Rush Creek is flat, cold and perfectly clear, which means everyone on the bank can see exactly how you fell in.", "Local knowledge") }}
 
 For trout, see [fishing the June Lake Loop](/fly-fishing/).
 

@@ -5,8 +5,8 @@ title: "Fly Fishing the East Walker River"
 nav_title: East Walker River
 eyebrow: Tailwater below Bridgeport, 50 minutes from the chalet
 card: The Miracle Mile below Bridgeport Dam, and the canyon below it. Big browns, flow-dependent, worth the drive.
-seo_title: "Fly Fishing the East Walker River: Miracle Mile, Big Browns, Flows and 2026 Regulations"
-description: "How to fly fish the East Walker River below Bridgeport Dam: the Miracle Mile, the ideal flows, hatches and streamers for big browns, and 2026 rules (artificial lures, 18-inch minimum). 50 minutes north of the chalet in June Lake."
+seo_title: "Fly Fishing the East Walker River: Miracle Mile, Big Browns, Flows and Regulations"
+description: "How to fly fish the East Walker River below Bridgeport Dam: the Miracle Mile, the ideal flows, hatches and streamers for big browns, and the rules (artificial lures, 18-inch minimum). 50 minutes north of the chalet in June Lake."
 topic: fly fishing the East Walker River
 published: 2026-10-27
 updated: 2026-10-27
@@ -31,7 +31,7 @@ faq:
   - q: What flow is best for the East Walker?
     a: Steady releases between about 75 and 250 cfs. Sudden changes stress the fish, and above about 350 cfs wading the slick rocks of the Miracle Mile becomes difficult and dangerous.
   - q: What are the East Walker regulations?
-    a: In California, under the 2026 rules, from Bridgeport Dam to the Nevada line the season is the last Saturday in April to November 15, artificial lures only, with an 18-inch minimum and a two-trout limit. Nevada water has its own rules and needs a Nevada license.
+    a: In California, under current rules, from Bridgeport Dam to the Nevada line the season is the last Saturday in April to November 15, artificial lures only, with an 18-inch minimum and a two-trout limit. Nevada water has its own rules and needs a Nevada license.
 sources:
   - title: "2026 California Freshwater Sport Fishing Regulations, §7.50(b), Walker River, East Fork (CDFW)"
     url: https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=209090&inline

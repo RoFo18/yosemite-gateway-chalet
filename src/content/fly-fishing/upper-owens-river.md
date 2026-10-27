@@ -5,8 +5,8 @@ title: "Fly Fishing the Upper Owens River"
 nav_title: Upper Owens River
 eyebrow: Meadow spring creek, 25 minutes from the chalet
 card: Spring-fed meadow water from Big Springs to Crowley Lake, with lake-run rainbows and cutthroat in spring and fall.
-seo_title: "Fly Fishing the Upper Owens River: Lake-Run Trout, Flies, Access and 2026 Regulations"
-description: "How to fly fish the Upper Owens River from Big Springs to Crowley Lake: the spring and fall lake-run fish, hatches and flies by month, public access, and 2026 rules. 25 minutes from the Yosemite Gateway Chalet in June Lake."
+seo_title: "Fly Fishing the Upper Owens River: Lake-Run Trout, Flies, Access and Regulations"
+description: "How to fly fish the Upper Owens River from Big Springs to Crowley Lake: the spring and fall lake-run fish, hatches and flies by month, public access, and the rules. 25 minutes from the Yosemite Gateway Chalet in June Lake."
 topic: fly fishing the Upper Owens River
 published: 2026-10-27
 updated: 2026-10-27
@@ -27,7 +27,7 @@ places:
     containedIn: Mono County, California
 faq:
   - q: Is the Upper Owens River open all year?
-    a: From the Benton Bridge road crossing upstream to Big Springs, yes, under the 2026 California regulations, with artificial lures and barbless hooks only and zero trout. Below Benton to Crowley Lake the season runs from the last Saturday in April to November 15, with an 18-inch minimum and artificial lures from August 1.
+    a: From the Benton Bridge road crossing upstream to Big Springs, yes, under current California regulations, with artificial lures and barbless hooks only and zero trout. Below Benton to Crowley Lake the season runs from the last Saturday in April to November 15, with an 18-inch minimum and artificial lures from August 1.
   - q: When do the big fish run up the Upper Owens?
     a: Spring and fall. Rainbows and cutthroat move up from Crowley Lake, with the best of it usually from March into May and again from late September into November.
   - q: Is the Upper Owens private?

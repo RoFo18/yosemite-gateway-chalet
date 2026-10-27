@@ -19,6 +19,8 @@ Here is how a powder morning goes at most rentals around here. The house is up a
 
 The chalet is right on Highway 158, and we hire professional plowing for the driveway. You are plowed out first, a mile from the lift, and in line while everyone else is still digging. That is the whole pitch. It is a good one.
 
+{{ guide_says("Powder has a half-life of about ninety minutes on a Saturday. Every one of those minutes you spend watching a side road for a snowplow is a minute somebody from Los Angeles spends in your line. We are not saying stay with us out of spite. We are saying it is a factor.", "Local knowledge") }}
+
 ## June Mountain
 
 A mile from the chalet, [June Mountain](https://www.junemountain.com/) has 2,580 vertical feet for every level and a fraction of the crowds at its big neighbor.

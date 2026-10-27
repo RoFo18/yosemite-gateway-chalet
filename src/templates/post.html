@@ -2,7 +2,6 @@
 {% block main %}
 <header class="page-head narrow">
   <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
-  <p class="eyebrow">{% if page.updated and page.updated != page.published %}Updated <time datetime="{{ page.updated }}">{{ page.updated|longdate }}</time> &middot; First published {{ page.published.strftime("%B %Y") }}{% else %}<time datetime="{{ page.published }}">{{ page.published|longdate }}</time>{% endif %}</p>
   <h1>{{ page.title }}</h1>
 </header>
 <div class="page-body">

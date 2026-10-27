@@ -53,6 +53,8 @@ Getting there is half the adventure. The usual way in is from Benton Crossing Ro
 
 A gold-mining town from the 1870s, preserved in a state of arrested decay, Bodie gives a vivid sense of California's boomtown years. About an hour's drive from the chalet. The road in is partly dirt and can close in winter. [Bodie State Historic Park](https://www.parks.ca.gov/?page_id=509).
 
+{{ guide_says("Legend says anyone who takes so much as a nail from Bodie gets cursed. The rangers have a box of things people mailed back. Leave the nails. You have enough going on.", "Local knowledge") }}
+
 ## Devils Postpile National Monument
 
 A wall of near-perfect basalt columns, formed when lava cooled slowly in a valley here and was later exposed by glaciers. It is reached through Mammoth Lakes and is usually open in summer and early fall, often by required shuttle. [Devils Postpile National Monument](https://www.nps.gov/depo/).

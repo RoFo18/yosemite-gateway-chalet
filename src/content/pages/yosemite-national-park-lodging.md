@@ -86,5 +86,5 @@ Families and groups traveling together often want one house rather than several 
 ## Before you book
 
 - **Season:** for Yosemite access, book between late spring and fall, and watch the Tioga opening each year.
-- **Park entry:** no reservations were required to enter Yosemite in 2026, and an entrance fee applies. Check the National Park Service for your dates.
+- **Park entry:** an entrance fee applies, and the park has required reservations in some recent years. Check the National Park Service for your dates.
 - **Winter:** if your trip falls between November and spring, plan around skiing and snow on the east side rather than the park. See [Yosemite's east side in winter](/guides/yosemite-east-side-in-winter/).

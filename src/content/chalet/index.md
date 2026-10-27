@@ -50,7 +50,8 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <div class="ch-media"><a href="/gallery/#tub">{{ picture("hydrotherapy-tub-winter-guests", "Guests in the steaming outdoor hydrotherapy tub in winter, snow piled around it", "(min-width: 900px) 55vw, 100vw") }}</a></div>
 <div class="ch-copy">
 <h2>The hot tub</h2>
-<p>The outdoor hydrotherapy tub seats six and runs all year, just off the back deck, looking straight up at Carson Peak. Two creeks run through the two-thirds of an acre around it, and the national forest begins at the back fence. Most nights, the creek is the only sound.</p>
+<p>The outdoor hydrotherapy tub seats six and runs all year, just off the back deck, looking straight up at Carson Peak. Two creeks run through the two-thirds of an acre around it, and the national forest begins at the back fence. Most nights, Yost Creek is the only sound.</p>
+<p>A word of warning: people get in this tub planning to stay ten minutes. Then the stars come out over Carson Peak and somebody brings out another round of cocoa, and now it is midnight and nobody can feel their responsibilities. Plan accordingly.</p>
 <p><a class="link-arrow" href="/gallery/#tub">See the tub</a></p>
 </div>
 </section>
@@ -79,7 +80,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 </div>
 <div>
 <h3>To play</h3>
-<p>Five stand-up paddleboards, a backgammon table by the fire, and, for a stormy afternoon, a small climbing wall in the garage.</p>
+<p>Five stand-up paddleboards and a kid-size one, a backgammon table by the fire, and, for a stormy afternoon, a climbing wall in the garage for the afternoon the thunderstorm rolls in.</p>
 <h3>To live</h3>
 <p>Wifi throughout, a high-end washer and dryer, a mud room for skis and boots, firewood waiting on arrival, and parking for three cars.</p>
 </div>

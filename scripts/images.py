@@ -101,6 +101,12 @@ NAMES = {
     "mr.jpg": "press-magazine-review",
     "np.jpg": "press-newspaper-geothermal",
     # October 2026, from Robert
+    "yost-meadow.jpg": "yost-meadow-out-the-back-door",
+    "carson-scree.jpg": "carson-peak-scree-run",
+    "kid-sup-rush-creek.jpg": "kid-paddleboard-rush-creek-carson-peak",
+    "fern-creek-winter-walk.jpg": "winter-walk-home-from-fern-creek",
+    "reversed-peak-hike.jpg": "family-hike-toward-reversed-peak",
+    "garage-wall-2.jpg": "garage-climbing-wall-handholds",
     "new-mono-craters-sunset.jpg": "mono-craters-sunset-rays",
     "silver-lake-boards-enhanced.jpg": "paddleboards-silver-lake-shore",
     "new-gull-lake-sunset.jpg": "gull-lake-fiery-sunset",

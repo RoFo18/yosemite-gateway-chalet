@@ -113,7 +113,7 @@ Matthes Crest is the one climbers dream about: a mile-long knife edge of granite
 ## Practical notes
 
 - **Facilities change.** What is open in Tuolumne, including the visitor center, store, grill, campground and lodge, varies by year and by month. Check the National Park Service before you count on any of it.
-- **Reservations:** none were needed to enter Yosemite in 2026; an entrance fee applies.
+- **Reservations:** check the National Park Service for any entry reservation rules; an entrance fee applies.
 - **Wilderness permits** are required for any overnight trip into the backcountry.
 - **Parking** at popular trailheads fills early on summer weekends. Start early, and you will also miss the afternoon storms.
 - **Altitude:** at 8,600 feet, take the first day easy.

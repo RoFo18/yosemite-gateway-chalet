@@ -18,10 +18,10 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#18201c">
-<link rel="icon" href="/favicon.ico" sizes="any">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico?v=3" sizes="any">
+<link rel="icon" href="/favicon.svg?v=3" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png?v=3" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=3">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/fonts/cormorant-garamond-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/work-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
@@ -83,7 +83,7 @@
     </div>
     {% endfor %}
   </div>
-  <p class="foot-small">&copy; {{ year }} {{ P.name }}. Also on <a href="{{ P.booking.vrbo_url }}" rel="noopener" target="_blank">VRBO</a> and <a href="{{ P.booking.airbnb_url }}" rel="noopener" target="_blank">Airbnb</a>.</p>
+  <p class="foot-small">&copy; {{ P.name }}. Also on <a href="{{ P.booking.vrbo_url }}" rel="noopener" target="_blank">VRBO</a> and <a href="{{ P.booking.airbnb_url }}" rel="noopener" target="_blank">Airbnb</a>.</p>
 </footer>
 
 <div class="mobile-bar"><a class="btn btn-solid" href="/inquire/#availability">Check dates</a><a class="btn btn-line" href="tel:{{ P.phone.tel }}">Call</a></div>

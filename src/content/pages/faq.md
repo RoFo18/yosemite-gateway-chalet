@@ -28,6 +28,8 @@ faq:
   a: Yes. Plan on walking up steps from the driveway to the front door with your bags, and the three suites are upstairs, reached by a staircase from the Grand Room. In winter, wear boots for the walk in.
 - q: Will we get snowed in?
   a: No. The chalet is right on Highway 158, not up a side road, and we hire professional plowing for the driveway. That means you are plowed out first thing and on the June Mountain lift while guests in rentals up the back roads are still waiting for theirs. Carry chains on the drive up, as Caltrans requires them in storms.
+- q: Is the chalet good for kids?
+  a: 'Very. Kids 12 and under ski free all season at June Mountain, a mile away. There is a kid-size paddleboard alongside the five full-size boards, a climbing wall in the garage for stormy afternoons, and Yost Meadow is a walk from the back door. One rule: guests under 18 may not use the hot tub.'
 - q: Do you rent individual rooms?
   a: No. Guests book the entire 4,000 square foot chalet.
 - q: How far is the chalet from Yosemite?
@@ -45,7 +47,7 @@ faq:
 - q: Do kids ski free at June Mountain?
   a: Yes. Kids 12 and under ski free all season at June Mountain with a no-cost child season pass, reserved on IkonPass.com or issued at the ticket office. The mountain is a mile from the chalet.
 - q: Are there paddleboards?
-  a: Yes. Five stand-up paddleboards in the garage are included with your stay. Silver Lake and Rush Creek are a few minutes up the road.
+  a: Yes. Five stand-up paddleboards and a kid-size board in the garage are included with your stay. Silver Lake and Rush Creek are a few minutes up the road.
 - q: What are check-in and check-out times?
   a: Check-in begins at 4:30 pm. Check-out is at 10:00 am.
 - q: Is there a washer and dryer?

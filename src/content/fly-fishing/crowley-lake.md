@@ -5,8 +5,8 @@ title: "Fly Fishing Crowley Lake"
 nav_title: Crowley Lake
 eyebrow: Stillwater, 35 minutes from the chalet
 card: California's famous trout lake. Chironomids under an indicator, damsels in summer, big browns on perch fry in fall.
-seo_title: "Fly Fishing Crowley Lake: Chironomids, Damsels, Perch Fry and 2026 Regulations"
-description: "How to fly fish Crowley Lake: three-midge indicator rigs, damselfly season, perch-fry streamers for big browns, the best bays, and 2026 rules (18-inch minimum from August 1). 35 minutes from the chalet in June Lake."
+seo_title: "Fly Fishing Crowley Lake: Chironomids, Damsels, Perch Fry and Regulations"
+description: "How to fly fish Crowley Lake: three-midge indicator rigs, damselfly season, perch-fry streamers for big browns, the best bays, and the rules (18-inch minimum from August 1). 35 minutes from the chalet in June Lake."
 topic: fly fishing Crowley Lake
 published: 2026-10-27
 updated: 2026-10-27
@@ -27,7 +27,7 @@ places:
     containedIn: Mono County, California
 faq:
   - q: When is Crowley Lake open for fishing?
-    a: From the last Saturday in April to November 15. Under the 2026 rules, the limit is five trout through July 31; from August 1 only artificial lures may be used, with an 18-inch minimum and a two-trout limit. The area within 1,800 feet of the outlet dam is closed.
+    a: From the last Saturday in April to November 15. Under current rules, the limit is five trout through July 31; from August 1 only artificial lures may be used, with an 18-inch minimum and a two-trout limit. The area within 1,800 feet of the outlet dam is closed.
   - q: What is the best fly technique for Crowley Lake?
     a: Midges. Three chironomid pupae under an indicator at the depth the fish are holding is the classic Crowley rig. Strip damselfly nymphs around the weeds in June and July, and fish perch fry streamers from late July into fall.
   - q: Where should I fish on Crowley?

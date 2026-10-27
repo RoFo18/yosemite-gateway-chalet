@@ -6,8 +6,8 @@ nav_title: Fly fishing
 eyebrow: The definitive guide, written from June Lake
 kicker: Fly fishing
 card: Hot Creek, the Upper Owens, Crowley, the East Walker, the Middle Fork and the June Lake Loop, all within an hour of the chalet. Waters, hatches, flies, regulations and a live recommender.
-seo_title: "Fly Fishing June Lake and the Eastern Sierra: Waters, Hatches, Flies and 2026 Regulations"
-description: "The complete guide to fly fishing June Lake and the Eastern Sierra: Hot Creek, the Upper Owens, Crowley Lake, the East Walker, the Middle Fork San Joaquin, Rush Creek and the backcountry lakes, with hatch charts, flies, 2026 regulations and a live where-to-fish tool."
+seo_title: "Fly Fishing June Lake and the Eastern Sierra: Waters, Hatches, Flies and Regulations"
+description: "The complete guide to fly fishing June Lake and the Eastern Sierra: Hot Creek, the Upper Owens, Crowley Lake, the East Walker, the Middle Fork San Joaquin, Rush Creek and the backcountry lakes, with hatch charts, flies, current regulations and a live where-to-fish tool."
 topic: fly fishing June Lake and the Eastern Sierra
 hero: fly-fishing-rush-creek
 hero_alt: A fly fisher working a run on Rush Creek in the Eastern Sierra
@@ -40,7 +40,7 @@ faq:
   - q: Is June Lake good for fly fishing?
     a: Yes. June Lake is one of the best bases for fly fishing in California. Within about an hour are Hot Creek, the Upper Owens River, Crowley Lake, the East Walker River, the Middle Fork San Joaquin and the June Lake Loop lakes and Rush Creek, plus backcountry lakes reached on foot from the loop.
   - q: Where can I fly fish near June Lake in winter?
-    a: Hot Creek and the Upper Owens River above Benton Crossing are open all year under 2026 California rules, catch and release with barbless artificial flies or lures. Lower Rush Creek below Grant Lake Dam is also open all year, catch and release. The loop lakes, Crowley and the East Walker open the last Saturday in April.
+    a: Hot Creek and the Upper Owens River above Benton Crossing are open all year under current California rules, catch and release with barbless artificial flies or lures. Lower Rush Creek below Grant Lake Dam is also open all year, catch and release. The loop lakes, Crowley and the East Walker open the last Saturday in April.
   - q: What is the best month to fly fish the Eastern Sierra?
     a: September and October are the strongest overall, with cooler water, returning blue-winged olives, lake-run fish on the Upper Owens and fewer people. Late April through June is a close second.
   - q: What flies should I bring to June Lake?
@@ -69,7 +69,7 @@ Welcome. You have found the definitive guide to fly fishing June Lake and the Ea
 
 Now, let us get something out of the way. People fly to Patagonia, to New Zealand, to Iceland, to a lodge in Alaska that costs more per week than a used truck, so that they can stand in a river and fail to catch a large trout in a beautiful place. You can do all of that here, and sleep in a log chalet, and be on the deck with a cold one before the trico spinners on Hot Creek have finished dying. Five hours from Los Angeles.
 
-This guide covers every serious water within about sixty miles of the chalet: what lives there, when it fishes, what to tie on, the one thing that matters, and the 2026 rules. It does not cover the places we actually fish. We will come back to that.
+This guide covers every serious water within about sixty miles of the chalet: what lives there, when it fishes, what to tie on, the one thing that matters, and the current rules. It does not cover the places we actually fish. We will come back to that.
 
 {{ ff_tool() }}
 
@@ -81,7 +81,7 @@ Most great trout destinations are great at one thing. Montana has rivers. New Ze
 - **Lake-run trout in a meadow.** Twice a year, rainbows and cutthroat run out of Crowley Lake into the [Upper Owens](/fly-fishing/upper-owens-river/), and a narrow meadow stream suddenly holds fish twice the size it has any right to.
 - **A tailwater with browns measured in pounds.** The [East Walker](/fly-fishing/east-walker-river/) below Bridgeport Dam has given up a 13-pound brown.
 - **The golden trout.** California's state fish, native to two creeks in the southern Sierra and stocked long ago into high lakes up and down the range. Some of those lakes are in this part of the Sierra. That is all we are going to say.
-- **No lodge required.** Everything here is drive-to or walk-to. No floatplane, no guide-only beats, no $900-a-night minimums, and the beer is whatever you put in the cooler.
+- **No lodge required.** Everything here is drive-to or walk-to. No floatplane, no guide-only beats, no $900-a-night minimums, and the dress code is waders.
 
 {{ guide_says("People ask me what the secret is to catching more fish in the Eastern Sierra. The secret is fishing where the fish are. I charge extra for that part.") }}
 
@@ -107,9 +107,9 @@ Are the fish bigger in Patagonia? Some of them. Is the light better in New Zeala
 
 ## The waters
 
-Seven waters, from five minutes away to fifty. Each has its own page with access, flies, technique and the 2026 rules.
+Seven waters, from five minutes away to fifty. Each has its own page with access, flies, technique and the current rules.
 
-| Water | Type | Best for | Open (2026) |
+| Water | Type | Best for | Open |
 |---|---|---|---|
 | [Hot Creek](/fly-fishing/hot-creek/) | Geothermal spring creek | Tricos, technical dry flies, humility | All year, barbless flies, release |
 | [Upper Owens River](/fly-fishing/upper-owens-river/) | Meadow spring creek | Lake-run fish in spring and fall | All year above Benton Crossing, release |
@@ -153,7 +153,7 @@ The air is thin and dry at 7,600 feet. Drink more water than you think, wear a h
 
 Forgot something? [Ernie's Tackle and Ski Shop](https://www.erniestackleandskishop.com/) in June Lake village, 2604 Boulder Drive, (760) 648-7756, has flies, tippet, licenses and the most honest fishing report on the loop. Follow them on [Instagram](https://www.instagram.com/erniestacklejl/).
 
-{{ guide_says("I have fished every rod weight there is, and I can tell you the right one is whichever one you brought. The fish do not know. The fish cannot read the label. Neither, after the second beer, can most guides.") }}
+{{ guide_says("I have fished every rod weight there is, and I can tell you the right one is whichever one you brought. The fish do not know. The fish cannot read the label. Neither, frankly, can most guides.") }}
 
 
 
@@ -171,4 +171,4 @@ Everything on this page is true, and none of it is where we fish on a Tuesday in
 
 
 
-{{ note("Regulations on this site are from the 2026 California Freshwater Sport Fishing Regulations, updated July 10, 2026, and were checked on October 27, 2026. Rules change, and special sections apply. Always read the <a href=\"https://wildlife.ca.gov/Regulations\" rel=\"noopener\" target=\"_blank\">current regulations</a> before you fish, and carry a California fishing license if you are 16 or older.") }}
+{{ note("Regulations on this site follow the California Freshwater Sport Fishing Regulations. Rules change, and special sections apply. Always read the <a href=\"https://wildlife.ca.gov/Regulations\" rel=\"noopener\" target=\"_blank\">current regulations</a> before you fish, and carry a California fishing license if you are 16 or older.") }}

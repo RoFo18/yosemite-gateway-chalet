@@ -20,7 +20,7 @@ glance:
   Season: Usually late May or June to about November
   From Lee Vining: About 12 miles of steep climbing
   From June Lake: 27 miles, about 40 minutes
-  Park entry: Entrance fee; no reservation system in 2026
+  Park entry: Entrance fee; check NPS for any reservation rules
 places:
   - type: TouristAttraction
     name: Tioga Pass
@@ -35,7 +35,7 @@ faq:
   - q: When does Tioga Pass close for the winter?
     a: Tioga Road closes for the season when significant snow arrives, usually sometime in November, and sometimes as early as late October. It can also close for a few days at a time after an early storm.
   - q: Do I need a reservation to enter Yosemite through Tioga Pass?
-    a: Not in 2026. Yosemite did not run a day-use or peak-hours reservation system in 2026, though the entrance fee still applies. Rules have changed year to year, so check the National Park Service's permits and reservations page for your dates.
+    a: Sometimes. Yosemite has run day-use or peak-hours reservations in some years and not in others, and the entrance fee always applies. Rules change year to year, so check the National Park Service's permits and reservations page for your dates.
   - q: How far is Tioga Pass from June Lake?
     a: About 27 miles and 40 minutes from the Yosemite Gateway Chalet in June Lake, by way of Highway 395 north to Lee Vining and Highway 120 west.
   - q: What is the best short hike at Tioga Pass?
@@ -110,8 +110,8 @@ The road began as the Great Sierra Wagon Road, built in 1883 to serve the Great 
 
 ## Before you go
 
-- **Fees:** an entrance fee applies, and a new fee structure for nonresident visitors took effect in 2026. Check the National Park Service fees page.
-- **Reservations:** none were required to enter Yosemite in 2026. Confirm for your year.
+- **Fees:** an entrance fee applies, and nonresident visitors pay more. Check the National Park Service fees page.
+- **Reservations:** the park has used entry reservations in some recent years and not others. Check the National Park Service before you go.
 - **Altitude:** the pass is almost 10,000 feet. Drink water, go slowly, and expect cold mornings even in August.
 - **Weather:** summer afternoons often bring thunderstorms. Be off summits by early afternoon.
 - **Road status:** the National Park Service conditions page and Caltrans QuickMap have the latest.

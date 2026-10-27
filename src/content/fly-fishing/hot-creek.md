@@ -5,8 +5,8 @@ title: "Fly Fishing Hot Creek"
 nav_title: Hot Creek
 eyebrow: Geothermal spring creek, 30 minutes from the chalet
 card: The most technical trout water near June Lake, and one of the most crowded with fish. Tricos, tiny flies, 7X and humility.
-seo_title: "Fly Fishing Hot Creek, California: Tricos, Flies, Access and 2026 Regulations"
-description: "How to fly fish Hot Creek near Mammoth Lakes: trico timing, flies and tippet, where the public water is, and 2026 rules (open all year, barbless flies, catch and release). From the Yosemite Gateway Chalet, 30 minutes away."
+seo_title: "Fly Fishing Hot Creek, California: Tricos, Flies, Access and Regulations"
+description: "How to fly fish Hot Creek near Mammoth Lakes: trico timing, flies and tippet, where the public water is, and the rules (open all year, barbless flies, catch and release). From the Yosemite Gateway Chalet, 30 minutes away."
 topic: fly fishing Hot Creek
 published: 2026-10-27
 updated: 2026-10-27
@@ -27,7 +27,7 @@ places:
     containedIn: Mono County, California
 faq:
   - q: Is Hot Creek open in winter?
-    a: Yes. Under the 2026 California regulations, Hot Creek from the State hatchery property line to the Owens River is open all year, artificial flies with barbless hooks only, zero trout.
+    a: Yes. Under current California regulations, Hot Creek from the State hatchery property line to the Owens River is open all year, artificial flies with barbless hooks only, zero trout.
   - q: What flies work on Hot Creek?
     a: Small ones. Trico spinners in sizes 20 to 24 on summer and fall mornings, blue-winged olives 18 to 20 in spring and fall, midges all year, small caddis, and scuds as the year-round nymph.
   - q: Can I keep fish from Hot Creek?

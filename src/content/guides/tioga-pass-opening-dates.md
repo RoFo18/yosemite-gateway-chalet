@@ -66,7 +66,7 @@ Some of that lateness has a name. In 2020 the park was closed for COVID and reop
 
 ## What it means for your trip
 
-Plan a Tuolumne Meadows trip for after mid-June and you will almost always be fine. In a light year like 2026, late May works. In a big year, think July. Watch the park's April 1 snow number, and add a week or so of cushion for the way the 2020s have run.
+Plan a Tuolumne Meadows trip for after mid-June and you will almost always be fine. In a light snow year, late May works. In a big year, think July. Watch the park's April 1 snow number, and add a week or so of cushion for the way the 2020s have run.
 
 Closing is a different story. The road usually closes around mid-November with the first big storm, and the closing date has nothing to do with last spring's snow.
 

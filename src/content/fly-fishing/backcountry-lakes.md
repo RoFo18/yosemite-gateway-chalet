@@ -6,7 +6,7 @@ nav_title: Backcountry lakes
 eyebrow: On foot from the chalet and Silver Lake
 card: Fern, Parker, Agnew, Gem and the high basins beyond. Brookies on dry flies, very few people, and a golden or two for those who walk far enough.
 seo_title: "Backcountry Fly Fishing near June Lake: Fern, Parker, Agnew and Gem Lakes"
-description: "Backcountry fly fishing from June Lake: Fern Lake from the chalet's back door, Parker Lake, Agnew and Gem lakes from Silver Lake, the high basins of the Ansel Adams Wilderness, flies, gear and 2026 rules."
+description: "Backcountry fly fishing from June Lake: Fern Lake from the chalet's back door, Parker Lake, Agnew and Gem lakes from Silver Lake, the high basins of the Ansel Adams Wilderness, flies, gear and the rules."
 topic: backcountry fly fishing near June Lake
 published: 2026-10-27
 updated: 2026-10-27
@@ -31,7 +31,7 @@ faq:
   - q: Are there golden trout near June Lake?
     a: California golden trout were stocked into high lakes throughout the Sierra Nevada decades ago, and some high basins in the Ansel Adams Wilderness hold them. Finding them is part of the deal.
   - q: What are the rules at Parker Lake?
-    a: Parker Lake has special 2026 rules, open all year, artificial lures only, a 14-inch minimum size and a two-trout limit. Parker Creek below the lake is all year, barbless artificial, catch and release.
+    a: Parker Lake has special rules, open all year, artificial lures only, a 14-inch minimum size and a two-trout limit. Parker Creek below the lake is all year, barbless artificial, catch and release.
 sources:
   - title: "2026 California Freshwater Sport Fishing Regulations (CDFW)"
     url: https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=209090&inline
@@ -48,13 +48,13 @@ Walk out of the chalet, about a mile down-canyon to the trailhead, then straight
 
 ## Parker Lake
 
-Short, easy and pretty, with a twist: Parker Lake has its own rules in 2026, open all year, artificial lures only, a 14-inch minimum and two fish. The browns and brookies have had time to grow. Parker Creek below it is catch and release all year.
+Short, easy and pretty, with a twist: Parker Lake has its own rules, open all year, artificial lures only, a 14-inch minimum and two fish. The browns and brookies have had time to grow. Parker Creek below it is catch and release all year.
 
 ## Agnew, Gem and beyond
 
 From the Silver Lake trailhead, the Rush Creek Trail climbs hard to Agnew Lake, then on to Gem and Waugh lakes, and eventually into the high basins around Thousand Island Lake below Banner and Ritter peaks. The higher you go, the fewer people, and the more likely you are to meet brookies, rainbows and, in some basins above 10,000 feet, goldens. Overnight trips need an Inyo National Forest wilderness permit.
 
-{{ guide_says("Golden trout are the most beautiful fish in California and they choose to live at ten thousand feet, which is nature's way of saying you have to earn it. Pack light. Except for the beer. The summit beer is not optional.") }}
+{{ guide_says("Golden trout are the most beautiful fish in California and they choose to live at ten thousand feet, which is nature's way of saying you have to earn it. Pack light. Except for the fly boxes. Bring all of the fly boxes.") }}
 
 
 

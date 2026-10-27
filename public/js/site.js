@@ -1,6 +1,22 @@
 (function () {
   var root = document.documentElement, body = document.body;
 
+  // Share and copy buttons (thank-you page)
+  document.querySelectorAll('[data-share]').forEach(function (b) {
+    if (!navigator.share) { b.hidden = true; return; }
+    b.addEventListener('click', function () {
+      navigator.share({ title: 'Yosemite Gateway Chalet', text: b.getAttribute('data-share-text'), url: b.getAttribute('data-share-url') }).catch(function () {});
+    });
+  });
+  document.querySelectorAll('[data-copy]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var url = b.getAttribute('data-copy'), label = b.textContent;
+      var done = function () { b.textContent = 'Link copied'; setTimeout(function () { b.textContent = label; }, 2200); };
+      if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () { window.prompt('Copy this link', url); });
+      else window.prompt('Copy this link', url);
+    });
+  });
+
   // Masthead turns solid once the hero scrolls away
   var mast = document.querySelector('[data-masthead]');
   var bar = document.querySelector('.mobile-bar');

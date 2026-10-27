@@ -21,7 +21,7 @@ Just outside June Lake Brewing in the village, and the best Mexican food in the 
 
 ## 2. The Tiger Bar
 
-Under new management since 2026, from the same owners as La Parrilla, and they have transformed the place. Great food, a warm room, and still one of the oldest liquor licenses in California. Highly recommended. Between the two, they are turning June Lake around, and we are grateful.
+Under new management, from the same owners as La Parrilla, and they have transformed the place. Great food, a warm room, and still one of the oldest liquor licenses in California. Highly recommended. Between the two, they are turning June Lake around, and we are grateful.
 
 ## 3. Eagle's Landing
 
@@ -40,6 +40,8 @@ A summer favorite and the best breakfast on the loop. Arrive early to beat the w
 <span class="dine-links"><a href="https://www.whoanelliedeli.com/" rel="noopener" target="_blank">Website</a></span>
 
 The best food between June Lake and the Nevada border, inside the gas station at the junction of Highways 120 and 395 just before Lee Vining. It is the last stop before Tioga Pass and the first one back. Remarkably refined, and always busy in summer.
+
+{{ guide_says("Yes, the best fish tacos on the east side come out of a gas station. No, we cannot explain it. Order the fish tacos and stop asking questions.", "Local knowledge") }}
 
 {{ note("Many restaurants here are seasonal and change their hours often. Call ahead, especially in spring and late fall.") }}
 

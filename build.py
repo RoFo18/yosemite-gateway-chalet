@@ -200,7 +200,7 @@ _RV = {r["id"]: r for r in REVIEWS["reviews"]}
 
 def _cite(r):
     return (f'<figcaption><span class="rv-name">{html.escape(r["name"])}</span>'
-            f'<span class="rv-meta">{html.escape(r["when"])}, on {html.escape(r["source"])}</span></figcaption>')
+            f'<span class="rv-meta">on {html.escape(r["source"])}</span></figcaption>')
 
 
 def quote(rid, cls=""):
@@ -241,7 +241,7 @@ def ff_calendar():
     key = "".join(f'<span><i class="ffc ffc-{v}"></i>{lab[v]}</span>' for v in (3, 2, 1, 0))
     return Markup(f'<figure class="ff-cal"><div class="ff-cal-scroll"><table><thead><tr><th scope="col"><span class="sr">Water</span></th>{head}</tr></thead>'
                   f'<tbody>{"".join(rows)}</tbody></table></div><figcaption><span class="ff-key">{key}</span>'
-                  f'Our read of when each water fishes best, from seasons, hatches and access. Regulations checked {FF["regs_checked"]}.</figcaption></figure>')
+                  f'Our read of when each water fishes best, from seasons, hatches and access.</figcaption></figure>')
 
 
 def ff_drive():
@@ -258,7 +258,7 @@ def ff_facts(wid):
     w = next(x for x in FF["waters"] if x["id"] == wid)
     best = ", ".join(_MON[i] for i, v in enumerate(w["months"]) if v == 3) or "Varies"
     rows = [("Water type", w["type"]), ("Fish", w["species"]), ("Best months", best), ("Drive from the chalet", f'About {w["drive"]} minutes'),
-            ("Regulations (2026)", w["regs"]), ("The one thing", w["presentation"])]
+            ("Regulations", w["regs"]), ("The one thing", w["presentation"])]
     lis = "".join(f"<div><dt>{html.escape(k)}</dt><dd>{html.escape(v)}</dd></div>" for k, v in rows)
     return Markup(f'<dl class="facts ff-facts">{lis}</dl>')
 
@@ -309,9 +309,9 @@ def locals_list():
                   f'<script type="application/ld+json">{json.dumps(data, ensure_ascii=False)}</script>')
 
 
-def guide_says(text):
+def guide_says(text, label="From the guide's chair"):
     """An aside from the guide: confident, unqualified, occasionally right."""
-    return Markup(f'<aside class="gs"><p class="gs-k">From the guide\'s chair</p><p class="gs-t">{text}</p></aside>')
+    return Markup(f'<aside class="gs"><p class="gs-k">{html.escape(label)}</p><p class="gs-t">{text}</p></aside>')
 
 
 def tioga_data():

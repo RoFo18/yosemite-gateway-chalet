@@ -5,8 +5,8 @@ title: "Fly Fishing June Lake, Silver Lake and Rush Creek"
 nav_title: June Lake Loop and Rush Creek
 eyebrow: Five minutes from the chalet
 card: June, Gull, Silver and Grant lakes and Rush Creek. Drop-offs, tule beds, evening rises, and wild browns below Grant Dam.
-seo_title: "Fly Fishing June Lake: Silver, Gull, Grant Lakes and Rush Creek, with 2026 Regulations"
-description: "How to fly fish the June Lake Loop: Silver Lake drop-offs, June and Gull from a float tube, Grant Lake browns, Rush Creek between the lakes and below Grant Dam, flies by season and 2026 rules. Five minutes from the Yosemite Gateway Chalet."
+seo_title: "Fly Fishing June Lake: Silver, Gull, Grant Lakes and Rush Creek, with Regulations"
+description: "How to fly fish the June Lake Loop: Silver Lake drop-offs, June and Gull from a float tube, Grant Lake browns, Rush Creek between the lakes and below Grant Dam, flies by season and the rules. Five minutes from the Yosemite Gateway Chalet."
 topic: fly fishing June Lake
 published: 2026-10-27
 updated: 2026-10-27
@@ -27,7 +27,7 @@ places:
     containedIn: Mono County, California
 faq:
   - q: When does fishing open at June Lake?
-    a: June, Gull, Silver and Grant lakes open the last Saturday in April and close November 15 under the 2026 California rules, with a five-trout limit. Rush Creek between Silver and Grant opens the Saturday before Memorial Day and closes September 30. Rush Creek from Grant Lake Dam to Mono Lake is open all year, barbless artificial lures, catch and release.
+    a: June, Gull, Silver and Grant lakes open the last Saturday in April and close November 15 under current California rules, with a five-trout limit. Rush Creek between Silver and Grant opens the Saturday before Memorial Day and closes September 30. Rush Creek from Grant Lake Dam to Mono Lake is open all year, barbless artificial lures, catch and release.
   - q: Which June Lake Loop lake is best for fly fishing?
     a: Silver Lake, for its drop-offs and the inlet where Rush Creek comes in. June Lake is good from a float tube along the tules and inlets, Gull is sheltered on windy days, and Grant holds larger browns in spring and fall.
   - q: Where can I buy flies and get a report in June Lake?

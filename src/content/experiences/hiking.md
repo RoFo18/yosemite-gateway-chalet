@@ -20,7 +20,7 @@ For trails inside Yosemite, see our [Tuolumne Meadows guide](/guides/tuolumne-me
 
 Leave the car at the house. Walk out the back door and about a mile down-canyon to the Fern Lake trailhead, then take the trail up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak.
 
-From the trailhead it is about 1.6 miles to the lake, with roughly 1,600 feet of climbing. The grade is steep from the start and does not let up much. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows.
+From the trailhead it is about 1.6 miles to the lake, with roughly 1,600 feet of climbing. The grade is steep from the start and does not let up much. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows. Yost Creek is the same water that runs past the hot tub, so you can follow it home.
 
 {{ figure("fern-lake-reflection", "The cirque above Fern Lake reflected upside down in the still water: granite, snow patches and pines under a blue sky", "Fern Lake on a still morning. That is the reflection, not the sky.") }}
 
@@ -28,7 +28,11 @@ From the trailhead it is about 1.6 miles to the lake, with roughly 1,600 feet of
 
 These distances are approximate. Carry water, start early in summer, and turn back if afternoon thunderstorms build over the crest.
 
+{{ guide_says("The Fern Lake trail is steep from the first step, and it will tell you so. Everyone says it is only a mile and a half. Everyone says that at the bottom. At the lake, nobody is talking about the climb anymore.", "Local knowledge") }}
+
 You can climb Carson Peak, 10,909 feet, the mountain you see from the hot tub, without ever getting in a car. Walk out the back door, take the Fern Lake trail, continue past the lake up the east slope to the summit plateau, then walk north to the top. It is a long, steep, full day, but few rentals anywhere can offer a 10,000-foot summit from the back door.
+
+The fast way down is the scree run on the back side: a long chute of loose gravel you descend in big sliding steps, like walking down a sand dune made of mountain. Our kids did it when they were small. It is not for everybody, and it is no place for bad knees or new boots, but if your crew likes a little adventure, it is the most fun you will have going downhill without skis.
 
 {{ figure("carson-peak-summit-view", "The view west from the summit of Carson Peak across the high Sierra, with jagged snow-streaked peaks and an alpine lake", "From the top of Carson Peak, 10,909 feet. You walked here from the chalet.") }} From Yost Meadow, another trail returns through the June Mountain ski area to June Lake village, ending near the Balanced Boulder by the fire station.
 
@@ -40,7 +44,9 @@ Some places we only share in person. This one is within an easy drive and a morn
 
 ## Reversed Peak
 
-The trailhead is on North Shore Drive, northeast of Gull Lake. This is prime wildlife country, though there is no fishing and water can be scarce. The Snow Lakes, small basins that hold water in spring, are the highlight, and the trail continues to the Aerie Crag area and the summit of Reversed Peak.
+{{ figure("family-hike-toward-reversed-peak", "Two small children with backpacks following an adult with a big pack along a sunny trail through sage and pines toward granite peaks", "Backpacking toward Reversed Peak. You are still inside the June Lake Loop.") }}
+
+The trailhead is on North Shore Drive, northeast of Gull Lake, which means you never leave the June Lake Loop, and yet by the first switchback it feels like you have. It is a good first overnight for small backpackers: isolated, beautiful, and close enough to bail to a hot tub if somebody mutinies. This is prime wildlife country, though there is no fishing and water can be scarce. The Snow Lakes, small basins that hold water in spring, are the highlight, and the trail continues to the Aerie Crag area and the summit of Reversed Peak.
 
 ## Parker Lake
 
