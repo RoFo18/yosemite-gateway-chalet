@@ -7,8 +7,8 @@ kicker: Guides
 seo_title: "Plan Your Trip: Tioga Pass, Tuolumne Meadows and June Lake Guides | Yosemite Gateway Chalet"
 description: "Field guides to Yosemite's east side from June Lake: Tioga Pass, Tuolumne Meadows, where to stay near the east entrance, June Lake, fall colors, and winter on the east side."
 topic: Yosemite east side guides
-hero: white-mountain-summit-sunrise
-hero_alt: Sunrise from the summit of White Mountain, looking west to the Sierra
+hero: mono-lake-from-above-fern-lake
+hero_alt: "Looking back at Mono Lake and the Mono Craters from high above Fern Lake, under a storm-lit sky"
 lead: When Tioga Pass opens, how to reach Tuolumne Meadows, what winter means on the east side, and where to stay. Written from June Lake and checked against official sources each season.
 wide: true
 updated: 2026-10-27

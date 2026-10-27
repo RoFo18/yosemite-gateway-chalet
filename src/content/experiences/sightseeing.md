@@ -19,6 +19,8 @@ The park boundary is 5.75 miles from the chalet as the crow flies and 27 highway
 
 ## Mono Lake
 
+{{ figure("mono-lake-tufa-rainbow", "Tufa towers in Mono Lake framed through a gap in the tufa, with a faint rainbow over the far shore", "South Tufa, looking out through the tufa itself.") }}
+
 About seventeen minutes from the chalet. Walk among the tufa towers on the south shore at sunrise or sunset, when the limestone spires turn gold. The [Mono Lake Committee](https://www.monolake.org/) in Lee Vining is the place to learn the lake's story.
 
 ## Wild mustangs

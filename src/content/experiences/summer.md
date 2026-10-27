@@ -29,7 +29,7 @@ Check the water and your landing before you jump, and keep an eye on afternoon w
 
 ## Rock climbing and bouldering
 
-{{ figure("bachar-boulders-climbing", "A climber at the Bachar Boulders", "The Bachar Boulders are fifteen minutes from the chalet.", "right") }}
+{{ figure("bouldering-silhouette-mono-basin", "A climber silhouetted under a steep overhang at dusk, with snowy Sierra peaks on the horizon", "Bouldering near the Mono Lake tufas at last light.") }}
 
 June Lake is surrounded by published climbing areas, including the Bachar Boulders, Big Springs, the Aeolian Buttes, Deadman Summit and the Ice Cream Boulders, along with many spots nobody has written up. The granite domes of [Tuolumne Meadows](/guides/tuolumne-meadows/) are forty-five minutes away.
 

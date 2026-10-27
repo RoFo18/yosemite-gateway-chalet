@@ -42,6 +42,15 @@
    1024
   ]
  },
+ "bouldering-silhouette-mono-basin": {
+  "color": "#5d697b",
+  "h": 802,
+  "w": 627,
+  "widths": [
+   480,
+   627
+  ]
+ },
  "california-map-june-lake": {
   "color": "#c6c3b0",
   "h": 360,
@@ -263,6 +272,16 @@
   "widths": [
    480,
    633
+  ]
+ },
+ "fern-lake-reflection": {
+  "color": "#617697",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "floorplan-main-level": {
@@ -706,6 +725,27 @@
   "widths": [
    480,
    768
+  ]
+ },
+ "mono-lake-from-above-fern-lake": {
+  "color": "#4f5b6c",
+  "h": 545,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "mono-lake-tufa-rainbow": {
+  "color": "#665e5c",
+  "h": 769,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "mount-dana-tioga-pass": {

@@ -120,6 +120,10 @@ NAMES = {
     "new-chalet-sign.jpg": "yosemite-gateway-chalet-sign",
     "carson-peak-summit-view.jpg": "carson-peak-summit-view",
     "new-matthes-crest.jpg": "matthes-crest-climber",
+    "new-bouldering-mono-silhouette.jpg": "bouldering-silhouette-mono-basin",
+    "new-tufa-rainbow.jpg": "mono-lake-tufa-rainbow",
+    "new-mono-lake-from-fern-lake.jpg": "mono-lake-from-above-fern-lake",
+    "new-fern-lake-reflection.jpg": "fern-lake-reflection",
 }
 
 
