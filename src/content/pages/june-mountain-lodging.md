@@ -37,7 +37,7 @@ For a ski weekend at June Mountain, the closest whole-home lodging with room for
 | Kids 12 and under | Ski free at June Mountain with a no-cost child season pass |
 | Sleeps | 8 in three suites, each with a private bath |
 | After skiing | Outdoor hot tub for six, open fire in the Grand Room, mud room for gear |
-| Fees | Flat $295 cleaning fee plus Mono County's 15% lodging tax |
+| Fees | Flat $295 cleaning fee, $59 a night for a seventh and eighth guest, and Mono County's 15% lodging tax |
 
 ## Why June Mountain
 

@@ -20,7 +20,7 @@ faq:
   - q: When should I book lodging in June Lake?
     a: As early as you can for the winter holidays, Presidents' Day, the Fourth of July and October fall color weekends. Those dates fill months ahead. Midweek in spring and early summer is the easiest time to find space.
   - q: What does a stay at the Yosemite Gateway Chalet cost?
-    a: Nightly rates run from $295 to $995, with the top of the range at the Christmas peak. Every stay adds a flat $295 cleaning fee and Mono County's 15% lodging tax, and nothing else. Check open dates on our availability calendar, or see live prices on VRBO or Airbnb.
+    a: Nightly rates run from $295 to $995, with the top of the range at the Christmas peak. Every stay adds $59 a night for a seventh and eighth guest, a flat $295 cleaning fee and Mono County's 15% lodging tax, and nothing else. Check open dates on our availability calendar, or see live prices on VRBO or Airbnb.
   - q: What kinds of lodging are there in June Lake?
     a: Small resorts with cabins near the lakes, a few motels and inns in the village, and private vacation homes around the June Lake Loop.
   - q: Where can a group of eight stay in June Lake?

@@ -80,7 +80,7 @@ Families and groups traveling together often want one house rather than several 
 2. Stop at the Tioga Pass entrance at about 7:15.
 3. Walk Gaylor Lakes from the entrance, or drive on to Tuolumne Meadows for Cathedral Lakes or Lembert Dome.
 4. Lunch by the Tuolumne River.
-5. Drive back down Lee Vining Canyon in the late afternoon light, with dinner at the Whoa Nellie Deli at the bottom.
+5. Drive back down Lee Vining Canyon in the late afternoon light, then dinner at La Parrilla back in June Lake.
 6. Home to the hot tub.
 
 ## Before you book

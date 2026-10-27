@@ -18,9 +18,9 @@ faq:
   - q: Which June Lake rentals have a hot tub?
     a: Many private homes do. The Yosemite Gateway Chalet has an outdoor hydrotherapy tub for six that runs all year, plus a two-person jacuzzi and a claw-foot tub inside.
   - q: Are pets allowed at the chalet?
-    a: No. Pets are not allowed on the property.
+    a: No pets. Trained service animals are welcome; see our rates and policies page for emotional support animals.
   - q: How do I book the chalet?
-    a: Check open dates on the availability calendar and inquire directly, or book on VRBO or Airbnb. Every stay adds a flat $295 cleaning fee and Mono County's 15% lodging tax.
+    a: Check open dates on the availability calendar and inquire directly, or book on VRBO or Airbnb. Every stay adds $59 a night for a seventh and eighth guest, a flat $295 cleaning fee and Mono County's 15% lodging tax.
 ---
 ## The short answer
 
@@ -66,7 +66,7 @@ Book as early as you can for the winter holidays, Presidents' Day weekend, the F
 - A Grand Room with a 21-foot ceiling, an open fire and an oak bar
 - A remodeled kitchen and an eleven-and-a-half-foot dining table
 - Five paddleboards in the garage, and a mile to June Mountain
-- A flat $295 cleaning fee and the 15% lodging tax, nothing else
+- A flat $295 cleaning fee, $59 a night for a seventh and eighth guest, and the 15% lodging tax, nothing else
 
 See [the chalet](/the-chalet/), the [floorplan](/the-chalet/floorplan/) and the [gallery](/gallery/), or read our full guide to [June Lake lodging](/june-lake-lodging/).
 

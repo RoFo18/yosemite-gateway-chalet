@@ -31,7 +31,7 @@ booking:
 social:
   x_handle: "@yosemitechalet"
   x_url: https://x.com/yosemitechalet
-  direct_note: Returning guests can book direct.
+  direct_note: Book direct through the availability calendar and skip the platform service fees.
 
 # Never publish an email address. Inquiries go through the /inquire/ form.
 

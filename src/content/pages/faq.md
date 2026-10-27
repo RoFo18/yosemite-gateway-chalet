@@ -5,7 +5,7 @@ nav_title: FAQ
 eyebrow: Before you book
 kicker: FAQ
 seo_title: FAQ | Yosemite Gateway Chalet, June Lake Vacation Rental
-description: 'Answers about Yosemite Gateway Chalet: sleeps 8, beds, the $295 cleaning fee, the year-round hot tub, distance to Yosemite, parking, pets and check-in.'
+description: 'Answers about Yosemite Gateway Chalet: sleeps 8, beds, fees, the year-round hot tub, pets, weddings, distance to Yosemite, parking, pets and check-in.'
 topic: Yosemite Gateway Chalet FAQ
 hero: dining-room-timber-table
 hero_alt: The chalet's eleven-and-a-half-foot dining table of local pine
@@ -19,7 +19,7 @@ related:
 - /the-chalet/
 faq:
 - q: How many people does the chalet sleep?
-  a: Up to eight overnight guests, including infants. No more than ten people may be on the property at any time. Mono County sets these limits, so there are no exceptions.
+  a: "Up to eight overnight guests, and infants count. No more than ten people may be on the property at any time. Mono County sets these limits for fire safety, our license depends on them, and we enforce them. Rates cover six; a seventh and eighth guest are $59 a night each, waived for active-duty military families."
 - q: What are the beds, and where is everyone sleeping?
   a: 'Three suites upstairs, each with its own bath: the master suite has a California King and a loft above it with a pull-out sofa; the Elsie Room has a California King; the River Room has a queen. Downstairs, a pull-out futon in the Grand Room sleeps one or two more. All the beds are memory foam. The floorplan is on this page, and in more detail on the [floorplan page](/the-chalet/floorplan/).'
 - q: How private is the loft in the master suite?
@@ -39,9 +39,9 @@ faq:
 - q: Can I hike from the back door into Yosemite?
   a: Yes, over Mono Pass or Donohue Pass, if you are in excellent condition. You will need to catch the YARTS bus or arrange a pickup in the park at the end of the day.
 - q: How much does the chalet cost per night?
-  a: From $295 a night on quiet midweek dates to $995 at the Christmas peak. Live prices for your dates are on VRBO and Airbnb, or check our availability calendar and ask us directly.
+  a: "From $295 a night on quiet midweek dates to $995 at the Christmas peak, for up to six guests. Book direct through our availability calendar, or see live prices on VRBO and Airbnb."
 - q: Are there taxes or additional charges?
-  a: Two, and no others. A flat $295 cleaning fee per stay, and Mono County's 15% transient occupancy tax. Both are in your quote before you book.
+  a: "Three, and no others. $59 a night each for a seventh and eighth guest, infants included (waived for active-duty military families); a flat $295 cleaning fee per stay; and Mono County's 15% transient occupancy tax. All of it is in your quote before you book."
 - q: Is the hot tub open year round?
   a: Yes. The outdoor hydrotherapy tub runs all year, in summer under the stars and in winter with snow banked around it. Guests under 18, pregnant guests, and anyone with a heart condition or pacemaker may not use it.
 - q: Do kids ski free at June Mountain?
@@ -60,18 +60,20 @@ faq:
   a: Because of high fire danger in the Eastern Sierra, we discourage barbecues. If you must, you may bring a propane barbecue for the back deck.
 - q: Do we bring firewood?
   a: Yes, though a small batch of firewood will be waiting as a welcome.
-- q: Can we host a wedding or family reunion?
-  a: No. The county limit is eight overnight guests and ten people on the property at any time.
+- q: Can we have a small wedding at the chalet?
+  a: "Technically, yes. If the whole thing, bride, groom, officiant, photographer and the aunt who cries at everything, fits inside eight overnight guests, ten people on the property and three cars, you are welcome to say your vows under Carson Peak. In practice, nobody wants a wedding that small, and small weddings always grow. So the honest answer is no: no weddings, parties or reunions. The limits come from Mono County, our business license depends on them, and we enforce them without exceptions."
 - q: Why is there a three-car limit?
-  a: June Lake's understated charm matters to us and our neighbors. No more than three guest cars may be in the driveway at any time.
+  a: "June Lake is a quiet canyon and our neighbors matter to us. No more than three cars at any time, and that includes a fourth car dropping someone off. If it is not one of your three, it does not pull in."
 - q: Are pets allowed?
-  a: No. Pets are not allowed on the property.
+  a: "No pets, anywhere on the property. A trained service animal is welcome. For an emotional support animal, we need a letter from a licensed physician (MD or DO) who treats you; certificates bought online do not count. People with real disabilities depend on these accommodations, and we will not help anyone fake one."
+- q: Do you offer a military discount?
+  a: "Yes. For active-duty military families, we waive the $59 nightly fee for a seventh and eighth guest. Tell us when you inquire."
 - q: Will we have the whole chalet?
   a: Yes. Everything described is yours for the stay.
 - q: Can we fly into Mammoth?
   a: Yes. Mammoth Yosemite Airport is about 25 minutes from the chalet, with seasonal commercial service and rental cars. In winter, a storm can delay connections.
 - q: How do we book?
-  a: Check our availability calendar on the Inquire page and send us your dates, or book instantly on VRBO (listing 452799) or Airbnb, whichever you prefer. Returning guests can book direct.
+  a: "Book direct: check our availability calendar on the Inquire page and send us your dates, and we will reply with an exact quote and no platform service fee. Or book instantly on VRBO (listing 452799) or Airbnb. Same chalet, same family, either way."
 ---
 ## The floorplan
 

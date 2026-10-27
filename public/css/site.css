@@ -934,3 +934,10 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .band-quote p{margin:0}
 .band-cite{margin:0 0 1.2rem;font:500 .74rem/1 var(--f-text);letter-spacing:.18em;text-transform:uppercase;color:var(--bronze-lt)}
 .band-light .link-arrow{color:#fff}
+
+/* Plan Your Trip: a line of commentary under each link */
+.plan-links.pl-notes{columns:1}
+.plan-links.pl-notes li{padding:.15rem 0 .9rem}
+.prose .plan-links.pl-notes a{padding:.75rem 0 .2rem}
+.plan-links.pl-notes p{margin:0;max-width:56ch;font-size:.95rem;line-height:1.5;color:var(--ink-2,#4b524c)}
+.prose .plan-links.pl-notes{padding-left:0;margin-left:0}

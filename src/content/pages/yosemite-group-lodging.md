@@ -37,7 +37,7 @@ Most lodging inside and around Yosemite is built for couples: hotel rooms, motel
 | Beds | 2 California Kings, 1 queen, a pull-out sofa in the master loft, a pull-out futon in the Grand Room |
 | Gathering space | Grand Room with a 21-foot ceiling, open fire and oak bar; 11.5-foot dining table |
 | Yosemite | 27 miles to the Tioga Pass entrance, 45 minutes to Tuolumne Meadows (seasonal) |
-| Fees | Flat $295 cleaning fee plus Mono County's 15% lodging tax |
+| Fees | Flat $295 cleaning fee, $59 a night for a seventh and eighth guest, and Mono County's 15% lodging tax |
 | Parking | 3 cars |
 
 ## How a group of eight fits
@@ -72,7 +72,7 @@ Our [Tuolumne Meadows guide](/guides/tuolumne-meadows/) and [Tioga Pass guide](/
 
 **Smoking and fire.** No smoking indoors. Outdoors, stay at least ten feet from the house and mind the fire danger, which is real in the Eastern Sierra.
 
-**Pets.** Not allowed on the property.
+**Pets.** None. Trained service animals are welcome; see [rates and policies](/rates-and-policies/) for emotional support animals.
 
 **Bears.** Clear all food and trash out of your cars on arrival. Bears in the Eastern Sierra break into cars for far less than a cooler.
 
