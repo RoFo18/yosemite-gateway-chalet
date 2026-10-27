@@ -89,10 +89,10 @@
     const el = document.getElementById('fft-map');
     if (!window.L || !el) { if (el) el.innerHTML = '<ul class="fft-list">' + D.waters.map(w => `<li><a href="${w.url}">${esc(w.name)}</a></li>`).join('') + '</ul>'; return; }
     const map = L.map(el, { scrollWheelZoom: false, zoomControl: true, attributionControl: true }).setView([D.home.lat - 0.12, D.home.lng + 0.12], 9);
-    L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
-      maxZoom: 16, attribution: 'Tiles &copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors'
+    L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+      maxZoom: 13, className: 'fft-relief', attribution: 'Relief &copy; Esri; labels &copy; Esri, HERE, Garmin, OpenStreetMap contributors'
     }).addTo(map);
-    L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom: 16, opacity: .7 }).addTo(map);
+    L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom: 13, opacity: .8 }).addTo(map);
     L.circle([D.home.lat, D.home.lng], { radius: 96560, color: '#d9b27a', weight: 1, opacity: .45, fill: false, dashArray: '2 6', interactive: false }).addTo(map);
     L.circleMarker([D.home.lat, D.home.lng], { radius: 5, color: '#f1efe8', fillColor: '#f1efe8', fillOpacity: 1, weight: 0 })
       .addTo(map).bindTooltip('The chalet', { direction: 'top', className: 'fft-tip' });
@@ -102,7 +102,7 @@
       m.on('click', () => { location.href = w.url; });
       markers[w.id] = m;
     });
-    map.fitBounds(L.latLngBounds(D.waters.map(w => [w.lat, w.lng]).concat([[D.home.lat, D.home.lng]])).pad(0.12));
+    map.fitBounds(L.latLngBounds(D.waters.map(w => [w.lat, w.lng]).concat([[D.home.lat, D.home.lng]])).pad(0.08), { maxZoom: 9 });
   }
   if (window.L) initMap(); else window.addEventListener('load', initMap);
 })();
