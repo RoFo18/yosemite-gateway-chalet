@@ -93,7 +93,6 @@ NAMES = {
     "nearby-bachar-boulders.jpg": "bachar-boulders-climbing",
     "nearby-bodie.jpg": "bodie-wagon-wheel",
     "clarks-nutcracker.jpg": "clarks-nutcracker",
-    "970034-10151393441486485-531394880-n.jpg": "horse-drive-riders",
     "fern-creek2.jpg": "fern-creek-falls",
     "june-lake-loop-map.png": "june-lake-loop-map",
     "camap.jpg": "california-map-june-lake",
