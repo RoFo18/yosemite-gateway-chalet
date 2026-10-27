@@ -52,6 +52,8 @@ home:
   tax: Mono County's 15% transient occupancy tax
   tax_rate: "15%"
   cleaning_fee: "$295"
+  rate_low: 295
+  rate_high: 995
   pets: false
   smoking_indoors: false
 

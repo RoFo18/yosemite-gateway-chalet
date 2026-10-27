@@ -27,6 +27,8 @@ faq:
     a: Yes, with a local guide service. June Mountain is known for some of the best lift-assisted backcountry skiing in North America, and a guided run can end at the chalet's hydrotherapy tub.
   - q: Can I hike from the back door into Yosemite?
     a: Yes, over Mono Pass or Donohue Pass, if you are in excellent condition. You will need to catch the YARTS bus or arrange a pickup in the park at the end of the day.
+  - q: How much does the chalet cost per night?
+    a: From $295 a night on quiet midweek dates to $995 at the Christmas peak. Live prices for your dates are on VRBO and Airbnb, or check our availability calendar and ask us directly.
   - q: Are there taxes or additional charges?
     a: Two, and no others. A flat $295 cleaning fee per stay, and Mono County's 15% transient occupancy tax. Both are in your quote before you book.
   - q: Is the hot tub open year round?

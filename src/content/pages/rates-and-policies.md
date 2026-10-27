@@ -5,7 +5,7 @@ nav_title: Rates and policies
 eyebrow: The details
 kicker: Booking
 seo_title: "Rates and Policies | Yosemite Gateway Chalet, June Lake"
-description: "Rates and policies at Yosemite Gateway Chalet: a flat $295 cleaning fee, 15% Mono County tax, 4:30 pm check-in, 10 am check-out, and house rules."
+description: "Rates at Yosemite Gateway Chalet run $295 to $995 a night, plus a flat $295 cleaning fee and 15% Mono County tax. Check-in, check-out and house rules."
 topic: Yosemite Gateway Chalet rates
 lead: Rates follow the seasons. The house rules are few, and they keep the chalet and the neighborhood the way guests love them.
 updated: 2026-10-27
@@ -13,7 +13,7 @@ related: [/inquire/, /faq/, /the-chalet/]
 ---
 ## Rates
 
-Nightly rates and minimum stays change with the season and demand. For live prices and instant booking, use VRBO or Airbnb, whichever you prefer. The chalet is the same either way.
+Nightly rates run from $295 on quiet midweek nights to $995 at the Christmas peak, and minimum stays change with the season. For live prices and instant booking, use VRBO or Airbnb, whichever you prefer. The chalet is the same either way.
 
 <p class="btn-row" id="book"><a class="btn btn-solid" href="https://www.vrbo.com/452799" rel="noopener" target="_blank">See rates on VRBO</a><a class="btn btn-line" href="https://www.airbnb.com/h/yosemitechalet" rel="noopener" target="_blank">See rates on Airbnb</a></p>
 

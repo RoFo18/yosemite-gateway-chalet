@@ -153,7 +153,7 @@ def film(vimeo_id, title, credit, minutes, poster="eastern-sierra-sunset-panoram
         f'</button><p class="film-credit">{credit}</p></section>')
 
 
-GLANCE = [('Who it suits', 'Families and groups of up to eight'), ('Sleeps', '8 in three suites, each with its own bath'), ('Yosemite', '27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November'), ('June Mountain', '1 mile; kids 12 and under ski free'), ('Season', 'Open all year; the hot tub runs all year'), ('Fees', 'Flat $295 cleaning fee plus 15% Mono County tax')]
+GLANCE = [('Who it suits', 'Families and groups of up to eight'), ('Sleeps', '8 in three suites, each with its own bath'), ('Yosemite', '27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November'), ('June Mountain', '1 mile; kids 12 and under ski free'), ('Season', 'Open all year; the hot tub runs all year'), ('Rates', '$295 to $995 a night, plus a flat $295 cleaning fee and 15% Mono County tax')]
 
 
 def glance(title="At a glance"):
@@ -228,6 +228,7 @@ def business_ld():
                              "sameAs": "https://en.wikipedia.org/wiki/June_Lake,_California"},
         "checkinTime": h["check_in_24"], "checkoutTime": h["check_out_24"],
         "petsAllowed": False,
+        "priceRange": f"${h['rate_low']}-${h['rate_high']} per night",
         "identifier": P["booking"]["vrbo_id"],
         "sameAs": [P["booking"]["vrbo_url"], P["booking"]["airbnb_url"], P["social"]["x_url"]],
         "knowsAbout": ["June Lake", "Tioga Pass", "Tuolumne Meadows", "Yosemite National Park", "June Mountain",
