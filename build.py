@@ -98,6 +98,35 @@ def gallery(items, cols=3):
                   f'{f"<div class=car-thumbs>{thumbs}</div>" if thumbs else ""}</div>')
 
 
+def story(chapters):
+    """The gallery page: one curated carousel in chapters. Each photo carries a title and a line of commentary.
+    chapters = [(chapter name, [(image, title, note), ...]), ...]"""
+    seen, slides, thumbs, tabs, i = set(), [], [], [], 0
+    for ch, items in chapters:
+        tabs.append(f'<button type="button" class="st-tab" data-go="{i}" data-chapter-start="{i}">{html.escape(ch)}</button>')
+        for name, title, note in items:
+            if name in seen:
+                raise ValueError(f"photo used twice in the gallery: {name}")
+            seen.add(name)
+            m = IMAGES[name]
+            slides.append(
+                f'<figure class="st-slide" data-chapter="{html.escape(ch, quote=True)}" aria-roledescription="slide">'
+                f'<a class="st-photo" href="/img/{name}-{m["widths"][-1]}.webp" data-lightbox aria-label="View full screen: {html.escape(title, quote=True)}">'
+                f'{picture(name, title, "(min-width: 1200px) 1200px, 100vw")}</a>'
+                f'<figcaption><p class="st-title">{html.escape(title)}</p><p class="st-note">{html.escape(note)}</p></figcaption></figure>')
+            thumbs.append(f'<button type="button" class="car-thumb" data-go="{i}" aria-label="Show {html.escape(title, quote=True)}">{picture(name, "", "120px")}</button>')
+            i += 1
+    n = i
+    return Markup(
+        f'<div class="story" data-carousel aria-roledescription="carousel" aria-label="Photographs of the chalet and the Eastern Sierra" tabindex="0">'
+        f'<nav class="st-tabs" aria-label="Chapters">{"".join(tabs)}</nav>'
+        f'<div class="car-stage"><div class="car-track" data-track>{"".join(slides)}</div>'
+        '<button type="button" class="car-arrow car-prev" data-prev aria-label="Previous photo"><span aria-hidden="true">&#8592;</span></button>'
+        '<button type="button" class="car-arrow car-next" data-next aria-label="Next photo"><span aria-hidden="true">&#8594;</span></button>'
+        f'<p class="car-count" aria-hidden="true"><span data-idx>1</span> / {n}</p></div>'
+        f'<div class="car-thumbs">{"".join(thumbs)}</div></div>')
+
+
 def distance_table(rows=None):
     rows = rows or P["distances"]
     body = "".join(
@@ -253,9 +282,13 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
-    env.globals.update(helpers, NAV=NAV, FOOTER=FOOTER, SITE=SITE, year=dt.date.today().year)
+    import hashlib
+    def asset_v(rel):
+        return hashlib.md5(open(os.path.join(ROOT, "public", rel), "rb").read()).hexdigest()[:10]
+    env.globals.update(helpers, NAV=NAV, FOOTER=FOOTER, SITE=SITE, year=dt.date.today().year,
+                       CSS_V=asset_v("css/site.css"), JS_V=asset_v("js/site.js"))
     env.filters["md"] = lambda s: Markup(markdown.markdown(str(s), extensions=["smarty"]))
     env.filters["longdate"] = lambda d: (d.strftime("%B %-d, %Y") if hasattr(d, "strftime") else str(d))
 

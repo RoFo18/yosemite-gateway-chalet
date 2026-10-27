@@ -23,7 +23,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Work+Sans:wght@400;500;600&display=swap">
-<link rel="stylesheet" href="/css/site.css">
+<link rel="stylesheet" href="/css/site.css?v={{ CSS_V }}">
 {{ jsonld }}
 </head>
 <body class="t-{{ page.template or 'page' }}{% if page.hero_full or (page.hero and page.template != 'post') %} has-hero{% endif %}">
@@ -72,7 +72,7 @@
       <p class="foot-name">Yosemite Gateway Chalet</p>
       <p>{{ P.address.street }}<br>{{ P.address.city }}, {{ P.address.region }} {{ P.address.postal }}<br>{{ P.address.area }}</p>
       <p><a href="tel:{{ P.phone.tel }}">{{ P.phone.display }}</a><br><span class="muted">{{ P.phone.digits }}</span></p>
-      <p><a class="foot-social" href="{{ P.social.x_url }}" rel="me noopener" target="_blank" aria-label="Yosemite Gateway Chalet on X">Follow {{ P.social.x_handle }} on X</a></p>
+      <p><a class="foot-social" href="{{ P.social.x_url }}" rel="me noopener" target="_blank" aria-label="Follow Yosemite Gateway Chalet on X"><svg class="ico" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path fill="currentColor" d="M17.75 3h3.07l-6.7 7.66L22 21h-6.17l-4.83-6.32L5.47 21H2.4l7.17-8.2L2 3h6.33l4.37 5.78L17.75 3zm-1.08 16.17h1.7L7.4 4.73H5.58l11.09 14.44z"/></svg><span>{{ P.social.x_handle }}</span></a></p>
       <p><a class="btn btn-line" href="/inquire/#availability">Check dates</a></p>
     </div>
     {% for heading, links in FOOTER %}
@@ -91,6 +91,6 @@
   <button class="lb-close" type="button" aria-label="Close photo">&times;</button>
   <img alt="">
 </dialog>
-<script src="/js/site.js" defer></script>
+<script src="/js/site.js?v={{ JS_V }}" defer></script>
 </body>
 </html>

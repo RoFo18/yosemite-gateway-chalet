@@ -15,7 +15,7 @@ related: [/yosemite-national-park-lodging/, /guides/june-lake/, /faq/]
 ---
 {{ facts([("Address", "4835 Highway 158, June Lake, CA 93529"), ("Phone", "(844) SKI-JUNE")]) }}
 
-<p class="btn-row"><a class="btn btn-solid" href="https://www.google.com/maps/search/?api=1&amp;query=Yosemite+Gateway+Chalet%2C+4835+Highway+158%2C+June+Lake%2C+CA+93529" rel="noopener" target="_blank">Open in Google Maps</a></p>
+<p class="btn-row"><a class="btn btn-line btn-map" href="https://www.google.com/maps/dir/?api=1&amp;destination=Yosemite+Gateway+Chalet%2C+4835+Highway+158%2C+June+Lake%2C+CA+93529" rel="noopener" target="_blank"><svg class="ico" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="10" r="2.6" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>Directions in Google Maps</a></p>
 
 ## Finding us
 

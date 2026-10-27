@@ -45,21 +45,25 @@
   document.querySelectorAll('[data-carousel]').forEach(function (c) {
     var track = c.querySelector('[data-track]'), slides = track.children, n = slides.length;
     var prev = c.querySelector('[data-prev]'), next = c.querySelector('[data-next]'), idxEl = c.querySelector('[data-idx]');
-    var thumbs = c.querySelectorAll('.car-thumb'), cur = 0;
-    function go(i) { i = Math.max(0, Math.min(n - 1, i)); track.scrollTo({ left: slides[i].offsetLeft - track.offsetLeft, behavior: 'smooth' }); }
+    var thumbs = c.querySelectorAll('.car-thumb'), tabs = c.querySelectorAll('.st-tab'), cur = 0;
+    var lock = 0;
+    function go(i) { i = Math.max(0, Math.min(n - 1, i)); lock = Date.now() + 700; mark(i); track.scrollTo({ left: slides[i].offsetLeft - track.offsetLeft, behavior: 'smooth' }); }
     function mark(i) {
       cur = i; if (idxEl) idxEl.textContent = i + 1;
       if (prev) prev.disabled = i === 0; if (next) next.disabled = i === n - 1;
-      thumbs.forEach(function (t, k) { t.classList.toggle('is-on', k === i); if (k === i) t.setAttribute('aria-current', 'true'); else t.removeAttribute('aria-current'); });
+      thumbs.forEach(function (t, k) { t.classList.toggle('is-on', k === i); if (k === i) { t.setAttribute('aria-current', 'true'); if (t.parentNode.scrollWidth > t.parentNode.clientWidth) t.parentNode.scrollTo({ left: t.offsetLeft - t.parentNode.clientWidth / 2 + t.clientWidth / 2, behavior: 'smooth' }); } else t.removeAttribute('aria-current'); });
+      var ch = slides[i] && slides[i].getAttribute('data-chapter');
+      tabs.forEach(function (t) { var on = t.textContent === ch; t.classList.toggle('is-on', on); if (on) t.setAttribute('aria-current', 'true'); else t.removeAttribute('aria-current'); });
     }
     var tick;
     track.addEventListener('scroll', function () {
       clearTimeout(tick);
-      tick = setTimeout(function () { mark(Math.round(track.scrollLeft / track.clientWidth)); }, 60);
+      tick = setTimeout(function () { if (Date.now() > lock) mark(Math.round(track.scrollLeft / track.clientWidth)); }, 80);
     }, { passive: true });
     if (prev) prev.addEventListener('click', function () { go(cur - 1); });
     if (next) next.addEventListener('click', function () { go(cur + 1); });
     thumbs.forEach(function (t) { t.addEventListener('click', function () { go(+t.getAttribute('data-go')); }); });
+    tabs.forEach(function (t) { t.addEventListener('click', function () { go(+t.getAttribute('data-go')); }); });
     c.addEventListener('keydown', function (e) {
       if (e.key === 'ArrowRight') { e.preventDefault(); go(cur + 1); }
       if (e.key === 'ArrowLeft') { e.preventDefault(); go(cur - 1); }
@@ -107,7 +111,14 @@
     var iso = today.toISOString().slice(0, 10);
     if (a) a.min = iso;
     if (d) d.min = iso;
-    if (a && d) a.addEventListener('change', function () { if (a.value) d.min = a.value; });
+    if (a && d) a.addEventListener('change', function () {
+      if (!a.value) return;
+      d.min = a.value;
+      if (!d.value || d.value <= a.value) {
+        var w = new Date(a.value + 'T12:00:00'); w.setDate(w.getDate() + 7);
+        d.value = w.toISOString().slice(0, 10);
+      }
+    });
     form.addEventListener('submit', function (e) {
       if (a && d && a.value && d.value && d.value <= a.value) {
         e.preventDefault();

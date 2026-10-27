@@ -10,9 +10,9 @@ hero: alpine-lake-below-sierra-peaks
 hero_alt: An alpine lake below snow-streaked Sierra peaks
 lead: Practical, current guides to the high country around the chalet, checked against official sources each season.
 wide: true
-updated: 2026-10-26
+updated: 2026-10-27
 ---
-<ol class="glist in-page">
-{% for u in ["/guides/tioga-pass/", "/guides/tuolumne-meadows/", "/yosemite-national-park-lodging/", "/guides/june-lake/", "/guides/june-lake-fall-colors/", "/guides/yosemite-east-side-in-winter/"] %}{% set g = pages[u] %}<li><a href="{{ u }}"><span class="gl-img">{{ picture(g.hero, "", "(min-width: 900px) 240px, 40vw") }}</span><span class="gl-text"><span class="gl-title">{{ g.nav_title }}</span><span class="gl-desc">{{ g.card }}</span></span></a></li>
+<div class="gfeat-list">
+{% for u in ["/guides/tioga-pass/", "/guides/tuolumne-meadows/", "/yosemite-national-park-lodging/", "/guides/june-lake/", "/guides/june-lake-fall-colors/", "/guides/yosemite-east-side-in-winter/"] %}{% set g = pages[u] %}<a class="gfeat" href="{{ u }}"><span class="gf-img">{{ picture(g.hero, g.hero_alt or "", "(min-width: 900px) 60vw, 100vw") }}</span><span class="gf-text"><span class="gf-title">{{ g.nav_title or g.title }}</span><span class="gf-desc">{{ g.card }}</span><span class="gf-more">Read the guide</span></span></a>
 {% endfor %}
-</ol>
+</div>

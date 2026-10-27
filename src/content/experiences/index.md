@@ -9,19 +9,20 @@ topic: things to do in June Lake
 hero: white-mountain-summit-sunrise
 hero_alt: Sunrise from the summit of White Mountain, a 14,000-foot peak
 lead: Mono County sits where the Sierra Nevada meets the Great Basin. Given the time, you could have a different adventure here every day for a year.
-updated: 2026-10-26
+updated: 2026-10-27
+wide: true
 related: [/experiences/winter/, /experiences/hiking/, /experiences/fishing/]
 ---
 Lonely Planet named Mono County one of its top ten U.S. destinations in 2013, and June Lake sits near its center. Fish the West Walker River, climb in Yosemite, paddle Gull Lake, or ski June Mountain, then come home to the fire.
 
-<div class="exp-grid">
-<a class="rel-card" href="/experiences/winter/">{{ picture("skiing-june-mountain-corduroy", "Fresh corduroy on June Mountain", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">December to April</span><span class="rel-title">Winter: skiing, backcountry, ice</span></a>
-<a class="rel-card" href="/experiences/hiking/">{{ picture("fall-view-over-yosemite-climber", "A hiker above a lake in the High Sierra", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">Late spring to fall</span><span class="rel-title">Hiking trails from the door</span></a>
-<a class="rel-card" href="/experiences/fishing/">{{ picture("fly-fishing-rush-creek", "Fly fishing on Rush Creek", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">Trout season</span><span class="rel-title">Fishing the June Lake Loop</span></a>
-<a class="rel-card" href="/experiences/summer/">{{ picture("gull-lake-rope-swing", "A swimmer on the Gull Lake rope swing", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">Summer</span><span class="rel-title">Climbing, riding, birding, races</span></a>
-<a class="rel-card" href="/experiences/spa-and-hot-springs/">{{ picture("hot-creek-eastern-sierra", "Hot Creek steaming in the Eastern Sierra", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">Year round</span><span class="rel-title">Spa and hot springs</span></a>
-<a class="rel-card" href="/experiences/sightseeing/">{{ picture("bodie-wagon-wheel", "A wagon wheel at Bodie State Historic Park", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">Year round</span><span class="rel-title">Mono Lake, Bodie, Devils Postpile</span></a>
-<a class="rel-card" href="/experiences/dining/">{{ picture("dinner-at-the-chalet", "Dinner by candlelight", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">Year round</span><span class="rel-title">Where to eat</span></a>
-<a class="rel-card" href="/guides/tioga-pass/">{{ picture("backcountry-skier-gaylor-peak", "A skier climbing toward Gaylor Peak near Tioga Pass", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">Field guide</span><span class="rel-title">Tioga Pass</span></a>
-<a class="rel-card" href="/guides/tuolumne-meadows/">{{ picture("tuolumne-granite-reflection", "Granite reflected in still water in the high country", "(min-width: 900px) 30vw, 100vw") }}<span class="rel-kicker">Field guide</span><span class="rel-title">Tuolumne Meadows</span></a>
+<div class="exp-tiles">
+<a class="exp-tile is-lead" href="/experiences/summer/">{{ picture("paddleboard-rush-creek-silver-lake", "Paddling Rush Creek above Silver Lake", "(min-width: 1100px) 1200px, 100vw") }}<span class="et-text"><span class="et-season">Summer</span><span class="et-title">Paddleboards, lakes and long days</span><span class="et-desc">Five boards in the garage, four lakes on the loop, and granite ledges over Grant Lake.</span></span></a>
+<a class="exp-tile" href="/experiences/winter/">{{ picture("skiing-june-mountain-corduroy", "Fresh corduroy on June Mountain", "(min-width: 900px) 50vw, 100vw") }}<span class="et-text"><span class="et-season">December to April</span><span class="et-title">Winter on June Mountain</span><span class="et-desc">A mile from the door, kids 12 and under ski free, and with a guide you can ski home to the hot tub.</span></span></a>
+<a class="exp-tile" href="/experiences/hiking/">{{ picture("parker-bench-silver-lake-view", "Hikers on Parker Bench above Silver Lake", "(min-width: 900px) 50vw, 100vw") }}<span class="et-text"><span class="et-season">Late spring to fall</span><span class="et-title">Hiking from the chalet</span><span class="et-desc">Fern Lake from the back door, Parker Lake, Gibbs Lake and Yosemite's high country.</span></span></a>
+<a class="exp-tile" href="/experiences/sightseeing/">{{ picture("wild-mustangs-mono-basin", "Wild mustangs on the high desert near Mono Lake", "(min-width: 900px) 50vw, 100vw") }}<span class="et-text"><span class="et-season">Year round</span><span class="et-title">Mono Lake, mustangs and Bodie</span><span class="et-desc">Tufa towers at sunrise, wild horses on the sage flats, and a ghost town frozen in time.</span></span></a>
+<a class="exp-tile" href="/experiences/fishing/">{{ picture("fly-fishing-rush-creek", "Fly fishing on Rush Creek", "(min-width: 900px) 50vw, 100vw") }}<span class="et-text"><span class="et-season">Trout season</span><span class="et-title">Fishing the June Lake Loop</span><span class="et-desc">Four lakes and the creeks between them, minutes from the house.</span></span></a>
+<a class="exp-tile" href="/experiences/spa-and-hot-springs/">{{ picture("natural-hot-spring-soak", "Bathers in a natural hot spring with mountain views", "(min-width: 900px) 50vw, 100vw") }}<span class="et-text"><span class="et-season">Year round</span><span class="et-title">Spa and hot springs</span><span class="et-desc">A spa you can walk to, and wild hot springs down the valley.</span></span></a>
+<a class="exp-tile" href="/experiences/dining/">{{ picture("dinner-at-the-chalet", "Dinner by candlelight at the chalet", "(min-width: 900px) 50vw, 100vw") }}<span class="et-text"><span class="et-season">Year round</span><span class="et-title">Where to eat</span><span class="et-desc">La Parrilla, the reborn Tiger Bar, and the best breakfast on the loop.</span></span></a>
 </div>
+
+Planning a day in Yosemite? Start with our [field guides](/guides/).
