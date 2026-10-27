@@ -18,10 +18,12 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <p class="ch-intro">A hand-built log home of four thousand square feet on the June Lake Loop, rented whole to one party of up to eight. Granite in every window, a creek through the grounds, and a hot tub under Carson Peak.</p>
 
 <dl class="ch-glance">
-<div><dt>Guests</dt><dd>Up to eight</dd></div>
-<div><dt>Suites</dt><dd>Three, each with its own bath</dd></div>
-<div><dt>Home</dt><dd>4,000 square feet on two levels</dd></div>
-<div><dt>Yosemite</dt><dd>27 miles to the Tioga Pass entrance</dd></div>
+<div><dt>Who it suits</dt><dd>Families and groups of up to eight</dd></div>
+<div><dt>Sleeps</dt><dd>8 in three suites, each with its own bath</dd></div>
+<div><dt>Yosemite</dt><dd>27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November</dd></div>
+<div><dt>June Mountain</dt><dd>1 mile; kids 12 and under ski free</dd></div>
+<div><dt>Season</dt><dd>Open all year; the hot tub runs all year</dd></div>
+<div><dt>Fees</dt><dd>Flat $295 cleaning fee plus 15% Mono County tax</dd></div>
 </dl>
 
 <section class="ch-split">

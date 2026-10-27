@@ -27,6 +27,8 @@ faq:
   - q: Is there lodging near June Mountain?
     a: Yes. The Yosemite Gateway Chalet is one mile from the June Mountain ski area, and guided backcountry skiers can ski from the top of June Mountain to its hot tub.
 ---
+{{ glance() }}
+
 ## Where to stay in June Lake
 
 June Lake lodging comes in three kinds. Small resorts and motels near the lakes and in the village rent rooms and simple cabins, and suit couples or anglers who are out on the water all day. Condos near the June Mountain ski area put skiers close to the lifts. Private homes around the June Lake Loop give families and groups a full kitchen, separate bedrooms and a place to gather at night.

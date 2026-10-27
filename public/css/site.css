@@ -1,3 +1,10 @@
+/* Self-hosted fonts (Fontsource, SIL Open Font License). Latin subset only. */
+@font-face{font-family:'Cormorant Garamond';font-style:normal;font-display:swap;font-weight:500;src:url(/fonts/cormorant-garamond-latin-500-normal.woff2) format('woff2');}
+@font-face{font-family:'Cormorant Garamond';font-style:normal;font-display:swap;font-weight:600;src:url(/fonts/cormorant-garamond-latin-600-normal.woff2) format('woff2');}
+@font-face{font-family:'Cormorant Garamond';font-style:italic;font-display:swap;font-weight:500;src:url(/fonts/cormorant-garamond-latin-500-italic.woff2) format('woff2');}
+@font-face{font-family:'Work Sans';font-style:normal;font-display:swap;font-weight:400;src:url(/fonts/work-sans-latin-400-normal.woff2) format('woff2');}
+@font-face{font-family:'Work Sans';font-style:normal;font-display:swap;font-weight:500;src:url(/fonts/work-sans-latin-500-normal.woff2) format('woff2');}
+@font-face{font-family:'Work Sans';font-style:normal;font-display:swap;font-weight:600;src:url(/fonts/work-sans-latin-600-normal.woff2) format('woff2');}
 /* Yosemite Gateway Chalet. Design tokens and rules are documented in docs/design.md */
 :root{
   --ground:#f2f1ec;     /* granite flour */
@@ -641,3 +648,14 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 }
 .related .rel-links{max-width:var(--max);margin:0 auto;padding:0 var(--gutter)}
 .prose .ch-copy p+p{margin-top:1rem}
+
+/* at a glance */
+.glance{margin:0 0 3rem;padding:1.6rem 1.8rem;background:var(--paper);border:1px solid var(--rule)}
+.prose .glance-h{font:500 1.5rem/1.1 var(--f-display);margin:0 0 1rem}
+.glance dl{margin:0;display:grid;grid-template-columns:1fr 1fr;gap:0 2rem}
+.glance dl div{padding:.7rem 0;border-top:1px solid var(--rule)}
+.glance dt{font-size:.8rem;color:var(--bronze);margin-bottom:.2rem}
+.glance dd{margin:0;color:var(--ink);font-size:.98rem;line-height:1.45}
+@media (max-width:640px){.glance dl{grid-template-columns:1fr}}
+@media (min-width:861px){.ch-glance{grid-template-columns:repeat(3,1fr)}.ch-glance div:nth-child(4){border-left:0}.ch-glance div:nth-child(n+4){border-top:1px solid var(--rule)}}
+.ch-glance dd{font-size:1.15rem}

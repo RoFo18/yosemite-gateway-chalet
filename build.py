@@ -42,7 +42,9 @@ FOOTER = [
                 ("June Lake", "/guides/june-lake/"), ("June Lake Loop fall colors", "/guides/june-lake-fall-colors/"),
                 ("Yosemite's east side in winter", "/guides/yosemite-east-side-in-winter/"),
                 ("Lodging near Yosemite's east entrance", "/yosemite-national-park-lodging/"),
-                ("June Lake lodging", "/june-lake-lodging/")]),
+                ("June Lake lodging", "/june-lake-lodging/"), ("June Lake cabin rentals", "/june-lake-cabin-rentals/"),
+                ("Group lodging near Yosemite", "/yosemite-group-lodging/"), ("Tuolumne Meadows lodging", "/tuolumne-meadows-lodging/"),
+                ("June Mountain lodging", "/june-mountain-lodging/")]),
     ("Plan", [("Getting here", "/location/"), ("Experiences", "/experiences/"), ("FAQ", "/faq/"),
               ("Journal", "/journal/"), ("Privacy", "/privacy/")]),
 ]
@@ -151,6 +153,15 @@ def film(vimeo_id, title, credit, minutes, poster="eastern-sierra-sunset-panoram
         f'</button><p class="film-credit">{credit}</p></section>')
 
 
+GLANCE = [('Who it suits', 'Families and groups of up to eight'), ('Sleeps', '8 in three suites, each with its own bath'), ('Yosemite', '27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November'), ('June Mountain', '1 mile; kids 12 and under ski free'), ('Season', 'Open all year; the hot tub runs all year'), ('Fees', 'Flat $295 cleaning fee plus 15% Mono County tax')]
+
+
+def glance(title="At a glance"):
+    """Short facts block for answer engines and skimmers: who it suits, distances, season, fees."""
+    rows = "".join(f"<div><dt>{html.escape(k)}</dt><dd>{html.escape(v)}</dd></div>" for k, v in GLANCE)
+    return Markup(f'<section class="glance" aria-label="{html.escape(title)}"><h2 class="glance-h">{html.escape(title)}</h2><dl>{rows}</dl></section>')
+
+
 def note(text):
     return Markup(f'<aside class="note"><p>{text}</p></aside>')
 
@@ -211,7 +222,10 @@ def business_ld():
         "address": {"@type": "PostalAddress", "streetAddress": a["street"], "addressLocality": a["city"],
                     "addressRegion": a["region"], "postalCode": a["postal"], "addressCountry": a["country"]},
         "geo": {"@type": "GeoCoordinates", "latitude": P["geo"]["lat"], "longitude": P["geo"]["lng"]},
-        "containedInPlace": {"@type": "Place", "name": a["area"]},
+        "containedInPlace": {"@type": "Place", "name": "June Lake, California",
+                             "containedInPlace": {"@type": "AdministrativeArea", "name": "Mono County, California",
+                                                  "sameAs": "https://en.wikipedia.org/wiki/Mono_County,_California"},
+                             "sameAs": "https://en.wikipedia.org/wiki/June_Lake,_California"},
         "checkinTime": h["check_in_24"], "checkoutTime": h["check_out_24"],
         "petsAllowed": False,
         "identifier": P["booking"]["vrbo_id"],
@@ -254,7 +268,8 @@ def article_ld(meta, url):
     d = {"@context": "https://schema.org", "@type": "Article", "headline": meta["title"],
          "description": meta["description"], "mainEntityOfPage": SITE + url,
          "datePublished": str(meta.get("published", BUILD_DATE)), "dateModified": str(meta.get("updated", BUILD_DATE)),
-         "author": {"@type": "Organization", "name": P["name"], "url": SITE + "/"},
+         "author": ({"@type": "Person", "name": "Robert Foster", "worksFor": {"@id": SITE + "/#chalet"}}
+                    if meta.get("template") == "guide" else {"@type": "Organization", "name": P["name"], "url": SITE + "/"}),
          "publisher": {"@id": SITE + "/#chalet"}}
     if meta.get("hero"):
         n = meta["hero"]
@@ -282,7 +297,7 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):

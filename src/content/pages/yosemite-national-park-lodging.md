@@ -37,6 +37,8 @@ sources:
   - {title: "Know before you go: Yosemite in 2026, Yosemite Conservancy", url: "https://yosemite.org/know-before-you-go-yosemite-in-2026/"}
   - {title: "Mono County Tourism", url: "https://www.monocounty.org/"}
 ---
+{{ glance() }}
+
 ## The east side in brief
 
 Yosemite Valley gets the crowds. The east side, where Highway 120 climbs from the Mono Basin over Tioga Pass to Tuolumne Meadows, is the quieter, higher half of the park. There are no large hotels up here. Lodging inside the park along Tioga Road is limited and seasonal, so most people stay outside the park on US 395 and drive in.

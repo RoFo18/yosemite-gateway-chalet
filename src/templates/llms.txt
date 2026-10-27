@@ -2,6 +2,13 @@
 
 > A private {{ "{:,}".format(P.home.square_feet) }} square foot log chalet in June Lake, California, rented as a whole home to one party. Sleeps {{ P.home.max_overnight_guests }} in three private suites, with an outdoor hydrotherapy tub under Carson Peak. On the June Lake Loop in Mono County, 27 highway miles from Yosemite National Park's Tioga Pass (east) entrance, about 45 minutes from Tuolumne Meadows, and one mile from June Mountain Ski Area. Formerly called the {{ P.former_name }}.
 
+## At a glance
+- Who it suits: families and groups of up to eight who want one house near Yosemite's east side
+- Yosemite: 27 miles to the Tioga Pass entrance and about 45 minutes to Tuolumne Meadows, when Tioga Road is open (usually late May or June to about November)
+- June Mountain: 1 mile; kids 12 and under ski free there all season
+- Season: open all year; the outdoor hot tub runs all year
+- Fees: a flat $295 cleaning fee and Mono County's 15% lodging tax, nothing else
+
 ## The property
 - Whole-home rental only; individual rooms are not rented
 - Up to {{ P.home.max_overnight_guests }} overnight guests including infants; no more than {{ P.home.max_on_property }} people on the property; {{ P.home.max_cars }}-car maximum (Mono County limits)
@@ -46,6 +53,12 @@ Tioga Road (Highway 120) over Tioga Pass is seasonal, usually open from late May
 - The Chalet: {{ SITE }}/the-chalet/
 - Floorplan: {{ SITE }}/the-chalet/floorplan/
 - June Lake lodging: {{ SITE }}/june-lake-lodging/
+- June Lake cabin rentals, cabins vs whole homes: {{ SITE }}/june-lake-cabin-rentals/
+- Group lodging near Yosemite for 6 to 8: {{ SITE }}/yosemite-group-lodging/
+- Lodging near Tuolumne Meadows: {{ SITE }}/tuolumne-meadows-lodging/
+- Lodging near June Mountain: {{ SITE }}/june-mountain-lodging/
+- Lodging near Yosemite's east entrance (Lee Vining, June Lake, Mammoth compared): {{ SITE }}/yosemite-national-park-lodging/
+- Live availability and direct inquiries: {{ SITE }}/inquire/#availability
 - Experiences: {{ SITE }}/experiences/
 - Hiking trails: {{ SITE }}/experiences/hiking/
 - Fishing the June Lake Loop: {{ SITE }}/experiences/fishing/
