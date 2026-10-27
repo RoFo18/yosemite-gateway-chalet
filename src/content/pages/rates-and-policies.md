@@ -45,7 +45,9 @@ June Lake is a small, quiet canyon. Sound carries over water and granite, and th
 
 **Cars: three, total.** Not three plus a quick drop-off, not three plus a friend who is only staying for dinner. A fourth car in the driveway, even for ten minutes, is a no.
 
-**Pets: none.** Not in the house, not in the yard, not in the car in the driveway. A trained service animal is welcome. For an emotional support animal, we need a letter from a licensed physician who treats you, a doctor with an MD or DO, not a certificate bought online. People with real disabilities rely on these accommodations, and every fake one makes it harder for them. We take that seriously.
+**Pets: none.** Not in the house, not in the yard, not in the car in the driveway. Any animal, whether a service animal, an emotional support animal or anything else, must be approved before you arrive, with real paperwork from a licensed physician (MD or DO) who treats you. Certificates bought online do not count. People with real disabilities rely on these accommodations, and every fake one makes it harder for them. We take that seriously.
+
+**Fire and snow.** If a wildfire, heavy smoke or a closed highway makes your stay impossible, we will move your dates: your payment becomes a credit toward another stay of like value within one year. We do not control fires or storms, so we do not give cash refunds for them. This is weather, not a missing side of fries.
 
 **Events: no.** No weddings, parties or reunions. The [FAQ](/faq/) has the long answer.
 

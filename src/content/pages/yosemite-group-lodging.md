@@ -72,7 +72,7 @@ Our [Tuolumne Meadows guide](/guides/tuolumne-meadows/) and [Tioga Pass guide](/
 
 **Smoking and fire.** No smoking indoors. Outdoors, stay at least ten feet from the house and mind the fire danger, which is real in the Eastern Sierra.
 
-**Pets.** None. Trained service animals are welcome; see [rates and policies](/rates-and-policies/) for emotional support animals.
+**Pets.** None. Any animal, service or emotional support, needs advance approval with paperwork from a licensed physician; see [rates and policies](/rates-and-policies/).
 
 **Bears.** Clear all food and trash out of your cars on arrival. Bears in the Eastern Sierra break into cars for far less than a cooler.
 

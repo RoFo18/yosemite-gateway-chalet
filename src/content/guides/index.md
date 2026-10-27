@@ -7,8 +7,9 @@ kicker: Guides
 seo_title: "Plan Your Trip: Tioga Pass, Tuolumne Meadows and June Lake Guides | Yosemite Gateway Chalet"
 description: "Field guides to Yosemite's east side from June Lake: Tioga Pass, Tuolumne Meadows, where to stay near the east entrance, June Lake, fall colors, and winter on the east side."
 topic: Yosemite east side guides
-hero: mono-lake-from-above-fern-lake
-hero_alt: "Looking back at Mono Lake and the Mono Craters from high above Fern Lake, under a storm-lit sky"
+hero: chalet-exterior-sign-carson-peak
+hero_focus: 70% 45%
+hero_alt: "The Yosemite Gateway Chalet, a log home with a stone base among aspens and pines, its carved wooden sign in front and the granite spires of Carson Peak behind"
 lead: Everything you need to plan the trip, from people who have made every mistake on this list so you do not have to.
 wide: true
 updated: 2026-10-27

@@ -27,7 +27,9 @@ faq:
 - q: Are there stairs?
   a: Yes. Plan on walking up steps from the driveway to the front door with your bags, and the three suites are upstairs, reached by a staircase from the Grand Room. In winter, wear boots for the walk in.
 - q: Will we get snowed in?
-  a: No. The chalet is right on Highway 158, not up a side road, and we hire professional plowing for the driveway. That means you are plowed out first thing and on the June Mountain lift while guests in rentals up the back roads are still waiting for theirs. Carry chains on the drive up, as Caltrans requires them in storms.
+  a: "Not by us. The chalet sits right on Highway 158, not up a side road, and we hire professional plowing for the driveway, so you are plowed out first and on the June Mountain lift while guests up the back roads are still waiting. What we cannot plow is the highway. In a major storm, Caltrans can close Highway 395 and parts of 158, and chain controls are common. That is weather, not us. We will work with you as best we can, but we do not control the road, so carry chains and check Caltrans QuickMap before you drive."
+- q: What happens if there is a wildfire?
+  a: "If wildfire or heavy smoke makes a stay unsafe or the area is closed, we will work with you to move your dates. Your payment becomes a credit toward another stay of like value within one year. We do not offer cash refunds for fire, storms or other acts of nature, because we do not control them either. Be reasonable with us, and we will be more than reasonable with you."
 - q: Is the chalet good for kids?
   a: 'Very. Kids 12 and under ski free all season at June Mountain, a mile away. There is a kid-size paddleboard alongside the five full-size boards, a climbing wall in the garage for stormy afternoons, and Yost Meadow is a walk from the back door. One rule: guests under 18 may not use the hot tub.'
 - q: Do you rent individual rooms?
@@ -37,7 +39,7 @@ faq:
 - q: Can I really ski from the top of June Mountain to the hot tub?
   a: Yes, with a local guide service. June Mountain is known for some of the best lift-assisted backcountry skiing in North America, and a guided run can end at the chalet's hydrotherapy tub.
 - q: Can I hike from the back door into Yosemite?
-  a: Yes, over Mono Pass or Donohue Pass, if you are in excellent condition. You will need to catch the YARTS bus or arrange a pickup in the park at the end of the day.
+  a: "Yes, but only if you are in real shape and know what you are doing: long miles, high passes, no cell service and fast-changing weather. Our advice is to do it in reverse. Ride the YARTS bus up to Tuolumne Meadows in summer and hike back to June Lake. You get more downhill, and there are several routes, from Mono Pass down Bloody Canyon to the longer Rush Creek route past Gem and Agnew lakes to Silver Lake. Arrange your pickup or car shuttle before you go."
 - q: How much does the chalet cost per night?
   a: "From $295 a night on quiet midweek dates to $995 at the Christmas peak, for up to six guests. Book direct through our availability calendar, or see live prices on VRBO and Airbnb."
 - q: Are there taxes or additional charges?
@@ -51,7 +53,9 @@ faq:
 - q: What are check-in and check-out times?
   a: Check-in begins at 4:30 pm. Check-out is at 10:00 am.
 - q: Is there a washer and dryer?
-  a: Yes, a high-end washer and dryer in the garage.
+  a: "Yes, a high-end washer and dryer in the garage. Bring your own laundry detergent. We try to keep some in stock, but we cannot promise it, and the general store does not always have it either."
+- q: Where are the extra paper towels and toilet paper?
+  a: "In the hidden closet on the left on your way into the dining room. Pull the wooden strip to open it. The vacuum and the mop live there too, for the day somebody's hot cocoa ends up on the floor."
 - q: Do we need to bring linens or towels?
   a: No. The house is equipped with organic cotton sheets and towels for the beds, the baths and the tubs.
 - q: What should we bring for the kitchen?
@@ -65,7 +69,7 @@ faq:
 - q: Why is there a three-car limit?
   a: "June Lake is a quiet canyon and our neighbors matter to us. No more than three cars at any time, and that includes a fourth car dropping someone off. If it is not one of your three, it does not pull in."
 - q: Are pets allowed?
-  a: "No pets, anywhere on the property. A trained service animal is welcome. For an emotional support animal, we need a letter from a licensed physician (MD or DO) who treats you; certificates bought online do not count. People with real disabilities depend on these accommodations, and we will not help anyone fake one."
+  a: "No pets, anywhere on the property. Any animal, whether a service animal, an emotional support animal or anything else, must be approved in advance with real paperwork from a licensed physician (MD or DO) who treats you. Certificates bought online do not count. People with real disabilities depend on these accommodations, and we take that seriously."
 - q: Do you offer a military discount?
   a: "Yes. For active-duty military families, we waive the $59 nightly fee for a seventh and eighth guest. Tell us when you inquire."
 - q: Will we have the whole chalet?

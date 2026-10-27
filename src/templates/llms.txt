@@ -15,7 +15,7 @@
 - Three bedroom suites, each with a private bath, plus a half bath on the main level
 - Beds: two California King and one queen memory foam bed, a pull-out couch in the master suite loft, a queen futon in the family room
 {% for a in P.amenities %}- {{ a }}
-{% endfor %}- No pets. Trained service animals welcome; emotional support animals need a letter from a licensed physician (MD or DO). No smoking indoors. No weddings, parties or events. Strict limits: 8 overnight guests, 10 people on the property, 3 cars.
+{% endfor %}- No pets. Any animal, including service and emotional support animals, needs advance approval with paperwork from a licensed physician (MD or DO). Fire, smoke or storm closures: dates moved as a credit of like value within one year, no cash refunds. No smoking indoors. No weddings, parties or events. Strict limits: 8 overnight guests, 10 people on the property, 3 cars.
 - Check-in {{ P.home.check_in }}. Check-out {{ P.home.check_out }}.
 - {{ P.home.tax }} and a {{ P.home.cleaning_fee }} cleaning fee per stay, and $59 per night each for a seventh and eighth guest. No other fees.
 
