@@ -46,13 +46,17 @@ sources:
 
 ## The lakes
 
-**Silver Lake** is the fly angler's lake. It drops off fast, the inlet where Rush Creek comes in holds fish all season, and the light at sunrise is reason enough to be there. Strip a woolly bugger, a Hornberg or a Grey Ghost along the drop-offs, or hang chironomids off the edge. Legend says a 9-pound, 12-ounce brook trout came out of Silver Lake in 1932. It gets bigger every year we tell it.
+**Silver Lake** is the fly angler's lake. It drops off fast, the inlet where Rush Creek comes in holds fish all season, and the light at sunrise is reason enough to be there. Strip a woolly bugger, a Hornberg or a Grey Ghost along the drop-offs, or hang chironomids off the edge. Legend says a 9-pound, 12-ounce brook trout came out of Silver Lake in 1932. It gets bigger every year we tell it. The one I lost there was bigger still. Nobody saw it, which is how you know it was big.
 
 **June Lake** is the big, clear one. Kick a float tube along the tule beds and the inlets early, before the boats are up.
 
 **Gull Lake** is the smallest and the most sheltered, and the closest to the chalet. When the wind is howling on the others, Gull is still fishable.
 
 **Grant Lake** is the reservoir at the north end, open and windswept, with the best shot at a big brown on the loop in spring and fall. Fish it early; by mid-morning the wind and the water-skiers own it.
+
+{{ guide_says("First and last light are the best times on the loop. The middle of the day is for naps, paddleboards and the brewery in the village, in roughly that order, though I have been known to rearrange it.") }}
+
+
 
 ## Rush Creek
 

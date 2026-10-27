@@ -50,6 +50,10 @@ Hot Creek is warm springs feeding cold snowmelt, which makes for steady temperat
 
 It is not a numbers game for beginners. It is a numbers game for people who can land a size 22 spinner on a dinner plate, drag-free, the first time.
 
+{{ guide_says("Hot Creek trout have seen every fly ever tied. Some of them have seen mine twice. I like to think they remember me fondly.") }}
+
+
+
 ## The trico morning
 
 The famous event, late summer into fall. Female trico duns start coming off early, often around 7 a.m. in the peak weeks. Then the spinner fall: spent wings on the surface, fish rising in rhythm, everybody on the creek suddenly very quiet. By mid-morning it is over and the fish go back to pretending you do not exist.
@@ -80,3 +84,7 @@ Stay on the trails and away from the thermal features; the springs in the canyon
 ## The one thing
 
 Drag. Every refusal on Hot Creek is drag you did not see. Lengthen the tippet, add slack, cast across and slightly down, and mend before the fly lands.
+
+{{ guide_says("You will break off a good fish on 7X. That is not failure. That is Hot Creek collecting its tip. Pay it, then go get a beer in Mammoth and tell everyone it was twenty inches.") }}
+
+

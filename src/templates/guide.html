@@ -35,7 +35,6 @@
   </aside>
   <article class="guide-main">
     <p class="answer">{{ page.lead }}</p>
-    <p class="byline">By Robert Foster, owner of the {{ P.name }}, June Lake. Facts checked {{ page.updated|longdate }}.</p>
     <div class="prose">{{ body }}</div>
     {% if page.faq %}
     <section class="faq" aria-labelledby="faq-h">
@@ -51,13 +50,6 @@
       <p>{{ page.stay_text or 'A 4,000 square foot log chalet rented as a whole home. Sleeps eight in three private suites, with an outdoor hydrotherapy tub under Carson Peak. 27 miles to the Tioga Pass entrance.' }}</p>
       <p class="btn-row"><a class="btn btn-solid" href="/inquire/">Inquire about dates</a><a class="btn btn-line" href="/the-chalet/">See the chalet</a></p>
     </aside>
-    {% if page.sources %}
-    <section class="sources" aria-labelledby="src-h">
-      <h2 id="src-h">Sources</h2>
-      <p class="muted">Checked {{ page.updated|longdate }}. Conditions change every season, so confirm with these official pages before you go.</p>
-      <ul>{% for s in page.sources %}<li><a href="{{ s.url }}" rel="noopener" target="_blank">{{ s.title }}</a></li>{% endfor %}</ul>
-    </section>
-    {% endif %}
   </article>
 </div>
 {% if related %}

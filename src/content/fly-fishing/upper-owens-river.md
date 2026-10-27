@@ -50,7 +50,11 @@ Then twice a year the lake comes to visit.
 
 In spring, rainbows and cutthroat push up from Crowley to spawn. In fall, fish follow them up to eat their eggs, and the browns get territorial. For a few weeks each season a meadow stream holds fish of 18 to 20 inches and more. You will see them. They will see you first.
 
-- **Stay low and back from the bank.** Your shadow is the end of the conversation.
+{{ guide_says("A lake-run rainbow in a creek this small is a linebacker in a phone booth. Land it fast, release it faster, and celebrate with a domestic lager on the tailgate, as nature intended.") }}
+
+
+
+- **Approach like you owe the fish money.** On the Owens, you probably do. Stay low and back from the bank; your shadow ends the conversation.
 - **Fish the outside bends and undercuts,** dead-drifting a nymph or swinging a bugger right under the grass.
 - **Small eggs and dark buggers in spring and fall,** small nymphs and dries when the fish are looking up.
 

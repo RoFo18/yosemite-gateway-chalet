@@ -44,9 +44,17 @@ sources:
 
 Bridgeport Reservoir releases cold, food-rich water into a short, fast, slippery stretch of river that grows browns and rainbows out of proportion to its size. Fish average around 15 inches, twenty-inchers are not news, and the river's records are a 13-pound brown and a 9-pound rainbow. You will catch more rainbows. You will remember the browns.
 
+{{ guide_says("The river record is a 13-pound brown. My personal best on the East Walker is also extremely large, and I will describe it at length to anyone who buys the next round.") }}
+
+
+
 ## Read the flow before anything else
 
 The irrigation district controls the release, and the release controls your day. Check the flow before you leave the chalet.
+
+{{ guide_says("I did not check the flow once. It was a beautiful drive to Bridgeport. The burger was excellent. The river was not fishable. Check the flow.") }}
+
+
 
 | Flow | What it means |
 |---|---|

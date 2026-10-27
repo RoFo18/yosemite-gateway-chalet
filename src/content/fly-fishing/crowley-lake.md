@@ -48,6 +48,10 @@ Crowley is the reservoir at the bottom of the Long Valley Caldera, fed by the Ow
 
 The Crowley method is not complicated, which is why most people get it wrong. Three chironomid pupae, spaced on the leader, under an indicator, at exactly the depth the fish are holding. Then you wait. Then you adjust the depth a foot. Then you wait again. The take is a twitch of the indicator, not a plunge. The local Mammoth shops call this a technique. Your spouse will call it a nap.
 
+{{ guide_says("Chironomid fishing is ninety percent staring at a small plastic bobber and ten percent explaining to your friends that this is, in fact, a sport. Bring a cooler. It is a long ten percent.") }}
+
+
+
 ## Through the season
 
 | Months | What is happening | Flies |
@@ -62,6 +66,10 @@ The Crowley method is not complicated, which is why most people get it wrong. Th
 McGee Bay is the summer spot, near the cold creek water, and for a few days each July fish stack up in the channels there. Hilton Bay, Sandy Point and Green Banks suit float tubes and small boats. Layton Springs fishes well in spring and late summer. The Owens inlet is the biggest cold-water source on the lake and is choked with weeds by midsummer, so a float tube helps.
 
 Crowley Lake Fish Camp at the south end has the launch and the rentals. The afternoon wind is reliable and serious; be off the open water before it arrives.
+
+{{ guide_says("The wind on Crowley shows up around one in the afternoon. You can set your watch by it, or you can be in a float tube in the middle of the lake when it arrives and learn a great deal about yourself.") }}
+
+
 
 ## The one thing
 

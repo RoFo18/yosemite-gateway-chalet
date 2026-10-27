@@ -46,7 +46,7 @@
     return pick;
   }
 
-  const LEADS = ['Go here first.', 'Then, if that fails, here.'];
+  const LEADS = ['Go here. Trust me.', 'The backup plan, for when you blow the first one.'];
   function recommend(e) {
     if (e) e.preventDefault();
     const fd = new FormData(root.querySelector('form'));
@@ -88,7 +88,9 @@
   function initMap() {
     const el = document.getElementById('fft-map');
     if (!window.L || !el) { if (el) el.innerHTML = '<ul class="fft-list">' + D.waters.map(w => `<li><a href="${w.url}">${esc(w.name)}</a></li>`).join('') + '</ul>'; return; }
-    const map = L.map(el, { scrollWheelZoom: false, zoomControl: true, attributionControl: true, zoomSnap: 0.25 }).setView([D.home.lat - 0.12, D.home.lng + 0.12], 9);
+    const map = L.map(el, { scrollWheelZoom: false, zoomControl: true, attributionControl: true, zoomSnap: 0.25 });
+    map.attributionControl.setPrefix(false);
+    map.setView([D.home.lat - 0.12, D.home.lng + 0.12], 9);
     L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
       maxZoom: 13, className: 'fft-relief', attribution: 'Relief &copy; Esri; labels &copy; Esri, HERE, Garmin, OpenStreetMap contributors'
     }).addTo(map);

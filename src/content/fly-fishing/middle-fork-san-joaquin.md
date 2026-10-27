@@ -46,6 +46,10 @@ sources:
 
 Over the Minaret Summit from Mammoth, the Middle Fork tumbles through the forest below the basalt columns of Devils Postpile: plunge pools, boulders, short runs and pocket water. The trout are wild and not very large, and there are a lot of them. Days of 10 to 30 fish are normal. It is the most fun you can have with a 3-weight.
 
+{{ guide_says("Thirty fish days, none of them longer than your hand, every one of them convinced it is the biggest fish in the river. I relate to them on a personal level.") }}
+
+
+
 ## Getting there
 
 The Reds Meadow Road is the only way in, and it is a summer road. Since 2000 it has opened between late May and late July and closed between early September and early November; in 2026 it opened June 13. In the main season, day visitors usually ride the shuttle from the Mammoth Mountain Adventure Center. Road reconstruction can add delays, so check the Devils Postpile conditions page the night before.
@@ -60,7 +64,7 @@ From the stops along the valley floor, walk up or down the river. The farther yo
 | Droppers | Flashback hare's ear 14, pheasant tail 16, prince 14 |
 | When nothing rises | A small bugger swung through the tailouts |
 
-Keep the line short, the rod high, and the fly in the seams behind rocks. Two good drifts per pocket, then move. Late summer and early fall are the most pleasant: lower, clearer water and fewer mosquitoes. Bring spray anyway.
+Keep the line short, the rod high, and the fly in the seams behind rocks. Two good drifts per pocket, then move. Late summer and early fall are the most pleasant: lower, clearer water and fewer mosquitoes. Bring spray anyway, and save a beer for the end of the shuttle ride. Not during. The driver has asked.
 
 ## The one thing
 

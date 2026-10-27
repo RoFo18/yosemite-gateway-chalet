@@ -285,6 +285,11 @@ def ff_tool():
         f'<script type="application/json" id="ff-data">{json.dumps(data)}</script></section>')
 
 
+def guide_says(text):
+    """An aside from the guide: confident, unqualified, occasionally right."""
+    return Markup(f'<aside class="gs"><p class="gs-k">From the guide\'s chair</p><p class="gs-t">{text}</p></aside>')
+
+
 def tioga_data():
     """Tioga Road opening dates and April 1 snowpack (NPS), embedded for the analysis charts."""
     import csv
@@ -410,6 +415,9 @@ def article_ld(meta, url):
          "author": ({"@type": "Person", "name": "Robert Foster", "worksFor": {"@id": SITE + "/#chalet"}}
                     if meta.get("template") in ("guide", "analysis") else {"@type": "Organization", "name": P["name"], "url": SITE + "/"}),
          "publisher": {"@id": SITE + "/#chalet"}}
+    if meta.get("sources"):
+        # sources stay machine-readable for search and AI engines, without a visible list
+        d["citation"] = [{"@type": "CreativeWork", "name": x["title"], "url": x["url"]} for x in meta["sources"]]
     if meta.get("og") and not meta.get("hero"):
         d["image"] = f"{SITE}/og/{meta['og']}.jpg"
     if meta.get("hero"):
@@ -438,7 +446,7 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, ff_calendar=ff_calendar, ff_drive=ff_drive, ff_facts=ff_facts, ff_tool=ff_tool, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, ff_calendar=ff_calendar, ff_drive=ff_drive, ff_facts=ff_facts, ff_tool=ff_tool, guide_says=guide_says, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):

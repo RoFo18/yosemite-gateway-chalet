@@ -65,7 +65,9 @@ sources:
   - title: "Sierra Moments Fishing Adventures"
     url: https://www.sierramoments.com/
 ---
-Let us get something out of the way. People fly to Patagonia, to New Zealand, to Iceland, to a lodge in Alaska that costs more per week than a used truck, so that they can stand in a river and fail to catch a large trout in a beautiful place. You can do all of that here, and sleep in a log chalet, and be home in five hours from Los Angeles.
+Welcome. You have found the definitive guide to fly fishing June Lake and the Eastern Sierra, written by people who are, by any reasonable measure, extremely good at this. Ask anyone. Ask the fish. Actually, do not ask the fish. They have been telling lies about us for years.
+
+Now, let us get something out of the way. People fly to Patagonia, to New Zealand, to Iceland, to a lodge in Alaska that costs more per week than a used truck, so that they can stand in a river and fail to catch a large trout in a beautiful place. You can do all of that here, and sleep in a log chalet, and be on the deck with a cold one before the trico spinners on Hot Creek have finished dying. Five hours from Los Angeles.
 
 This guide covers every serious water within about sixty miles of the chalet: what lives there, when it fishes, what to tie on, the one thing that matters, and the 2026 rules. It does not cover the places we actually fish. We will come back to that.
 
@@ -79,7 +81,11 @@ Most great trout destinations are great at one thing. Montana has rivers. New Ze
 - **Lake-run trout in a meadow.** Twice a year, rainbows and cutthroat run out of Crowley Lake into the [Upper Owens](/fly-fishing/upper-owens-river/), and a narrow meadow stream suddenly holds fish twice the size it has any right to.
 - **A tailwater with browns measured in pounds.** The [East Walker](/fly-fishing/east-walker-river/) below Bridgeport Dam has given up a 13-pound brown.
 - **The golden trout.** California's state fish, native to two creeks in the southern Sierra and stocked long ago into high lakes up and down the range. Some of those lakes are in this part of the Sierra. That is all we are going to say.
-- **No lodge required.** Everything here is drive-to or walk-to. No floatplane, no guide-only beats, no $900-a-night minimums.
+- **No lodge required.** Everything here is drive-to or walk-to. No floatplane, no guide-only beats, no $900-a-night minimums, and the beer is whatever you put in the cooler.
+
+{{ guide_says("People ask me what the secret is to catching more fish in the Eastern Sierra. The secret is fishing where the fish are. I charge extra for that part.") }}
+
+
 
 {{ figure("fly-casting-freestone-creek", "A bearded angler in a flannel hoodie casting a fly rod on a clear freestone creek below granite cliffs and aspens", "Sandals, a five-weight and a granite canyon. Dress code here is relaxed.") }}
 
@@ -130,6 +136,10 @@ The short version: spring and fall are prime everywhere, summer is about early m
 
 A rule we take seriously: when the water reaches about 70°F, stop fishing for the day. Catch and release only works if the fish survive the release.
 
+{{ guide_says("Here is a field test. If the can of beer you set in the river comes out warm, the river is too warm for trout. Reel up, go to the bar, and leave the fish alone. You are welcome.") }}
+
+
+
 ## Rods, lines and the stuff people forget
 
 | | Spring creeks | Meadow and tailwater | Lakes | Freestone and alpine |
@@ -141,6 +151,10 @@ A rule we take seriously: when the water reaches about 70°F, stop fishing for t
 
 The air is thin and dry at 7,600 feet. Drink more water than you think, wear a hat, and expect the afternoon wind on the big lakes to arrive exactly when the fish start eating.
 
+{{ guide_says("I have fished every rod weight there is, and I can tell you the right one is whichever one you brought. The fish do not know. The fish cannot read the label. Neither, after the second beer, can most guides.") }}
+
+
+
 ## Our guide
 
 If you want to skip the first ten years of figuring this out, call Scott, known to everyone as Knot. He runs [Sierra Moments Fishing Adventures](https://www.sierramoments.com/) out of June Lake, has fished the Eastern Sierra for more than fifty years from the Kern to Sonora Pass, and is insured, state licensed and bonded. He fly fishes the Upper Owens, guides the loop lakes after the opener, and runs backcountry day hikes to small lakes and creeks. He is especially good with families and first-timers: kids catching their first trout on a fly rod is, by his own account, the point.
@@ -150,5 +164,9 @@ Book him at (760) 577-1247, through [his website](https://www.sierramoments.com/
 ## What we are not telling you
 
 Everything on this page is true, and none of it is where we fish on a Tuesday in October. Every water here has a stretch that is a little too far from the car, a lake one ridge past the one everybody hikes to, a run that only fishes for forty minutes at first light. We have gotten you very close. Wake up early, walk farther than everyone else, and fish the places that look like too much work. You will find them. And when you do, you will not tell anyone either.
+
+{{ guide_says("I would tell you where my spot is, but then you would go there, and I would have to find another spot, and I am not as young as I used to be.") }}
+
+
 
 {{ note("Regulations on this site are from the 2026 California Freshwater Sport Fishing Regulations, updated July 10, 2026, and were checked on October 27, 2026. Rules change, and special sections apply. Always read the <a href=\"https://wildlife.ca.gov/Regulations\" rel=\"noopener\" target=\"_blank\">current regulations</a> before you fish, and carry a California fishing license if you are 16 or older.") }}

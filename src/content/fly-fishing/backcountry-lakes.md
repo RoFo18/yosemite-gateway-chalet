@@ -54,6 +54,10 @@ Short, easy and pretty, with a twist: Parker Lake has its own rules in 2026, ope
 
 From the Silver Lake trailhead, the Rush Creek Trail climbs hard to Agnew Lake, then on to Gem and Waugh lakes, and eventually into the high basins around Thousand Island Lake below Banner and Ritter peaks. The higher you go, the fewer people, and the more likely you are to meet brookies, rainbows and, in some basins above 10,000 feet, goldens. Overnight trips need an Inyo National Forest wilderness permit.
 
+{{ guide_says("Golden trout are the most beautiful fish in California and they choose to live at ten thousand feet, which is nature's way of saying you have to earn it. Pack light. Except for the beer. The summit beer is not optional.") }}
+
+
+
 We are not naming the basins. If you look at a map, notice which lakes have no trail to them, and start walking before sunrise, you will work it out.
 
 ## Flies and gear
