@@ -38,7 +38,7 @@ faq:
     a: Yes, for skiing and snow. June Mountain is right on the loop, Mammoth Mountain is about 30 minutes away, and the village is quiet and snowy. Tioga Road into Yosemite is closed in winter.
   - q: What are the four lakes on the June Lake Loop?
     a: June Lake, Gull Lake, Silver Lake and Grant Lake. June and Gull are closest to the village; Silver and Grant lie farther along the loop toward the north junction with 395.
-related: [/june-lake-lodging/, /guides/june-lake-fall-colors/, /experiences/fishing/]
+related: [/june-lake-lodging/, /guides/june-lake-fall-colors/, /fly-fishing/]
 sources:
   - {title: "Mono County Tourism", url: "https://www.monocounty.org/"}
   - {title: "June Mountain", url: "https://www.junemountain.com/"}
@@ -54,7 +54,7 @@ The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, betwee
 
 ## The four lakes
 
-**June Lake** is the one that gives the town its name, with a sandy beach, a marina and the village on its shore. **Gull Lake**, the smallest, is tucked into the village and has the calmest water for paddling. **Silver Lake** sits deep in the canyon under the cliffs, with phenomenal sunrises and some of the best trout water on the loop. **Grant Lake**, the largest, is a reservoir at the north end, open and windswept, with good bait fishing where the creek comes in. Our [fishing guide](/experiences/fishing/) has the details.
+**June Lake** is the one that gives the town its name, with a sandy beach, a marina and the village on its shore. **Gull Lake**, the smallest, is tucked into the village and has the calmest water for paddling. **Silver Lake** sits deep in the canyon under the cliffs, with phenomenal sunrises and some of the best trout water on the loop. **Grant Lake**, the largest, is a reservoir at the north end, open and windswept, with good bait fishing where the creek comes in. Our [fishing guide](/fly-fishing/) has the details.
 
 ## June Mountain
 

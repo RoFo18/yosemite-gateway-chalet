@@ -38,7 +38,7 @@ https://yosemitegatewaychalet.com/activities/winter/    https://yosemitechalet.u
 https://yosemitegatewaychalet.com/activities/skiing/    https://yosemitechalet.us/experiences/winter/    301!
 https://yosemitegatewaychalet.com/activities/ice-climbing/    https://yosemitechalet.us/experiences/winter/#ice-climbing    301!
 https://yosemitegatewaychalet.com/activities/hiking/    https://yosemitechalet.us/experiences/hiking/    301!
-https://yosemitegatewaychalet.com/activities/fishing/    https://yosemitechalet.us/experiences/fishing/    301!
+https://yosemitegatewaychalet.com/activities/fishing/    https://yosemitechalet.us/fly-fishing/    301!
 https://yosemitegatewaychalet.com/activities/birding/    https://yosemitechalet.us/experiences/summer/#birding    301!
 https://yosemitegatewaychalet.com/activities/horseback-riding/    https://yosemitechalet.us/experiences/summer/#horseback-riding    301!
 https://yosemitegatewaychalet.com/activities/rock-climbing/    https://yosemitechalet.us/experiences/summer/#rock-climbing-and-bouldering    301!
@@ -54,7 +54,8 @@ https://yosemitegatewaychalet.com/horseback-riding/    https://yosemitechalet.us
 https://yosemitegatewaychalet.com/sightseeing/    https://yosemitechalet.us/experiences/sightseeing/    301!
 https://yosemitegatewaychalet.com/yosemite-hiking/    https://yosemitechalet.us/experiences/hiking/    301!
 https://yosemitegatewaychalet.com/junemountain/    https://yosemitechalet.us/experiences/winter/    301!
-https://yosemitegatewaychalet.com/fishing/    https://yosemitechalet.us/experiences/fishing/    301!
+https://yosemitegatewaychalet.com/fishing/    https://yosemitechalet.us/fly-fishing/    301!
+https://yosemitegatewaychalet.com/experiences/fishing/    https://yosemitechalet.us/fly-fishing/    301!
 https://yosemitegatewaychalet.com/walk-to-a-world-class-spa/    https://yosemitechalet.us/experiences/spa-and-hot-springs/    301!
 https://yosemitegatewaychalet.com/location/directions/    https://yosemitechalet.us/location/    301!
 https://yosemitegatewaychalet.com/location/getting-here/    https://yosemitechalet.us/location/    301!
@@ -134,7 +135,7 @@ https://www.yosemitegatewaychalet.com/activities/winter/    https://yosemitechal
 https://www.yosemitegatewaychalet.com/activities/skiing/    https://yosemitechalet.us/experiences/winter/    301!
 https://www.yosemitegatewaychalet.com/activities/ice-climbing/    https://yosemitechalet.us/experiences/winter/#ice-climbing    301!
 https://www.yosemitegatewaychalet.com/activities/hiking/    https://yosemitechalet.us/experiences/hiking/    301!
-https://www.yosemitegatewaychalet.com/activities/fishing/    https://yosemitechalet.us/experiences/fishing/    301!
+https://www.yosemitegatewaychalet.com/activities/fishing/    https://yosemitechalet.us/fly-fishing/    301!
 https://www.yosemitegatewaychalet.com/activities/birding/    https://yosemitechalet.us/experiences/summer/#birding    301!
 https://www.yosemitegatewaychalet.com/activities/horseback-riding/    https://yosemitechalet.us/experiences/summer/#horseback-riding    301!
 https://www.yosemitegatewaychalet.com/activities/rock-climbing/    https://yosemitechalet.us/experiences/summer/#rock-climbing-and-bouldering    301!
@@ -150,7 +151,8 @@ https://www.yosemitegatewaychalet.com/horseback-riding/    https://yosemitechale
 https://www.yosemitegatewaychalet.com/sightseeing/    https://yosemitechalet.us/experiences/sightseeing/    301!
 https://www.yosemitegatewaychalet.com/yosemite-hiking/    https://yosemitechalet.us/experiences/hiking/    301!
 https://www.yosemitegatewaychalet.com/junemountain/    https://yosemitechalet.us/experiences/winter/    301!
-https://www.yosemitegatewaychalet.com/fishing/    https://yosemitechalet.us/experiences/fishing/    301!
+https://www.yosemitegatewaychalet.com/fishing/    https://yosemitechalet.us/fly-fishing/    301!
+https://www.yosemitegatewaychalet.com/experiences/fishing/    https://yosemitechalet.us/fly-fishing/    301!
 https://www.yosemitegatewaychalet.com/walk-to-a-world-class-spa/    https://yosemitechalet.us/experiences/spa-and-hot-springs/    301!
 https://www.yosemitegatewaychalet.com/location/directions/    https://yosemitechalet.us/location/    301!
 https://www.yosemitegatewaychalet.com/location/getting-here/    https://yosemitechalet.us/location/    301!
@@ -243,7 +245,7 @@ https://www.skijunemountain.com/*    https://yosemitechalet.us/:splat    301!
 /activities/skiing/                            /experiences/winter/                301
 /activities/ice-climbing/                      /experiences/winter/#ice-climbing   301
 /activities/hiking/                            /experiences/hiking/                301
-/activities/fishing/                           /experiences/fishing/               301
+/activities/fishing/                           /fly-fishing/               301
 /activities/birding/                           /experiences/summer/#birding        301
 /activities/horseback-riding/                  /experiences/summer/#horseback-riding 301
 /activities/rock-climbing/                     /experiences/summer/#rock-climbing-and-bouldering 301
@@ -259,7 +261,8 @@ https://www.skijunemountain.com/*    https://yosemitechalet.us/:splat    301!
 /sightseeing/                                  /experiences/sightseeing/           301
 /yosemite-hiking/                              /experiences/hiking/                301
 /junemountain/                                 /experiences/winter/                301
-/fishing/                                      /experiences/fishing/               301
+/fishing/                                      /fly-fishing/               301
+/experiences/fishing/                          /fly-fishing/               301
 /walk-to-a-world-class-spa/                    /experiences/spa-and-hot-springs/   301
 /location/directions/                          /location/                          301
 /location/getting-here/                        /location/                          301

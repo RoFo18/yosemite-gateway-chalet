@@ -39,7 +39,7 @@ FOOTER = [
               ("Gallery", "/gallery/"), ("Guest reviews", "/reviews/"), ("Rates and policies", "/rates-and-policies/"), ("Inquire", "/inquire/")]),
     ("Things to do", [("Skiing June Mountain", "/experiences/winter/"), ("Lakes and paddleboarding", "/experiences/summer/"),
                       ("Hiking and horseback riding", "/experiences/hiking/"), ("Mono Lake and hidden places", "/experiences/sightseeing/"),
-                      ("Fishing", "/experiences/fishing/"), ("Hot springs and the spa", "/experiences/spa-and-hot-springs/"),
+                      ("Fly fishing", "/fly-fishing/"), ("Hot springs and the spa", "/experiences/spa-and-hot-springs/"),
                       ("Where to eat", "/experiences/dining/")]),
     ("Plan your trip", [("Tioga Pass", "/guides/tioga-pass/"), ("Tuolumne Meadows", "/guides/tuolumne-meadows/"),
                 ("June Lake", "/guides/june-lake/"), ("June Lake Loop fall colors", "/guides/june-lake-fall-colors/"),
@@ -226,6 +226,65 @@ def review_scores():
         '</dl>')
 
 
+FF = yaml.safe_load(open(os.path.join(SRC, "data", "flyfishing.yaml"), encoding="utf-8"))
+_MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+
+def ff_calendar():
+    """When each water fishes best, by month: a quiet heat strip in one hue."""
+    lab = {0: "Closed or out of reach", 1: "Fair", 2: "Good", 3: "Prime"}
+    head = "".join(f'<th scope="col">{m}</th>' for m in _MON)
+    rows = []
+    for w in FF["waters"]:
+        cells = "".join(f'<td class="ffc ffc-{v}"><span class="sr">{_MON[i]}: {lab[v]}</span></td>' for i, v in enumerate(w["months"]))
+        rows.append(f'<tr><th scope="row"><a href="{w["url"]}">{html.escape(w["name"])}</a></th>{cells}</tr>')
+    key = "".join(f'<span><i class="ffc ffc-{v}"></i>{lab[v]}</span>' for v in (3, 2, 1, 0))
+    return Markup(f'<figure class="ff-cal"><div class="ff-cal-scroll"><table><thead><tr><th scope="col"><span class="sr">Water</span></th>{head}</tr></thead>'
+                  f'<tbody>{"".join(rows)}</tbody></table></div><figcaption><span class="ff-key">{key}</span>'
+                  f'Our read of when each water fishes best, from seasons, hatches and access. Regulations checked {FF["regs_checked"]}.</figcaption></figure>')
+
+
+def ff_drive():
+    """Drive time from the chalet to each water, as simple bars."""
+    ws = sorted(FF["waters"], key=lambda w: w["drive"])
+    mx = max(w["drive"] for w in ws)
+    rows = "".join(f'<li><a href="{w["url"]}">{html.escape(w["name"])}</a><span class="ffd-bar" style="--v:{w["drive"] / mx:.3f}"></span>'
+                   f'<span class="ffd-n">{w["drive"]} min</span></li>' for w in ws)
+    return Markup(f'<figure class="ff-drive"><ul>{rows}</ul><figcaption>Approximate drive from the chalet to the usual access point, in good conditions. '
+                  'Backcountry times are to the trailhead.</figcaption></figure>')
+
+
+def ff_facts(wid):
+    w = next(x for x in FF["waters"] if x["id"] == wid)
+    best = ", ".join(_MON[i] for i, v in enumerate(w["months"]) if v == 3) or "Varies"
+    rows = [("Water type", w["type"]), ("Fish", w["species"]), ("Best months", best), ("Drive from the chalet", f'About {w["drive"]} minutes'),
+            ("Regulations (2026)", w["regs"]), ("The one thing", w["presentation"])]
+    lis = "".join(f"<div><dt>{html.escape(k)}</dt><dd>{html.escape(v)}</dd></div>" for k, v in rows)
+    return Markup(f'<dl class="facts ff-facts">{lis}</dl>')
+
+
+def ff_tool():
+    """The recommender: a map, today's conditions, two choices and one button. Drawn by /js/flyfish.js."""
+    data = {"home": {"lat": P["geo"]["lat"], "lng": P["geo"]["lng"]},
+            "waters": [{k: w[k] for k in ("id", "name", "url", "lat", "lng", "type", "kind", "skill", "presentation", "note", "flies", "months")} for w in FF["waters"]]}
+    return Markup(
+        '<section class="fft" id="what-to-fish-today" aria-labelledby="fft-h">'
+        '<div class="fft-head"><p class="eyebrow">Today, on the water</p><h2 id="fft-h">Where to fish today, and with what</h2>'
+        '<p>Live weather at June Lake, this month&rsquo;s hatches, and the one thing that matters on each water. Pick a style and your level.</p></div>'
+        '<div class="fft-body"><div class="fft-map" id="fft-map" role="img" aria-label="Map of the seven waters within about 60 miles of the chalet"></div>'
+        '<div class="fft-panel">'
+        '<dl class="fft-now" aria-live="polite"><div><dt>Air</dt><dd data-now="t">&ndash;</dd></div><div><dt>Wind</dt><dd data-now="w">&ndash;</dd></div>'
+        '<div><dt>Cloud</dt><dd data-now="c">&ndash;</dd></div><div><dt>Pressure</dt><dd data-now="p">&ndash;</dd></div></dl>'
+        '<form class="fft-form"><label>Style<select name="style"><option value="best">Best opportunity</option><option value="dry">Dry fly</option>'
+        '<option value="nymph">Nymph</option><option value="streamer">Streamer</option></select></label>'
+        '<label>Level<select name="skill"><option value="beginner">Beginner</option><option value="intermediate" selected>Intermediate</option>'
+        '<option value="advanced">Advanced</option></select></label><button type="submit" class="btn btn-solid">Tell me where to go</button></form>'
+        '<div class="fft-out" aria-live="polite"></div>'
+        '<p class="fft-src">Weather: <a href="https://open-meteo.com/" rel="noopener" target="_blank">Open-Meteo</a>. Hatches: our month-by-month notes. '
+        'Always check <a href="https://wildlife.ca.gov/Regulations" rel="noopener" target="_blank">current regulations</a>.</p></div></div>'
+        f'<script type="application/json" id="ff-data">{json.dumps(data)}</script></section>')
+
+
 def tioga_data():
     """Tioga Road opening dates and April 1 snowpack (NPS), embedded for the analysis charts."""
     import csv
@@ -379,13 +438,13 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, ff_calendar=ff_calendar, ff_drive=ff_drive, ff_facts=ff_facts, ff_tool=ff_tool, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):
         return hashlib.md5(open(os.path.join(ROOT, "public", rel), "rb").read()).hexdigest()[:10]
     env.globals.update(helpers, NAV=NAV, FOOTER=FOOTER, SITE=SITE, year=dt.date.today().year,
-                       CSS_V=asset_v("css/site.css"), JS_V=asset_v("js/site.js"), TG_V=asset_v("js/tioga.js"))
+                       CSS_V=asset_v("css/site.css"), JS_V=asset_v("js/site.js"), TG_V=asset_v("js/tioga.js"), FF_V=asset_v("js/flyfish.js"))
     env.filters["md"] = lambda s: Markup(markdown.markdown(str(s), extensions=["smarty"]))
     env.filters["longdate"] = lambda d: (d.strftime("%B %-d, %Y") if hasattr(d, "strftime") else str(d))
 

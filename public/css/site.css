@@ -780,3 +780,77 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 .page-body:has(>.prose>.film:last-child){padding-bottom:0}
 .page-body:has(>.prose>.film:last-child)+*{margin-top:0}
 .fig-wide img{max-height:88vh;object-fit:cover}
+
+/* ---------- fly fishing ---------- */
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.ff-head{background:var(--pine) radial-gradient(120% 140% at 85% 0%,#2d4537 0%,#22352b 50%,#18241d 100%);color:var(--on-dark);padding:calc(var(--s-8) + 60px) var(--gutter) var(--s-7)}
+.ff-head-in{max-width:var(--max);margin:0 auto}
+.ff-head .crumbs a,.ff-head .crumbs span{color:rgba(241,239,232,.72)}
+.ff-head .eyebrow{color:var(--bronze-lt)}
+.ff-head h1{font:500 clamp(2.4rem,5.2vw,4.4rem)/1.03 var(--f-display);margin:.6rem 0 0;max-width:20ch;color:var(--on-dark);text-wrap:balance}
+/* tables */
+.prose table{width:100%;border-collapse:collapse;margin:var(--s-5) 0 var(--s-7);font-size:.92rem;font-variant-numeric:tabular-nums}
+.prose table th,.prose table td{text-align:left;vertical-align:top;padding:.7rem .9rem .7rem 0;border-bottom:1px solid var(--rule);line-height:1.45}
+.prose table thead th{font:500 .74rem/1.3 var(--f-text);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);border-bottom:1px solid var(--ink-3)}
+.prose table tbody th,.prose table td:first-child{color:var(--ink)}
+.prose table a{color:var(--ink)}
+@media (max-width:760px){.prose table{display:block;overflow-x:auto;white-space:normal}.prose .ff-table td,.prose .ff-table th{min-width:9rem}}
+.ff-facts{margin-bottom:var(--s-6)}
+/* hatch calendar */
+.ff-cal{margin:var(--s-5) 0 var(--s-7)}
+.ff-cal-scroll{overflow-x:auto}
+.ff-cal table{border-collapse:separate;border-spacing:3px;width:100%;min-width:520px;font-size:.78rem;table-layout:fixed}
+.ff-cal thead th:first-child{width:9.5rem}
+.ff-cal th{font-weight:500;color:var(--ink-3);text-align:center;padding:0 0 .3rem}
+.ff-cal tbody th{text-align:left;padding-right:.8rem;width:9.5rem;color:var(--ink);font-size:.84rem;line-height:1.25}
+.ff-cal tbody th a{color:inherit;text-decoration:none;border-bottom:1px solid var(--rule)}
+.ffc{height:26px;border-radius:3px;background:var(--rule)}
+i.ffc{display:inline-block;width:14px;height:14px;vertical-align:-2px;margin-right:.4rem}
+.ffc-0{background:repeating-linear-gradient(135deg,transparent 0 3px,var(--rule) 3px 4px);box-shadow:inset 0 0 0 1px var(--rule)}
+.ffc-1{background:#e6d6bb}.ffc-2{background:#c39557}.ffc-3{background:#8a6536}
+@media (prefers-color-scheme:dark){.ffc-1{background:#5a4a33}.ffc-2{background:#a07a45}.ffc-3{background:#d9b27a}}
+.ff-cal figcaption,.ff-drive figcaption{font-size:.82rem;color:var(--ink-3);margin-top:.8rem;line-height:1.5}
+.ff-key{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin-bottom:.5rem;color:var(--ink-2)}
+/* drive times */
+.ff-drive{margin:var(--s-5) 0 var(--s-7)}
+.ff-drive ul{list-style:none;margin:0;padding:0;display:grid;gap:.55rem}
+.ff-drive li{display:grid;grid-template-columns:minmax(9rem,13rem) 1fr 4.5rem;align-items:center;gap:.8rem;font-size:.9rem}
+.prose .ff-drive a{color:var(--ink);text-decoration:none}
+.ffd-bar{height:10px;border-radius:0 3px 3px 0;background:var(--bronze);width:calc(var(--v) * 100%)}
+.ffd-n{font-variant-numeric:tabular-nums;color:var(--ink-2);text-align:right}
+@media (max-width:560px){.ff-drive li{grid-template-columns:8rem 1fr 3.6rem;font-size:.84rem}}
+/* the tool */
+.fft{background:#18241d;color:var(--on-dark);margin:var(--s-7) 0;border:1px solid #2d4537}
+@media (min-width:1100px){.guide-main .fft{margin-right:calc(-1 * clamp(0px,4vw,60px))}}
+.fft-head{padding:clamp(1.4rem,3vw,2.2rem) clamp(1.2rem,3vw,2.2rem) 1rem}
+.fft .eyebrow{color:var(--bronze-lt);margin:0 0 .5rem}
+.prose .fft h2,.fft h2{font:500 clamp(1.7rem,3vw,2.3rem)/1.1 var(--f-display);color:var(--on-dark);margin:0 0 .6rem}
+.fft-head p{color:rgba(241,239,232,.74);font-size:.95rem;margin:0;max-width:56ch}
+.fft-body{display:grid;grid-template-columns:1fr}
+.fft-map{height:360px;background:#121915}
+.fft-panel{padding:clamp(1.2rem,3vw,2rem)}
+.fft-now{display:grid;grid-template-columns:repeat(4,1fr);gap:.5rem;margin:0 0 1.2rem;padding:0 0 1rem;border-bottom:1px solid rgba(241,239,232,.14)}
+.fft-now dt{font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:rgba(241,239,232,.6)}
+.fft-now dd{margin:.2rem 0 0;font:500 1.35rem/1.1 var(--f-display);font-variant-numeric:tabular-nums;color:var(--on-dark)}
+.fft-form{display:grid;grid-template-columns:1fr 1fr auto;gap:.8rem;align-items:end}
+.fft-form label{display:flex;flex-direction:column;gap:.35rem;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:rgba(241,239,232,.65)}
+.fft-form select{font:400 .95rem/1.2 var(--f-text);color:var(--on-dark);background:#22352b;border:1px solid rgba(241,239,232,.25);padding:.65rem .7rem;border-radius:0;letter-spacing:0;text-transform:none}
+.fft-form .btn{white-space:nowrap}
+.fft-out{margin-top:1.4rem;display:grid;gap:1.2rem}
+.fft-rec{border-top:1px solid rgba(241,239,232,.14);padding-top:1rem}
+.prose .fft-rec p{margin:0;color:rgba(241,239,232,.82);font-size:.92rem;line-height:1.5}
+.prose .fft-lead{font:italic 500 1rem/1.3 var(--f-display)!important;color:var(--bronze-lt)!important}
+.prose .fft-rec h3{font:500 1.6rem/1.15 var(--f-display);margin:.2rem 0 .4rem}
+.prose .fft-rec h3 a{color:var(--on-dark);text-decoration:none;border-bottom:1px solid rgba(217,178,122,.5)}
+.fft-flies span,.fft-how span{display:inline-block;min-width:7.5rem;font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:rgba(241,239,232,.55)}
+.prose .fft-flies,.prose .fft-how{margin-top:.35rem!important}
+.prose .fft-src,.prose .fft-note,.prose .fft-none{font-size:.78rem;color:rgba(241,239,232,.55);margin:1.2rem 0 0}
+.prose .fft-src a{color:inherit}
+.fft-tip{background:#f1efe8;color:#18201c;border:0;border-radius:0;font:500 .78rem/1.2 var(--f-text);box-shadow:0 4px 14px rgba(0,0,0,.25)}
+.fft-tip::before{display:none}
+.fft .leaflet-container{font-family:var(--f-text);background:#121915}
+.fft .leaflet-control-attribution{background:rgba(18,25,21,.7);color:rgba(241,239,232,.6)}
+.fft .leaflet-control-attribution a{color:rgba(241,239,232,.8)}
+.fft-list{padding:1.2rem 1.6rem;margin:0}.fft-list a{color:var(--on-dark)}
+@media (max-width:640px){.fft-form{grid-template-columns:1fr 1fr}.fft-form .btn{grid-column:1/-1}.fft-now{grid-template-columns:repeat(2,1fr)}.fft-map{height:300px}}
+.ff-cal-scroll,.ff-cal td{position:relative}

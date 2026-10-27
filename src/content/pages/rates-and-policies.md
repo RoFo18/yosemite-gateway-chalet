@@ -43,6 +43,6 @@ Already know your dates? [Check our availability calendar](/inquire/#availabilit
 
 **Hydrotherapy tub.** The tub runs year round, through summer nights and snowstorms alike. Children under 18, pregnant guests, and people with heart conditions or pacemakers may not use the tub.
 
-**Fishing.** No fishing in the pond on the grounds. See our [fishing guide](/experiences/fishing/) for the lakes nearby.
+**Fishing.** No fishing in the pond on the grounds. See our [fishing guide](/fly-fishing/) for the lakes nearby.
 
 **Snow and bears.** The roof sheds snow, so park well away from the house and approach with care. Clean all food and trash out of your car when you arrive.

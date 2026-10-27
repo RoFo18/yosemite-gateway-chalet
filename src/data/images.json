@@ -302,6 +302,24 @@
    670
   ]
  },
+ "fly-casting-below-granite": {
+  "color": "#7e8665",
+  "h": 1182,
+  "w": 665,
+  "widths": [
+   480,
+   665
+  ]
+ },
+ "fly-casting-freestone-creek": {
+  "color": "#727a64",
+  "h": 1180,
+  "w": 666,
+  "widths": [
+   480,
+   666
+  ]
+ },
  "fly-fishing-rush-creek": {
   "color": "#747858",
   "h": 634,
@@ -961,6 +979,16 @@
    480,
    800,
    872
+  ]
+ },
+ "young-angler-fly-fishing-creek": {
+  "color": "#6e7053",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  }
 }

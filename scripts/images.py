@@ -124,6 +124,9 @@ NAMES = {
     "new-tufa-rainbow.jpg": "mono-lake-tufa-rainbow",
     "new-mono-lake-from-fern-lake.jpg": "mono-lake-from-above-fern-lake",
     "new-fern-lake-reflection.jpg": "fern-lake-reflection",
+    "new-fly-cast-beard.jpg": "fly-casting-freestone-creek",
+    "new-kid-fly-fishing.jpg": "young-angler-fly-fishing-creek",
+    "new-fly-cast-red-cap.jpg": "fly-casting-below-granite",
 }
 
 

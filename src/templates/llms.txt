@@ -61,7 +61,14 @@ Tioga Road (Highway 120) over Tioga Pass is seasonal, usually open from late May
 - Live availability and direct inquiries: {{ SITE }}/inquire/#availability
 - Experiences: {{ SITE }}/experiences/
 - Hiking trails: {{ SITE }}/experiences/hiking/
-- Fishing the June Lake Loop: {{ SITE }}/experiences/fishing/
+- Fly fishing June Lake and the Eastern Sierra (hub, with hatch calendar and a live where-to-fish tool): {{ SITE }}/fly-fishing/
+- Fly fishing Hot Creek: {{ SITE }}/fly-fishing/hot-creek/
+- Fly fishing the Upper Owens River: {{ SITE }}/fly-fishing/upper-owens-river/
+- Fly fishing Crowley Lake: {{ SITE }}/fly-fishing/crowley-lake/
+- Fly fishing the East Walker River: {{ SITE }}/fly-fishing/east-walker-river/
+- Fly fishing the Middle Fork San Joaquin: {{ SITE }}/fly-fishing/middle-fork-san-joaquin/
+- Fly fishing June Lake, Silver Lake and Rush Creek: {{ SITE }}/fly-fishing/june-lake-loop/
+- Backcountry fly fishing near June Lake: {{ SITE }}/fly-fishing/backcountry-lakes/
 - Winter and skiing: {{ SITE }}/experiences/winter/
 - Location and directions: {{ SITE }}/location/
 - FAQ: {{ SITE }}/faq/

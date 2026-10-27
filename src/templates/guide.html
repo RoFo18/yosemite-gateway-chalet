@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block main %}
+{% if page.hero %}
 <header class="page-hero tall">
   {{ picture(page.hero, page.hero_alt, '100vw', 'ph-img', eager=True, fit=page.hero_focus) }}
   <div class="ph-copy">
@@ -8,6 +9,15 @@
     <h1>{{ page.title }}</h1>
   </div>
 </header>
+{% else %}
+<header class="ff-head">
+  <div class="ff-head-in">
+    <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
+    <p class="eyebrow">{{ page.eyebrow or 'Field guide' }}</p>
+    <h1>{{ page.title }}</h1>
+  </div>
+</header>
+{% endif %}
 <div class="guide-wrap">
   <aside class="guide-side" aria-label="On this page">
     {% if page.glance %}
@@ -38,7 +48,7 @@
     <aside class="stay-box" aria-label="Stay at the chalet">
       <p class="eyebrow">Where to stay</p>
       <p class="stay-h">{{ page.stay_line or 'Yosemite Gateway Chalet, June Lake' }}</p>
-      <p>A 4,000 square foot log chalet rented as a whole home. Sleeps eight in three private suites, with an outdoor hydrotherapy tub under Carson Peak. 27 miles to the Tioga Pass entrance.</p>
+      <p>{{ page.stay_text or 'A 4,000 square foot log chalet rented as a whole home. Sleeps eight in three private suites, with an outdoor hydrotherapy tub under Carson Peak. 27 miles to the Tioga Pass entrance.' }}</p>
       <p class="btn-row"><a class="btn btn-solid" href="/inquire/">Inquire about dates</a><a class="btn btn-line" href="/the-chalet/">See the chalet</a></p>
     </aside>
     {% if page.sources %}
@@ -59,5 +69,10 @@
   {% endfor %}
   </ul>
 </section>
+{% endif %}
+{% if page.ff_tool %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="" defer></script>
+<script src="/js/flyfish.js?v={{ FF_V }}" defer></script>
 {% endif %}
 {% endblock %}

@@ -12,7 +12,7 @@ hero_focus: 40% 40%
 hero_alt: "A family on horseback on a ridge high above Silver Lake and the June Lake Loop"
 lead: The Ansel Adams Wilderness begins at the back door, the pack station is a few minutes down the road, and Yosemite's high country is forty-five minutes away.
 updated: 2026-10-27
-related: [/guides/tuolumne-meadows/, /guides/tioga-pass/, /experiences/fishing/]
+related: [/guides/tuolumne-meadows/, /guides/tioga-pass/, /fly-fishing/]
 ---
 For trails inside Yosemite, see our [Tuolumne Meadows guide](/guides/tuolumne-meadows/) and [Tioga Pass guide](/guides/tioga-pass/). These are the trails close to June Lake that we send guests to first.
 

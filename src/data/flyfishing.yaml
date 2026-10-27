@@ -1,0 +1,139 @@
+# Fly-fishing waters within about 60 miles of the chalet. Regulations from the 2026 California
+# Freshwater Sport Fishing Regulations (updated July 10, 2026), checked 2026-10-27.
+# months: 0 closed or inaccessible, 1 fair, 2 good, 3 prime. Jan..Dec.
+regs_checked: 2026-10-27
+regs_url: https://wildlife.ca.gov/Regulations
+waters:
+  - id: hot-creek
+    name: Hot Creek
+    url: /fly-fishing/hot-creek/
+    lat: 37.6608
+    lng: -118.8274
+    type: Spring creek, technical
+    kind: spring
+    drive: 30
+    species: Wild rainbows and browns
+    regs: All year. Artificial flies, barbless hooks. Catch and release.
+    months: [1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 2, 1]
+    skill: advanced
+    presentation: Long, fine tippet and a drag-free drift on flat water. Cast once, cast well.
+    note: Geothermal spring creek with thousands of wild trout per mile. Selective fish, clear water.
+    flies:
+      spring: {dry: ["Parachute BWO 18-20", "CDC midge emerger 22"], nymph: ["Olive scud 16-18", "RS2 20"], streamer: ["Olive micro bugger 12"]}
+      summer: {dry: ["Trico spinner 22-24", "Elk hair caddis 18-20"], nymph: ["Olive scud 16-18", "Zebra midge 20"], streamer: ["Olive micro bugger 12"]}
+      fall: {dry: ["Trico spinner 22", "Parachute BWO 20"], nymph: ["Scud 16", "Pheasant tail 18"], streamer: ["Small sculpin 10"]}
+      winter: {dry: ["Griffith's gnat 22"], nymph: ["Zebra midge 20-22", "Scud 16"], streamer: ["Small sculpin 10"]}
+  - id: upper-owens
+    name: Upper Owens River
+    url: /fly-fishing/upper-owens-river/
+    lat: 37.7140
+    lng: -118.8460
+    type: Meadow spring creek
+    kind: meadow
+    drive: 25
+    species: Wild browns and rainbows, lake-run rainbows and cutthroat from Crowley
+    regs: Big Springs to Benton Crossing all year, barbless artificial, catch and release. Below Benton, seasonal with an 18-inch minimum from Aug. 1.
+    months: [2, 2, 3, 3, 3, 2, 1, 1, 2, 3, 3, 2]
+    skill: intermediate
+    presentation: Stay low and off the bank. Swing or dead-drift into the undercuts; the big fish live under your feet.
+    note: Spring-fed meadow water from Big Springs to Benton Crossing, with lake-run fish in spring and fall.
+    flies:
+      spring: {dry: ["Parachute BWO 18", "Griffith's gnat 20"], nymph: ["Zebra midge 18", "Flashback pheasant tail 16"], streamer: ["Black woolly bugger 8", "Egg 14"]}
+      summer: {dry: ["Trico 20-22", "Hopper 10", "Elk hair caddis 16"], nymph: ["Gold-bead hare's ear 14-16"], streamer: ["Olive bugger 8"]}
+      fall: {dry: ["Parachute BWO 18"], nymph: ["Pheasant tail 16", "Egg 14"], streamer: ["Sculpin 6", "Olive bugger 8"]}
+      winter: {dry: ["Midge cluster 20"], nymph: ["Egg 14", "Squirmy worm 12"], streamer: ["Black bugger 6"]}
+  - id: crowley
+    name: Crowley Lake
+    url: /fly-fishing/crowley-lake/
+    lat: 37.5950
+    lng: -118.7350
+    type: Stillwater
+    kind: stillwater
+    drive: 35
+    species: Browns, rainbows, Lahontan cutthroat
+    regs: Last Sat. in April to July 31, 5 trout. Aug. 1 to Nov. 15, artificial lures only, 18-inch minimum, 2 trout.
+    months: [0, 0, 0, 2, 3, 3, 3, 2, 2, 3, 2, 0]
+    skill: beginner
+    presentation: Hang three midges under an indicator at the depth the fish are holding, and wait. Patience is the technique.
+    note: A big, rich reservoir. Midges and damsels early, perch fry and streamers late.
+    flies:
+      spring: {dry: ["Callibaetis parachute 16"], nymph: ["Chironomid pupa 16-18 (three-fly rig)", "Callibaetis nymph 16"], streamer: ["Olive bugger 8"]}
+      summer: {dry: ["Adult damsel 10"], nymph: ["Damsel nymph 10", "Chironomid 16"], streamer: ["Perch fry pattern 4", "Olive bugger 6"]}
+      fall: {dry: ["Callibaetis 16"], nymph: ["Chironomid 16"], streamer: ["Perch fry pattern 4", "Tui chub 4"]}
+      winter: {dry: [], nymph: [], streamer: []}
+  - id: middle-fork
+    name: Middle Fork San Joaquin
+    url: /fly-fishing/middle-fork-san-joaquin/
+    lat: 37.6170
+    lng: -119.0740
+    type: Freestone pocket water
+    kind: freestone
+    drive: 50
+    species: Wild rainbows, browns and brookies
+    regs: General stream season, last Sat. in April to Nov. 15. Access follows the Reds Meadow Road.
+    months: [0, 0, 0, 0, 0, 1, 2, 3, 3, 2, 0, 0]
+    skill: beginner
+    presentation: High-stick the pockets with a short line. Hit every seam behind every rock, then move.
+    note: Freestone pocket water below Devils Postpile, reached by the Reds Meadow Road in summer.
+    flies:
+      spring: {dry: ["Stimulator 14"], nymph: ["Prince 14"], streamer: []}
+      summer: {dry: ["Royal Wulff 14", "Parachute Adams 16", "Elk hair caddis 14"], nymph: ["Flashback hare's ear 14", "Prince 14"], streamer: ["Small bugger 10"]}
+      fall: {dry: ["Parachute Adams 16", "Stimulator 12"], nymph: ["Pheasant tail 16"], streamer: ["Small bugger 10"]}
+      winter: {dry: [], nymph: [], streamer: []}
+  - id: east-walker
+    name: East Walker River
+    url: /fly-fishing/east-walker-river/
+    lat: 38.3270
+    lng: -119.2090
+    type: Tailwater
+    kind: tailwater
+    drive: 50
+    species: Big browns and rainbows
+    regs: Last Sat. in April to Nov. 15. Artificial lures only, 18-inch minimum, 2 trout.
+    months: [0, 0, 0, 2, 3, 3, 2, 2, 3, 3, 2, 0]
+    skill: advanced
+    presentation: Check the flow first. Between about 75 and 250 cfs, dredge the deep runs and swing streamers through the softer edges.
+    note: The Miracle Mile below Bridgeport Dam, famous for brown trout measured in pounds.
+    flies:
+      spring: {dry: ["Skwala stone 10", "Parachute BWO 18"], nymph: ["Pheasant tail 16-18", "Golden stone 6-8"], streamer: ["Sculpin 4", "Crayfish 6"]}
+      summer: {dry: ["Elk hair caddis 14-16", "PMD sparkle dun 16"], nymph: ["Green rock worm 14", "Pheasant tail 16"], streamer: ["Crayfish 6", "Olive bugger 6"]}
+      fall: {dry: ["Hopper 10", "Chernobyl ant 10"], nymph: ["Hare's ear 14"], streamer: ["Sculpin 4", "Baitfish 4"]}
+      winter: {dry: [], nymph: [], streamer: []}
+  - id: june-lake-loop
+    name: June Lake Loop and Rush Creek
+    url: /fly-fishing/june-lake-loop/
+    lat: 37.7836
+    lng: -119.1258
+    type: Lakes and creek
+    kind: stillwater
+    drive: 5
+    species: Rainbows, browns, brookies, cutthroat
+    regs: Lakes last Sat. in April to Nov. 15, 5 trout. Rush Creek below Grant Dam all year, barbless, catch and release.
+    months: [0, 0, 0, 3, 3, 3, 2, 2, 2, 3, 2, 0]
+    skill: beginner
+    presentation: Work the drop-offs at first and last light. Strip slowly; slower than that.
+    note: Four lakes and Rush Creek, five minutes from the door.
+    flies:
+      spring: {dry: ["Parachute Adams 16"], nymph: ["Chironomid 16", "Hare's ear 14"], streamer: ["Woolly bugger 8", "Hornberg 10", "Grey Ghost 6"]}
+      summer: {dry: ["Elk hair caddis 14", "Parachute Adams 16"], nymph: ["Pheasant tail 16"], streamer: ["Woolly bugger 8"]}
+      fall: {dry: ["Parachute BWO 18"], nymph: ["Chironomid 16"], streamer: ["Grey Ghost 6", "Woolly bugger 8"]}
+      winter: {dry: [], nymph: [], streamer: []}
+  - id: backcountry
+    name: Backcountry lakes
+    url: /fly-fishing/backcountry-lakes/
+    lat: 37.7530
+    lng: -119.1600
+    type: Alpine lakes
+    kind: alpine
+    drive: 5
+    species: Brookies, browns, rainbows; goldens in some high basins
+    regs: General lake rules (open all year, 5 trout) unless posted. Parker Lake 14-inch minimum, 2 trout, artificial lures.
+    months: [0, 0, 0, 0, 0, 1, 3, 3, 3, 2, 0, 0]
+    skill: intermediate
+    presentation: Walk the shoreline, stay back from the edge, and drop a small dry where the cruisers turn.
+    note: Fern, Agnew, Gem and the high basins beyond, starting from the back door or Silver Lake.
+    flies:
+      spring: {dry: ["Parachute Adams 16"], nymph: ["Hare's ear 16"], streamer: []}
+      summer: {dry: ["Black gnat 16", "Elk hair caddis 16", "Stimulator 14"], nymph: ["Hare's ear 16", "Zebra midge 18"], streamer: ["Small bugger 10"]}
+      fall: {dry: ["Parachute Adams 16", "Griffith's gnat 18"], nymph: ["Pheasant tail 16"], streamer: ["Small bugger 10"]}
+      winter: {dry: [], nymph: [], streamer: []}

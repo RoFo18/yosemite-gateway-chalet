@@ -11,13 +11,13 @@ hero: paddleboards-silver-lake-shore
 hero_alt: "Four paddleboards pulled up on the shore of Silver Lake under the aspens"
 lead: Most June Lake locals came for the winter and stayed for the summer.
 updated: 2026-10-27
-related: [/experiences/hiking/, /experiences/fishing/, /guides/tuolumne-meadows/]
+related: [/experiences/hiking/, /fly-fishing/, /guides/tuolumne-meadows/]
 ---
 ## Paddleboards in the garage
 
 Five stand-up paddleboards wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Carry them down to the shore of Silver Lake, a few minutes away, and you are on the water. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the canyon walls. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
 
-For trout, see [fishing the June Lake Loop](/experiences/fishing/).
+For trout, see [fishing the June Lake Loop](/fly-fishing/).
 
 ## Lake days
 
