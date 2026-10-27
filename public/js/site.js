@@ -1,6 +1,35 @@
 (function () {
   var root = document.documentElement, body = document.body;
 
+  // Chat: nothing loads until someone reaches for it
+  var chatReady = null;
+  function loadChat() {
+    if (chatReady) return chatReady;
+    var v = (document.querySelector('[data-chat-open][data-v]') || {}).getAttribute ? document.querySelector('[data-chat-open][data-v]').getAttribute('data-v') : '';
+    chatReady = new Promise(function (res, rej) {
+      var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = '/css/chat.css?v=' + v; document.head.appendChild(l);
+      var s = document.createElement('script'); s.src = '/js/chat.js?v=' + v; s.onload = res; s.onerror = rej; document.head.appendChild(s);
+    });
+    return chatReady;
+  }
+  document.querySelectorAll('[data-chat-open]').forEach(function (b) {
+    b.addEventListener('pointerenter', loadChat, { once: true });
+    b.addEventListener('touchstart', loadChat, { once: true, passive: true });
+    b.addEventListener('click', function () { loadChat().then(function () { window.YGCChat && window.YGCChat.open(); }); });
+  });
+  try { if (sessionStorage.getItem('ygc-chat-open') === '1') loadChat().then(function () { window.YGCChat && window.YGCChat.open(true); }); } catch (e) {}
+
+  // Inquiry form: accept dates and guests from a link (the chat builds these)
+  (function () {
+    var f = document.querySelector('form.inquiry'); if (!f) return;
+    var q = new URLSearchParams(location.search), set = function (id, v) { var el = f.querySelector(id); if (el && v) { el.value = v; el.dispatchEvent(new Event('change', { bubbles: true })); } };
+    if (/^\d{4}-\d{2}-\d{2}$/.test(q.get('arrival') || '')) set('#arrival', q.get('arrival'));
+    if (/^\d{4}-\d{2}-\d{2}$/.test(q.get('departure') || '')) set('#departure', q.get('departure'));
+    if (/^[1-8]$/.test(q.get('guests') || '')) set('#guests', q.get('guests'));
+    if (q.get('message')) set('#message', q.get('message').slice(0, 600));
+    if (q.get('arrival')) { var h = document.getElementById('inquiry-form'); if (h) setTimeout(function () { h.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 300); }
+  })();
+
   // Share and copy buttons (thank-you page)
   document.querySelectorAll('[data-share]').forEach(function (b) {
     if (!navigator.share) { b.hidden = true; return; }

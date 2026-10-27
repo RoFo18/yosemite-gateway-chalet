@@ -85,4 +85,4 @@ faq:
 
 {{ figure("floorplan-upper-level", "Upper level floorplan: the master suite with jacuzzi and loft, the Elsie Room with claw-foot tub, and the River Room, each with a private bath", "Upper level: three suites, each with its own bath. The master's loft is above its bedroom.") }}
 
-For snow conditions, see [June Mountain](https://www.junemountain.com/). For anything else, [send an inquiry](/inquire/) or call (844) SKI-JUNE.
+For snow conditions, see [June Mountain](https://www.junemountain.com/). For anything else, [send an inquiry](/inquire/). We reply within a day.

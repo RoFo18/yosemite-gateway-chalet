@@ -18,7 +18,7 @@ The hardest part of a trip like this is getting everyone to say yes. Send them t
 ## What happens next
 
 - We reply within 24 hours with your dates and an exact quote.
-- If your dates are close, or you would rather talk, call (844) SKI-JUNE, which is (844) 754-5863.
+- Questions while you wait? Tap Ask in the corner of any page.
 - Once you book, we send arrival details, the door code and our list of the places we would send our own family.
 
 ## While you wait
