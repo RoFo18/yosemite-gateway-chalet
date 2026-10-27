@@ -54,6 +54,8 @@ The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, betwee
 
 ## The four lakes
 
+{{ figure("june-lake-loop-dock-morning", "A small aluminum rental boat tied to a wooden dock on a mirror-still lake, with morning mist and a snow-dusted granite peak reflected", "Morning on the loop, before anyone else is up.") }}
+
 **June Lake** is the one that gives the town its name, with a sandy beach, a marina and the village on its shore. **Gull Lake**, the smallest, is tucked into the village and has the calmest water for paddling. **Silver Lake** sits deep in the canyon under the cliffs, with phenomenal sunrises and some of the best trout water on the loop. **Grant Lake**, the largest, is a reservoir at the north end, open and windswept, with good bait fishing where the creek comes in. Our [fishing guide](/fly-fishing/) has the details.
 
 ## June Mountain

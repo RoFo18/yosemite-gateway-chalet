@@ -1,4 +1,13 @@
 {
+ "agnew-tram-tracks-above-silver-lake": {
+  "color": "#7f7978",
+  "h": 1024,
+  "w": 770,
+  "widths": [
+   480,
+   770
+  ]
+ },
  "alpine-lake-below-sierra-peaks": {
   "color": "#5c6965",
   "h": 1350,
@@ -99,6 +108,17 @@
    1280
   ]
  },
+ "chalet-exterior-sign-carson-peak": {
+  "color": "#484738",
+  "h": 1131,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "chalet-grounds-hammock-aspens": {
   "color": "#5c5c40",
   "h": 500,
@@ -180,6 +200,15 @@
   "w": 438,
   "widths": [
    438
+  ]
+ },
+ "eastern-sierra-morning-water": {
+  "color": "#34434f",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
   ]
  },
  "eastern-sierra-sunset-panorama": {
@@ -364,6 +393,26 @@
   "widths": [
    480,
    768
+  ]
+ },
+ "glass-creek-meadow-corn-lilies": {
+  "color": "#7d9464",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "grand-room-daylight": {
+  "color": "#705139",
+  "h": 518,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "grand-room-evening-lamplight": {
@@ -565,15 +614,6 @@
    860
   ]
  },
- "ice-climbing-lee-vining-canyon": {
-  "color": "#90a5bb",
-  "h": 467,
-  "w": 700,
-  "widths": [
-   480,
-   700
-  ]
- },
  "june-lake-chalet-summer": {
   "color": "#554e2b",
   "h": 640,
@@ -591,6 +631,35 @@
   "widths": [
    480,
    800
+  ]
+ },
+ "june-lake-golden-light": {
+  "color": "#565b53",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "june-lake-loop-dock-morning": {
+  "color": "#576682",
+  "h": 1024,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "june-lake-loop-evening-clouds": {
+  "color": "#47432b",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
   ]
  },
  "june-lake-loop-fall-aspens": {
@@ -712,6 +781,15 @@
    837
   ]
  },
+ "light-through-the-canyon": {
+  "color": "#434c58",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
  "master-suite-bed": {
   "color": "#6d3913",
   "h": 493,
@@ -745,6 +823,17 @@
  "master-suite-loft": {
   "color": "#652b09",
   "h": 570,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "master-suite-shower": {
+  "color": "#7a3d12",
+  "h": 909,
   "w": 1800,
   "widths": [
    480,
@@ -821,6 +910,17 @@
    1024
   ]
  },
+ "mule-deer-buck": {
+  "color": "#606164",
+  "h": 1200,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "natural-hot-spring-soak": {
   "color": "#a09fa0",
   "h": 957,
@@ -872,6 +972,16 @@
    1024
   ]
  },
+ "parker-lake-trail-fall-color": {
+  "color": "#406470",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "press-magazine-review": {
   "color": "#cec6bd",
   "h": 365,
@@ -886,6 +996,15 @@
   "w": 280,
   "widths": [
    280
+  ]
+ },
+ "reversed-peak-triangle-cave": {
+  "color": "#1f2c33",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
   ]
  },
  "ritter-range-snow": {
@@ -935,6 +1054,27 @@
   "w": 387,
   "widths": [
    387
+  ]
+ },
+ "sierra-ridge-spires": {
+  "color": "#2e6274",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "silver-lake-fall-morning-boats": {
+  "color": "#62747c",
+  "h": 1345,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "ski-tracks-to-the-hot-tub": {

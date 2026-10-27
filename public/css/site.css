@@ -917,4 +917,20 @@ i.ffc{display:inline-block;width:14px;height:14px;vertical-align:-2px;margin-rig
   .fft-now{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 .link-arrow+.link-arrow{margin-left:1.6rem}
-@media (max-width:480px){.link-arrow+.link-arrow{margin-left:1.2rem}}
+p:has(> .link-arrow + .link-arrow){display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;align-items:center}
+p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
+
+/* three-photo light study */
+.light-trio{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:var(--s-6,2.5rem) 0}
+.light-trio figure{margin:0;min-width:0}
+.light-trio .lt-a{grid-column:1/-1}
+.light-trio img{width:100%;height:100%;object-fit:cover;aspect-ratio:3/4;display:block}
+.light-trio .lt-a img{aspect-ratio:4/3}
+.light-trio figcaption{grid-column:1/-1;font-size:.86rem;color:var(--ink-3,#6b716b)}
+@media (min-width:760px){.light-trio{grid-template-columns:repeat(3,1fr)}.light-trio .lt-a{grid-column:auto}.light-trio .lt-a img{aspect-ratio:3/4}}
+.band-light .band-quote{max-width:34ch}
+.band-light::after{background:linear-gradient(180deg,rgba(10,12,10,0) 25%,rgba(10,12,10,.78) 100%)}
+.band-quote{margin:.6rem 0 1rem;font:italic 500 clamp(1.35rem,2.6vw,2.1rem)/1.3 var(--f-display);text-wrap:balance}
+.band-quote p{margin:0}
+.band-cite{margin:0 0 1.2rem;font:500 .74rem/1 var(--f-text);letter-spacing:.18em;text-transform:uppercase;color:var(--bronze-lt)}
+.band-light .link-arrow{color:#fff}

@@ -37,6 +37,8 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 </div>
 </section>
 
+{{ figure("grand-room-daylight", "The Grand Room by day: leather couches, the stone fireplace, log walls and the oak bar with its bucket stools, sliding doors open to the deck", "The Grand Room by day, with the deck doors and the oak bar.") }}
+
 <section class="ch-split reverse">
 <div class="ch-media">{{ picture("kitchen-copper-sink", "The remodeled kitchen with its handmade copper sink and timber counters", "(min-width: 900px) 55vw, 100vw") }}</div>
 <div class="ch-copy">

@@ -13,7 +13,9 @@ lead: A California King memory foam bed, a private two-person jacuzzi, and a sle
 updated: 2026-10-26
 related: [/the-chalet/elsie-room/, /the-chalet/river-room/, /the-chalet/floorplan/]
 ---
-The largest of the three suites is built for a long soak at the end of the day. It holds the chalet's indoor hot tub, a two-person jacuzzi private to the room, for the nights when the snow is coming down too hard even for the tub outside. The bath is newly finished.
+The largest of the three suites is built for a long soak at the end of the day. It holds the chalet's indoor hot tub, a two-person jacuzzi private to the room, for the nights when the snow is coming down too hard even for the tub outside. The bath is newly finished, with a big tiled walk-in shower lit by an octagon window.
+
+{{ figure("master-suite-shower", "The master suite bath: a large tiled walk-in shower behind glass, cedar-paneled walls and an octagonal frosted window", "The master bath: tile, cedar and an octagon window.") }}
 
 Above the bed, a loft holds a pull-out couch. Like any loft, whoever sleeps up there has a commanding view of the room below, so it suits children or close friends best.
 

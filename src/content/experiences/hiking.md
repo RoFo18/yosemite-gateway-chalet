@@ -5,11 +5,11 @@ nav_title: Hiking and horseback riding
 eyebrow: On foot and on horseback
 kicker: Summer and fall
 seo_title: "Hiking Trails near June Lake, Tioga Pass and Yosemite's East Side"
-description: "Hiking and horseback riding from the chalet: Fern Lake from the back door, Parker Lake and Parker Bench, trail rides at the June Lake pack station, Lundy Canyon, Tioga Peak and more, with distances."
+description: "Hiking and horseback riding from the chalet: Fern Lake and Carson Peak from the back door, the Rush Creek trail from Silver Lake, Glass Creek Meadow, Parker Lake and Parker Bench, trail rides at the June Lake pack station, Lundy Canyon, Tioga Peak and more, with distances."
 topic: hiking near June Lake
-hero: horseback-ride-above-june-lake
-hero_focus: 40% 40%
-hero_alt: "A family on horseback on a ridge high above Silver Lake and the June Lake Loop"
+hero: sierra-ridge-spires
+hero_focus: 50% 35%
+hero_alt: "A jagged granite ridge of spires and couloirs above long talus slopes under a deep blue sky"
 lead: The Ansel Adams Wilderness begins at the back door, the pack station is a few minutes down the road, and Yosemite's high country is forty-five minutes away.
 updated: 2026-10-27
 related: [/guides/tuolumne-meadows/, /guides/tioga-pass/, /fly-fishing/]
@@ -34,7 +34,15 @@ You can climb Carson Peak, 10,909 feet, the mountain you see from the hot tub, w
 
 The fast way down is the scree run on the back side: a long chute of loose gravel you descend in big sliding steps, like walking down a sand dune made of mountain. Our kids did it when they were small. It is not for everybody, and it is no place for bad knees or new boots, but if your crew likes a little adventure, it is the most fun you will have going downhill without skis.
 
+{{ figure("agnew-tram-tracks-above-silver-lake", "A hiker with a pack walking down the old narrow-gauge tram tracks above Silver Lake, with dry granite hills beyond", "The old Agnew tram tracks. If you come off the back of Carson Peak, this is your road home.") }}
+
+The scree run drops you toward Agnew Lake, and from there the Rush Creek trail takes you down to Silver Lake. Along the way you cross the old Agnew tram tracks, a narrow-gauge incline that still services the Agnew and Gem Lake dams. They are tempting. Stay on the trail; the tracks are steep, loose and longer than they look. Arrange a pickup at the Silver Lake trailhead, or walk the last couple of miles back along the loop.
+
 {{ figure("carson-peak-summit-view", "The view west from the summit of Carson Peak across the high Sierra, with jagged snow-streaked peaks and an alpine lake", "From the top of Carson Peak, 10,909 feet. You walked here from the chalet.") }} From Yost Meadow, another trail returns through the June Mountain ski area to June Lake village, ending near the Balanced Boulder by the fire station.
+
+## Into the backcountry from Silver Lake
+
+The Rush Creek trailhead at Silver Lake, five minutes up the road, is the front door to the Ansel Adams Wilderness. The trail climbs about two miles and roughly 1,300 feet to Agnew Lake, then on to Gem Lake and, for backpackers, Waugh Lake, Thousand Island Lake and the John Muir Trail. Morning shade, big granite, and the sound of Rush Creek the whole way up.
 
 ## A secret spot
 
@@ -45,6 +53,8 @@ Some places we only share in person. This one is within an easy drive and a morn
 ## Reversed Peak
 
 {{ figure("family-hike-toward-reversed-peak", "Two small children with backpacks following an adult with a big pack along a sunny trail through sage and pines toward granite peaks", "Backpacking toward Reversed Peak. You are still inside the June Lake Loop.") }}
+
+{{ figure("reversed-peak-triangle-cave", "The view through a triangular gap in the rock near the top of Reversed Peak, framing snowy peaks and the June Lake Loop far below", "Near the top of Reversed Peak, a triangle in the rock frames the whole range. Find it.") }}
 
 The trailhead is on North Shore Drive, northeast of Gull Lake, which means you never leave the June Lake Loop, and yet by the first switchback it feels like you have. It is a good first overnight for small backpackers: isolated, beautiful, and close enough to bail to a hot tub if somebody mutinies. This is prime wildlife country, though there is no fishing and water can be scarce. The Snow Lakes, small basins that hold water in spring, are the highlight, and the trail continues to the Aerie Crag area and the summit of Reversed Peak.
 
@@ -67,15 +77,27 @@ The trailhead is on North Shore Drive, northeast of Gull Lake, which means you n
 
 One of the easiest and prettiest hikes on the loop, and a good first day at altitude. About half a mile past Grant Lake heading toward Highway 395, turn left onto the dirt road signed for Parker Lake and follow signs to the trailhead. Past the first steep pitch, the trail levels out beside Parker Creek through meadow and aspen, and ends at a deep lake under the walls of the Sierra crest.
 
+{{ figure("parker-lake-trail-fall-color", "Gold and orange aspen groves on the slopes below a dark snow-dusted peak, on the way to Parker Lake", "The walk in to Parker Lake in October. Go then if you can.") }}
+
 **The Parker Bench option.** At the junction signed for Silver Lake, turn left instead of continuing to Parker Lake. The trail climbs onto Parker Bench, a high sagebrush shoulder with long views down the canyon to Silver Lake and out to Mono Lake. It is a bigger day, up to 10 miles round trip, and spectacular in fall when the aspens below turn.
 
+## Glass Creek Meadow
+
+{{ figure("glass-creek-meadow-corn-lilies", "Backlit corn lily leaves in the foreground of a wide meadow, with snowy San Joaquin peaks and pine forest beyond", "Glass Creek Meadow in early summer, corn lilies first and the crest behind.") }}
+
+About twenty minutes south of the chalet, off Highway 395 near Obsidian Dome, the Glass Creek trail climbs a couple of miles beside the creek into a broad meadow under the San Joaquin Ridge, in the Owens River Headwaters Wilderness. In early summer the corn lilies come up in thick green stands and the wildflowers follow. Few people know it. Day use only, and the last stretch of dirt road wants a high-clearance car.
+
 ## Horseback riding from the pack station
+
+{{ figure("horseback-ride-above-june-lake", "A family on horseback on a ridge high above Silver Lake and the June Lake Loop", "Above Silver Lake with Frontier Pack Train.") }}
 
 Some of the best days our guests have here start a few minutes down the road at [Frontier Pack Train](https://www.monocounty.org/listing/frontier-pack-train/1103/), the June Lake Loop's own pack station on Highway 158 near Silver Lake. Real wranglers, sure-footed horses matched to every rider from first-timer to expert, and trails that climb straight out of the canyon to views most visitors never see.
 
 Ride for an hour along Rush Creek, take a half day up to Parker Bench with Mono Lake and the Mono Craters laid out below, or go all day past Agnew Lake to Gem Lake for a picnic and some fishing. The pack station also runs overnight trips into the Ansel Adams Wilderness and, in fall, a multi-day horse drive from June Lake to Bishop. Kids love it, and it is the easiest way to get a whole family into the high country.
 
 Rides run in summer and early fall. Call ahead to book, especially on weekends: (760) 648-7701.
+
+{{ figure("mule-deer-buck", "A mule deer buck standing in sagebrush and manzanita at the edge of the forest", "A regular on the loop. Give him room; he was here first.") }}
 
 ## Gibbs Lake and Kidney Lake
 

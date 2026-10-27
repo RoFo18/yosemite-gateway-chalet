@@ -72,6 +72,4 @@ For ski and snowboard rentals, tunes, wax, and anything you forgot, go to [Ernie
 
 Rent snowshoes at Ernie's and walk from the house to the Fern and Yost Lakes trail, about a mile down-canyon. Beginners and experienced climbers find ice above Silver Lake, and some of the best ice in the West is half an hour away in Lee Vining Canyon; Sierra Mountain Guides runs courses for both.
 
-{{ figure("ice-climbing-lee-vining-canyon", "An ice climber on a frozen fall in Lee Vining Canyon", None, "wide") }}
-
 {{ note("Tioga Road into Yosemite is closed in winter, usually from around November until late May or June. Carry chains, and check <a href=\"https://quickmap.dot.ca.gov/\" rel=\"noopener\" target=\"_blank\">Caltrans QuickMap</a> for Highway 395 before you drive. Read <a href=\"/guides/yosemite-east-side-in-winter/\">Yosemite's east side in winter</a>.") }}
