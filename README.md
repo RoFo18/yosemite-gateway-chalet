@@ -1,0 +1,77 @@
+# Yosemite Gateway Chalet
+
+The website for the Yosemite Gateway Chalet, a whole-home log chalet rental in June Lake, California: https://yosemitegatewaychalet.com
+
+A small static site. Python builds plain HTML from Markdown, so pages load fast, read cleanly for search engines and AI assistants, and are easy to edit. Netlify builds and hosts it.
+
+## Run it locally
+
+```bash
+pip install -r requirements.txt
+python3 build.py          # writes the site to dist/
+python3 -m http.server -d dist 8000
+```
+
+Open http://localhost:8000.
+
+## Check it before you publish
+
+```bash
+python3 scripts/check.py
+```
+
+This builds the site and fails if it finds a broken link or image, missing alt text, a missing or duplicate title or description, invalid structured data, any email address in the output, a redirect that points nowhere, an em dash in the copy, or a page missing from the sitemap. Fix what it reports, then commit.
+
+## Where things live
+
+| Path | What it is |
+|---|---|
+| `src/data/property.yaml` | Every fact about the chalet: address, phone, occupancy, times, tax, distances, amenities. Change a fact here once and it updates everywhere, including structured data and `llms.txt`. |
+| `src/content/` | Every page, as Markdown with a short header (title, description, hero photo, FAQ, sources). |
+| `src/content/guides/` | The destination guides: Tioga Pass, Tuolumne Meadows, June Lake, fall colors, winter. |
+| `src/templates/` | Page layouts (Jinja2). |
+| `public/` | Copied to the site as is: CSS, JavaScript, images, `robots.txt`, `_redirects`, favicon. |
+| `public/_redirects` | Sends every old WordPress URL to its new page, so existing search rankings carry over. |
+| `scripts/images.py` | Turns photos into responsive AVIF and WebP files. |
+| `docs/design.md` | The design system. |
+| `docs/search-plan.md` | Target topic, title and description for every page, plus the off-site checklist. |
+
+## Edit a page
+
+Open the page's file in `src/content/`, change the text, and commit. The header at the top controls the title shown in search results (`seo_title`), the description (`description`), and the hero photo (`hero`). Inside the text, photos are placed with:
+
+```
+{{ figure("chalet-exterior-carson-peak", "Alt text describing the photo", "Optional caption", "wide") }}
+```
+
+Layouts are `wide`, `right`, `left`, `small` and `full`. Galleries use `{{ gallery([("photo-name", "alt text"), ...]) }}`.
+
+When you update a guide, update its `updated:` date too. That date shows on the page and in structured data.
+
+## Add or replace a photo
+
+1. Put the original in `src/assets/source/`.
+2. Add a line to `NAMES` in `scripts/images.py` giving it a descriptive name.
+3. Run `pip install Pillow` once, then `python3 scripts/images.py`.
+4. Use the new name in any page. Commit the files it created in `public/img/`, `public/og/` and `src/data/images.json`.
+
+## Inquiries
+
+The Inquire page posts to Netlify Forms (form name `inquiry`) with a honeypot field and reCAPTCHA. Submissions appear in Netlify under Forms. To get each one by email, open the site in Netlify, then Forms, Form notifications, Add notification, Email notification. No email address is published anywhere on the site, and `scripts/check.py` fails the build if one appears.
+
+## Deploy
+
+Netlify builds from the `main` branch. Build command `python3 build.py`, publish directory `dist`, Python 3.11 (all set in `netlify.toml`). Netlify installs `requirements.txt` automatically. Every push to `main` deploys.
+
+### Pointing the domain
+
+In Netlify, open Domain management and add `yosemitegatewaychalet.com`. Netlify shows the records to add at your domain registrar. Change only those web records. Do not move the nameservers, because the domain's email may depend on the current DNS.
+
+## Search and AI assistants
+
+- `robots.txt` welcomes all search engines and AI crawlers.
+- `llms.txt` and `llms-full.txt` give assistants a plain summary of the property and the full text of the guides.
+- Every page carries structured data: the vacation rental itself, breadcrumbs, FAQs, articles, and the places the guides cover.
+- `sitemap.xml` is generated on every build.
+
+See `docs/search-plan.md` for the strategy and the off-site checklist. That checklist matters as much as the site does.
