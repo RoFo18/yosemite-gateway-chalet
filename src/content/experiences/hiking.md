@@ -5,7 +5,7 @@ nav_title: Hiking and horseback riding
 eyebrow: On foot and on horseback
 kicker: Summer and fall
 seo_title: "Hiking Trails near June Lake, Tioga Pass and Yosemite's East Side"
-description: "Hiking and horseback riding from the chalet, with trail notes for each: Fern Lake and Carson Peak from the back door, the Rush Creek trail from Silver Lake, Glass Creek Meadow, Parker Lake and Parker Bench, trail rides at the June Lake pack station, Lundy Canyon, Tioga Peak and more, with distances."
+description: "Hiking and horseback riding from the chalet, with trail notes for each: Fern Lake, Yost Lake and Carson Peak from the back door, Crater Mountain, Glass Mountain, the Rush Creek trail from Silver Lake, Glass Creek Meadow, Parker Lake and Parker Bench, trail rides at the June Lake pack station, Lundy Canyon, Tioga Peak and more, with distances."
 topic: hiking near June Lake
 hero: sierra-ridge-spires
 hero_focus: 50% 35%
@@ -20,7 +20,7 @@ Every hike on this page starts within half an hour of the chalet, and the best o
 
 Leave the car at the house. Walk out the back door and about a mile down-canyon to the Fern Lake trailhead, then up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows. Yost Creek is the same water that runs past the hot tub, so you can follow it home.
 
-{{ trail_card("Fern Lake", [("Start", "The back door"), ("Back door to trailhead", "About 1 mile"), ("Trailhead to Fern Lake", "About 1.6 miles"), ("Climb", "About 1,600 ft"), ("Round trip", "5 to 6 miles, half a day")], cap="The Fern Lake trail is steep from the first step, and it will tell you so. Everyone says it is only a mile and a half. Everyone says that at the bottom.") }}
+{{ trail_card("Fern Lake and Yost Lake", [("Start", "The back door"), ("Back door to trailhead", "About 1 mile"), ("Trailhead to Fern Lake", "About 1.6 miles, 1,600 ft up"), ("Fern Lake round trip", "5 to 6 miles, half a day"), ("Trailhead to Yost Lake", "About 3.8 miles, past Yost Meadow"), ("Yost Lake round trip", "About 9 to 10 miles, a full day")], cap="The Fern Lake trail is steep from the first step, and it will tell you so. Everyone says it is only a mile and a half. Everyone says that at the bottom.") }}
 
 Carry water, start early in summer, and turn around if thunderheads build over the crest in the afternoon. They do not care that you are almost there.
 
@@ -73,6 +73,26 @@ Some of the best days our guests have here start a few minutes down the road at 
 {{ trail_card("Frontier Pack Train", [("Where", "Highway 158, near Silver Lake"), ("Rides", "One hour to several days"), ("Season", "Summer and early fall"), ("Book", "(760) 648-7701")], img="horseback-ride-above-june-lake", alt="A family on horseback on a ridge high above Silver Lake and the June Lake Loop", cap="Above Silver Lake. The horse does the climbing. You do the looking. It is the easiest way to get a whole family into the high country.", kicker="On horseback") }}
 
 {{ figure("mule-deer-buck", "A mule deer buck standing in sagebrush and manzanita at the edge of the forest", "A regular on the loop. Give him room; he was here first.") }}
+
+## Crater Mountain, top of the Mono Craters
+
+The Mono Craters are the youngest mountain range in North America, a chain of volcanic domes that rose out of the desert between June Lake and Mono Lake in the last forty thousand years, the newest only about six hundred years ago. Crater Mountain is the tallest of them. You drive the sandy fire roads off Highway 120 toward the saddle below the summit, park at the old barrier, and walk up through Jeffrey pine and pumice to a summit plateau of volcanic plugs. Up top, a brass survey marker, Mono Lake on one side, the Sierra crest on the other, and the June Lake Loop tucked into the mountains below.
+
+{{ trail_card("Crater Mountain", [("Summit", "9,172 ft"), ("Round trip", "About 4 miles"), ("Climb", "About 1,400 ft"), ("Time", "About 2.5 hours"), ("Footing", "Sand, pumice and loose rock; a short Class 2 scramble"), ("Access", "Dirt fire roads; a high-clearance car helps")], img="crater-mountain-summit-view", alt="The view from the summit ridge of Crater Mountain over patchy snow, Jeffrey pines and the high desert to the snowy Sierra crest", cap="The top of the youngest range in North America. Walking up a volcano is two steps forward, one step back, all the way. Bring gaiters, or bring a sense of humor and empty your shoes at the top.") }}
+
+{{ figure("crater-mountain-survey-marker", "A brass U.S. Geological Survey reference mark set in the rock at the summit of Crater Mountain", "The survey marker on top. Touch it. Everybody does.") }}
+
+## Glass Mountain, above the Long Valley Caldera
+
+Southeast of the chalet, on the far rim of the Long Valley Caldera, Glass Mountain is the high point of a range made of obsidian and volcanic glass. Seven hundred and sixty thousand years ago, the eruption that formed the caldera was one of the largest on the continent. From the top you look straight down into it: Crowley Lake, the Owens River winding through the floor, and the whole Sierra crest lined up across the far side. The route is short and steep, on loose cinders, and the drive in on dirt roads off Highway 120 is half the adventure.
+
+{{ trail_card("Glass Mountain", [("Summit", "About 11,100 ft"), ("Trailhead", "Sawmill Meadow, off Highway 120 east"), ("Round trip", "About 3 miles"), ("Climb", "About 2,000 ft, steep cinders"), ("Season", "Late spring to fall; the roads close in winter")], img="glass-mountain-long-valley-view", alt="Looking down a rocky slope from high on Glass Mountain across forested ridges to the Long Valley Caldera, Crowley Lake and the Sierra crest", cap="Short, steep and made of broken glass, which is a sentence nobody wants to hear about a trail. The view of the caldera makes it worth every step.") }}
+
+## Petroglyphs on the high desert
+
+Within about an hour of the chalet, out on the high desert, there are boulders covered in petroglyphs pecked into the rock by the people who have lived in this country for thousands of years. We do not publish where they are, and neither should you. They are fragile, irreplaceable and deeply important to the Paiute people whose ancestors made them. If you would like to see them, ask us in person, and go the way you would visit any place that matters: look, photograph, and touch nothing.
+
+{{ figure("ancient-petroglyphs-high-desert", "Petroglyphs carved into a dark volcanic boulder on the high desert, with bare mountains under a clear blue sky behind", "Thousands of years old, and still here because people left them alone.") }}
 
 ## Gibbs Lake and Kidney Lake
 

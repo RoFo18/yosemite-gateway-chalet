@@ -148,6 +148,10 @@ NAMES = {
     "new-mule-deer-buck.jpg": "mule-deer-buck",
     "new-june-lake-loop-dock-morning.jpg": "june-lake-loop-dock-morning",
     "new-chalet-exterior-sign-carson-peak.jpg": "chalet-exterior-sign-carson-peak",
+    "new-ancient-petroglyphs-high-desert.jpg": "ancient-petroglyphs-high-desert",
+    "new-glass-mountain-long-valley-view.jpg": "glass-mountain-long-valley-view",
+    "new-crater-mountain-summit-view.jpg": "crater-mountain-summit-view",
+    "new-crater-mountain-survey-marker.jpg": "crater-mountain-survey-marker",
 }
 
 

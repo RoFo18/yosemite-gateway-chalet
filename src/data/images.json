@@ -19,6 +19,16 @@
    1800
   ]
  },
+ "ancient-petroglyphs-high-desert": {
+  "color": "#747f92",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "bachar-boulders-climbing": {
   "color": "#76624a",
   "h": 2395,
@@ -155,6 +165,26 @@
   "w": 350,
   "widths": [
    350
+  ]
+ },
+ "crater-mountain-summit-view": {
+  "color": "#6f7886",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "crater-mountain-survey-marker": {
+  "color": "#6c6968",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "crowley-lake-columns-inside": {
@@ -403,6 +433,15 @@
    480,
    800,
    1024
+  ]
+ },
+ "glass-mountain-long-valley-view": {
+  "color": "#61718d",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
   ]
  },
  "grand-room-daylight": {

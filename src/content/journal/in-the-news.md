@@ -9,9 +9,7 @@ hero_alt: The remodeled kitchen and breakfast bar, finished in local timber
 published: 2014-07-25
 updated: 2026-10-27
 ---
-When the chalet was remodeled, it got geothermal heat pumps, the first geothermal retrofit in Mono County. That work, along with recycled tile, local timber and a long list of quieter choices, drew coverage in the press as some of the greenest lodging near Yosemite National Park.
-
-## The coverage
+When we remodeled the chalet, we wanted it to last a long time and sit lightly on a place we love. So it got geothermal heat pumps, the first geothermal retrofit in Mono County, along with recycled tile, local timber and a long list of quieter choices most guests never see. That work drew coverage in the press as some of the greenest lodging near Yosemite National Park.
 
 <div class="press-grid">
 <a href="/docs/magazinereview.pdf">{{ picture("press-magazine-review", "A magazine travel review of the chalet", "280px") }}<span>Magazine review (PDF)</span></a>
@@ -20,9 +18,8 @@ When the chalet was remodeled, it got geothermal heat pumps, the first geotherma
 
 ## What makes it green
 
-- **Geothermal heat pumps** draw warmth from the ground, the first such retrofit in Mono County.
-- **Recycled materials,** including ceramic tile that is 43% recycled.
-- **Local timber** in the eleven-and-a-half-foot dining table and the bar stools.
-- **Organic cotton** sheets and towels, and recycling service at the house.
+The heat comes from the ground. Geothermal heat pumps pull steady warmth out of the earth under the chalet, which is a good trick in a place where the winter nights go well below zero. The tile is 43% recycled. The eleven-and-a-half-foot dining table and the bar stools are cut from local timber. The sheets and towels are organic cotton, and the house has recycling service.
 
-Read more [about the chalet](/the-chalet/#built-to-last-lightly).
+{{ guide_says("The ground under June Lake stays the same temperature all year. The air above it does not. Geothermal is just the house being smart enough to notice.") }}
+
+None of it asks anything of you as a guest, except maybe to notice how quiet the house is when the heat comes on. Read more [about the chalet](/the-chalet/), or [send us your dates](/inquire/).

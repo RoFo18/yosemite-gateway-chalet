@@ -9,22 +9,16 @@ hero_alt: The hydrotherapy tub in its stone surround below the chalet's log wall
 published: 2014-09-27
 updated: 2026-10-27
 ---
-Standing against the backdrop of the Sierra, the Yosemite Gateway Chalet is a spectacular home base for June Lake, Yosemite and Mammoth. It is a helluva joint. But then, so is my left hip.
+Standing against the backdrop of the Sierra, the Yosemite Gateway Chalet is a spectacular home base for June Lake, Yosemite and Mammoth. It is one helluva joint. But then, so is my left hip.
 
-## Miles on the trail
+We came for a fall week of hiking. Every day we followed John Muir's footsteps on the trails of [Tuolumne Meadows](/guides/tuolumne-meadows/) and through the woods around June Lake, and every day my hip kept time. For every photograph I took of the fading summer, every step around the next bend, there was a matching throb at the top of my leg. It was a metronome. Click went my lens. Whump went my hip. By evening it was putting a real damper on a beautiful week, the aspens going gold and the sunsets keeping pace in orange and purple.
 
-After each day following in the footsteps of John Muir, on the trails of [Tuolumne Meadows](/guides/tuolumne-meadows/) and in the woods around June Lake, my hip was aching something fierce. For every photograph I took of the fading summer, and every step around the next bend in the trail, there was a matching throb at the top of my leg.
-
-By evening it was putting a real damper on a beautiful fall in June Lake, where the aspens turn gold and the sunsets keep pace in orange and purple.
-
-It was like a metronome. Click went my lens. Whump went my hip.
+{{ guide_says("Every hiker over forty has one body part that files a complaint after mile eight. You cannot make it stop. You can only negotiate, and the best negotiator I know is hot water.") }}
 
 ## Then, the tub
 
-The outdoor hydrotherapy tub at the chalet is a thing of beauty. It sits off the back deck under Carson Peak, seats six, and runs year round. Slipping into the heat with a fine single malt in hand was like turning back the odometer on my tired body. Ten minutes in was like a quart of fresh oil.
+The outdoor hydrotherapy tub sits off the back deck under Carson Peak, seats six, and runs year round. Slipping into the heat at the end of the day, a fine single malt in hand, was like turning back the odometer. Ten minutes in felt like a quart of fresh oil. Twenty minutes in, I stopped keeping score.
 
-A hotel would have given me a bed. The chalet gave me a log home with friends around the fire, a kitchen big enough to cook for everyone, and that tub under the stars.
+A hotel would have given me a bed. The chalet gave me a log home with friends around the fire, a kitchen big enough to cook for everyone, and that tub under the stars with Yost Creek running past in the dark.
 
-Maybe a sore hip is a small price for a week this rich in beauty, and for the luck of sharing fall in the Sierra with my wife and our friends. Sitting in the tub as the sun dropped behind the mountains, I knew I would be ready to do it all again in the morning.
-
-See [the chalet](/the-chalet/), or [send your dates](/inquire/).
+Maybe a sore hip is a small price for a week that rich, and for the luck of sharing fall in the Sierra with my wife and our friends. Sitting in the tub as the last light left the mountain, I knew I would be ready to do it all again in the morning. And I did. See [the chalet](/the-chalet/), or [send your dates](/inquire/).
