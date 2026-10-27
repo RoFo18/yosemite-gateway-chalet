@@ -4,8 +4,8 @@ template: post
 title: "Fall in June Lake: Golden Aspens, Quiet Trails and Slow Mornings"
 seo_title: "Fall in June Lake: Aspens, Quiet Trails, Slow Mornings"
 description: "Why fall is the secret season on the June Lake Loop: golden aspens, empty trails, wildlife readying for winter, and the best morning light of the year."
-hero: june-lake-loop-fall-aspens-wide
-hero_alt: Golden aspens above a lake on the June Lake Loop in fall
+hero: fall-aspen-meadow-eastern-sierra
+hero_alt: An aspen meadow turning gold in the Eastern Sierra
 published: 2014-09-24
 updated: 2026-10-27
 ---

@@ -6,13 +6,13 @@ nav_title: Lodging near Yosemite's east entrance
 eyebrow: Field guide
 kicker: Field guide
 card: Lee Vining, June Lake or Mammoth? An honest look at where to stay for Tioga Pass and Tuolumne Meadows.
-seo_title: "Lodging near Yosemite's East Entrance and Tioga Pass | Where to Stay"
+seo_title: "Yosemite Lodging near the East Entrance: Where to Stay for Tioga Pass"
 description: "Where to stay for Yosemite's Tioga Pass entrance and Tuolumne Meadows: Lee Vining, June Lake and Mammoth Lakes compared, with distances, seasons, and a whole-home chalet for groups of up to 8."
 topic: lodging near Yosemite east entrance, lodging near Tioga Pass
 hero: yosemite-high-country-lake
 hero_alt: A high country lake below granite peaks near Yosemite's east entrance
 published: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-27
 lead: The east side of Yosemite has no big lodges, so most visitors to Tioga Pass and Tuolumne Meadows stay in one of three towns on US 395. Lee Vining is closest at about 12 miles from the entrance. June Lake, 27 miles away, has lakes, a ski mountain and trails from the door. Mammoth Lakes, about 40 miles away, has the most choice.
 stay_line: Yosemite Gateway Chalet, 27 miles from the Tioga Pass entrance
 glance:

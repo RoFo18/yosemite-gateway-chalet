@@ -25,6 +25,4 @@ June Mountain is a mile from the chalet, two minutes by car. It is a relaxed, un
 
 For experienced backcountry skiers, there is one more reason. With a local guide, you can ski from the top of June Mountain all the way down to the chalet's hot tub. See [winter at the chalet](/experiences/winter/) and our [guide to Yosemite's east side in winter](/guides/yosemite-east-side-in-winter/). For conditions and tickets, check [June Mountain](https://www.junemountain.com/).
 
-{{ figure("kids-ski-free-june-mountain", "Two young skiers in helmets and goggles riding in a gear cart beside a pair of skis", "Kids 12 and under ski free at June Mountain.", "right") }}
-
 Have you felt the Spirit of Glissé? Linking turns on the open slopes of June Mountain, your children might find it too. [Ask about winter dates](/inquire/).

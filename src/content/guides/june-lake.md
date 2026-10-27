@@ -56,21 +56,15 @@ The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, betwee
 
 **June Lake** is the one that gives the town its name, with a sandy beach, a marina and the village on its shore. **Gull Lake**, the smallest, is tucked into the village and has the calmest water for paddling. **Silver Lake** sits deep in the canyon under the cliffs, with phenomenal sunrises and some of the best trout water on the loop. **Grant Lake**, the largest, is a reservoir at the north end, open and windswept, with good bait fishing where the creek comes in. Our [fishing guide](/experiences/fishing/) has the details.
 
-{{ figure("paddleboard-rush-creek-silver-lake", "A paddleboarder on Rush Creek above Silver Lake under snow-streaked peaks", "Paddling Rush Creek above Silver Lake. The chalet keeps five boards in the garage.", "wide") }}
-
 ## June Mountain
 
 June Mountain is a small, friendly ski area right on the loop, with about 2,580 vertical feet of terrain and far fewer crowds than its sister resort in Mammoth. It is also known for excellent lift-assisted backcountry skiing. See [winter at June Lake](/experiences/winter/).
-
-{{ figure("skiing-june-mountain-corduroy", "A lone skier on fresh corduroy at June Mountain", None, "right") }}
 
 ## The seasons
 
 **Winter** brings deep snow, skiing at June Mountain and Mammoth, snowshoeing and ice climbing. The village is quiet and Tioga Road is closed.
 
 **Spring** is snowmelt season. The fishing opener draws anglers from across California, and when Tioga Road opens the high country of Yosemite returns.
-
-{{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", "Summer on Grant Lake.", "left") }}
 
 **Summer** is for hiking, paddling, fishing, climbing and day trips over Tioga Pass to Tuolumne Meadows. Afternoons can bring thunderstorms.
 
@@ -99,4 +93,4 @@ The June Lake General Store has groceries, hardware, liquor and camping supplies
 June Lake has small resorts, cabins and motels near the lakes, plus private vacation homes. Read our guide to [June Lake lodging](/june-lake-lodging/).
 
 
-{{ figure("june-lake-chalet-summer", "The Yosemite Gateway Chalet in summer among aspens and pines", None, "wide") }}
+{{ figure("chalet-grounds-log-exterior", "The chalet's log exterior and stone steps among aspens", None, "wide") }}

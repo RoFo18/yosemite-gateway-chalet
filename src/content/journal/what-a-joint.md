@@ -4,8 +4,8 @@ template: post
 title: "Better Than a June Lake Hotel: A Hot Tub After the Trail"
 seo_title: "Better Than a June Lake Hotel: A Hot Tub After the Trail"
 description: "A guest's account of a fall week hiking from June Lake into Yosemite's high country, and what an outdoor hot tub under Carson Peak does for tired legs."
-hero: hydrotherapy-tub-night-steam
-hero_alt: Steam rising over the outdoor hydrotherapy tub at night
+hero: hydrotherapy-tub-stone-surround
+hero_alt: The hydrotherapy tub in its stone surround below the chalet's log walls
 published: 2014-09-27
 updated: 2026-10-27
 ---

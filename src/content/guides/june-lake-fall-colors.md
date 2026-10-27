@@ -9,7 +9,7 @@ card: When the aspens turn gold on the June Lake Loop, and the best drives and w
 seo_title: "June Lake Loop Fall Colors: When Aspens Peak and Where to See Them"
 description: "When the aspens turn on the June Lake Loop (usually October), where to see them, from Silver Lake and Parker Bench to Lundy and Lee Vining Canyons, and tips for photographing Eastern Sierra fall color."
 topic: June Lake fall colors
-hero: june-lake-loop-fall-aspens
+hero: june-lake-loop-fall-aspens-wide
 hero_alt: Golden aspens above a lake on the June Lake Loop in October
 published: 2026-10-26
 updated: 2026-10-27
@@ -47,8 +47,6 @@ sources:
 
 Fall color in Mono County is a slow wave that rolls downhill. The aspens in the highest canyons begin to turn in late September, and the color moves lower week by week. The June Lake Loop is one of the last places in the county to peak, usually in October, which Mono County Tourism calls the grand finale of the season.
 
-{{ figure("june-lake-loop-fall-aspens-wide", "Fall aspens above a lake on the June Lake Loop", None, "wide") }}
-
 No two years are the same. A dry summer, an early cold snap or a windstorm can move the peak by a week or more, or strip the leaves overnight. Mono County Tourism and California Fall Color both publish color reports through the season, and they are worth checking before you drive.
 
 ## On the loop
@@ -69,8 +67,6 @@ No two years are the same. A dry summer, an early cold snap or a windstorm can m
 
 **Lundy Canyon.** North of Lee Vining, one of the finest aspen walks in the Sierra, with beaver ponds, waterfalls and cliffs. Often at its best in early October.
 
-{{ figure("fall-aspen-meadow-eastern-sierra", "An aspen meadow in fall color in the Eastern Sierra", None, "left") }}
-
 **Lee Vining Canyon.** The canyon below Tioga Pass on Highway 120, where aspens fill the creek bottoms beneath granite walls.
 
 **Conway Summit.** North of Mono Lake on 395, a famous overlook of a huge aspen grove at the foot of the mountains.
@@ -88,4 +84,4 @@ No two years are the same. A dry summer, an early cold snap or a windstorm can m
 Fall is a quiet, beautiful time to stay. The summer crowds are gone, the fire is lit in the evenings, and the hydrotherapy tub is at its best on a cold, clear night. Keep an eye on the weather if you plan to cross Tioga Pass, since the first storm of the season can close the road. See our [Tioga Pass guide](/guides/tioga-pass/).
 
 
-{{ figure("grand-room-fireside-evening", "The Grand Room's open fire on an evening at the chalet", None, "wide") }}
+{{ figure("family-room-evening", "The family room and its wood stove on a fall evening at the chalet", None, "wide") }}

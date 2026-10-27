@@ -52,16 +52,12 @@
 </div>
 {% if related %}
 <section class="related" aria-labelledby="rel-h">
-  <h2 id="rel-h" class="eyebrow">More guides</h2>
-  <div class="rel-grid">
+  <h2 id="rel-h" class="rel-h">More guides</h2>
+  <ul class="rel-links">
   {% for r in related %}
-    <a class="rel-card" href="{{ r.url }}">
-      {% if r.hero %}{{ picture(r.hero, '', '(min-width: 900px) 30vw, 100vw') }}{% endif %}
-      <span class="rel-kicker">{{ r.kicker or r.eyebrow or '' }}</span>
-      <span class="rel-title">{{ r.nav_title or r.title }}</span>
-    </a>
+    <li><a href="{{ r.url }}"><span class="rl-title">{{ r.nav_title or r.title }}</span>{% if r.card or r.description %}<span class="rl-desc">{{ r.card or (r.description|striptags)[:110] }}</span>{% endif %}</a></li>
   {% endfor %}
-  </div>
+  </ul>
 </section>
 {% endif %}
 {% endblock %}

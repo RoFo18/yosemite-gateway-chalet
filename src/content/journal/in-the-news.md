@@ -4,8 +4,8 @@ template: post
 title: "Green Lodging Near Yosemite: The Chalet in the Press"
 seo_title: "Green Lodging Near Yosemite: The Chalet in the Press"
 description: "Press coverage of the Yosemite Gateway Chalet as some of the greenest lodging near Yosemite, including the first geothermal heat pump retrofit in Mono County."
-hero: chalet-exterior-carson-peak
-hero_alt: The Yosemite Gateway Chalet, a large log home below the granite of Carson Peak
+hero: kitchen-and-breakfast-bar
+hero_alt: The remodeled kitchen and breakfast bar, finished in local timber
 published: 2014-07-25
 updated: 2026-10-27
 ---

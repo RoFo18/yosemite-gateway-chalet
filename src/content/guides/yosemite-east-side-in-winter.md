@@ -51,7 +51,7 @@ If seeing the Valley in snow is the goal, plan that as its own trip from the wes
 
 ## What to do instead
 
-{{ figure("skiing-june-mountain-corduroy", "Fresh corduroy and a lone skier on June Mountain", None, "right") }}
+{{ figure("june-mountain-winter-forest", "A vintage Ski June Mt. postcard: a lone skier among snow-plastered trees", None, "right") }}
 
 **Ski June Mountain.** A mile from the chalet, with 2,580 vertical feet, short lines and lift-assisted access to excellent backcountry. With a guide, strong skiers can ski from the top all the way to the chalet's hot tub.
 
@@ -68,8 +68,6 @@ If seeing the Valley in snow is the goal, plan that as its own trip from the wes
 ## Spring: the shoulder season
 
 From April to the Tioga opening, the east side is in between. Lower trails melt out, fishing season opens, Mammoth may still be skiing, and the high country waits. Some of the best backcountry skiing of the year comes in the weeks right after Tioga Road opens.
-
-{{ figure("ice-climbing-lee-vining-canyon", "An ice climber on a frozen fall in Lee Vining Canyon", None, "right") }}
 
 ## Driving the Eastern Sierra in winter
 

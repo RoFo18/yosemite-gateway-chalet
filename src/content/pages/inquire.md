@@ -17,7 +17,7 @@ updated: 2026-10-27
 <section class="avail" id="availability" aria-labelledby="avail-h">
   <div class="avail-head">
     <h2 id="avail-h">Find your dates</h2>
-    <p class="avail-help">Tap an arrival day, then a departure day. Open nights are shown in full; taken nights are crossed out.</p>
+    <p class="avail-help">Tap an arrival day, then a departure day. Booked nights are shaded.</p>
   </div>
   <div class="cal" data-cal>
     <div class="cal-nav">
@@ -26,6 +26,7 @@ updated: 2026-10-27
     </div>
     <div class="cal-months" data-cal-months aria-live="polite"></div>
   </div>
+  <p class="cal-legend" aria-hidden="true"><span><i class="lg-open"></i>Open</span><span><i class="lg-booked"></i>Booked</span><span><i class="lg-stay"></i>Your stay</span></p>
   <div class="cal-bar">
     <div class="cal-summary" data-cal-summary><span class="cs-label">Your stay</span><span class="cs-value">Choose an arrival day</span></div>
     <div class="cal-actions">

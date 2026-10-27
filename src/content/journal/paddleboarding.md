@@ -4,8 +4,8 @@ template: post
 title: "Paddleboarding Rush Creek and a Summer Day on the June Lake Loop"
 seo_title: "Paddleboarding Rush Creek and Summer on the June Lake Loop"
 description: "Five paddleboards in the chalet's garage, a slow paddle up Rush Creek above Silver Lake, and a leap into Grant Lake: a summer day on the June Lake Loop."
-hero: paddleboard-rush-creek-silver-lake
-hero_alt: A paddleboarder on Rush Creek above Silver Lake, with snow-streaked granite peaks behind
+hero: paddleboarding-rush-creek-family-bw
+hero_alt: Two paddleboarders, a child and a dog on Rush Creek above Silver Lake, in black and white
 published: 2026-10-27
 updated: 2026-10-27
 ---
@@ -17,15 +17,11 @@ Our favorite paddle is Rush Creek where it winds into Silver Lake. Put in on Sil
 
 ## Grant Lake
 
-{{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", None, "right") }}
-
 Grant Lake, the largest lake on the loop, sits at its north end, open and wild. Granite ledges line parts of the shore, the water is cold and clear, and on a hot afternoon it is hard to resist. Check the depth and your landing before anyone jumps.
 
 ## Gull Lake and June Lake
 
 Gull Lake, the smallest, is closest to the chalet and home to the rope swing that has launched generations of summers. June Lake has a sandy beach for a slow afternoon. Both are calm in the morning and good for a first paddle with kids.
-
-{{ figure("gull-lake-rope-swing", "A swimmer flying off the rope swing over Gull Lake", "The Gull Lake rope swing.", "wide") }}
 
 ## After the water
 

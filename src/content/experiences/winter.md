@@ -32,8 +32,6 @@ World-famous [Mammoth Mountain](https://www.mammothmountain.com/), home to many 
 
 The Eastern Sierra holds some of the best spring backcountry skiing in North America, with options within three miles of the chalet. When Tioga Road opens in late spring, [Tioga Pass](/guides/tioga-pass/) draws backcountry skiers from across the country. We recommend going with a local guide service such as [Sierra Mountain Guides](https://www.sierramtnguides.com/).
 
-{{ figure("backcountry-skier-gaylor-peak", "A guest skinning toward Gaylor Peak near Tioga Pass", "A guest on the way up Gaylor Peak, near Tioga Pass.", "left") }}
-
 ## Snowshoeing from the chalet
 
 Skip the car. Rent snowshoes at Ernie's in June Lake village and walk from the house to the Fern and Yost Lakes trail, about a mile down-canyon. Snowmobiling, dog sledding and miles of groomed cross-country trails are all nearby.

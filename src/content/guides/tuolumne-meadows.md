@@ -60,8 +60,6 @@ It is also, for anyone coming from the east, the near side of Yosemite. From Jun
 
 Tuolumne is open only while Tioga Road is open, usually from late May or June until about November. Early summer brings snowmelt, full rivers and mosquitoes. July and August bring wildflowers, warm days and afternoon thunderstorms. September and early October are quieter, cooler and often the most beautiful, until the first storm closes the road. See our [Tioga Pass guide](/guides/tioga-pass/) for how the opening works.
 
-{{ figure("yosemite-high-country-lake", "A high country lake near Tioga Pass under a big sky", None, "wide") }}
-
 ## The best day hikes
 
 Distances and times below come from the National Park Service.
@@ -107,8 +105,6 @@ From Twin Bridges, the trail continues up the long, gentle floor of Lyell Canyon
 
 Tuolumne's domes and spires are one of America's great alpine climbing areas, from moderate routes on Lembert Dome to the classic ridges of Cathedral Peak and Matthes Crest. The climbing season is short and the rock is superb.
 
-{{ figure("fall-view-over-yosemite-climber", "A hiker above a lake in the High Sierra in fall", None, "left") }}
-
 ## Practical notes
 
 - **Facilities change.** What is open in Tuolumne, including the visitor center, store, grill, campground and lodge, varies by year and by month. Check the National Park Service before you count on any of it.
@@ -120,8 +116,6 @@ Tuolumne's domes and spires are one of America's great alpine climbing areas, fr
 ## Getting there from June Lake
 
 From the Yosemite Gateway Chalet, take Highway 395 north to Lee Vining and Highway 120 west over Tioga Pass. The meadows are about eight miles past the entrance station, about 45 minutes in all. In summer, the YARTS bus between the Eastern Sierra and Yosemite Valley also stops at June Lake and in Tuolumne, which makes one-way hikes possible.
-
-{{ figure("granite-boulder-pond", "A granite boulder reflected in a clear green pond", None, "wide") }}
 
 ## Where to stay
 

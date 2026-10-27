@@ -7,9 +7,8 @@ kicker: FAQ
 seo_title: "FAQ | Yosemite Gateway Chalet, June Lake Vacation Rental"
 description: "Answers about Yosemite Gateway Chalet: sleeps 8, beds, the $295 cleaning fee, the year-round hot tub, distance to Yosemite, parking, pets and check-in."
 topic: Yosemite Gateway Chalet FAQ
-hero: paddleboarding-rush-creek-family-bw
-hero_alt: Two paddleboarders, a child and a dog on Rush Creek above Silver Lake, in black and white
-hero_focus: 50% 70%
+hero: guests-celebrating-in-snow
+hero_alt: Two guests throwing their arms up in the sun after a day in the snow
 lead: The questions guests ask most, answered plainly.
 faq_title: Staying at the chalet
 faq_open: true

@@ -18,8 +18,6 @@ related: [/experiences/hiking/, /experiences/fishing/, /guides/tuolumne-meadows/
 
 Five stand-up paddleboards wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the canyon walls. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
 
-{{ figure("paddleboard-rush-creek-silver-lake", "A paddleboarder on Rush Creek above Silver Lake, with snow-streaked granite peaks behind", "Rush Creek above Silver Lake.", "wide") }}
-
 ## Lake days
 
 {{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", "A summer leap into Grant Lake.", "right") }}

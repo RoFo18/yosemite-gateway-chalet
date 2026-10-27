@@ -23,8 +23,6 @@ About seventeen minutes from the chalet. Walk among the tufa towers on the south
 
 ## Wild mustangs
 
-{{ figure("wild-mustangs-mono-basin", "Wild mustangs grazing in sagebrush on the high desert near Mono Lake", "Wild mustangs in the Mono Basin.", "wide") }}
-
 Bands of wild mustangs roam the high desert around Mono Lake, grazing the sagebrush flats between the lake and the Nevada line. They are truly wild, and seeing a herd move across open country in the evening light is one of the most majestic sights in the Eastern Sierra. Sightings are never guaranteed, which is part of the magic. If you find them, stay well back, stay in or near your car, and never feed or approach them.
 
 ## Bodie State Historic Park

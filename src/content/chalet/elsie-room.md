@@ -15,8 +15,6 @@ related: [/the-chalet/master-suite/, /the-chalet/river-room/, /the-chalet/floorp
 ---
 The Elsie Room is the one guests photograph. Its private bath holds a ruby-red claw-foot tub, deep enough for a proper soak after a day on the trail, and the bedroom window frames the peaks above the June Lake Loop.
 
-{{ gallery([("elsie-room-suite", "The Elsie Room, with windows on two sides and a sitting corner"), ("elsie-room-claw-foot-tub", "The Elsie Room's ruby-red claw-foot tub")], 2) }}
-
 {{ facts([("Bed", "Memory foam"), ("Bath", "Private, with claw-foot tub"), ("View", "Granite peaks"), ("Level", "Upper")]) }}
 
 [Inquire about dates](/inquire/)
