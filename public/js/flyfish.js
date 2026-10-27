@@ -89,10 +89,10 @@
     const el = document.getElementById('fft-map');
     if (!window.L || !el) { if (el) el.innerHTML = '<ul class="fft-list">' + D.waters.map(w => `<li><a href="${w.url}">${esc(w.name)}</a></li>`).join('') + '</ul>'; return; }
     const map = L.map(el, { scrollWheelZoom: false, zoomControl: true, attributionControl: true }).setView([D.home.lat - 0.12, D.home.lng + 0.12], 9);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-      maxZoom: 13, subdomains: 'abcd',
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+      maxZoom: 16, attribution: 'Tiles &copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors'
     }).addTo(map);
+    L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom: 16, opacity: .7 }).addTo(map);
     L.circle([D.home.lat, D.home.lng], { radius: 96560, color: '#d9b27a', weight: 1, opacity: .45, fill: false, dashArray: '2 6', interactive: false }).addTo(map);
     L.circleMarker([D.home.lat, D.home.lng], { radius: 5, color: '#f1efe8', fillColor: '#f1efe8', fillOpacity: 1, weight: 0 })
       .addTo(map).bindTooltip('The chalet', { direction: 'top', className: 'fft-tip' });
