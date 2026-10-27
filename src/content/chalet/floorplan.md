@@ -16,13 +16,13 @@ related: [/the-chalet/, /the-chalet/master-suite/, /gallery/]
 <a class="plan-img" href="/img/floorplan-main-level-670.webp" data-lightbox aria-label="Enlarge the main level floorplan">{{ picture("floorplan-main-level", "Main level floorplan: Grand Room with fireplace and wet bar, deck, hydrotherapy tub, entry hall, dining room, kitchen, family room with wood stove, mud room and half bath", "(min-width: 1000px) 720px, 100vw") }}<span class="plan-zoom">Tap to enlarge</span></a>
 <div class="plan-key">
 <h2>Main level</h2>
-<p>Where everyone gathers. The entry hall opens to the Grand Room on one side and the kitchen on the other.</p>
+<p>Where everyone gathers. Steps lead up from the driveway to the front door, and the entry hall opens to the Grand Room on one side and the kitchen on the other.</p>
 <dl>
-<div><dt>Grand Room</dt><dd>Twenty-one-foot ceiling, open fireplace, oak bar and wet bar</dd></div>
+<div><dt>Grand Room</dt><dd>Twenty-one-foot ceiling, open fireplace, oak bar and wet bar, and a pull-out futon that sleeps one or two</dd></div>
 <div><dt>Deck and tub</dt><dd>Through the Grand Room doors, with the outdoor hydrotherapy tub under Carson Peak</dd></div>
 <div><dt>Kitchen</dt><dd>Remodeled, with a six-burner stove and a handmade copper sink</dd></div>
 <div><dt>Dining room</dt><dd>An eleven-and-a-half-foot table of local pine</dd></div>
-<div><dt>Family room</dt><dd>Wood stove and a queen futon, open to the kitchen</dd></div>
+<div><dt>Family room</dt><dd>Wood stove, open to the kitchen</dd></div>
 <div><dt>Mud room</dt><dd>Room for skis, boots and paddleboard gear</dd></div>
 <div><dt>Half bath</dt><dd>Off the entry hall</dd></div>
 </dl>
@@ -35,9 +35,9 @@ related: [/the-chalet/, /the-chalet/master-suite/, /gallery/]
 <h2>Upper level</h2>
 <p>Three suites off a catwalk above the Grand Room, each with its own bath.</p>
 <dl>
-<div><dt><a href="/the-chalet/master-suite/">Master suite</a></dt><dd>California King, private two-person jacuzzi, and a sleeping loft with a pull-out couch</dd></div>
-<div><dt><a href="/the-chalet/elsie-room/">Elsie Room</a></dt><dd>Ruby-red claw-foot tub and windows on two sides</dd></div>
-<div><dt><a href="/the-chalet/river-room/">River Room</a></dt><dd>The quietest room, with Yost Creek below the window</dd></div>
+<div><dt><a href="/the-chalet/master-suite/">Master suite</a></dt><dd>California King, private two-person jacuzzi, and a loft above with a pull-out sofa</dd></div>
+<div><dt><a href="/the-chalet/elsie-room/">Elsie Room</a></dt><dd>California King, ruby-red claw-foot tub and windows on two sides</dd></div>
+<div><dt><a href="/the-chalet/river-room/">River Room</a></dt><dd>Queen bed, the quietest room, with Yost Creek below the window</dd></div>
 </dl>
 </div>
 </section>

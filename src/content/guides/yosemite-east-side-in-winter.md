@@ -79,5 +79,3 @@ From April to the Tioga opening, the east side is in between. Lower trails melt 
 
 The fire is lit, the tub is hot, and June Mountain is a mile away. Read about [winter at June Lake](/experiences/winter/).
 
-
-{{ figure("hydrotherapy-tub-winter-guests", "Guests in the outdoor hydrotherapy tub in winter", None, "wide") }}

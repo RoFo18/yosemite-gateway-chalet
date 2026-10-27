@@ -617,6 +617,15 @@
    641
   ]
  },
+ "june-mountain-steep-powder": {
+  "color": "#a0a4b5",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
  "june-mountain-winter-forest": {
   "color": "#7fa7a5",
   "h": 1048,

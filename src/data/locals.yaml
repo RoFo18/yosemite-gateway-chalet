@@ -1,0 +1,79 @@
+# The local businesses we send guests to. Rendered on /local-favorites/ and published as
+# /shoutouts.json, a plain feed that social-media tools and bots can read to write posts.
+# Only verified links. Keep every post under 240 characters, no em dashes.
+locals:
+  - id: ernies
+    name: Ernie's Tackle and Ski Shop
+    kind: SportingGoodsStore
+    what: Ski and snowboard rentals, tunes, fishing tackle, licenses and the best local report in June Lake.
+    address: 2604 Boulder Dr., June Lake, CA 93529
+    phone: (760) 648-7756
+    url: https://www.erniestackleandskishop.com/
+    instagram: https://www.instagram.com/erniestacklejl/
+    facebook: https://www.facebook.com/Erniestackleandski/
+    handle: "@erniestacklejl"
+    used_on: [/experiences/winter/, /fly-fishing/, /fly-fishing/june-lake-loop/]
+    posts:
+      - "Skiing June Mountain this week? Get your rentals and a tune at Ernie's Tackle and Ski Shop in June Lake village. Same crew sets you up on a fly rod all summer. @erniestacklejl"
+      - "Before you fish the June Lake Loop, stop at Ernie's. Flies, licenses and the only fishing report that matters. @erniestacklejl"
+      - "Forgot your gloves, your wax, or your waders? Ernie's in June Lake has it, and a good story to go with it. @erniestacklejl"
+  - id: la-parrilla
+    name: La Parrilla
+    kind: Restaurant
+    what: The best Mexican food in the Eastern Sierra, at the window outside June Lake Brewing.
+    address: June Lake village, outside June Lake Brewing
+    instagram: https://www.instagram.com/laparrilla_158/
+    handle: "@laparrilla_158"
+    used_on: [/experiences/dining/]
+    posts:
+      - "Best Mexican food in the Eastern Sierra, and we will not be talked out of it: La Parrilla, at the window outside June Lake Brewing. @laparrilla_158"
+      - "Ski day, fishing day, any day: end it with tacos from La Parrilla and a pint next door at June Lake Brewing. @laparrilla_158"
+  - id: tiger-bar
+    name: The Tiger Bar
+    kind: BarOrPub
+    what: June Lake's historic bar and grill, under new management since 2026 from the same owners as La Parrilla.
+    address: June Lake village
+    used_on: [/experiences/dining/]
+    posts:
+      - "The Tiger Bar in June Lake has new owners, the same crew behind La Parrilla, and the food has never been better. One of the oldest liquor licenses in California, and still the best room in town."
+      - "Après in June Lake means the Tiger Bar. New management, great food, the same old bar. Go."
+  - id: general-store
+    name: June Lake General Store
+    kind: GroceryStore
+    what: Groceries, coffee, firewood and the forgotten essentials, in June Lake village.
+    address: June Lake village
+    used_on: [/guides/june-lake/]
+    posts:
+      - "Staying on the June Lake Loop? The June Lake General Store has your groceries, your coffee, your firewood and the thing you forgot to pack."
+  - id: sierra-mountain-guides
+    name: Sierra Mountain Guides
+    kind: TravelAgency
+    what: IFMGA-certified guiding, the backcountry tours at June Mountain, avalanche courses, and ice and alpine climbing. Owner and lead guide Howie Schwartz.
+    url: https://sierramtnguides.com/
+    instagram: https://www.instagram.com/sierramountainguides/
+    facebook: https://m.facebook.com/sierramtnguides
+    handle: "@sierramountainguides"
+    used_on: [/experiences/winter/]
+    posts:
+      - "Ski from the top of June Mountain to a hot tub. With Sierra Mountain Guides and Howie Schwartz, snow allowing, you can. Avalanche training required, good times included. @sierramountainguides"
+      - "June Mountain has some of the best lift-assisted backcountry in the lower 48. Do it right: go with Sierra Mountain Guides. @sierramountainguides"
+      - "Want to learn the backcountry yourself? Sierra Mountain Guides runs avalanche courses all winter in the Eastern Sierra. @sierramountainguides"
+  - id: sierra-moments
+    name: Sierra Moments Fishing Adventures
+    kind: TravelAgency
+    what: Family-friendly fishing and fly-fishing guide service in June Lake, run by Scott "Knot," with 50+ years on Eastern Sierra water.
+    phone: (760) 577-1247
+    url: https://www.sierramoments.com/
+    facebook: https://www.facebook.com/sierramoments
+    used_on: [/fly-fishing/, /fly-fishing/upper-owens-river/, /fly-fishing/june-lake-loop/]
+    posts:
+      - "First trout on a fly rod? Call Knot at Sierra Moments Fishing Adventures in June Lake. Fifty years on Eastern Sierra water and very good with kids."
+      - "The Upper Owens, the June Lake Loop or a backcountry lake: Knot at Sierra Moments knows where the fish are this week."
+  - id: frontier-pack-train
+    name: Frontier Pack Train
+    kind: TouristAttraction
+    what: Horseback rides from an hour to several days, from the pack station near Silver Lake on the June Lake Loop.
+    phone: (760) 648-7701
+    used_on: [/experiences/hiking/]
+    posts:
+      - "Horseback up Parker Bench with Mono Lake laid out below. Frontier Pack Train on the June Lake Loop, a few minutes from the chalet."

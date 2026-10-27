@@ -75,3 +75,8 @@ Tioga Road (Highway 120) over Tioga Pass is seasonal, usually open from late May
 - Rates and policies: {{ SITE }}/rates-and-policies/
 
 Last updated {{ BUILD_DATE }}.
+
+## Local favorites
+
+- Local businesses we recommend, with verified links: {{ SITE }}/local-favorites/
+- Machine-readable feed with ready-to-post text for social media: {{ SITE }}/shoutouts.json

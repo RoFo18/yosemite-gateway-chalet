@@ -42,3 +42,5 @@ A summer favorite and the best breakfast on the loop. Arrive early to beat the w
 The best food between June Lake and the Nevada border, inside the gas station at the junction of Highways 120 and 395 just before Lee Vining. It is the last stop before Tioga Pass and the first one back. Remarkably refined, and always busy in summer.
 
 {{ note("Many restaurants here are seasonal and change their hours often. Call ahead, especially in spring and late fall.") }}
+
+More of the places we love, from Ernie's to the general store, are on our [local favorites](/local-favorites/) page.

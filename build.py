@@ -48,7 +48,7 @@ FOOTER = [
                 ("June Lake lodging", "/june-lake-lodging/"), ("June Lake cabin rentals", "/june-lake-cabin-rentals/"),
                 ("Group lodging near Yosemite", "/yosemite-group-lodging/"), ("Tuolumne Meadows lodging", "/tuolumne-meadows-lodging/"),
                 ("June Mountain lodging", "/june-mountain-lodging/"), ("When Tioga Pass opens", "/guides/tioga-pass-opening-dates/")]),
-    ("More", [("Getting here", "/location/"), ("FAQ", "/faq/"), ("Journal", "/journal/"), ("Privacy", "/privacy/")]),
+    ("More", [("Getting here", "/location/"), ("FAQ", "/faq/"), ("Local favorites", "/local-favorites/"), ("Journal", "/journal/"), ("Privacy", "/privacy/")]),
 ]
 
 
@@ -285,6 +285,30 @@ def ff_tool():
         f'<script type="application/json" id="ff-data">{json.dumps(data)}</script></section>')
 
 
+LOCALS = yaml.safe_load(open(os.path.join(SRC, "data", "locals.yaml"), encoding="utf-8"))["locals"]
+
+
+def locals_list():
+    """Our favorite local businesses, with verified links and LocalBusiness data for search and AI."""
+    items, ld = [], []
+    for b in LOCALS:
+        links = [(k, b[k]) for k in ("url", "instagram", "facebook") if b.get(k)]
+        lab = {"url": "Website", "instagram": "Instagram", "facebook": "Facebook"}
+        ls = "".join(f'<a href="{u}" rel="noopener" target="_blank">{lab[k]}</a>' for k, u in links)
+        meta = " &middot; ".join(html.escape(x) for x in (b.get("address"), b.get("phone")) if x)
+        items.append(f'<article class="lf"><h2 id="{b["id"]}">{html.escape(b["name"])}</h2><p>{html.escape(b["what"])}</p>'
+                     f'{f"<p class=lf-meta>{meta}</p>" if meta else ""}{f"<p class=dine-links>{ls}</p>" if ls else ""}</article>')
+        d = {"@type": b["kind"], "name": b["name"], "description": b["what"],
+             "address": {"@type": "PostalAddress", "addressLocality": "June Lake", "addressRegion": "CA", "addressCountry": "US"}}
+        if b.get("phone"): d["telephone"] = b["phone"]
+        same = [b[k] for k in ("url", "instagram", "facebook") if b.get(k)]
+        if same: d["sameAs"] = same
+        ld.append({"@type": "ListItem", "position": len(ld) + 1, "item": d})
+    data = {"@context": "https://schema.org", "@type": "ItemList", "name": "Local favorites near the Yosemite Gateway Chalet", "itemListElement": ld}
+    return Markup('<div class="lf-list">' + "".join(items) + '</div>'
+                  f'<script type="application/ld+json">{json.dumps(data, ensure_ascii=False)}</script>')
+
+
 def guide_says(text):
     """An aside from the guide: confident, unqualified, occasionally right."""
     return Markup(f'<aside class="gs"><p class="gs-k">From the guide\'s chair</p><p class="gs-t">{text}</p></aside>')
@@ -446,7 +470,7 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, ff_calendar=ff_calendar, ff_drive=ff_drive, ff_facts=ff_facts, ff_tool=ff_tool, guide_says=guide_says, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, ff_calendar=ff_calendar, ff_drive=ff_drive, ff_facts=ff_facts, ff_tool=ff_tool, guide_says=guide_says, locals_list=locals_list, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):
@@ -501,6 +525,13 @@ def main():
             text = re.sub(r"<[^>]+>", "", str(body))
             text = re.sub(r"\n{3,}", "\n\n", html.unescape(text)).strip()
             llms_full.append(f"# {c['title']}\n\nURL: {SITE}{url}\nLast checked: {c.get('updated')}\n\n{c.get('lead','')}\n\n{text}\n")
+
+    # shoutouts.json: a plain feed of local businesses and ready-to-post blurbs for social tools and bots
+    feed = {"source": SITE + "/local-favorites/", "updated": str(BUILD_DATE),
+            "note": "Local businesses the Yosemite Gateway Chalet recommends. Each entry has verified links and ready-to-post text under 240 characters. Please credit and link the business.",
+            "businesses": [{k: b[k] for k in ("id", "name", "what", "address", "phone", "url", "instagram", "facebook", "handle", "posts") if b.get(k)}
+                           | {"page": SITE + "/local-favorites/#" + b["id"], "mentioned_on": [SITE + u for u in b.get("used_on", [])]} for b in LOCALS]}
+    open(os.path.join(DIST, "shoutouts.json"), "w").write(json.dumps(feed, indent=1, ensure_ascii=False))
 
     # sitemap
     urls = "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{d}</lastmod></url>" for u, d in sorted(sitemap))

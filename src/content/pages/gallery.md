@@ -26,7 +26,7 @@ lead: The chalet, the canyon it sits in, and the high country beyond, one photog
   ("dining-room-timber-table", "An eleven-and-a-half-foot table", "Made from local pine, long enough for eight and the next morning's maps."),
   ("dinner-at-the-chalet", "Dinner at home", "Some nights you cook. The kitchen is stocked down to the garlic press."),
   ("kitchen-copper-sink", "The kitchen", "Fully remodeled, with a handmade copper sink, a six-burner stove and a double oven."),
-  ("family-room-wood-stove", "The family room", "A wood stove and a queen futon beside the kitchen. Late conversations end up here."),
+  ("family-room-wood-stove", "The family room", "A wood stove beside the kitchen. Late conversations end up here."),
  ]),
  ("Suites", [
   ("master-suite-bed", "The master suite", "A California King under a log ceiling, a private two-person jacuzzi, and a loft above."),

@@ -127,6 +127,7 @@ NAMES = {
     "new-fly-cast-beard.jpg": "fly-casting-freestone-creek",
     "new-kid-fly-fishing.jpg": "young-angler-fly-fishing-creek",
     "new-fly-cast-red-cap.jpg": "fly-casting-below-granite",
+    "new-june-mountain-steep-powder.jpg": "june-mountain-steep-powder",
 }
 
 

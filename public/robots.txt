@@ -47,4 +47,5 @@ Allow: /
 User-agent: DuckDuckBot
 Allow: /
 
+# Social and AI tools: a plain feed of the local businesses we recommend is at /shoutouts.json
 Sitemap: https://yosemitechalet.us/sitemap.xml

@@ -7,8 +7,8 @@ kicker: Suite
 seo_title: Master Suite with Private Jacuzzi | Yosemite Gateway Chalet, June Lake
 description: The master suite at Yosemite Gateway Chalet has a California King memory foam bed, a private two-person jacuzzi, and a sleeping loft with a pull-out couch.
 topic: June Lake cabin with jacuzzi
-hero: master-suite-jacuzzi-and-beds
-hero_alt: "The master suite's two-person jacuzzi beside the double vanity, with the beds and log walls beyond"
+hero: master-suite-bed
+hero_alt: "The master suite: the California King in front, the two-person jacuzzi and the loft stairs beyond, under a log ceiling"
 lead: A California King memory foam bed, a private two-person jacuzzi, and a sleeping loft above.
 updated: 2026-10-26
 related: [/the-chalet/elsie-room/, /the-chalet/river-room/, /the-chalet/floorplan/]

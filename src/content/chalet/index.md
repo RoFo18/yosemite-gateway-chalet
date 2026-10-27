@@ -17,13 +17,15 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 ---
 <p class="ch-intro">A hand-built log home of four thousand square feet on the June Lake Loop, rented whole to one party of up to eight. Granite in every window, a creek through the grounds, and a hot tub under Carson Peak.</p>
 
+{{ video_tour("dYlCn8rzxA8", "Walkthrough of the Yosemite Gateway Chalet", 'Filmed by <a href="https://californiathroughmylens.com/" rel="noopener" target="_blank">California Through My Lens</a>, the California travel writers, who stayed with us. <a href="https://www.youtube.com/watch?v=dYlCn8rzxA8" rel="noopener" target="_blank">Watch on YouTube</a>.', 2.95, "2018-11-18", "A three-minute video walkthrough of the Yosemite Gateway Chalet in June Lake, California, filmed by California Through My Lens.") }}
+
 <dl class="ch-glance">
 <div><dt>Who it suits</dt><dd>Families and groups of up to eight</dd></div>
 <div><dt>Sleeps</dt><dd>8 in three suites, each with its own bath</dd></div>
 <div><dt>Yosemite</dt><dd>27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November</dd></div>
 <div><dt>June Mountain</dt><dd>1 mile; kids 12 and under ski free</dd></div>
 <div><dt>Season</dt><dd>Open all year; the hot tub runs all year</dd></div>
-<div><dt>Fees</dt><dd>Flat $295 cleaning fee plus 15% Mono County tax</dd></div>
+<div><dt>Arrival</dt><dd>Parking for three cars, and steps up from the driveway to the front door</dd></div>
 </dl>
 
 <section class="ch-split">
@@ -45,11 +47,11 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 </section>
 
 <section class="ch-split">
-<div class="ch-media">{{ picture("chalet-lawn-lodgepole-pines", "The chalet's lawn and log walls among lodgepole pines", "(min-width: 900px) 55vw, 100vw") }}</div>
+<div class="ch-media"><a href="/gallery/#tub">{{ picture("hydrotherapy-tub-winter-guests", "Guests in the steaming outdoor hydrotherapy tub in winter, snow piled around it", "(min-width: 900px) 55vw, 100vw") }}</a></div>
 <div class="ch-copy">
-<h2>The tub and the grounds</h2>
-<p>The outdoor hydrotherapy tub seats six and runs all year, just off the back deck under Carson Peak. Yost Creek runs through the grounds, and the trail to Fern Lake starts a mile down-canyon from the back door.</p>
-<p>Five paddleboards wait in the garage for Silver Lake and Rush Creek.</p>
+<h2>The hot tub</h2>
+<p>The outdoor hydrotherapy tub seats six and runs all year, just off the back deck, looking straight up at Carson Peak. Two creeks run through the two-thirds of an acre around it, and the national forest begins at the back fence. Most nights, the creek is the only sound.</p>
+<p><a class="link-arrow" href="/gallery/#tub">See the tub</a></p>
 </div>
 </section>
 
@@ -57,14 +59,14 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <h2 id="suites">The suites</h2>
 <p class="ch-sub">Three bedrooms upstairs, each its own retreat with a private bath and a memory foam bed. The master has the house's indoor hot tub, a jacuzzi for two.</p>
 <div class="ch-suite-row">
-<a class="ch-suite" href="/the-chalet/master-suite/">{{ picture("master-suite-evening", "The master suite in the evening, under its log ceiling", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Master Suite</span><span class="cs-line">California King, a sleeping loft and its own indoor two-person jacuzzi</span></a>
-<a class="ch-suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-red-claw-foot-tub", "The Elsie Room's ruby-red claw-foot tub under a timber window, with brass fixtures", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Elsie Room</span><span class="cs-line">A ruby-red claw-foot tub and windows on two sides</span></a>
-<a class="ch-suite" href="/the-chalet/river-room/">{{ picture("river-room-suite", "The River Room, with windows onto the forest", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">River Room</span><span class="cs-line">The quietest room, with Yost Creek below the window</span></a>
+<a class="ch-suite" href="/the-chalet/master-suite/">{{ picture("master-suite-jacuzzi-and-beds", "The master suite's two-person jacuzzi with the California King beside it, under log walls", "(min-width: 900px) 33vw, 100vw", fit="70% 60%") }}<span class="cs-name">Master Suite</span><span class="cs-line">California King, an indoor two-person jacuzzi, and a loft with a pull-out sofa</span></a>
+<a class="ch-suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-claw-foot-tub", "The Elsie Room's ruby-red claw-foot tub beneath a timber window", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Elsie Room</span><span class="cs-line">California King, a ruby-red claw-foot tub, and windows on two sides</span></a>
+<a class="ch-suite" href="/the-chalet/river-room/">{{ picture("river-room-suite", "The River Room, with windows onto the forest", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">River Room</span><span class="cs-line">Queen bed, the quietest room, with Yost Creek below the window</span></a>
 </div>
 <p class="ch-more"><a href="/the-chalet/floorplan/">See both floors on the floorplan</a></p>
 </section>
 
-{{ video_tour("dYlCn8rzxA8", "Walkthrough of the Yosemite Gateway Chalet", 'Filmed by <a href="https://californiathroughmylens.com/" rel="noopener" target="_blank">California Through My Lens</a>, the California travel writers, who stayed with us. <a href="https://www.youtube.com/watch?v=dYlCn8rzxA8" rel="noopener" target="_blank">Watch on YouTube</a>.', 2.95, "2018-11-18", "A three-minute video walkthrough of the Yosemite Gateway Chalet in June Lake, California, filmed by California Through My Lens.") }}
+
 
 <section class="ch-amen" aria-labelledby="in-the-house">
 <h2 id="in-the-house">In the house</h2>
@@ -73,7 +75,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <h3>To soak</h3>
 <p>Two hot tubs: the outdoor hydrotherapy tub for six, open all year under Carson Peak, and an indoor two-person jacuzzi in the master suite. Plus a claw-foot tub in the Elsie Room.</p>
 <h3>To sleep</h3>
-<p>Two California Kings and a queen in the suites, all memory foam, plus a pull-out couch in the loft and a queen futon in the family room. Organic cotton sheets and towels.</p>
+<p>Eight overnight guests: two California Kings and a queen in the three suites, all memory foam, plus a pull-out sofa in the master suite's loft and a pull-out futon in the Grand Room. Organic cotton sheets and towels.</p>
 </div>
 <div>
 <h3>To play</h3>

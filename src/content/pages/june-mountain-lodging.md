@@ -45,6 +45,10 @@ June Mountain is the quiet one. It has about 2,500 vertical feet of terrain for 
 
 When you want bigger terrain, Mammoth Mountain is about 30 minutes south.
 
+## Plowed out first
+
+The chalet is on Highway 158, not up a side road, and we hire professional plowing for the driveway. On a powder morning you are out, a mile from the lift, and in line while guests up the back roads are still waiting for their plow. The whole story is on our [skiing page](/experiences/winter/#plowed-out-first).
+
 ## A ski day from the chalet
 
 Coffee by the fire, boots on in the mud room, and two minutes to the lot. Ski until the legs give out, then come home to snow banked around the hot tub. Guests have been known to bury drinks in the snowbank before heading out and dig them up at the end of the day.

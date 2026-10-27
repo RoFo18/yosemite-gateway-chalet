@@ -4,52 +4,62 @@
   {{ picture('chalet-exterior-carson-peak', 'The Yosemite Gateway Chalet, a large log home among aspens and pines, with the granite face of Carson Peak rising behind it', '100vw', 'hero-img', eager=True, fit='50% 30%') }}
   <div class="hero-copy">
     <p class="eyebrow">June Lake &middot; Eastern Sierra &middot; Yosemite's east side</p>
-    <h1 id="hero-h">A private log chalet at the edge of Yosemite's high country</h1>
+    <h1 id="hero-h">A private log chalet in June Lake, where the Sierra starts at the back door</h1>
     <div class="btn-row">
       <a class="btn btn-solid" href="/inquire/#availability">Check availability</a>
-      <a class="btn btn-ghost-light" href="/the-chalet/">Explore the chalet</a>
+      <a class="btn btn-ghost-light" href="/the-chalet/#walkthrough">Watch the video tour</a>
     </div>
   </div>
 </section>
 
-<section class="intro" aria-label="About the chalet">
-  <p class="statement">Four thousand square feet of hand-hewn log home on the June Lake Loop, rented whole to one party of up to eight. Three private suites. A Grand Room with a 21-foot ceiling and an open fire. An outdoor hydrotherapy tub under the granite of Carson Peak, and a creek running through the grounds.</p>
-  <dl class="spec">
-    <div><dt>Who it suits</dt><dd>Families and groups of up to eight</dd></div>
-    <div><dt>Sleeps</dt><dd>8 in three suites, each with its own bath</dd></div>
-    <div><dt>Yosemite</dt><dd>27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November</dd></div>
-    <div><dt>June Mountain</dt><dd>1 mile; kids 12 and under ski free</dd></div>
-    <div><dt>Season</dt><dd>Open all year; the hot tub runs all year</dd></div>
-    <div><dt>Fees</dt><dd>Flat $295 cleaning fee plus 15% Mono County tax</dd></div>
-  </dl>
+<section class="intro" aria-label="Why guests come">
+  <p class="statement">People come here for the moments that do not happen at home. Kids falling asleep to the sound of the creek. A hot tub under Carson Peak while the snow comes down. A whole day with nobody else in sight. Two-thirds of an acre, two creeks and the national forest out the back door, all yours.</p>
 </section>
 
-<section class="miles" aria-label="Distances from the chalet">
-  <ul>
-  {% for d in P.headline_distances %}
-    <li><span class="m-val">{{ d.value }}<span class="m-unit">{{ d.unit }}</span></span><span class="m-label">{{ d.label }}</span></li>
-  {% endfor %}
-  </ul>
-</section>
-
-<section class="feature" aria-labelledby="f1-h">
-  <div class="feature-media">{{ picture('grand-room-fireside-gathering', 'Friends gathered around the open fire in the Grand Room, under log walls and a high timber ceiling', '(min-width: 900px) 58vw, 100vw') }}</div>
+<section class="feature feature-big" aria-labelledby="f2-h">
+  <div class="feature-media">{{ picture('hydrotherapy-tub-night-steam', 'Steam rising from the outdoor hydrotherapy tub at night', '100vw') }}</div>
   <div class="feature-copy">
-    <p class="eyebrow">The Grand Room</p>
-    <h2 id="f1-h">Gather by the fire after the mountain</h2>
-    <p>Ceilings rise 21 feet and six inches over an open fireplace and an oak bar, its stools cut from local timber. The kitchen is fully remodeled, with a handmade copper sink, and the dining table runs eleven and a half feet. There is room for everyone, and nobody has to leave the fire early.</p>
-    <p><a class="link-arrow" href="/the-chalet/">Inside the chalet</a></p>
+    <p class="eyebrow">The back yard</p>
+    <h2 id="f2-h">Two creeks, a hot tub, and nobody else</h2>
+    <p>The chalet sits on two-thirds of an acre with two creeks running through the grounds, and the Inyo National Forest begins at the back fence. The outdoor hydrotherapy tub seats six, runs all year, and looks straight up at Carson Peak. In a good snow year, skiers with a guide come down off June Mountain and finish their day in it.</p>
+    <p><a class="link-arrow" href="/gallery/#tub">See the tub</a><a class="link-arrow" href="/experiences/winter/#ski-to-the-hot-tub">Ski to the tub</a></p>
   </div>
 </section>
 
 <section class="feature" id="suites" aria-labelledby="s-h">
-  <div class="feature-media">{{ picture('master-suite-bed', 'The master suite: a California King under a log ceiling, with the two-person jacuzzi beyond', '(min-width: 900px) 62vw, 100vw') }}</div>
+  <div class="feature-media">{{ picture('elsie-room-red-claw-foot-tub', "The Elsie Room's ruby-red claw-foot tub under a timber window, with brass fixtures", '(min-width: 900px) 62vw, 100vw') }}</div>
   <div class="feature-copy">
-    <p class="eyebrow">Three suites</p>
+    <p class="eyebrow">Sleeps eight</p>
     <h2 id="s-h">Every bedroom is its own retreat</h2>
-    <p>Start with the master suite: a California King, a sleeping loft, and an indoor two-person jacuzzi for the nights it is too cold even for the hot tub outside. The Elsie Room has a ruby-red claw-foot tub. The River Room is the quietest in the house, with Yost Creek below the window. Each has its own bath.</p>
-    <p><a class="link-arrow" href="/the-chalet/#suites">See the suites</a></p>
+    <p>Three suites upstairs, each with its own bath. The master has a California King, its own indoor two-person jacuzzi, and a loft with a pull-out sofa. The Elsie Room has a California King and a ruby-red claw-foot tub. The River Room has a queen, and Yost Creek below the window. A pull-out futon in the Grand Room sleeps the last two.</p>
+    <p><a class="link-arrow" href="/the-chalet/floorplan/">See the floorplan</a></p>
   </div>
+</section>
+
+<section class="feature reverse" aria-labelledby="f1-h">
+  <div class="feature-media">{{ picture('grand-room-fireside-gathering', 'Friends gathered around the open fire in the Grand Room, under log walls and a high timber ceiling', '(min-width: 900px) 62vw, 100vw') }}</div>
+  <div class="feature-copy">
+    <p class="eyebrow">The Grand Room</p>
+    <h2 id="f1-h">Everyone around one fire</h2>
+    <p>Twenty-one feet of log ceiling over an open fireplace and an oak bar. A remodeled kitchen with a handmade copper sink, and an eleven-and-a-half-foot pine table so the whole group eats together. Nobody has to leave the fire early.</p>
+    <p><a class="link-arrow" href="/the-chalet/">Inside the chalet</a></p>
+  </div>
+</section>
+
+<section class="rv-band" aria-label="What guests say">
+  {{ quote("nicholas") }}
+  <p class="rv-band-side"><strong>9.8</strong>out of 10 from 129 verified VRBO reviews, and 4.85 out of 5 on Airbnb. <a class="link-arrow" href="/reviews/">Guest reviews</a></p>
+</section>
+
+<section class="intro" aria-label="The essentials">
+  <dl class="spec">
+    <div><dt>Sleeps</dt><dd>8: three suites with private baths, plus a loft sofa and a Grand Room futon</dd></div>
+    <div><dt>June Mountain</dt><dd>1 mile, kids 12 and under ski free, and we are on the highway, so we are plowed out first</dd></div>
+    <div><dt>Yosemite</dt><dd>27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November</dd></div>
+    <div><dt>Hot tubs</dt><dd>Outdoor tub for six, all year, plus an indoor jacuzzi for two</dd></div>
+    <div><dt>Arrival</dt><dd>Parking for three cars; steps up from the driveway to the door</dd></div>
+    <div><dt>Rates</dt><dd>$295 to $995 a night, plus a flat $295 cleaning fee and 15% Mono County tax</dd></div>
+  </dl>
 </section>
 
 <section class="band-image" aria-labelledby="season-h">
@@ -60,37 +70,9 @@
   </div>
 </section>
 <section class="seasons" aria-label="The seasons at June Lake">
-  <div class="season"><h3>Winter</h3><p>June Mountain is a mile away, and kids 12 and under ski there free. Mammoth is thirty minutes. With a guide, ski from the top of June Mountain to the hot tub.</p><a class="link-arrow" href="/experiences/winter/">Winter</a></div>
-  <div class="season"><h3>Spring</h3><p>When Tioga Road opens, the high country comes back. Spring corn snow at Tioga Pass, and the first trout of the season.</p><a class="link-arrow" href="/guides/tioga-pass/">Tioga Pass</a></div>
-  <div class="season"><h3>Summer</h3><p>Five paddleboards in the garage, four lakes on the loop, Fern Lake above the house and Tuolumne Meadows in 45 minutes.</p><a class="link-arrow" href="/experiences/summer/">Summer</a></div>
-  <div class="season"><h3>Fall</h3><p>In October the aspens of the June Lake Loop turn gold, and the summer crowds go home.</p><a class="link-arrow" href="/guides/june-lake-fall-colors/">Fall colors</a><a class="link-arrow" href="https://www.monocounty.org/things-to-do/fall-colors/" rel="noopener" target="_blank">Live color report</a></div>
-</section>
-
-<section class="rv-band" aria-label="What guests say">
-  {{ quote("nicholas") }}
-  <p class="rv-band-side"><strong>9.8</strong>out of 10 from 129 verified VRBO reviews, and 4.85 out of 5 on Airbnb. <a class="link-arrow" href="/reviews/">Guest reviews</a><a class="link-arrow" href="/the-chalet/#walkthrough">Watch a guest's video tour</a></p>
-</section>
-
-<section class="feature feature-big" aria-labelledby="f2-h">
-  <div class="feature-media">{{ picture('hydrotherapy-tub-night-steam', 'Steam rising from the outdoor hydrotherapy tub at night', '100vw') }}</div>
-  <div class="feature-copy">
-    <p class="eyebrow">The tub under Carson Peak</p>
-    <h2 id="f2-h">Ski tracks that end in hot water</h2>
-    <p>The outdoor hydrotherapy tub sits off the back deck beneath the peak you see from every window. In winter, guests have been known to bury drinks in the snowbank around it before heading out, and to come back down the mountain on skis to find them.</p>
-    <p><a class="link-arrow" href="/gallery/#tub">See the tub</a></p>
-  </div>
-</section>
-
-<nav class="guide-row" aria-label="Field guides">
-  <p class="eyebrow">Field guides</p>
-  <ul>
-  {% for u in ['/guides/tioga-pass/', '/guides/tuolumne-meadows/', '/guides/june-lake/', '/guides/june-lake-fall-colors/', '/guides/yosemite-east-side-in-winter/'] %}
-    <li><a href="{{ u }}">{{ pages[u].nav_title or pages[u].title }}</a></li>
-  {% endfor %}
-  </ul>
-</nav>
-
-<section class="press" aria-label="Note">
-  <p class="statement small">Heated by geothermal heat pumps, the first retrofit of its kind in Mono County, and finished in recycled tile and local timber. Formerly the Sierra Vista Chalet.</p>
+  <div class="season"><h3>Winter</h3><p>June Mountain is a mile away and kids ski free. We are on the highway, so you are plowed out and on the lift while others wait for theirs.</p><a class="link-arrow" href="/experiences/winter/">Skiing</a></div>
+  <div class="season"><h3>Spring</h3><p>Tioga Road opens and the high country comes back. Corn snow at the pass, and the first trout of the season.</p><a class="link-arrow" href="/guides/tioga-pass/">Tioga Pass</a></div>
+  <div class="season"><h3>Summer</h3><p>Five paddleboards in the garage, four lakes on the loop, and Tuolumne Meadows in 45 minutes.</p><a class="link-arrow" href="/experiences/summer/">Lakes</a><a class="link-arrow" href="/fly-fishing/">Fly fishing</a></div>
+  <div class="season"><h3>Fall</h3><p>In October the aspens turn gold, the browns turn aggressive, and the crowds go home.</p><a class="link-arrow" href="/guides/june-lake-fall-colors/">Fall colors</a></div>
 </section>
 {% endblock %}
