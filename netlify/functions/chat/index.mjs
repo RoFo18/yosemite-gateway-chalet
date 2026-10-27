@@ -91,7 +91,7 @@ export default async (req, context) => {
   const origin = req.headers.get("origin") || "";
   const site = new URL(req.url).origin;
   if (origin && !ALLOWED.test(origin) && origin !== site) return new Response("Forbidden", { status: 403 });
-  const key = process.env.ANTHROPIC_API_KEY;
+  const key = (process.env.ANTHROPIC_API_KEY || "").trim().replace(/^["']|["']$/g, "");
   if (!key) return Response.json({ message: "The chat is getting set up. Back shortly. Meanwhile the [inquiry form](/inquire/) works, and the owners answer within a day." }, { status: 503 });
   if (limited(context.ip || req.headers.get("x-nf-client-connection-ip") || "anon")) {
     return Response.json({ message: "That's a lot of questions. Take a breather, look around, and try again in a few minutes. The [inquiry form](/inquire/) is always open." }, { status: 429 });
