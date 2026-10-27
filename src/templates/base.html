@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ page.seo_title }}</title>
+<meta name="description" content="{{ page.description }}">
+<link rel="canonical" href="{{ canonical }}">
+{% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
+<meta property="og:type" content="{{ 'website' if page.url == '/' else 'article' }}">
+<meta property="og:site_name" content="{{ P.name }}">
+<meta property="og:title" content="{{ page.og_title or page.seo_title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:url" content="{{ canonical }}">
+{% set og = page.og or page.hero or 'chalet-exterior-carson-peak' %}
+<meta property="og:image" content="{{ SITE }}/og/{{ og }}.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#18201c">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Work+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/css/site.css">
+{{ jsonld }}
+</head>
+<body class="t-{{ page.template or 'page' }}{% if page.hero_full or (page.hero and page.template != 'post') %} has-hero{% endif %}">
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead" data-masthead>
+  <div class="mast-inner">
+    <a class="wordmark" href="/" aria-label="{{ P.name }}, home">
+      <span class="wm-name">Yosemite Gateway Chalet</span>
+      <span class="wm-place">June Lake &middot; California</span>
+    </a>
+    <nav class="mainnav" id="mainnav" aria-label="Main">
+      <ul>
+      {% for label, href in NAV %}
+        <li><a href="{{ href }}"{% if page.url.startswith(href) %} aria-current="page"{% endif %}>{{ label }}</a></li>
+      {% endfor %}
+      </ul>
+      <a class="btn btn-line nav-inquire" href="/inquire/">Inquire</a>
+    </nav>
+    <a class="btn btn-line mast-inquire" href="/inquire/">Inquire</a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="mainnav"><span class="mt-bars" aria-hidden="true"></span><span class="mt-label">Menu</span></button>
+  </div>
+</header>
+
+<main id="main">
+{% block main %}{% endblock %}
+</main>
+
+{% if not page.hide_cta %}
+<section class="closing" aria-labelledby="closing-h">
+  {{ picture('alpine-lake-below-sierra-peaks', 'An alpine lake below snow-streaked Sierra peaks near June Lake', '100vw', 'closing-img') }}
+  <div class="closing-inner">
+    <p class="eyebrow">Stays for up to eight</p>
+    <h2 id="closing-h">Plan your stay at the chalet</h2>
+    <p>Tell us your dates and your group. We reply within a day.</p>
+    <div class="btn-row">
+      <a class="btn btn-solid" href="/inquire/">Send an inquiry</a>
+      <a class="btn btn-ghost-light" href="{{ P.booking.vrbo_url }}" rel="noopener" target="_blank">Check dates on VRBO</a>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<footer class="site-foot">
+  <div class="foot-grid">
+    <div class="foot-brand">
+      <p class="foot-name">Yosemite Gateway Chalet</p>
+      <p>{{ P.address.street }}<br>{{ P.address.city }}, {{ P.address.region }} {{ P.address.postal }}<br>{{ P.address.area }}</p>
+      <p><a href="tel:{{ P.phone.tel }}">{{ P.phone.display }}</a><br><span class="muted">{{ P.phone.digits }}</span></p>
+      <p><a class="btn btn-line" href="/inquire/">Inquire</a></p>
+    </div>
+    {% for heading, links in FOOTER %}
+    <div>
+      <p class="foot-h">{{ heading }}</p>
+      <ul>{% for l, h in links %}<li><a href="{{ h }}">{{ l }}</a></li>{% endfor %}</ul>
+    </div>
+    {% endfor %}
+  </div>
+  <p class="foot-small">&copy; {{ year }} {{ P.name }}. Formerly the {{ P.former_name }}. Book on <a href="{{ P.booking.vrbo_url }}" rel="noopener" target="_blank">VRBO, listing {{ P.booking.vrbo_id }}</a>.</p>
+</footer>
+
+<div class="mobile-bar"><a class="btn btn-solid" href="/inquire/">Inquire</a><a class="btn btn-line" href="tel:{{ P.phone.tel }}">Call</a></div>
+
+<dialog class="lightbox" id="lightbox" aria-label="Photo">
+  <button class="lb-close" type="button" aria-label="Close photo">&times;</button>
+  <img alt="">
+</dialog>
+<script src="/js/site.js" defer></script>
+</body>
+</html>

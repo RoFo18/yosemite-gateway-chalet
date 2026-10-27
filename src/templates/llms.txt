@@ -1,0 +1,54 @@
+# {{ P.name }}
+
+> A private {{ "{:,}".format(P.home.square_feet) }} square foot log chalet in June Lake, California, rented as a whole home to one party. Sleeps {{ P.home.max_overnight_guests }} in three private suites, with an outdoor hydrotherapy tub under Carson Peak. On the June Lake Loop in Mono County, 27 highway miles from Yosemite National Park's Tioga Pass (east) entrance, about 45 minutes from Tuolumne Meadows, and one mile from June Mountain Ski Area. Formerly called the {{ P.former_name }}.
+
+## The property
+- Whole-home rental only; individual rooms are not rented
+- Up to {{ P.home.max_overnight_guests }} overnight guests including infants; no more than {{ P.home.max_on_property }} people on the property; {{ P.home.max_cars }}-car maximum (Mono County limits)
+- Three bedroom suites, each with a private bath, plus a half bath on the main level
+- Beds: two California King and one queen memory foam bed, a pull-out couch in the master suite loft, a queen futon in the family room
+{% for a in P.amenities %}- {{ a }}
+{% endfor %}- No pets. No smoking indoors.
+- Check-in {{ P.home.check_in }}. Check-out {{ P.home.check_out }}.
+- {{ P.home.tax }} and a cleaning fee apply to every stay
+
+## Location
+- Address: {{ P.address.street }}, {{ P.address.city }}, {{ P.address.region }} {{ P.address.postal }}
+- Area: {{ P.address.area }}
+- Coordinates: {{ P.geo.lat }}, {{ P.geo.lng }}
+
+## Distances from the chalet
+{% for d in P.distances %}- {{ d.place }}: {{ d.value }} {{ d.unit }}{% if d.note %} ({{ d.note }}){% endif %}
+
+{% endfor %}
+Tioga Road (Highway 120) over Tioga Pass is seasonal, usually open from late May or June until about November. In winter there is no entrance to Yosemite from the east side.
+
+## Booking and contact
+- Inquiries: {{ SITE }}/inquire/ (reply within one day)
+- Book on VRBO: {{ P.booking.vrbo_url }} (listing {{ P.booking.vrbo_id }})
+- Phone: {{ P.phone.display }}, {{ P.phone.digits }}
+- {{ P.booking.direct_note }}
+
+## Guides
+- Tioga Pass, the complete guide: {{ SITE }}/guides/tioga-pass/
+- Tuolumne Meadows, the complete guide: {{ SITE }}/guides/tuolumne-meadows/
+- Where to stay near Yosemite's east entrance: {{ SITE }}/yosemite-national-park-lodging/
+- June Lake, California, the complete guide: {{ SITE }}/guides/june-lake/
+- June Lake Loop fall colors: {{ SITE }}/guides/june-lake-fall-colors/
+- Yosemite's east side in winter: {{ SITE }}/guides/yosemite-east-side-in-winter/
+- Full text of all guides: {{ SITE }}/llms-full.txt
+
+## Key pages
+- Home: {{ SITE }}/
+- The Chalet: {{ SITE }}/the-chalet/
+- Floorplan: {{ SITE }}/the-chalet/floorplan/
+- June Lake lodging: {{ SITE }}/june-lake-lodging/
+- Experiences: {{ SITE }}/experiences/
+- Hiking trails: {{ SITE }}/experiences/hiking/
+- Fishing the June Lake Loop: {{ SITE }}/experiences/fishing/
+- Winter and skiing: {{ SITE }}/experiences/winter/
+- Location and directions: {{ SITE }}/location/
+- FAQ: {{ SITE }}/faq/
+- Rates and policies: {{ SITE }}/rates-and-policies/
+
+Last updated {{ BUILD_DATE }}.

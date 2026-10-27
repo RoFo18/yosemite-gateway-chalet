@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="hero" aria-labelledby="hero-h">
+  {{ picture('chalet-exterior-carson-peak', 'The Yosemite Gateway Chalet, a large log home among aspens and pines, with the granite face of Carson Peak rising behind it', '100vw', 'hero-img', eager=True, fit='50% 30%') }}
+  <div class="hero-copy">
+    <p class="eyebrow">June Lake &middot; Eastern Sierra &middot; Yosemite's east side</p>
+    <h1 id="hero-h">A private log chalet at the edge of Yosemite's high country</h1>
+    <div class="btn-row">
+      <a class="btn btn-solid" href="/inquire/">Inquire about dates</a>
+      <a class="btn btn-ghost-light" href="/the-chalet/">Explore the chalet</a>
+    </div>
+  </div>
+</section>
+
+<section class="intro" aria-label="About the chalet">
+  <p class="statement">Four thousand square feet of hand-hewn log home on the June Lake Loop, rented whole to one party of up to eight. Three private suites. A Grand Room with a 21-foot ceiling and an open fire. An outdoor hydrotherapy tub under the granite of Carson Peak, and a creek running through the grounds.</p>
+  <dl class="spec">
+    <div><dt>Guests</dt><dd>Up to 8</dd></div>
+    <div><dt>Suites</dt><dd>3, each with bath</dd></div>
+    <div><dt>Size</dt><dd>4,000 sq ft</dd></div>
+    <div><dt>Soaking</dt><dd>Outdoor tub, jacuzzi, claw-foot</dd></div>
+  </dl>
+</section>
+
+<section class="miles" aria-label="Distances from the chalet">
+  <ul>
+  {% for d in P.headline_distances %}
+    <li><span class="m-val">{{ d.value }}<span class="m-unit">{{ d.unit }}</span></span><span class="m-label">{{ d.label }}</span></li>
+  {% endfor %}
+  </ul>
+</section>
+
+<section class="feature" aria-labelledby="f1-h">
+  <div class="feature-media">{{ picture('grand-room-fireside-gathering', 'Friends gathered around the open fire in the Grand Room, under log walls and a high timber ceiling', '(min-width: 900px) 58vw, 100vw') }}</div>
+  <div class="feature-copy">
+    <p class="eyebrow">The Grand Room</p>
+    <h2 id="f1-h">Gather by the fire after the mountain</h2>
+    <p>Ceilings rise 21 feet and six inches over an open fireplace and an oak bar, its stools cut from local timber. The kitchen is fully remodeled, with a handmade copper sink, and the dining table runs eleven and a half feet. There is room for everyone, and nobody has to leave the fire early.</p>
+    <p><a class="link-arrow" href="/the-chalet/">Inside the chalet</a></p>
+  </div>
+</section>
+
+<section class="suites" id="suites" aria-labelledby="s-h">
+  <div class="sec-head">
+    <p class="eyebrow">Three suites</p>
+    <h2 id="s-h">Every bedroom is its own retreat</h2>
+  </div>
+  <div class="suite-grid">
+    <a class="suite" href="/the-chalet/master-suite/">
+      {{ picture('master-suite-bed', 'The master suite with its California King bed under a log ceiling', '(min-width: 900px) 32vw, 100vw') }}
+      <span class="suite-name">Master Suite</span>
+      <span class="suite-spec">California King &middot; private two-person jacuzzi &middot; sleeping loft</span>
+    </a>
+    <a class="suite" href="/the-chalet/elsie-room/">
+      {{ picture('elsie-room-granite-peak-view', 'Granite peaks framed by the window of the Elsie Room', '(min-width: 900px) 32vw, 100vw') }}
+      <span class="suite-name">Elsie Room</span>
+      <span class="suite-spec">Ruby-red claw-foot tub &middot; granite peak views</span>
+    </a>
+    <a class="suite" href="/the-chalet/river-room/">
+      {{ picture('river-room-evening', 'The River Room in evening light', '(min-width: 900px) 32vw, 100vw') }}
+      <span class="suite-name">River Room</span>
+      <span class="suite-spec">The quietest room &middot; Yost Creek below &middot; Carson Peak in the window</span>
+    </a>
+  </div>
+</section>
+
+<section class="band-image" aria-labelledby="season-h">
+  {{ picture('june-lake-loop-fall-aspens', 'Golden aspens above a lake on the June Lake Loop in October, with Sierra peaks behind', '100vw', 'band-img') }}
+  <div class="band-copy">
+    <p class="eyebrow">Four seasons</p>
+    <h2 id="season-h">One base camp for all of the Eastern Sierra</h2>
+  </div>
+</section>
+<section class="seasons" aria-label="The seasons at June Lake">
+  <div class="season"><h3>Winter</h3><p>June Mountain is a mile away and Mammoth thirty minutes. With a guide, ski from the top of June Mountain to the hot tub.</p><a class="link-arrow" href="/experiences/winter/">Winter</a></div>
+  <div class="season"><h3>Spring</h3><p>When Tioga Road opens, the high country comes back. Spring corn snow at Tioga Pass, and the first trout of the season.</p><a class="link-arrow" href="/guides/tioga-pass/">Tioga Pass</a></div>
+  <div class="season"><h3>Summer</h3><p>Fern and Yost Lakes from the back door, Tuolumne Meadows in 45 minutes, four lakes on the loop for fishing and paddling.</p><a class="link-arrow" href="/experiences/hiking/">Hiking</a></div>
+  <div class="season"><h3>Fall</h3><p>In October the aspens of the June Lake Loop turn gold, and the summer crowds go home.</p><a class="link-arrow" href="/guides/june-lake-fall-colors/">Fall colors</a></div>
+</section>
+
+<section class="feature reverse" aria-labelledby="f2-h">
+  <div class="feature-media">{{ picture('hydrotherapy-tub-night-steam', 'Steam rising from the outdoor hydrotherapy tub at night', '(min-width: 900px) 58vw, 100vw') }}</div>
+  <div class="feature-copy">
+    <p class="eyebrow">The tub under Carson Peak</p>
+    <h2 id="f2-h">Ski tracks that end in hot water</h2>
+    <p>The outdoor hydrotherapy tub sits off the back deck beneath the peak you see from every window. In winter, guests have been known to bury drinks in the snowbank around it before heading out, and to come back down the mountain on skis to find them.</p>
+    <p><a class="link-arrow" href="/gallery/#tub">See the tub</a></p>
+  </div>
+</section>
+
+<section class="guides-list" aria-labelledby="g-h">
+  <div class="sec-head">
+    <p class="eyebrow">Field guides</p>
+    <h2 id="g-h">The high country, from people who live at its edge</h2>
+  </div>
+  <ol class="glist">
+  {% for u in ['/guides/tioga-pass/', '/guides/tuolumne-meadows/', '/yosemite-national-park-lodging/', '/guides/june-lake/', '/guides/june-lake-fall-colors/', '/guides/yosemite-east-side-in-winter/'] %}
+    {% set g = pages[u] %}
+    <li><a href="{{ u }}">
+      <span class="gl-img">{{ picture(g.hero, '', '(min-width: 900px) 240px, 40vw') }}</span>
+      <span class="gl-text"><span class="gl-title">{{ g.nav_title or g.title }}</span><span class="gl-desc">{{ g.card }}</span></span>
+    </a></li>
+  {% endfor %}
+  </ol>
+</section>
+
+<section class="press" aria-label="Note">
+  <p class="statement small">Heated by geothermal heat pumps, the first retrofit of its kind in Mono County, and finished in recycled tile and local timber. Formerly the Sierra Vista Chalet.</p>
+</section>
+{% endblock %}

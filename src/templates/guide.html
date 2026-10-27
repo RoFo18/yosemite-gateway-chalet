@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block main %}
+<header class="page-hero tall">
+  {{ picture(page.hero, page.hero_alt, '100vw', 'ph-img', eager=True, fit=page.hero_focus) }}
+  <div class="ph-copy">
+    <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
+    <p class="eyebrow">{{ page.eyebrow or 'Field guide' }}</p>
+    <h1>{{ page.title }}</h1>
+  </div>
+</header>
+<div class="guide-wrap">
+  <aside class="guide-side" aria-label="On this page">
+    {% if page.glance %}
+    <div class="glance">
+      <p class="eyebrow">At a glance</p>
+      <dl>{% for k, v in page.glance.items() %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}</dl>
+    </div>
+    {% endif %}
+    {% if toc|length > 2 %}
+    <nav class="toc" aria-label="Contents">
+      <p class="eyebrow">Contents</p>
+      <ol>{% for id, name in toc %}<li><a href="#{{ id }}">{{ name }}</a></li>{% endfor %}</ol>
+    </nav>
+    {% endif %}
+  </aside>
+  <article class="guide-main">
+    <p class="answer">{{ page.lead }}</p>
+    <p class="byline">Published by {{ P.name }}, June Lake. Facts checked {{ page.updated|longdate }}.</p>
+    <div class="prose">{{ body }}</div>
+    {% if page.faq %}
+    <section class="faq" aria-labelledby="faq-h">
+      <h2 id="faq-h">Common questions</h2>
+      {% for q in page.faq %}
+      <details><summary>{{ q.q }}</summary><div>{{ q.a | md }}</div></details>
+      {% endfor %}
+    </section>
+    {% endif %}
+    <aside class="stay-box" aria-label="Stay at the chalet">
+      <p class="eyebrow">Where to stay</p>
+      <p class="stay-h">{{ page.stay_line or 'Yosemite Gateway Chalet, June Lake' }}</p>
+      <p>A 4,000 square foot log chalet rented as a whole home. Sleeps eight in three private suites, with an outdoor hydrotherapy tub under Carson Peak. 27 miles to the Tioga Pass entrance.</p>
+      <p class="btn-row"><a class="btn btn-solid" href="/inquire/">Inquire about dates</a><a class="btn btn-line" href="/the-chalet/">See the chalet</a></p>
+    </aside>
+    {% if page.sources %}
+    <section class="sources" aria-labelledby="src-h">
+      <h2 id="src-h">Sources</h2>
+      <p class="muted">Checked {{ page.updated|longdate }}. Conditions change every season, so confirm with these official pages before you go.</p>
+      <ul>{% for s in page.sources %}<li><a href="{{ s.url }}" rel="noopener" target="_blank">{{ s.title }}</a></li>{% endfor %}</ul>
+    </section>
+    {% endif %}
+  </article>
+</div>
+{% if related %}
+<section class="related" aria-labelledby="rel-h">
+  <h2 id="rel-h" class="eyebrow">More guides</h2>
+  <div class="rel-grid">
+  {% for r in related %}
+    <a class="rel-card" href="{{ r.url }}">
+      {% if r.hero %}{{ picture(r.hero, '', '(min-width: 900px) 30vw, 100vw') }}{% endif %}
+      <span class="rel-kicker">{{ r.kicker or r.eyebrow or '' }}</span>
+      <span class="rel-title">{{ r.nav_title or r.title }}</span>
+    </a>
+  {% endfor %}
+  </div>
+</section>
+{% endif %}
+{% endblock %}

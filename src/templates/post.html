@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block main %}
+<header class="page-head narrow">
+  <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
+  <p class="eyebrow"><time datetime="{{ page.published }}">{{ page.published|longdate }}</time></p>
+  <h1>{{ page.title }}</h1>
+</header>
+<div class="page-body">
+  {% if page.hero %}<figure class="fig fig-wide">{{ picture(page.hero, page.hero_alt, '(min-width: 1100px) 1040px, 100vw', eager=True) }}</figure>{% endif %}
+  <div class="prose">{{ body }}</div>
+  <p><a href="/journal/">All journal entries</a></p>
+</div>
+{% endblock %}

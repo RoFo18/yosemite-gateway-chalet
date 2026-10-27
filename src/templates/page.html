@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block main %}
+{% if page.hero %}
+<header class="page-hero{% if page.hero_tall %} tall{% endif %}">
+  {{ picture(page.hero, page.hero_alt, '100vw', 'ph-img', eager=True, fit=page.hero_focus) }}
+  <div class="ph-copy">
+    <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
+    {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+  </div>
+</header>
+{% else %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
+  {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+  <h1>{{ page.title }}</h1>
+</header>
+{% endif %}
+<div class="page-body{% if page.wide %} wide{% endif %}">
+  {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+  <div class="prose">{{ body }}</div>
+  {% if page.faq %}
+  <section class="faq" aria-labelledby="faq-h">
+    <h2 id="faq-h">{{ page.faq_title or 'Questions' }}</h2>
+    {% for q in page.faq %}
+    <details{% if loop.first and page.faq_open %} open{% endif %}><summary>{{ q.q }}</summary><div>{{ q.a | md }}</div></details>
+    {% endfor %}
+  </section>
+  {% endif %}
+</div>
+{% if related %}
+<section class="related" aria-labelledby="rel-h">
+  <h2 id="rel-h" class="eyebrow">Continue</h2>
+  <div class="rel-grid">
+  {% for r in related %}
+    <a class="rel-card" href="{{ r.url }}">
+      {% if r.hero %}{{ picture(r.hero, '', '(min-width: 900px) 30vw, 100vw') }}{% endif %}
+      <span class="rel-kicker">{{ r.kicker or r.eyebrow or '' }}</span>
+      <span class="rel-title">{{ r.nav_title or r.title }}</span>
+    </a>
+  {% endfor %}
+  </div>
+</section>
+{% endif %}
+{% endblock %}
