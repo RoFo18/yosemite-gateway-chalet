@@ -402,6 +402,7 @@ def business_ld():
                    "yost-meadow-out-the-back-door", "paddleboard-rush-creek-silver-lake")],
         "address": {"@type": "PostalAddress", "streetAddress": a["street"], "addressLocality": a["city"],
                     "addressRegion": a["region"], "postalCode": a["postal"], "addressCountry": a["country"]},
+        "latitude": P["geo"]["lat"], "longitude": P["geo"]["lng"],
         "geo": {"@type": "GeoCoordinates", "latitude": P["geo"]["lat"], "longitude": P["geo"]["lng"]},
         "containedInPlace": {"@type": "Place", "name": "June Lake, California",
                              "containedInPlace": {"@type": "AdministrativeArea", "name": "Mono County, California",
