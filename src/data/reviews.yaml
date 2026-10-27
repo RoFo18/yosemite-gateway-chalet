@@ -1,0 +1,87 @@
+# Guest reviews quoted exactly as posted. Positive reviews only, chosen by the owner.
+# Collected 2026-10-27 from VRBO (452799) and Airbnb (59105).
+summary:
+  vrbo: {score: "9.8", scale: "10", count: 129, url: "https://www.vrbo.com/452799"}
+  airbnb: {score: "4.85", scale: "5", count: 79, url: "https://www.airbnb.com/rooms/59105/reviews", note: "Superhost, 16 years hosting"}
+reviews:
+  - id: nicholas
+    name: Nicholas
+    when: July 2026
+    source: Airbnb
+    text: "Robert's chalet is a gorgeous sanctuary in one of my favorite areas of California. I've stayed at many places in June Lake over the last 35 years, but Robert's home is in a class all its own. Can't wait to return for years to come!"
+  - id: heather
+    name: Heather D.
+    when: March 2023
+    source: VRBO
+    title: Perfect June Mtn. Snowboarding lodge
+    text: "The chalet was just what we expected and hoped for to facilitate a few days on June Mtn. Great location. The ambiance was cozy and inviting. Plenty of space and great for just hanging out after a long day on the slopes. We plan to stay here again."
+  - id: mari
+    name: Mari B.
+    when: September 2023
+    source: VRBO
+    text: "Incredible property! Loved the outdoor area and hot tub with the sound of the stream surrounding the house. I would definitely recommend it to anyone and hope to stay again myself!"
+  - id: scott
+    name: Scott
+    when: August 2026
+    source: Airbnb
+    text: "Easily one of the best fishing trips we've had. Robert was very responsive, couldn't ask for a better host. The house is amazing. Definitely going back."
+  - id: mark
+    name: Mark
+    when: February 2026
+    source: Airbnb
+    text: "Amazing vacation in a beautiful cabin with everything you need! The outdoor hot tub was a perfect way to relax after a day of skiing. The great room was a cozy spot to hang with a fire and watch a movie. I definitely recommend Robert's chalet."
+  - id: daniella
+    name: Daniella A.
+    when: April 2023
+    source: VRBO
+    text: "Snow was piled everywhere but were warm and secure in the chalet and able to use the hot tub to enjoy the day and starry nights. This is a perfect vacation place to get away from it all and enjoy the beauty of the place."
+  - id: anne
+    name: Anne H.
+    when: March 2026
+    source: VRBO
+    text: "A wonderful location for June Mountain and also some great hikes in the area. The property is beautiful and nice to have a hot tub after a long day! We enjoyed it very much!"
+  - id: naomi
+    name: Naomi P.
+    when: October 2024
+    source: VRBO
+    text: "We loved the three separate rooms, each with it's own bathroom. The large kitchen and dining room were perfect for our needs."
+  - id: charles
+    name: Charles C.
+    when: July 2023
+    source: VRBO
+    text: "This property is phenomenal! There is a stream running around the property. The kids caught a couple trout and threw them back. Property owner was very responsive."
+  - id: bill
+    name: Bill A.
+    when: July 2025
+    source: VRBO
+    text: "Great property in a great location. Our host was friendly, available and helpful, responding promptly to a couple of questions we texted to him. The Chalet was as represented, and the surrounding June Lake area was just plain beautiful."
+  - id: chad
+    name: Chad H.
+    when: February 2023
+    source: VRBO
+    text: "We had a fantastic trip, love this place… A true winter wonderland chalet… we got snowed in but with the hot tub, it was perfect!!"
+  - id: jeff
+    name: Jeff B.
+    when: April 2025
+    source: VRBO
+    text: "This log \"cabin\" is a large yet comfortable and homey residence perfectly located in June Lake for any mountain related activities. We found the access to skiing and the quaint village just right."
+  - id: patricia
+    name: Patricia K.
+    when: September 2025
+    source: VRBO
+    text: "Our family enjoyed staying at the Yosemite Gateway Chalet. The setting along the June Lake Loop was stunning and the location was convenient too."
+  - id: sam
+    name: Sam
+    when: April 2026
+    source: Airbnb
+    text: "Wonderful home with lots of amenities and a stunning view. Very spacious and comfortable."
+  - id: moshe
+    name: Moshe M.
+    when: August 2026
+    source: VRBO
+    text: "Huge house Very welcome and warm hosting"
+  - id: feb26
+    name: A returning guest
+    when: February 2026
+    source: VRBO
+    text: "Robert is an awesome host. We love staying here and creating wonderful memories:). Thanks again!"

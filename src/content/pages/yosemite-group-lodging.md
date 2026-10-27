@@ -50,6 +50,8 @@ Downstairs, the family room's queen futon sleeps one or two more. The [floorplan
 
 Groups eat in. The remodeled kitchen has a six-burner stove, a double oven and a handmade copper sink, and it is stocked down to the coffee grinder and the garlic press. Dinner goes on an eleven-and-a-half-foot table of local pine. After dark, the outdoor hydrotherapy tub seats six under Carson Peak and runs all year.
 
+{{ quote("naomi") }}
+
 ## Planning a group trip to Yosemite from June Lake
 
 From late May or June until about November, Tioga Road crosses the Sierra and the east entrance opens. A group can be at the Tioga Pass entrance in about 40 minutes and in Tuolumne Meadows in 45. Leave early: parking at popular trailheads often fills by mid-morning in summer. Yosemite Valley is two to two and a half hours away, a long but rewarding day.

@@ -68,6 +68,8 @@ A village on the June Lake Loop, a horseshoe of Highway 158 past four lakes, und
 
 The largest town on the east side, with the widest range of hotels, restaurants and services, plus the Mammoth Yosemite Airport. It is the farthest of the three from the Tioga Pass entrance.
 
+{{ quote("bill") }}
+
 ## Staying as a group
 
 Families and groups traveling together often want one house rather than several rooms. That is why the [Yosemite Gateway Chalet](/the-chalet/) exists: a 4,000 square foot log home in June Lake, rented whole, with three private suites, a Grand Room with an open fire, a gourmet kitchen and an outdoor hydrotherapy tub. It sleeps up to eight overnight guests. Mono County limits occupancy to eight overnight and ten on the property, so it is not a venue for events.

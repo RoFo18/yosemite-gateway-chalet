@@ -48,6 +48,8 @@ For a group that wants to be together under one roof, a whole home is the way to
 - **One mile to June Mountain,** where kids 12 and under ski free.
 - **Yosemite within reach.** 27 miles to the Tioga Pass entrance and 45 minutes to Tuolumne Meadows when Tioga Road is open.
 
+{{ quote("heather") }}
+
 ## June Lake lodging by season
 
 **Winter, December to April.** June Mountain is a mile from the chalet and Mammoth Mountain is thirty minutes south. Tioga Road is closed, so Yosemite's east side is quiet and snowbound. Book the holidays early.

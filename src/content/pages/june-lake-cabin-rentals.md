@@ -52,6 +52,8 @@ Pick a resort cabin if you are two people who will be on the water all day. Pick
 
 Book as early as you can for the winter holidays, Presidents' Day weekend, the Fourth of July and October's fall color weekends. Those dates fill months ahead. Midweek stays in late spring and early summer are the easiest to find.
 
+{{ quote("charles") }}
+
 ## June Lake by season
 
 **Winter** brings deep snow, June Mountain a mile away and Mammoth thirty minutes south. **Spring** brings the trout opener and, when Tioga Road opens, Yosemite's high country. **Summer** is lake days, hiking and day trips to Tuolumne Meadows. **Fall** is the secret: golden aspens, empty trails and the best light of the year. Our [June Lake guide](/guides/june-lake/) covers the loop in full.

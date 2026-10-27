@@ -37,7 +37,7 @@ NAV = [
 ]
 FOOTER = [
     ("Stay", [("The Chalet", "/the-chalet/"), ("Suites", "/the-chalet/#suites"), ("Floorplan", "/the-chalet/floorplan/"),
-              ("Gallery", "/gallery/"), ("Rates and policies", "/rates-and-policies/"), ("Inquire", "/inquire/")]),
+              ("Gallery", "/gallery/"), ("Guest reviews", "/reviews/"), ("Rates and policies", "/rates-and-policies/"), ("Inquire", "/inquire/")]),
     ("Guides", [("Tioga Pass", "/guides/tioga-pass/"), ("Tuolumne Meadows", "/guides/tuolumne-meadows/"),
                 ("June Lake", "/guides/june-lake/"), ("June Lake Loop fall colors", "/guides/june-lake-fall-colors/"),
                 ("Yosemite's east side in winter", "/guides/yosemite-east-side-in-winter/"),
@@ -160,6 +160,38 @@ def glance(title="At a glance"):
     """Short facts block for answer engines and skimmers: who it suits, distances, season, fees."""
     rows = "".join(f"<div><dt>{html.escape(k)}</dt><dd>{html.escape(v)}</dd></div>" for k, v in GLANCE)
     return Markup(f'<section class="glance" aria-label="{html.escape(title)}"><h2 class="glance-h">{html.escape(title)}</h2><dl>{rows}</dl></section>')
+
+
+REVIEWS = yaml.safe_load(open(os.path.join(SRC, "data", "reviews.yaml"), encoding="utf-8"))
+_RV = {r["id"]: r for r in REVIEWS["reviews"]}
+
+
+def _cite(r):
+    return (f'<figcaption><span class="rv-name">{html.escape(r["name"])}</span>'
+            f'<span class="rv-meta">{html.escape(r["when"])}, on {html.escape(r["source"])}</span></figcaption>')
+
+
+def quote(rid, cls=""):
+    """One guest review as a large pull quote, quoted exactly."""
+    r = _RV[rid]
+    return Markup(f'<figure class="rv-pull {cls}"><blockquote><p>{html.escape(r["text"])}</p></blockquote>{_cite(r)}</figure>')
+
+
+def reviews_wall(skip=()):
+    items = "".join(f'<figure class="rv"><blockquote><p>{html.escape(r["text"])}</p></blockquote>{_cite(r)}</figure>'
+                    for r in REVIEWS["reviews"] if r["id"] not in skip)
+    return Markup(f'<div class="rv-wall">{items}</div>')
+
+
+def review_scores():
+    v, a = REVIEWS["summary"]["vrbo"], REVIEWS["summary"]["airbnb"]
+    return Markup(
+        '<dl class="rv-scores">'
+        f'<div><dt>VRBO</dt><dd><span class="rv-big">{v["score"]}</span> out of {v["scale"]}</dd>'
+        f'<dd class="rv-sub"><a href="{v["url"]}" rel="noopener" target="_blank">{v["count"]} verified reviews</a></dd></div>'
+        f'<div><dt>Airbnb</dt><dd><span class="rv-big">{a["score"]}</span> out of {a["scale"]}</dd>'
+        f'<dd class="rv-sub"><a href="{a["url"]}" rel="noopener" target="_blank">{a["count"]} reviews</a>. {a["note"]}</dd></div>'
+        '</dl>')
 
 
 def note(text):
@@ -298,7 +330,7 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):

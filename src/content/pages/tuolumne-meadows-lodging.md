@@ -44,6 +44,8 @@ The National Park Service lists two lodges near the high country. **Tuolumne Mea
 
 Lee Vining is the closest town, about 12 miles from the entrance, with motels and the famous Whoa Nellie Deli at the junction of Highways 120 and 395. June Lake, 27 miles from the entrance, adds four lakes, a ski mountain and trails from the door. Mammoth Lakes is the largest town, about an hour from the meadows. Our guide to [lodging near Yosemite's east entrance](/yosemite-national-park-lodging/) compares all three.
 
+{{ quote("scott") }}
+
 ## When to go
 
 **Early summer**, from the day Tioga Road opens into July, brings snowmelt, roaring creeks, full lakes and mosquitoes. **July and August** bring wildflowers in the meadows, warm days and afternoon thunderstorms, so start hikes early and be off the domes by early afternoon. **September and early October** are quieter and cooler, and often the most beautiful weeks of the year, until the first storm closes the road.

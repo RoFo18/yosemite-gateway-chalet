@@ -51,6 +51,8 @@ Coffee by the fire, boots on in the mud room, and two minutes to the lot. Ski un
 
 For experts, there is one more option. With a local guide, you can ski from the top of June Mountain all the way down to the chalet's back deck. It is one of the best lift-assisted backcountry descents in the Sierra.
 
+{{ quote("mark") }}
+
 ## Winter beyond the lifts
 
 Rent snowshoes in the village and walk out the back door toward Fern and Yost Lakes. Ice climbers head to Lee Vining Canyon. Hot Creek and the area's natural hot springs are a short drive. Our [winter page](/experiences/winter/) and [guide to Yosemite's east side in winter](/guides/yosemite-east-side-in-winter/) cover it all, including why Tioga Road is closed until late spring.
