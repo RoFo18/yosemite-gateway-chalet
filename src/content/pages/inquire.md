@@ -1,18 +1,43 @@
 ---
 url: /inquire/
 template: page
-title: Inquire
-eyebrow: We reply within a day
+title: Check Dates and Inquire
+nav_title: Check dates
+eyebrow: Live availability
 kicker: Inquire
-seo_title: "Inquire | Yosemite Gateway Chalet, June Lake"
-description: "Send an inquiry about dates at the Yosemite Gateway Chalet in June Lake. Whole-home rental for up to 8 guests, 27 miles from Yosemite's Tioga Pass entrance."
+seo_title: "Availability and Direct Booking | Yosemite Gateway Chalet, June Lake"
+description: "See which nights are open at the Yosemite Gateway Chalet in June Lake, pick your dates, and inquire directly. Whole-home rental for up to 8 guests near Yosemite."
 topic: book Yosemite Gateway Chalet
 hero: grand-room-fireside-evening
 hero_alt: The Grand Room in firelight on a winter evening
-lead: Tell us when you would like to come and who is coming. We will reply within a day with availability and a quote.
+lead: See which nights are open, choose your dates, and send them straight to us. We reply within a day.
 hide_cta: true
-updated: 2026-10-26
+updated: 2026-10-27
 ---
+<section class="avail" id="availability" aria-labelledby="avail-h">
+  <div class="avail-head">
+    <h2 id="avail-h">Find your dates</h2>
+    <p class="avail-help">Tap an arrival day, then a departure day. Open nights are shown in full; taken nights are crossed out.</p>
+  </div>
+  <div class="cal" data-cal>
+    <div class="cal-nav">
+      <button type="button" class="cal-arrow" data-cal-prev aria-label="Previous month"><span aria-hidden="true">&#8592;</span></button>
+      <button type="button" class="cal-arrow" data-cal-next aria-label="Next month"><span aria-hidden="true">&#8594;</span></button>
+    </div>
+    <div class="cal-months" data-cal-months aria-live="polite"></div>
+  </div>
+  <div class="cal-bar">
+    <div class="cal-summary" data-cal-summary><span class="cs-label">Your stay</span><span class="cs-value">Choose an arrival day</span></div>
+    <div class="cal-actions">
+      <button type="button" class="cal-clear" data-cal-clear hidden>Clear</button>
+      <button type="button" class="btn btn-solid" data-cal-go disabled>Request these dates</button>
+    </div>
+  </div>
+  <p class="cal-status" data-cal-status>Loading live availability&hellip;</p>
+</section>
+
+<h2 id="inquiry-form">Send your inquiry</h2>
+
 <form class="inquiry" name="inquiry" method="POST" action="/thank-you/" data-netlify="true" netlify-honeypot="company" novalidate>
 <input type="hidden" name="form-name" value="inquiry">
 <p class="hp" aria-hidden="true"><label for="company">Leave this field empty</label><input id="company" name="company" tabindex="-1" autocomplete="off"></p>
@@ -29,4 +54,4 @@ updated: 2026-10-26
 <div class="full"><button class="btn btn-solid" type="submit">Send inquiry</button></div>
 </form>
 
-Prefer to talk? Call (844) SKI-JUNE, which is (844) 754-5863. You can also book directly on [VRBO](https://www.vrbo.com/452799).
+Prefer to talk? Call (844) SKI-JUNE, which is (844) 754-5863. You can also book instantly on [VRBO](https://www.vrbo.com/452799) or [Airbnb](https://www.airbnb.com/h/yosemitechalet).

@@ -79,10 +79,23 @@ def figure(name, alt, caption=None, layout="wide"):
 
 
 def gallery(items, cols=3):
-    cells = "".join(
-        f'<a class="g-cell" href="/img/{n}-{IMAGES[n]["widths"][-1]}.webp" data-lightbox aria-label="Enlarge: {html.escape(a, quote=True)}">'
-        f'{picture(n, a, "(min-width: 900px) 33vw, 50vw")}</a>' for n, a in items)
-    return Markup(f'<div class="gallery cols-{cols}">{cells}</div>')
+    """A dark, full-width carousel: one photo at a time, captioned, with arrows, a counter and a filmstrip.
+    Swipe or scroll on touch screens; arrow keys and the filmstrip on desktop. Click a photo to view it full screen."""
+    n = len(items)
+    slides = "".join(
+        f'<figure class="car-slide" aria-roledescription="slide" aria-label="{i + 1} of {n}">'
+        f'<a href="/img/{name}-{IMAGES[name]["widths"][-1]}.webp" data-lightbox aria-label="View full screen: {html.escape(alt, quote=True)}">'
+        f'{picture(name, alt, "(min-width: 1100px) 1100px, 100vw", eager=False)}</a>'
+        f'<figcaption>{html.escape(alt)}</figcaption></figure>' for i, (name, alt) in enumerate(items))
+    thumbs = "".join(
+        f'<button type="button" class="car-thumb" data-go="{i}" aria-label="Show photo {i + 1}: {html.escape(alt, quote=True)}">'
+        f'{picture(name, "", "120px")}</button>' for i, (name, alt) in enumerate(items)) if n > 1 else ""
+    nav = ('<button type="button" class="car-arrow car-prev" data-prev aria-label="Previous photo"><span aria-hidden="true">&#8592;</span></button>'
+           '<button type="button" class="car-arrow car-next" data-next aria-label="Next photo"><span aria-hidden="true">&#8594;</span></button>'
+           f'<p class="car-count" aria-hidden="true"><span data-idx>1</span> / {n}</p>') if n > 1 else ""
+    return Markup(f'<div class="carousel" data-carousel aria-roledescription="carousel" tabindex="0">'
+                  f'<div class="car-stage"><div class="car-track" data-track>{slides}</div>{nav}</div>'
+                  f'{f"<div class=car-thumbs>{thumbs}</div>" if thumbs else ""}</div>')
 
 
 def distance_table(rows=None):

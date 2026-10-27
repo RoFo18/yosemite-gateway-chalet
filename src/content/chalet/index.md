@@ -12,7 +12,7 @@ hero_full: true
 kicker: The home
 business_schema: true
 lead: A hand-built log home of 4,000 square feet on the June Lake Loop, rented whole to one party. Granite peaks in every window, a creek through the grounds, and room for eight.
-updated: 2026-10-26
+updated: 2026-10-27
 related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 ---
 {{ facts([("Guests", "Up to 8, including infants"), ("Suites", "3, each with a private bath"), ("Also", "Half bath on the main level"), ("Size", "About 4,000 sq ft"), ("Beds", "2 California Kings, 1 queen, pull-out, queen futon"), ("Parking", "3 cars")]) }}
@@ -47,7 +47,7 @@ The family room next to the kitchen has a wood stove and a queen futon, and it i
 
 {{ figure("chalet-lawn-lodgepole-pines", "The chalet's lawn among lodgepole pines", None, "wide") }}
 
-Yost Creek runs through the grounds, and the trail to Fern Lake and Yost Lake starts about a mile down-canyon on foot. The outdoor hydrotherapy tub sits off the back deck under Carson Peak. The Carson Peak Inn is across the street, and the Double Eagle's Creekside Spa is a fifteen-minute walk.
+Yost Creek runs through the grounds. Walk out the back door and about a mile down-canyon to the trail for Fern Lake and Yost Lake. The outdoor hydrotherapy tub sits off the back deck under Carson Peak, and the Double Eagle's Creekside Spa is a fifteen-minute walk.
 
 ## Comforts
 

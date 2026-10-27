@@ -41,6 +41,8 @@ sources:
   - {title: "California Fall Color", url: "https://californiafallcolor.com/"}
   - {title: "Current conditions, Yosemite National Park", url: "https://www.nps.gov/yose/planyourvisit/conditions.htm"}
 ---
+<aside class="color-report"><p class="cr-kicker">Is it peak yet?</p><p class="cr-title">Mono County's live fall color report</p><p>Updated through the season with what is gold, what is green and what has already dropped.</p><a class="btn btn-solid" href="https://www.monocounty.org/things-to-do/fall-colors/" rel="noopener" target="_blank">See the color report</a></aside>
+
 ## When the color comes
 
 Fall color in Mono County is a slow wave that rolls downhill. The aspens in the highest canyons begin to turn in late September, and the color moves lower week by week. The June Lake Loop is one of the last places in the county to peak, usually in October, which Mono County Tourism calls the grand finale of the season.

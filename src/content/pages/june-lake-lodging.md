@@ -11,7 +11,7 @@ hero: june-lake-chalet-summer
 hero_alt: The Yosemite Gateway Chalet in summer on the June Lake Loop
 lead: June Lake lodging runs from lakeside resort cabins and motels to private homes. For a group that wants to be together under one roof, this is the one.
 business_schema: true
-updated: 2026-10-26
+updated: 2026-10-27
 related: [/the-chalet/, /guides/june-lake/, /yosemite-national-park-lodging/]
 faq:
   - q: What kinds of lodging are there in June Lake?
@@ -35,7 +35,7 @@ June Lake is a small mountain village on the June Lake Loop in Mono County, surr
 - **A Grand Room** with 21-foot ceilings, an open fire and an oak bar, and a remodeled gourmet kitchen.
 - **Trails within walking distance:** the Fern and Yost Lakes trail is about a mile down-canyon, and Yost Creek runs through the grounds.
 - **One mile to June Mountain,** and with a guide, a ski run that ends at the hot tub.
-- **Dinner across the street** at the Carson Peak Inn, and a spa fifteen minutes' walk away.
+- **Dinner five minutes away** at La Parrilla or the Tiger Bar in the village, and a spa fifteen minutes' walk away.
 - **Yosemite within reach.** 27 miles to the Tioga Pass entrance and 45 minutes to Tuolumne Meadows when Tioga Road is open.
 
 ## Getting here

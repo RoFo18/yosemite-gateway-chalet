@@ -15,7 +15,7 @@ There is something magical about fall in the Eastern Sierra. The hot, hazy days 
 
 The aspens on the June Lake Loop usually turn in late September and October, and the color moves down the canyon as the nights get colder. Orange and gold light up the hillsides against the gray granite of Carson Peak and the dark green of the pines. Fall color is not just an East Coast story. Up here, the leaves give back the light the sun pours down all summer.
 
-For where and when to look, see our [June Lake Loop fall colors guide](/guides/june-lake-fall-colors/).
+For where and when to look, see our [June Lake Loop fall colors guide](/guides/june-lake-fall-colors/), and before you drive, check Mono County's [live fall color report](https://www.monocounty.org/things-to-do/fall-colors/).
 
 ## Mornings at the chalet
 

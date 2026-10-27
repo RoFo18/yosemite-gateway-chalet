@@ -13,10 +13,8 @@ lead: The quietest room in the house, with Yost Creek running below the window.
 updated: 2026-10-27
 related: [/the-chalet/master-suite/, /the-chalet/elsie-room/, /the-chalet/floorplan/]
 ---
-Listen to Yost Creek roll past as you look out at Carson Peak from a memory foam bed. The River Room sits away from the Grand Room and is the quietest place to sleep in the chalet. The bathroom is completely remodeled, and the room has a television and DVD player for slow mornings.
+Listen to Yost Creek roll past as you look out at Carson Peak from a memory foam bed. The River Room sits away from the Grand Room and is the quietest place to sleep in the chalet. The bathroom is completely remodeled.
 
-{{ figure("river-room-suite", "The River Room, with a queen bed under a pine ceiling and log beams, and windows onto the forest", None, "wide") }}
-
-{{ facts([("Bed", "Memory foam"), ("Bath", "Private, remodeled"), ("View", "Carson Peak and Yost Creek"), ("Extras", "TV and DVD player")]) }}
+{{ facts([("Bed", "Memory foam"), ("Bath", "Private, remodeled"), ("View", "Carson Peak and Yost Creek")]) }}
 
 [Inquire about dates](/inquire/)

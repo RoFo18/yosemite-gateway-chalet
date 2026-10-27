@@ -13,7 +13,13 @@ related: [/inquire/, /faq/, /the-chalet/]
 ---
 ## Rates
 
-Nightly rates and minimum stays change with the season and demand. Send an [inquiry](/inquire/) with your dates for a quote, or see live pricing on [VRBO](https://www.vrbo.com/452799). Two things are added to every stay, and nothing else: a flat $295 cleaning fee and Mono County's 15% transient occupancy tax. Both appear in your quote. Returning guests are welcome to book direct and skip the platform service fees.
+Nightly rates and minimum stays change with the season and demand. For live prices and instant booking, use VRBO or Airbnb, whichever you prefer. The chalet is the same either way.
+
+<p class="btn-row" id="book"><a class="btn btn-solid" href="https://www.vrbo.com/452799" rel="noopener" target="_blank">See rates on VRBO</a><a class="btn btn-line" href="https://www.airbnb.com/h/yosemitechalet" rel="noopener" target="_blank">See rates on Airbnb</a></p>
+
+Two things are added to every stay, and nothing else: a flat $295 cleaning fee and Mono County's 15% transient occupancy tax.
+
+Already know your dates? [Check our availability calendar](/inquire/#availability) and ask us directly. Returning guests can book direct and skip the platform service fees.
 
 ## Policies
 
@@ -35,7 +41,7 @@ Nightly rates and minimum stays change with the season and demand. Send an [inqu
 
 **Smoking.** Not allowed indoors. Smoke outdoors at least ten feet from the house, and be mindful of fire risk. Cigarette butts left on the ground are charged at $50 each.
 
-**Hydrotherapy tub.** The tub runs year round, through summer nights and snowstorms alike. Children under 18, pregnant guests, and people with heart conditions or pacemakers may not use the tub. Allow at least six hours of heating to reach 101°F.
+**Hydrotherapy tub.** The tub runs year round, through summer nights and snowstorms alike. Children under 18, pregnant guests, and people with heart conditions or pacemakers may not use the tub.
 
 **Fishing.** No fishing in the pond on the grounds. See our [fishing guide](/experiences/fishing/) for the lakes nearby.
 

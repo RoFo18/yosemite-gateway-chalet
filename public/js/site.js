@@ -41,6 +41,32 @@
     });
   });
 
+  // Carousels
+  document.querySelectorAll('[data-carousel]').forEach(function (c) {
+    var track = c.querySelector('[data-track]'), slides = track.children, n = slides.length;
+    var prev = c.querySelector('[data-prev]'), next = c.querySelector('[data-next]'), idxEl = c.querySelector('[data-idx]');
+    var thumbs = c.querySelectorAll('.car-thumb'), cur = 0;
+    function go(i) { i = Math.max(0, Math.min(n - 1, i)); track.scrollTo({ left: slides[i].offsetLeft - track.offsetLeft, behavior: 'smooth' }); }
+    function mark(i) {
+      cur = i; if (idxEl) idxEl.textContent = i + 1;
+      if (prev) prev.disabled = i === 0; if (next) next.disabled = i === n - 1;
+      thumbs.forEach(function (t, k) { t.classList.toggle('is-on', k === i); if (k === i) t.setAttribute('aria-current', 'true'); else t.removeAttribute('aria-current'); });
+    }
+    var tick;
+    track.addEventListener('scroll', function () {
+      clearTimeout(tick);
+      tick = setTimeout(function () { mark(Math.round(track.scrollLeft / track.clientWidth)); }, 60);
+    }, { passive: true });
+    if (prev) prev.addEventListener('click', function () { go(cur - 1); });
+    if (next) next.addEventListener('click', function () { go(cur + 1); });
+    thumbs.forEach(function (t) { t.addEventListener('click', function () { go(+t.getAttribute('data-go')); }); });
+    c.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowRight') { e.preventDefault(); go(cur + 1); }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); go(cur - 1); }
+    });
+    mark(0);
+  });
+
   // Lightbox for galleries
   var lb = document.getElementById('lightbox');
   if (lb && lb.showModal) {
@@ -90,4 +116,131 @@
       } else if (msg) { msg.hidden = true; }
     });
   }
+
+  // Live availability calendar (Inquire page). Booked nights come from /api/availability,
+  // which merges the chalet's Airbnb and VRBO calendars.
+  var cal = document.querySelector('[data-cal]');
+  if (cal) (function () {
+    var monthsEl = cal.querySelector('[data-cal-months]');
+    var statusEl = document.querySelector('[data-cal-status]');
+    var sumEl = document.querySelector('[data-cal-summary] .cs-value');
+    var goBtn = document.querySelector('[data-cal-go]');
+    var clearBtn = document.querySelector('[data-cal-clear]');
+    var booked = {};               // 'YYYY-MM-DD' -> true when that night is taken
+    var start = null, end = null, hover = null;
+    var MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    var DAYS = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+    var LONG_DAYS = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
+    function pad(n) { return (n < 10 ? '0' : '') + n; }
+    function key(d) { return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()); }
+    function parse(k) { var p = k.split('-'); return new Date(+p[0], +p[1] - 1, +p[2]); }
+    function addDays(k, n) { var d = parse(k); d.setDate(d.getDate() + n); return key(d); }
+    function nightsBetween(a, b) { return Math.round((parse(b) - parse(a)) / 864e5); }
+    function pretty(k) { var d = parse(k); return LONG_DAYS[d.getDay()].slice(0, 3) + ', ' + MONTHS[d.getMonth()].slice(0, 3) + ' ' + d.getDate(); }
+    var todayD = new Date(); todayD.setHours(0, 0, 0, 0);
+    var today = key(todayD);
+    var view = new Date(todayD.getFullYear(), todayD.getMonth(), 1);
+    var lastMonth = new Date(todayD.getFullYear(), todayD.getMonth() + 18, 1);
+
+    function rangeClear(a, b) {       // every night from a up to (not including) b is open
+      for (var k = a; k < b; k = addDays(k, 1)) if (booked[k]) return false;
+      return true;
+    }
+    function perView() { return window.matchMedia('(min-width: 760px)').matches ? 2 : 1; }
+
+    function render() {
+      var n = perView(), html = '';
+      for (var m = 0; m < n; m++) {
+        var first = new Date(view.getFullYear(), view.getMonth() + m, 1);
+        var days = new Date(first.getFullYear(), first.getMonth() + 1, 0).getDate();
+        html += '<div class="cal-month"><p class="cal-title">' + MONTHS[first.getMonth()] + ' <span>' + first.getFullYear() + '</span></p>';
+        html += '<div class="cal-grid" role="grid">';
+        for (var w = 0; w < 7; w++) html += '<span class="cal-dow" aria-hidden="true">' + DAYS[w].slice(0, 2) + '</span>';
+        for (var b = 0; b < first.getDay(); b++) html += '<span class="cal-pad"></span>';
+        for (var d = 1; d <= days; d++) {
+          var k = key(new Date(first.getFullYear(), first.getMonth(), d));
+          var cls = ['cal-day'], label = LONG_DAYS[parse(k).getDay()] + ', ' + MONTHS[first.getMonth()] + ' ' + d;
+          var past = k < today, taken = !!booked[k], disabled = past;
+          var canCheckout = start && !end && k > start && rangeClear(start, k);
+          if (taken) { cls.push('is-booked'); label += ', booked'; if (!canCheckout) disabled = true; else label += ', available for departure'; }
+          else if (!past) label += ', open';
+          if (past) cls.push('is-past');
+          if (k === today) cls.push('is-today');
+          var rangeEnd = end || (start && hover && hover > start && rangeClear(start, hover) ? hover : null);
+          if (start && k === start) cls.push('is-start');
+          if (rangeEnd && k === rangeEnd) cls.push('is-end');
+          if (start && rangeEnd && k > start && k < rangeEnd) cls.push('in-range');
+          if (start && !end && k > start && !canCheckout) cls.push('is-blocked');
+          html += '<button type="button" class="' + cls.join(' ') + '" data-day="' + k + '"' + (disabled ? ' disabled' : '') +
+                  ' aria-label="' + label + '"' + (k === start || k === end ? ' aria-pressed="true"' : '') + '>' + d + '</button>';
+        }
+        html += '</div></div>';
+      }
+      monthsEl.innerHTML = html;
+      cal.querySelector('[data-cal-prev]').disabled = view <= new Date(todayD.getFullYear(), todayD.getMonth(), 1);
+      cal.querySelector('[data-cal-next]').disabled = new Date(view.getFullYear(), view.getMonth() + n, 1) > lastMonth;
+      summary();
+    }
+
+    function summary() {
+      if (start && end) {
+        var n = nightsBetween(start, end);
+        sumEl.textContent = pretty(start) + '  to  ' + pretty(end) + '  ·  ' + n + (n === 1 ? ' night' : ' nights');
+      } else if (start) sumEl.textContent = 'Arrive ' + pretty(start) + '. Now choose a departure day.';
+      else sumEl.textContent = 'Choose an arrival day';
+      goBtn.disabled = !(start && end);
+      clearBtn.hidden = !start;
+    }
+
+    monthsEl.addEventListener('click', function (e) {
+      var b = e.target.closest('[data-day]'); if (!b || b.disabled) return;
+      var k = b.getAttribute('data-day');
+      if (!start || end || k <= start) { if (booked[k]) return; start = k; end = null; }
+      else if (rangeClear(start, k)) end = k;
+      else if (!booked[k]) { start = k; end = null; }
+      render();
+      var again = monthsEl.querySelector('[data-day="' + k + '"]'); if (again) again.focus();
+    });
+    monthsEl.addEventListener('mouseover', function (e) {
+      var b = e.target.closest('[data-day]');
+      if (!start || end || !b) return;
+      var k = b.getAttribute('data-day');
+      if (k !== hover) { hover = k; render(); }
+    });
+    cal.querySelector('[data-cal-prev]').addEventListener('click', function () { view = new Date(view.getFullYear(), view.getMonth() - 1, 1); render(); });
+    cal.querySelector('[data-cal-next]').addEventListener('click', function () { view = new Date(view.getFullYear(), view.getMonth() + 1, 1); render(); });
+    clearBtn.addEventListener('click', function () { start = end = hover = null; render(); });
+    goBtn.addEventListener('click', function () {
+      var a = document.getElementById('arrival'), d = document.getElementById('departure');
+      if (a && d) {
+        a.value = start; d.value = end;
+        a.dispatchEvent(new Event('change', { bubbles: true }));
+        d.dispatchEvent(new Event('change', { bubbles: true }));
+      }
+      var h = document.getElementById('inquiry-form');
+      if (h) h.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      var f = document.getElementById('first');
+      if (f) setTimeout(function () { f.focus({ preventScroll: true }); }, 450);
+    });
+    var lastN = perView();
+    window.addEventListener('resize', function () { if (perView() !== lastN) { lastN = perView(); render(); } });
+
+    render();
+    fetch('/api/availability', { headers: { accept: 'application/json' } })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (data) {
+        (data.booked || []).forEach(function (r) { for (var k = r[0]; k < r[1]; k = addDays(k, 1)) booked[k] = true; });
+        if (start && booked[start]) start = end = null;
+        if (start && end && !rangeClear(start, end)) end = null;
+        render();
+        var mins = Math.max(0, Math.round((Date.now() - new Date(data.updated)) / 60000));
+        statusEl.textContent = 'Synced with our VRBO and Airbnb calendars ' + (mins < 2 ? 'just now' : mins + ' minutes ago') +
+          '. A very recent booking can take a little while to appear, so we confirm every date in our reply.';
+        statusEl.classList.add('ok');
+      })
+      .catch(function () {
+        statusEl.textContent = 'Live availability is not loading right now. Choose your dates anyway and we will confirm them within a day.';
+      });
+  })();
 })();

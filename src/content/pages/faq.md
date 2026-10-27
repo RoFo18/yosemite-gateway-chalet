@@ -61,6 +61,6 @@ faq:
   - q: Can we fly into Mammoth?
     a: Yes. Mammoth Yosemite Airport is about 25 minutes from the chalet, with seasonal commercial service and rental cars. In winter, a storm can delay connections.
   - q: How do we book?
-    a: Send an inquiry with your dates, or book on VRBO, listing 452799. Returning guests can book direct.
+    a: Check our availability calendar on the Inquire page and send us your dates, or book instantly on VRBO (listing 452799) or Airbnb, whichever you prefer. Returning guests can book direct.
 ---
 For snow conditions, see [June Mountain](https://www.junemountain.com/). For anything else, [send an inquiry](/inquire/) or call (844) SKI-JUNE.

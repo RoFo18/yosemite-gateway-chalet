@@ -18,11 +18,11 @@ For trails inside Yosemite, see our [Tuolumne Meadows guide](/guides/tuolumne-me
 
 ## Fern and Yost Lakes, from the chalet
 
-Leave the car at the house. Walk down-canyon about a mile to the Fern Lake trailhead, then take the trail up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak.
+Leave the car at the house. Walk out the back door and about a mile down-canyon to the Fern Lake trailhead, then take the trail up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak.
 
 From the trailhead it is about 1.6 miles to the lake, with roughly 1,600 feet of climbing. The grade is steep from the start and does not let up much. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows.
 
-{{ facts([("Chalet to trailhead", "About 1 mile, down-canyon"), ("Trailhead to Fern Lake", "About 1.6 miles"), ("Climb", "About 1,600 feet"), ("Round trip from the chalet", "About 5 to 6 miles, half a day")]) }}
+{{ facts([("Back door to trailhead", "About 1 mile, down-canyon"), ("Trailhead to Fern Lake", "About 1.6 miles"), ("Climb", "About 1,600 feet"), ("Round trip from the chalet", "About 5 to 6 miles, half a day")]) }}
 
 These distances are approximate. Carry water, start early in summer, and turn back if afternoon thunderstorms build over the crest.
 

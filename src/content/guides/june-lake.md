@@ -78,7 +78,7 @@ June Mountain is a small, friendly ski area right on the loop, with about 2,580 
 
 ## A week from June Lake
 
-1. **Settle in.** Walk a mile down-canyon and up the trail to Fern Lake, then dinner across the street at the Carson Peak Inn.
+1. **Settle in.** Walk out the back door, a mile down-canyon and up the trail to Fern Lake, then tacos at La Parrilla in the village.
 2. **Tuolumne Meadows.** Over Tioga Pass early for Cathedral Lakes or Lembert Dome. See [Tuolumne Meadows](/guides/tuolumne-meadows/).
 3. **The lakes.** Paddle Gull Lake, fish Silver Lake at sunrise, swim from the beach at June Lake.
 4. **Mono Lake and Bodie.** The tufa towers at dawn and the ghost town after lunch. See [sightseeing](/experiences/sightseeing/).

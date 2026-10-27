@@ -6,7 +6,7 @@
     <p class="eyebrow">June Lake &middot; Eastern Sierra &middot; Yosemite's east side</p>
     <h1 id="hero-h">A private log chalet at the edge of Yosemite's high country</h1>
     <div class="btn-row">
-      <a class="btn btn-solid" href="/inquire/">Inquire about dates</a>
+      <a class="btn btn-solid" href="/inquire/#availability">Check availability</a>
       <a class="btn btn-ghost-light" href="/the-chalet/">Explore the chalet</a>
     </div>
   </div>
@@ -18,7 +18,7 @@
     <div><dt>Guests</dt><dd>Up to 8</dd></div>
     <div><dt>Suites</dt><dd>3, each with bath</dd></div>
     <div><dt>Size</dt><dd>4,000 sq ft</dd></div>
-    <div><dt>Soaking</dt><dd>Outdoor tub, jacuzzi, claw-foot</dd></div>
+    <div><dt>Hot tub</dt><dd>Outdoors, open all year</dd></div>
   </dl>
 </section>
 
@@ -75,7 +75,7 @@
   <div class="season"><h3>Winter</h3><p>June Mountain is a mile away, and kids 12 and under ski there free. Mammoth is thirty minutes. With a guide, ski from the top of June Mountain to the hot tub.</p><a class="link-arrow" href="/experiences/winter/">Winter</a></div>
   <div class="season"><h3>Spring</h3><p>When Tioga Road opens, the high country comes back. Spring corn snow at Tioga Pass, and the first trout of the season.</p><a class="link-arrow" href="/guides/tioga-pass/">Tioga Pass</a></div>
   <div class="season"><h3>Summer</h3><p>Five paddleboards in the garage, four lakes on the loop, Fern Lake above the house and Tuolumne Meadows in 45 minutes.</p><a class="link-arrow" href="/experiences/summer/">Summer</a></div>
-  <div class="season"><h3>Fall</h3><p>In October the aspens of the June Lake Loop turn gold, and the summer crowds go home.</p><a class="link-arrow" href="/guides/june-lake-fall-colors/">Fall colors</a></div>
+  <div class="season"><h3>Fall</h3><p>In October the aspens of the June Lake Loop turn gold, and the summer crowds go home.</p><a class="link-arrow" href="/guides/june-lake-fall-colors/">Fall colors</a><a class="link-arrow" href="https://www.monocounty.org/things-to-do/fall-colors/" rel="noopener" target="_blank">Live color report</a></div>
 </section>
 
 <section class="feature reverse" aria-labelledby="f2-h">
@@ -90,21 +90,14 @@
 
 {{ film("87701971", "Yosemite HD II", 'Film: <a href="https://vimeo.com/87701971" rel="noopener" target="_blank">Yosemite HD II</a> by Colin Delehanty and Sheldon Neill of Project Yosemite, shot over ten months in the park.', 5) }}
 
-<section class="guides-list" aria-labelledby="g-h">
-  <div class="sec-head">
-    <p class="eyebrow">Field guides</p>
-    <h2 id="g-h">The high country, from people who live at its edge</h2>
-  </div>
-  <ol class="glist">
-  {% for u in ['/guides/tioga-pass/', '/guides/tuolumne-meadows/', '/yosemite-national-park-lodging/', '/guides/june-lake/', '/guides/june-lake-fall-colors/', '/guides/yosemite-east-side-in-winter/'] %}
-    {% set g = pages[u] %}
-    <li><a href="{{ u }}">
-      <span class="gl-img">{{ picture(g.hero, '', '(min-width: 900px) 240px, 40vw') }}</span>
-      <span class="gl-text"><span class="gl-title">{{ g.nav_title or g.title }}</span><span class="gl-desc">{{ g.card }}</span></span>
-    </a></li>
+<nav class="guide-row" aria-label="Field guides">
+  <p class="eyebrow">Field guides</p>
+  <ul>
+  {% for u in ['/guides/tioga-pass/', '/guides/tuolumne-meadows/', '/guides/june-lake/', '/guides/june-lake-fall-colors/', '/guides/yosemite-east-side-in-winter/'] %}
+    <li><a href="{{ u }}">{{ pages[u].nav_title or pages[u].title }}</a></li>
   {% endfor %}
-  </ol>
-</section>
+  </ul>
+</nav>
 
 <section class="press" aria-label="Note">
   <p class="statement small">Heated by geothermal heat pumps, the first retrofit of its kind in Mono County, and finished in recycled tile and local timber. Formerly the Sierra Vista Chalet.</p>
