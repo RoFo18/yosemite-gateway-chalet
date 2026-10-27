@@ -176,7 +176,8 @@ def video_tour(youtube_id, title, credit, minutes, upload_date, description,
     return Markup(
         f'<section class="film film-tour" id="walkthrough" aria-label="Video: {html.escape(title, quote=True)}">'
         f'<button type="button" class="film-frame" data-youtube="{youtube_id}" aria-label="{label}">'
-        f'<span class="film-poster"><img src="{thumb}" alt="" loading="lazy" width="1280" height="720"></span>'
+        f'<span class="film-poster"><img src="{thumb}" alt="" loading="lazy" width="1280" height="720" '
+        f'onerror="this.onerror=null;this.src=\'https://i.ytimg.com/vi/{youtube_id}/hqdefault.jpg\'"></span>'
         f'<span class="film-copy"><span class="eyebrow">{html.escape(eyebrow)}</span>'
         f'<span class="film-title">{html.escape(heading)}</span>'
         f'<span class="film-cta"><span class="film-icon" aria-hidden="true"></span>Play the tour &middot; {mins}</span></span>'
