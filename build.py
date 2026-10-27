@@ -186,7 +186,7 @@ def business_ld():
         "checkinTime": h["check_in_24"], "checkoutTime": h["check_out_24"],
         "petsAllowed": False,
         "identifier": P["booking"]["vrbo_id"],
-        "sameAs": [P["booking"]["vrbo_url"]],
+        "sameAs": [P["booking"]["vrbo_url"], P["booking"]["airbnb_url"], P["social"]["x_url"]],
         "knowsAbout": ["June Lake", "Tioga Pass", "Tuolumne Meadows", "Yosemite National Park", "June Mountain",
                        "Eastern Sierra"],
         "containsPlace": {

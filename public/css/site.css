@@ -508,3 +508,6 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 .car-thumb:hover{opacity:.8}.car-thumb.is-on{opacity:1;outline-color:#d8b77e}
 .carousel:focus-visible{box-shadow:0 0 0 2px var(--bronze)}
 @media (max-width:760px){.car-arrow{display:none}.car-slide a{height:clamp(220px,44vh,460px)}}
+
+.foot-social{color:#f1efe8;text-decoration:none;border-bottom:1px solid rgba(241,239,232,.35)}
+.foot-social:hover{border-bottom-color:#f1efe8}

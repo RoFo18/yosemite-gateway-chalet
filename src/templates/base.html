@@ -72,7 +72,8 @@
       <p class="foot-name">Yosemite Gateway Chalet</p>
       <p>{{ P.address.street }}<br>{{ P.address.city }}, {{ P.address.region }} {{ P.address.postal }}<br>{{ P.address.area }}</p>
       <p><a href="tel:{{ P.phone.tel }}">{{ P.phone.display }}</a><br><span class="muted">{{ P.phone.digits }}</span></p>
-      <p><a class="btn btn-line" href="/inquire/">Inquire</a></p>
+      <p><a class="foot-social" href="{{ P.social.x_url }}" rel="me noopener" target="_blank" aria-label="Yosemite Gateway Chalet on X">Follow {{ P.social.x_handle }} on X</a></p>
+      <p><a class="btn btn-line" href="/inquire/#availability">Check dates</a></p>
     </div>
     {% for heading, links in FOOTER %}
     <div>

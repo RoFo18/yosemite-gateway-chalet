@@ -28,6 +28,10 @@ booking:
   vrbo_url: https://www.vrbo.com/452799
   vrbo_id: "452799"
   airbnb_url: https://www.airbnb.com/h/yosemitechalet
+
+social:
+  x_handle: "@yosemitechalet"
+  x_url: https://x.com/yosemitechalet
   direct_note: Returning guests can book direct.
 
 # Never publish an email address. Inquiries go through the /inquire/ form.
