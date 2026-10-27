@@ -1,6 +1,6 @@
 # {{ P.name }}
 
-> A private {{ "{:,}".format(P.home.square_feet) }} square foot log chalet in June Lake, California, rented as a whole home to one party. Sleeps {{ P.home.max_overnight_guests }} in three private suites, with an outdoor hydrotherapy tub under Carson Peak. On the June Lake Loop in Mono County, 27 highway miles from Yosemite National Park's Tioga Pass (east) entrance, about 45 minutes from Tuolumne Meadows, and one mile from June Mountain Ski Area. Formerly called the {{ P.former_name }}.
+> A private {{ "{:,}".format(P.home.square_feet) }} square foot log chalet in June Lake, California, rented as a whole home to one party. Sleeps {{ P.home.max_overnight_guests }} in three private suites, with an outdoor hydrotherapy tub under Carson Peak. On the June Lake Loop in Mono County, 27 highway miles from Yosemite National Park's Tioga Pass (east) entrance, about 45 minutes from Tuolumne Meadows, and one mile from June Mountain Ski Area.
 
 ## At a glance
 - Who it suits: families and groups of up to eight who want one house near Yosemite's east side

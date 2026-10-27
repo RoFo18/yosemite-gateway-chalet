@@ -26,7 +26,3 @@ When the chalet was remodeled, it got geothermal heat pumps, the first geotherma
 - **Organic cotton** sheets and towels, and recycling service at the house.
 
 Read more [about the chalet](/the-chalet/#built-to-last-lightly).
-
-## A new name
-
-In spring 2014 the chalet changed its name from the Sierra Vista Chalet to the Yosemite Gateway Chalet, for the gateway it sits beside: Tioga Pass, 27 miles up the road.

@@ -377,7 +377,7 @@ def business_ld():
         "@type": "VacationRental",
         "@id": SITE + "/#chalet",
         "name": P["name"],
-        "alternateName": [P["former_name"], "Yosemite Chalet"],
+        "alternateName": ["Yosemite Chalet"],
         "description": (f"A {h['square_feet']:,} square foot log chalet in June Lake, California, rented as a whole home. "
                         f"Sleeps {h['max_overnight_guests']} in three private suites, with an outdoor hydrotherapy tub, "
                         "one mile from June Mountain and 27 miles from Yosemite's Tioga Pass entrance."),
