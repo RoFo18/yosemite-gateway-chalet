@@ -5,20 +5,26 @@ nav_title: Hiking
 eyebrow: Trail notes
 kicker: Summer and fall
 seo_title: "Hiking Trails near June Lake, Tioga Pass and Yosemite's East Side"
-description: "Trail notes from the chalet: Fern and Yost Lakes from the back door, Parker Lake, Gibbs Lake, Lundy Canyon, Tioga Peak, Lee Vining Creek and the Tuolumne Grove, with distances and trailheads."
+description: "Trail notes from the chalet: Fern and Yost Lakes a mile's walk from the chalet, Parker Lake, Gibbs Lake, Lundy Canyon, Tioga Peak, Lee Vining Creek and the Tuolumne Grove, with distances and trailheads."
 topic: hiking near June Lake
 hero: fall-view-over-yosemite-climber
 hero_alt: A hiker on granite above a high Sierra lake
 hero_focus: 50% 40%
 lead: The Ansel Adams Wilderness begins at the back door, and Yosemite's high country is forty-five minutes up the road.
-updated: 2026-10-26
+updated: 2026-10-27
 related: [/guides/tuolumne-meadows/, /guides/tioga-pass/, /experiences/fishing/]
 ---
 For trails inside Yosemite, see our [Tuolumne Meadows guide](/guides/tuolumne-meadows/) and [Tioga Pass guide](/guides/tioga-pass/). These are the trails close to June Lake that we send guests to first.
 
 ## Fern and Yost Lakes, from the chalet
 
-Walk out the back door to the trailhead on Fish Hatchery Hill, between the chalet and the Double Eagle Resort. The trail climbs to Fern Lake on the southern shoulder of Carson Peak, and a branch continues to Yost Lake and Yost Meadow. Fern Lake is only 1.7 miles in, but the climb is steep. Many guests say Yost Meadow rivals Tuolumne Meadows.
+Leave the car at the house. Walk down-canyon about a mile to the Fern Lake trailhead, then take the trail up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak.
+
+From the trailhead it is about 1.6 miles to the lake, with roughly 1,600 feet of climbing. The grade is steep from the start and does not let up much. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows.
+
+{{ facts([("Chalet to trailhead", "About 1 mile, down-canyon"), ("Trailhead to Fern Lake", "About 1.6 miles"), ("Climb", "About 1,600 feet"), ("Round trip from the chalet", "About 5 to 6 miles, half a day")]) }}
+
+These distances are approximate. Carry water, start early in summer, and turn back if afternoon thunderstorms build over the crest.
 
 To summit Carson Peak, the peak you see from the hydrotherapy tub, continue past Fern Lake up the east slope to the plateau, then walk north to the top. From Yost Meadow, another trail returns through the June Mountain ski area to June Lake village, ending near the Balanced Boulder by the fire station.
 

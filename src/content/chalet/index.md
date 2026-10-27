@@ -23,8 +23,8 @@ Each bedroom is its own suite with a private bath and a memory foam mattress, an
 
 <div class="suite-grid in-prose">
 <a class="suite" href="/the-chalet/master-suite/">{{ picture("master-suite-bed", "The master suite with its California King bed", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">Master Suite</span><span class="suite-spec">California King, private two-person jacuzzi, sleeping loft</span></a>
-<a class="suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-claw-foot-tub", "The Elsie Room's ruby-red claw-foot tub", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">Elsie Room</span><span class="suite-spec">Ruby-red claw-foot tub, granite peak views</span></a>
-<a class="suite" href="/the-chalet/river-room/">{{ picture("river-room-suite", "The River Room, the quietest room in the chalet", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">River Room</span><span class="suite-spec">The quietest room, Yost Creek below the window</span></a>
+<a class="suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-suite", "The Elsie Room, with windows on two sides", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">Elsie Room</span><span class="suite-spec">Ruby-red claw-foot tub, granite peak views</span></a>
+<a class="suite" href="/the-chalet/river-room/">{{ picture("chalet-grounds-hammock-aspens", "Yost Creek and the aspens outside the River Room", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">River Room</span><span class="suite-spec">The quietest room, Yost Creek below the window</span></a>
 </div>
 
 ## The Grand Room
@@ -47,7 +47,7 @@ The family room next to the kitchen has a wood stove and a queen futon, and it i
 
 {{ figure("chalet-lawn-lodgepole-pines", "The chalet's lawn among lodgepole pines", None, "wide") }}
 
-Yost Creek runs through the grounds, and the trails to Fern Lake and Yost Lake begin a short walk from the door. The outdoor hydrotherapy tub sits off the back deck under Carson Peak. The Carson Peak Inn is across the street, and the Double Eagle's Creekside Spa is a fifteen-minute walk.
+Yost Creek runs through the grounds, and the trail to Fern Lake and Yost Lake starts about a mile down-canyon on foot. The outdoor hydrotherapy tub sits off the back deck under Carson Peak. The Carson Peak Inn is across the street, and the Double Eagle's Creekside Spa is a fifteen-minute walk.
 
 ## Comforts
 
@@ -55,7 +55,10 @@ Yost Creek runs through the grounds, and the trails to Fern Lake and Yost Lake b
 - Wifi throughout
 - High-end washer and dryer in the garage
 - Organic cotton sheets and towels for the beds, baths, and tubs
+- Five stand-up paddleboards in the garage
 - A small batch of firewood waiting for you
+
+{{ figure("garage-climbing-wall", "Two children on the small climbing wall in the chalet's garage", "And for a stormy afternoon, a small climbing wall in the garage.", "small") }}
 
 ## Built to last, lightly
 

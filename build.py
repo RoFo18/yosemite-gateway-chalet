@@ -95,6 +95,20 @@ def distance_table(rows=None):
                   f'<th scope="col">Notes</th></tr></thead><tbody>{body}</tbody></table></div>')
 
 
+def film(vimeo_id, title, credit, minutes, poster="eastern-sierra-sunset-panorama",
+         eyebrow="Yosemite in motion", heading="The high country, minutes from the door"):
+    """Full-bleed film band. Shows a poster until clicked, so no Vimeo code loads on page view."""
+    label = html.escape(f"Play {title}, {minutes} minutes", quote=True)
+    return Markup(
+        f'<section class="film" aria-label="Film: {html.escape(title, quote=True)}">'
+        f'<button type="button" class="film-frame" data-vimeo="{vimeo_id}" aria-label="{label}">'
+        f'{picture(poster, "", "100vw", "film-poster")}'
+        f'<span class="film-copy"><span class="eyebrow">{html.escape(eyebrow)}</span>'
+        f'<span class="film-title">{html.escape(heading)}</span>'
+        f'<span class="film-cta"><span class="film-icon" aria-hidden="true"></span>Play the film &middot; {minutes} min</span></span>'
+        f'</button><p class="film-credit">{credit}</p></section>')
+
+
 def note(text):
     return Markup(f'<aside class="note"><p>{text}</p></aside>')
 
@@ -151,7 +165,7 @@ def business_ld():
         "telephone": P["phone"]["tel"],
         "image": [f"{SITE}/img/{n}-{IMAGES[n]['widths'][-1]}.webp" for n in
                   ("chalet-exterior-carson-peak", "grand-room-oak-bar-wine", "hydrotherapy-tub-night-steam",
-                   "master-suite-bed", "elsie-room-granite-peak-view")],
+                   "master-suite-bed", "elsie-room-suite", "paddleboard-rush-creek-silver-lake")],
         "address": {"@type": "PostalAddress", "streetAddress": a["street"], "addressLocality": a["city"],
                     "addressRegion": a["region"], "postalCode": a["postal"], "addressCountry": a["country"]},
         "geo": {"@type": "GeoCoordinates", "latitude": P["geo"]["lat"], "longitude": P["geo"]["lng"]},
@@ -226,7 +240,7 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, distance_table=distance_table, note=note,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
     env.globals.update(helpers, NAV=NAV, FOOTER=FOOTER, SITE=SITE, year=dt.date.today().year)
     env.filters["md"] = lambda s: Markup(markdown.markdown(str(s), extensions=["smarty"]))

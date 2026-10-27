@@ -5,7 +5,7 @@ nav_title: FAQ
 eyebrow: Before you book
 kicker: FAQ
 seo_title: "FAQ | Yosemite Gateway Chalet, June Lake Vacation Rental"
-description: "Answers about the Yosemite Gateway Chalet: how many it sleeps, beds, taxes, distance to Yosemite and Tioga Pass, skiing to the hot tub, parking, pets, linens, and check-in."
+description: "Answers about Yosemite Gateway Chalet: sleeps 8, beds, the $295 cleaning fee, the year-round hot tub, distance to Yosemite, parking, pets and check-in."
 topic: Yosemite Gateway Chalet FAQ
 hero: ski-tracks-to-the-hot-tub
 hero_alt: Ski tracks from the top of June Mountain down to the chalet's hydrotherapy tub
@@ -13,7 +13,7 @@ hero_focus: 50% 60%
 lead: The questions guests ask most, answered plainly.
 faq_title: Staying at the chalet
 faq_open: true
-updated: 2026-10-26
+updated: 2026-10-27
 related: [/rates-and-policies/, /location/, /the-chalet/]
 faq:
   - q: How many people does the chalet sleep?
@@ -29,7 +29,11 @@ faq:
   - q: Can I hike from the back door into Yosemite?
     a: Yes, over Mono Pass or Donohue Pass, if you are in excellent condition. You will need to catch the YARTS bus or arrange a pickup in the park at the end of the day.
   - q: Are there taxes or additional charges?
-    a: Mono County's 15% transient occupancy tax applies to every stay, along with a cleaning fee. Your full total is shown before you book.
+    a: Two, and no others. A flat $295 cleaning fee per stay, and Mono County's 15% transient occupancy tax. Both are in your quote before you book.
+  - q: Is the hot tub open year round?
+    a: Yes. The outdoor hydrotherapy tub runs all year, in summer under the stars and in winter with snow banked around it. Guests under 18, pregnant guests, and anyone with a heart condition or pacemaker may not use it.
+  - q: Are there paddleboards?
+    a: Yes. Five stand-up paddleboards in the garage are included with your stay. Silver Lake and Rush Creek are a few minutes up the road.
   - q: What are check-in and check-out times?
     a: Check-in begins at 4:30 pm. Check-out is at 10:00 am.
   - q: Is there a washer and dryer?

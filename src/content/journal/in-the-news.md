@@ -1,17 +1,32 @@
 ---
 url: /journal/yosemite-gateway-chalet-in-the-news/
 template: post
-title: "The Yosemite Gateway Chalet in the News"
-seo_title: "Press: The Yosemite Gateway Chalet in the News"
-description: "Magazine and newspaper coverage of the chalet as some of the greenest lodging near Yosemite, including its pioneering geothermal heating."
+title: "Green Lodging Near Yosemite: The Chalet in the Press"
+seo_title: "Green Lodging Near Yosemite: The Chalet in the Press"
+description: "Press coverage of the Yosemite Gateway Chalet as some of the greenest lodging near Yosemite, including the first geothermal heat pump retrofit in Mono County."
+hero: chalet-exterior-carson-peak
+hero_alt: The Yosemite Gateway Chalet, a large log home below the granite of Carson Peak
 published: 2014-07-25
-updated: 2014-07-25
+updated: 2026-10-27
 ---
-The chalet's remodel, and its geothermal heat pumps, the first geothermal retrofit in Mono County, drew coverage in the press as some of the greenest lodging near Yosemite National Park.
+When the chalet was remodeled, it got geothermal heat pumps, the first geothermal retrofit in Mono County. That work, along with recycled tile, local timber and a long list of quieter choices, drew coverage in the press as some of the greenest lodging near Yosemite National Park.
+
+## The coverage
 
 <div class="press-grid">
 <a href="/docs/magazinereview.pdf">{{ picture("press-magazine-review", "A magazine travel review of the chalet", "280px") }}<span>Magazine review (PDF)</span></a>
-<a href="/docs/newspaper.pdf">{{ picture("press-newspaper-geothermal", "A newspaper article on the chalet's pioneering geothermal heating", "280px") }}<span>Newspaper article (PDF)</span></a>
+<a href="/docs/newspaper.pdf">{{ picture("press-newspaper-geothermal", "A newspaper article on the chalet's geothermal heating", "280px") }}<span>Newspaper article (PDF)</span></a>
 </div>
 
-In spring 2014 the chalet changed its name from the Sierra Vista Chalet to the Yosemite Gateway Chalet.
+## What makes it green
+
+- **Geothermal heat pumps** draw warmth from the ground, the first such retrofit in Mono County.
+- **Recycled materials,** including ceramic tile that is 43% recycled.
+- **Local timber** in the eleven-and-a-half-foot dining table and the bar stools.
+- **Organic cotton** sheets and towels, and recycling service at the house.
+
+Read more [about the chalet](/the-chalet/#built-to-last-lightly).
+
+## A new name
+
+In spring 2014 the chalet changed its name from the Sierra Vista Chalet to the Yosemite Gateway Chalet, for the gateway it sits beside: Tioga Pass, 27 miles up the road.

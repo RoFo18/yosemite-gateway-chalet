@@ -10,7 +10,7 @@
 {% for a in P.amenities %}- {{ a }}
 {% endfor %}- No pets. No smoking indoors.
 - Check-in {{ P.home.check_in }}. Check-out {{ P.home.check_out }}.
-- {{ P.home.tax }} and a cleaning fee apply to every stay
+- {{ P.home.tax }} and a {{ P.home.cleaning_fee }} cleaning fee per stay. No other fees.
 
 ## Location
 - Address: {{ P.address.street }}, {{ P.address.city }}, {{ P.address.region }} {{ P.address.postal }}

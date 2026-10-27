@@ -1,20 +1,28 @@
 ---
 url: /journal/the-spirit-of-glisse/
 template: post
-title: "The Spirit of Glissé"
-seo_title: "The Spirit of Glissé | Yosemite Gateway Chalet Journal"
-description: "On falling in love with skiing, and finding it again on the slopes of June Mountain."
+title: "Skiing June Mountain: The Spirit of Glissé"
+seo_title: "Skiing June Mountain: The Spirit of Glissé"
+description: "On falling in love with skiing, and why June Mountain, a mile from the chalet, is one of the best places in California to find that feeling with kids."
 hero: skiing-june-mountain-corduroy
 hero_alt: A lone skier on fresh corduroy at June Mountain
 published: 2014-10-04
-updated: 2014-10-04
+updated: 2026-10-27
 ---
-I still remember the first day I stepped into a pair of skis. A nervous, self-conscious ten-year-old, I was left slopeside by my friend's mother to wait for the eleven other kids in a weekend program for children who had never skied. My friend was nowhere to be seen. He was off in the fresh snow up the mountain, far more excited about that than about the nerves of his anxious friend. What I didn't know, standing there in the cold, was that I was about to begin a love affair that would last a lifetime.
+I still remember the first day I stepped into a pair of skis. A nervous ten-year-old, I was left slopeside by my friend's mother to wait for a weekend program for kids who had never skied. My friend was nowhere to be seen. He was off in the fresh snow up the mountain. What I didn't know, standing there in the cold, was that I was about to begin a love affair that would last a lifetime.
 
-There is nothing more magical than the flow of linked turns down a steep slope in fresh snow and bright sun. I have tried for years to put words to it, but "floating" and "flying" don't do justice to the feeling of breathing in cold mountain air and poling forward at the top of a beckoning slope.
+## The feeling
 
-The best description I ever found was in the pages of Powder magazine. I have long since lost the copy, but I remember it describing the joy of gliding, the strain and release of starting a turn and launching into it, and the easy flow of letting the skis point downhill and go. The Spirit of Glissé, they called it. Glissé just sounds like skiing.
+There is nothing like linking turns down a steep slope in fresh snow and bright sun. "Floating" and "flying" don't do it justice: the cold air, the pole plant at the top of a beckoning slope, the strain and release of each turn, and the easy flow of letting the skis run.
 
-Skiing has been my exercise, my escape, and my exploration of the limits of my courage. It has meant countless days with great friends, on the mountaintop, on the mountainside and after the last run. It remains the greatest sport I have ever tried.
+The best description I ever found was in the pages of Powder magazine. I have long since lost the copy, but I remember what they called it: the Spirit of Glissé. Glissé just sounds like skiing.
 
-Have you felt the Spirit of Glissé? Linking turns on the open slopes of June Mountain, a mile from the chalet, your children might find it too.
+Skiing has been my exercise, my escape, and my test of courage. It has meant countless days with great friends, on the mountaintop, on the mountainside and after the last run. It remains the greatest sport I have ever tried.
+
+## Why June Mountain
+
+June Mountain is a mile from the chalet, two minutes by car. It is a relaxed, uncrowded mountain with about 2,500 vertical feet of terrain for every level, and views straight across the June Lake Loop to Carson Peak. Lift lines are short, the vibe is family-first, and it is a wonderful place for kids to find their own Spirit of Glissé. Mammoth Mountain is thirty minutes away when you want something bigger.
+
+For experienced backcountry skiers, there is one more reason. With a local guide, you can ski from the top of June Mountain all the way down to the chalet's hot tub. See [winter at the chalet](/experiences/winter/) and our [guide to Yosemite's east side in winter](/guides/yosemite-east-side-in-winter/). For conditions and tickets, check [June Mountain](https://www.junemountain.com/).
+
+Have you felt the Spirit of Glissé? Linking turns on the open slopes of June Mountain, your children might find it too. [Ask about winter dates](/inquire/).

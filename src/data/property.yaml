@@ -46,6 +46,7 @@ home:
   check_out_24: "10:00"
   tax: Mono County's 15% transient occupancy tax
   tax_rate: "15%"
+  cleaning_fee: "$295"
   pets: false
   smoking_indoors: false
 
@@ -56,7 +57,7 @@ beds:
   - {type: Queen futon, count: 1}
 
 amenities:
-  - Outdoor hydrotherapy tub under Carson Peak
+  - Outdoor hydrotherapy tub under Carson Peak, open year round
   - Two-person jacuzzi in the master suite
   - Ruby-red claw-foot tub in the Elsie Room
   - Grand Room with 21'6" ceilings, open fireplace and oak bar
@@ -67,6 +68,8 @@ amenities:
   - Washer and dryer
   - Organic cotton linens and towels
   - Geothermal heat pumps
+  - Five stand-up paddleboards for guests
+  - A small climbing wall in the garage
   - Parking for three cars
 
 distances:

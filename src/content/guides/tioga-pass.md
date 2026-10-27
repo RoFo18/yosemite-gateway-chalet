@@ -13,7 +13,7 @@ hero: backcountry-skier-gaylor-peak
 hero_alt: A backcountry skier climbing toward Gaylor Peak above Tioga Pass in spring
 hero_focus: 50% 72%
 published: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-27
 lead: Tioga Pass is the 9,945-foot summit of Highway 120 and the east entrance to Yosemite National Park, the highest highway pass in California. It is open only part of the year, usually from late May or June until the first big storms around November, and it is 27 miles from June Lake.
 glance:
   Elevation: 9,945 ft
@@ -61,6 +61,8 @@ The Tioga Pass entrance station is Yosemite's eastern gate. It is the only way i
 
 Tioga Road is not maintained in winter. The National Park Service starts plowing on or about April 15 each year, and clearing usually takes between one and two months. How fast it goes depends on the size of the snowpack and on the April and May weather. The park is clear that the date cannot be predicted, even late in the spring.
 
+{{ figure("ritter-range-snow", "The Ritter Range in snow", None, "wide") }}
+
 In practice the road most often opens in late May or June. A few recent reference points:
 
 | Year | Tioga Road opened | What happened |
@@ -103,6 +105,8 @@ Just outside the park, a short drive up Saddlebag Lake Road, a steep trail climb
 
 For a few weeks after the road opens, Tioga Pass is one of the best spring skiing destinations in North America. Snow lingers on the north faces of Gaylor Peak, Mount Dana and the peaks around Ellery Lake, and skiers come from across the country for corn snow under clear skies. This is avalanche terrain. Go with a guide, or with full avalanche training and equipment.
 
+{{ figure("backcountry-skier-gaylor-peak", "A guest skinning toward Gaylor Peak near Tioga Pass", "Spring skinning toward Gaylor Peak.", "right") }}
+
 ## A little history
 
 The road began as the Great Sierra Wagon Road, built in 1883 to serve the Great Sierra Mine near the pass. The silver never paid, and in 1915 Stephen Mather, soon to be the first director of the National Park Service, helped buy the road and give it to the government. The pass takes its name from the Tioga Mine.
@@ -118,3 +122,6 @@ The road began as the Great Sierra Wagon Road, built in 1883 to serve the Great 
 ## Where to stay near Tioga Pass
 
 The closest beds are in Lee Vining, about 12 miles from the entrance. June Lake, 27 miles away, puts you among four lakes, a ski mountain and trails from the door. Mammoth Lakes, a little farther, has the most choice. Read our full guide to [lodging near Yosemite's east entrance](/yosemite-national-park-lodging/).
+
+
+{{ figure("chalet-exterior-carson-peak", "The Yosemite Gateway Chalet below Carson Peak", None, "wide") }}

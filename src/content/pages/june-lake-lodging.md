@@ -33,7 +33,7 @@ June Lake is a small mountain village on the June Lake Loop in Mono County, surr
 - **Three private suites,** each with its own bath, including a master with a two-person jacuzzi and a room with a ruby-red claw-foot tub.
 - **An outdoor hydrotherapy tub** under Carson Peak.
 - **A Grand Room** with 21-foot ceilings, an open fire and an oak bar, and a remodeled gourmet kitchen.
-- **Trails from the door** to Fern Lake and Yost Lake, with Yost Creek through the grounds.
+- **Trails within walking distance:** the Fern and Yost Lakes trail is about a mile down-canyon, and Yost Creek runs through the grounds.
 - **One mile to June Mountain,** and with a guide, a ski run that ends at the hot tub.
 - **Dinner across the street** at the Carson Peak Inn, and a spa fifteen minutes' walk away.
 - **Yosemite within reach.** 27 miles to the Tioga Pass entrance and 45 minutes to Tuolumne Meadows when Tioga Road is open.

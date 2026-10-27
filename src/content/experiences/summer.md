@@ -4,19 +4,29 @@ title: Summer at June Lake
 nav_title: Summer
 eyebrow: Climbing, riding, birding and lake days
 kicker: Summer
-seo_title: "Summer near June Lake: Climbing, Horseback Riding, Birding | Yosemite Gateway Chalet"
-description: "Summer from the chalet: bouldering at the Bachar Boulders, pack trips from Frontier Pack Train, birding at Grant Lake and the Mono Basin, lake days on Gull Lake and Eastern Sierra races."
+seo_title: "Summer in June Lake: Paddleboarding, Lakes, Climbing | Yosemite Gateway Chalet"
+description: "Summer from the chalet: five paddleboards for Rush Creek and Silver Lake, Grant Lake swims, Gull Lake's rope swing, bouldering, birding and races."
 topic: summer in June Lake
-hero: gull-lake-rope-swing
-hero_alt: A swimmer flying off the rope swing over Gull Lake
-hero_focus: 50% 30%
+hero: paddleboard-rush-creek-silver-lake
+hero_alt: A paddleboarder on Rush Creek above Silver Lake, with snow-streaked granite peaks rising behind
+hero_focus: 50% 45%
 lead: Most June Lake locals came for the winter and stayed for the summer.
-updated: 2026-10-26
+updated: 2026-10-27
 related: [/experiences/hiking/, /experiences/fishing/, /guides/tuolumne-meadows/]
 ---
+## Paddleboards in the garage
+
+Five stand-up paddleboards wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the canyon walls. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
+
+{{ figure("paddleboard-rush-creek-silver-lake", "A paddleboarder on Rush Creek above Silver Lake, with snow-streaked granite peaks behind", "Rush Creek above Silver Lake.", "wide") }}
+
 ## Lake days
 
-Gull Lake is the closest water to the chalet, with a marina, canoes, paddleboards and kayaks, and a rope swing that has launched generations of summers. June Lake has a beach for a slow afternoon.
+{{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", "A summer leap into Grant Lake.", "right") }}
+
+Four lakes sit on the loop, and each has its own kind of summer day. Gull Lake is the closest water to the chalet, with a marina and a rope swing that has launched generations of summers. June Lake has a sandy beach for a slow afternoon. Grant Lake, the largest, is open and wild at the north end of the loop, with granite ledges along the shore and cold, clear water.
+
+Check the water and your landing before you jump, and keep an eye on afternoon wind, which comes up fast on the bigger lakes.
 
 ## Rock climbing and bouldering
 

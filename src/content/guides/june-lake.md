@@ -12,7 +12,7 @@ topic: June Lake California
 hero: june-lake-loop-mountain-panorama
 hero_alt: A lake on the June Lake Loop below snow-dusted Sierra peaks
 published: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-27
 lead: June Lake is a small mountain village on the June Lake Loop, a horseshoe of Highway 158 off US 395 in Mono County. Four lakes, a ski mountain and the Ansel Adams Wilderness sit inside a few miles, and Yosemite's Tioga Pass entrance is 27 miles away.
 glance:
   Where: Mono County, Eastern Sierra
@@ -50,15 +50,19 @@ sources:
 
 Highway 158 leaves US 395 south of Lee Vining, curves west into a glacial canyon below Carson Peak, and returns to 395 farther north, a horseshoe of about 14 miles. Along the way it passes June Lake and its village, Gull Lake, June Mountain, Silver Lake, Rush Creek and Grant Lake, with steep granite walls on one side and the Ansel Adams Wilderness beyond. People have called it the Switzerland of California for generations.
 
-The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, between the ski area and the Double Eagle Resort, with the Fern Lake trailhead a short walk away.
+The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, between the ski area and the Double Eagle Resort, about a mile up-canyon from the Fern Lake trailhead.
 
 ## The four lakes
 
 **June Lake** is the one that gives the town its name, with a sandy beach, a marina and the village on its shore. **Gull Lake**, the smallest, is tucked into the village and has the calmest water for paddling. **Silver Lake** sits deep in the canyon under the cliffs, with phenomenal sunrises and some of the best trout water on the loop. **Grant Lake**, the largest, is a reservoir at the north end, open and windswept, with good bait fishing where the creek comes in. Our [fishing guide](/experiences/fishing/) has the details.
 
+{{ figure("paddleboard-rush-creek-silver-lake", "A paddleboarder on Rush Creek above Silver Lake under snow-streaked peaks", "Paddling Rush Creek above Silver Lake. The chalet keeps five boards in the garage.", "wide") }}
+
 ## June Mountain
 
 June Mountain is a small, friendly ski area right on the loop, with about 2,580 vertical feet of terrain and far fewer crowds than its sister resort in Mammoth. It is also known for excellent lift-assisted backcountry skiing. See [winter at June Lake](/experiences/winter/).
+
+{{ figure("skiing-june-mountain-corduroy", "A lone skier on fresh corduroy at June Mountain", None, "right") }}
 
 ## The seasons
 
@@ -66,13 +70,15 @@ June Mountain is a small, friendly ski area right on the loop, with about 2,580 
 
 **Spring** is snowmelt season. The fishing opener draws anglers from across California, and when Tioga Road opens the high country of Yosemite returns.
 
+{{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", "Summer on Grant Lake.", "left") }}
+
 **Summer** is for hiking, paddling, fishing, climbing and day trips over Tioga Pass to Tuolumne Meadows. Afternoons can bring thunderstorms.
 
 **Fall** is the secret. The aspens on the loop turn gold, usually in October, the crowds thin out, and the light is the best of the year. See our [fall colors guide](/guides/june-lake-fall-colors/).
 
 ## A week from June Lake
 
-1. **Settle in.** Walk the trail to Fern Lake from near the chalet, then dinner across the street at the Carson Peak Inn.
+1. **Settle in.** Walk a mile down-canyon and up the trail to Fern Lake, then dinner across the street at the Carson Peak Inn.
 2. **Tuolumne Meadows.** Over Tioga Pass early for Cathedral Lakes or Lembert Dome. See [Tuolumne Meadows](/guides/tuolumne-meadows/).
 3. **The lakes.** Paddle Gull Lake, fish Silver Lake at sunrise, swim from the beach at June Lake.
 4. **Mono Lake and Bodie.** The tufa towers at dawn and the ghost town after lunch. See [sightseeing](/experiences/sightseeing/).
@@ -91,3 +97,6 @@ The June Lake General Store has groceries, hardware, liquor and camping supplies
 ## Where to stay in June Lake
 
 June Lake has small resorts, cabins and motels near the lakes, plus private vacation homes. Read our guide to [June Lake lodging](/june-lake-lodging/).
+
+
+{{ figure("june-lake-chalet-summer", "The Yosemite Gateway Chalet in summer among aspens and pines", None, "wide") }}

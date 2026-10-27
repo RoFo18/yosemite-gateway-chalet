@@ -57,7 +57,7 @@
 /walk-to-a-world-class-spa/                    /experiences/spa-and-hot-springs/   301
 /location/directions/                          /location/                          301
 /location/getting-here/                        /location/                          301
-/location/june-lake-basics/                    /location/#june-lake-essentials     301
+/location/june-lake-basics/                    /guides/june-lake/                  301
 /book-now-2/                                   /inquire/                           301
 /book-now-2/rates/                             /rates-and-policies/                301
 /book-now-2/availability/                      /inquire/                           301
@@ -75,11 +75,13 @@
 /news/june-lake/                               /journal/                           301
 /category/*                                    /journal/                           301
 /yosemite-gateway-chalet-news/                 /journal/yosemite-gateway-chalet-in-the-news/ 301
-/earliest-mono-pass-opening-since-1987/        /journal/earliest-tioga-pass-opening-since-1987/ 301
-/fall-colours-fine-coffee/                     /journal/fall-colours-and-fine-coffee/ 301
+/earliest-mono-pass-opening-since-1987/        /guides/tioga-pass/                 301
+/fall-colours-fine-coffee/                     /journal/june-lakes-fall-feast-for-the-senses/ 301
 /june-lakes-fall-feast-for-the-senses/         /journal/june-lakes-fall-feast-for-the-senses/ 301
 /what-a-joint/                                 /journal/better-than-a-june-lake-hotel/ 301
 /the-spirit-of-glisse/                         /journal/the-spirit-of-glisse/      301
+/journal/earliest-tioga-pass-opening-since-1987/ /guides/tioga-pass/               301
+/journal/fall-colours-and-fine-coffee/         /journal/june-lakes-fall-feast-for-the-senses/ 301
 /privacy-policy/                               /privacy/                           301
 /check-in/                                     /rates-and-policies/                301
 /login/                                        /                                   301

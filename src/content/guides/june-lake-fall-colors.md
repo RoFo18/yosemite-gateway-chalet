@@ -12,7 +12,7 @@ topic: June Lake fall colors
 hero: june-lake-loop-fall-aspens
 hero_alt: Golden aspens above a lake on the June Lake Loop in October
 published: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-27
 lead: The aspens of the June Lake Loop usually reach their peak in October, among the last in Mono County's long fall color season. The color starts in the high canyons in late September and works its way down to the loop, where groves around Silver Lake, Grant Lake and the village turn gold against granite and dark pine.
 glance:
   Usual peak on the loop: October
@@ -45,6 +45,8 @@ sources:
 
 Fall color in Mono County is a slow wave that rolls downhill. The aspens in the highest canyons begin to turn in late September, and the color moves lower week by week. The June Lake Loop is one of the last places in the county to peak, usually in October, which Mono County Tourism calls the grand finale of the season.
 
+{{ figure("june-lake-loop-fall-aspens-wide", "Fall aspens above a lake on the June Lake Loop", None, "wide") }}
+
 No two years are the same. A dry summer, an early cold snap or a windstorm can move the peak by a week or more, or strip the leaves overnight. Mono County Tourism and California Fall Color both publish color reports through the season, and they are worth checking before you drive.
 
 ## On the loop
@@ -57,13 +59,15 @@ No two years are the same. A dry summer, an early cold snap or a windstorm can m
 
 **The village and Gull Lake.** Aspens line the shore of Gull Lake and the streets of the village. An easy walk from the chalet.
 
-**Fern Lake trail.** The trail from near the chalet climbs through aspen toward Carson Peak. Steep, short and spectacular in color.
+**Fern Lake trail.** About a mile down-canyon from the chalet, the trail climbs roughly 1.6 miles and 1,600 feet through aspen toward Carson Peak. Steep, short and spectacular in color.
 
 **Parker Bench.** From the Parker Lake trailhead, a longer hike leads up to Parker Bench and its aspens, with Mono Lake spread out below.
 
 ## Within half an hour
 
 **Lundy Canyon.** North of Lee Vining, one of the finest aspen walks in the Sierra, with beaver ponds, waterfalls and cliffs. Often at its best in early October.
+
+{{ figure("fall-aspen-meadow-eastern-sierra", "An aspen meadow in fall color in the Eastern Sierra", None, "left") }}
 
 **Lee Vining Canyon.** The canyon below Tioga Pass on Highway 120, where aspens fill the creek bottoms beneath granite walls.
 
@@ -80,3 +84,6 @@ No two years are the same. A dry summer, an early cold snap or a windstorm can m
 ## Fall at the chalet
 
 Fall is a quiet, beautiful time to stay. The summer crowds are gone, the fire is lit in the evenings, and the hydrotherapy tub is at its best on a cold, clear night. Keep an eye on the weather if you plan to cross Tioga Pass, since the first storm of the season can close the road. See our [Tioga Pass guide](/guides/tioga-pass/).
+
+
+{{ figure("grand-room-fireside-evening", "The Grand Room's open fire on an evening at the chalet", None, "wide") }}

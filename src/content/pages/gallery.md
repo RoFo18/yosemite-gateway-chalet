@@ -9,7 +9,7 @@ hero: june-lake-chalet-summer
 hero_alt: The chalet in summer among aspens and pines
 kicker: Photographs
 wide: true
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 ## The tub {#tub}
 
@@ -21,7 +21,7 @@ updated: 2026-10-26
 
 ## Suites {#suites}
 
-{{ gallery([("master-suite-bed", "The master suite"), ("master-suite-window-snow-peaks", "Snowy peaks from the master suite"), ("elsie-room-claw-foot-tub", "The Elsie Room's claw-foot tub"), ("elsie-room-granite-peak-view", "Granite peaks from the Elsie Room"), ("river-room-suite", "The River Room"), ("river-room-evening", "The River Room in the evening")]) }}
+{{ gallery([("master-suite-bed", "The master suite"), ("master-suite-window-snow-peaks", "Snowy peaks from the master suite"), ("elsie-room-suite", "The Elsie Room"), ("elsie-room-claw-foot-tub", "The Elsie Room's claw-foot tub")]) }}
 
 ## The grounds {#grounds}
 
@@ -29,11 +29,8 @@ updated: 2026-10-26
 
 ## The region {#region}
 
-{{ gallery([("june-lake-loop-fall-aspens", "Fall aspens on the June Lake Loop"), ("alpine-lake-below-sierra-peaks", "An alpine lake below Sierra peaks"), ("ritter-range-snow", "The Ritter Range in snow"), ("tuolumne-granite-reflection", "Granite reflected in still water"), ("june-lake-fall-reflections", "Fall reflections near June Lake"), ("eastern-sierra-sunset-panorama", "Sunset over the Eastern Sierra"), ("bodie-wagon-wheel", "A wagon wheel at Bodie"), ("fern-creek-falls", "Fern Creek falls"), ("yosemite-high-country-lake", "A high country lake near Tioga Pass")]) }}
+{{ gallery([("paddleboard-rush-creek-silver-lake", "Paddleboarding Rush Creek above Silver Lake"), ("grant-lake-cliff-jump", "A summer leap into Grant Lake"), ("june-lake-loop-fall-aspens", "Fall aspens on the June Lake Loop"), ("alpine-lake-below-sierra-peaks", "An alpine lake below Sierra peaks"), ("ritter-range-snow", "The Ritter Range in snow"), ("tuolumne-granite-reflection", "Granite reflected in still water"), ("june-lake-fall-reflections", "Fall reflections near June Lake"), ("eastern-sierra-sunset-panorama", "Sunset over the Eastern Sierra"), ("bodie-wagon-wheel", "A wagon wheel at Bodie"), ("fern-creek-falls", "Fern Creek falls"), ("yosemite-high-country-lake", "A high country lake near Tioga Pass")]) }}
 
-## Videos {#videos}
+<div id="videos"></div>
 
-<div class="video-grid">
-<div class="video"><iframe src="https://player.vimeo.com/video/27752745?byline=0&amp;portrait=0&amp;dnt=1" title="Yosemite Gateway Chalet film one" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
-<div class="video"><iframe src="https://player.vimeo.com/video/87701971?dnt=1" title="Yosemite Gateway Chalet film two" loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
-</div>
+{{ film("87701971", "Yosemite HD II", 'Film: <a href="https://vimeo.com/87701971" rel="noopener" target="_blank">Yosemite HD II</a> by Colin Delehanty and Sheldon Neill of Project Yosemite, shot over ten months in the park.', 5) }}

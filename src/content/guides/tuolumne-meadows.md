@@ -12,7 +12,7 @@ topic: Tuolumne Meadows
 hero: tuolumne-granite-reflection
 hero_alt: Granite and lodgepole pines reflected in still water in Yosemite's high country
 published: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-27
 lead: Tuolumne Meadows is a broad subalpine meadow at about 8,600 feet along Tioga Road, ringed by granite domes and the peaks of the Cathedral Range. It is reachable only when Tioga Road is open, usually late May or June through about November, and it is about 45 minutes from June Lake.
 glance:
   Elevation: About 8,600 ft
@@ -52,11 +52,15 @@ sources:
 
 Yosemite Valley is the postcard. Tuolumne Meadows is where people who know Yosemite go to walk. The meadow runs for miles beside the Tuolumne River at about 8,600 feet, framed by Lembert Dome, Pothole Dome, Cathedral Peak and the Cathedral Range. The air is thin and clear, the granite is close enough to touch, and the trails start from the road.
 
+{{ figure("tuolumne-granite-reflection", "Granite reflected in still water in the high country", None, "right") }}
+
 It is also, for anyone coming from the east, the near side of Yosemite. From June Lake you can be at a Tuolumne trailhead in about 45 minutes, while visitors staying in the Valley drive about an hour and a half the other way.
 
 ## When to go
 
 Tuolumne is open only while Tioga Road is open, usually from late May or June until about November. Early summer brings snowmelt, full rivers and mosquitoes. July and August bring wildflowers, warm days and afternoon thunderstorms. September and early October are quieter, cooler and often the most beautiful, until the first storm closes the road. See our [Tioga Pass guide](/guides/tioga-pass/) for how the opening works.
+
+{{ figure("yosemite-high-country-lake", "A high country lake near Tioga Pass under a big sky", None, "wide") }}
 
 ## The best day hikes
 
@@ -103,6 +107,8 @@ From Twin Bridges, the trail continues up the long, gentle floor of Lyell Canyon
 
 Tuolumne's domes and spires are one of America's great alpine climbing areas, from moderate routes on Lembert Dome to the classic ridges of Cathedral Peak and Matthes Crest. The climbing season is short and the rock is superb.
 
+{{ figure("fall-view-over-yosemite-climber", "A hiker above a lake in the High Sierra in fall", None, "left") }}
+
 ## Practical notes
 
 - **Facilities change.** What is open in Tuolumne, including the visitor center, store, grill, campground and lodge, varies by year and by month. Check the National Park Service before you count on any of it.
@@ -114,6 +120,8 @@ Tuolumne's domes and spires are one of America's great alpine climbing areas, fr
 ## Getting there from June Lake
 
 From the Yosemite Gateway Chalet, take Highway 395 north to Lee Vining and Highway 120 west over Tioga Pass. The meadows are about eight miles past the entrance station, about 45 minutes in all. In summer, the YARTS bus between the Eastern Sierra and Yosemite Valley also stops at June Lake and in Tuolumne, which makes one-way hikes possible.
+
+{{ figure("granite-boulder-pond", "A granite boulder reflected in a clear green pond", None, "wide") }}
 
 ## Where to stay
 

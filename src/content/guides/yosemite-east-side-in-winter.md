@@ -12,7 +12,7 @@ topic: Yosemite east side winter, Tioga Road closed
 hero: ritter-range-snow
 hero_alt: The Ritter Range under deep winter snow
 published: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-27
 lead: In winter there is no way into Yosemite from the east side. Tioga Road, the only route over the Sierra into the park from this side, is closed from the first big snow, usually around November, until it is plowed open in late spring, most often late May or June.
 glance:
   Tioga Road: Closed in winter
@@ -39,6 +39,8 @@ sources:
 
 Tioga Road is not maintained in winter. When the first heavy snow arrives, usually in November, the National Park Service closes it for the season. It stays closed until crews plow it open in spring, a job that starts around April 15 and usually takes one to two months. Most years it reopens in late May or June. See our [Tioga Pass guide](/guides/tioga-pass/) for recent dates.
 
+{{ figure("ritter-range-snow", "The Ritter Range in winter snow", None, "wide") }}
+
 While the road is closed, Tuolumne Meadows and the whole high country along Tioga Road are buried under snow and reachable only on skis.
 
 ## Getting to Yosemite Valley in winter
@@ -55,7 +57,7 @@ If seeing the Valley in snow is the goal, plan that as its own trip from the wes
 
 **Ski Mammoth Mountain.** About thirty minutes south, one of the biggest ski mountains in North America, with a season that often runs into late spring.
 
-**Snowshoe from the door.** Rent snowshoes in the village and walk out the back door toward Fern and Yost Lakes.
+**Snowshoe from the door.** Rent snowshoes in the village and walk from the house to the Fern and Yost Lakes trail, about a mile down-canyon.
 
 **Climb ice.** Beginners learn above Silver Lake, and Lee Vining Canyon has some of the best ice in the West.
 
@@ -67,6 +69,8 @@ If seeing the Valley in snow is the goal, plan that as its own trip from the wes
 
 From April to the Tioga opening, the east side is in between. Lower trails melt out, fishing season opens, Mammoth may still be skiing, and the high country waits. Some of the best backcountry skiing of the year comes in the weeks right after Tioga Road opens.
 
+{{ figure("ice-climbing-lee-vining-canyon", "An ice climber on a frozen fall in Lee Vining Canyon", None, "right") }}
+
 ## Driving the Eastern Sierra in winter
 
 - Carry chains or drive a vehicle with four-wheel drive and snow tires. Chain controls on US 395 are common during storms.
@@ -77,3 +81,6 @@ From April to the Tioga opening, the east side is in between. Lower trails melt 
 ## Winter at the chalet
 
 The fire is lit, the tub is hot, and June Mountain is a mile away. Read about [winter at June Lake](/experiences/winter/).
+
+
+{{ figure("hydrotherapy-tub-winter-guests", "Guests in the outdoor hydrotherapy tub in winter", None, "wide") }}

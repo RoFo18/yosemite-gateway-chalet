@@ -5,15 +5,15 @@ nav_title: Rates and policies
 eyebrow: The details
 kicker: Booking
 seo_title: "Rates and Policies | Yosemite Gateway Chalet, June Lake"
-description: "Seasonal rates, the 15% Mono County lodging tax, check-in 4:30 pm and check-out 10 am, occupancy, parking, payment, cancellation, pets, smoking and hot tub rules at Yosemite Gateway Chalet."
+description: "Rates and policies at Yosemite Gateway Chalet: a flat $295 cleaning fee, 15% Mono County tax, 4:30 pm check-in, 10 am check-out, and house rules."
 topic: Yosemite Gateway Chalet rates
 lead: Rates follow the seasons. The house rules are few, and they keep the chalet and the neighborhood the way guests love them.
-updated: 2026-10-26
+updated: 2026-10-27
 related: [/inquire/, /faq/, /the-chalet/]
 ---
 ## Rates
 
-Nightly rates and minimum stays change with the season and demand. Send an [inquiry](/inquire/) with your dates for a quote, or see live pricing on [VRBO](https://www.vrbo.com/452799). Mono County's 15% transient occupancy tax and a cleaning fee are added to every stay and shown in your quote. Returning guests are welcome to book direct and skip the platform service fees.
+Nightly rates and minimum stays change with the season and demand. Send an [inquiry](/inquire/) with your dates for a quote, or see live pricing on [VRBO](https://www.vrbo.com/452799). Two things are added to every stay, and nothing else: a flat $295 cleaning fee and Mono County's 15% transient occupancy tax. Both appear in your quote. Returning guests are welcome to book direct and skip the platform service fees.
 
 ## Policies
 
@@ -35,7 +35,7 @@ Nightly rates and minimum stays change with the season and demand. Send an [inqu
 
 **Smoking.** Not allowed indoors. Smoke outdoors at least ten feet from the house, and be mindful of fire risk. Cigarette butts left on the ground are charged at $50 each.
 
-**Hydrotherapy tub.** Children under 18, pregnant guests, and people with heart conditions or pacemakers may not use the tub. Allow at least six hours of heating to reach 101°F.
+**Hydrotherapy tub.** The tub runs year round, through summer nights and snowstorms alike. Children under 18, pregnant guests, and people with heart conditions or pacemakers may not use the tub. Allow at least six hours of heating to reach 101°F.
 
 **Fishing.** No fishing in the pond on the grounds. See our [fishing guide](/experiences/fishing/) for the lakes nearby.
 
