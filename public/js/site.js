@@ -26,11 +26,13 @@
   }
 
   // Film bands: load the Vimeo player only when someone presses play
-  document.querySelectorAll('.film-frame[data-vimeo]').forEach(function (b) {
+  document.querySelectorAll('.film-frame[data-vimeo], .film-frame[data-youtube]').forEach(function (b) {
     b.addEventListener('click', function () {
       if (b.classList.contains('playing')) return;
       var f = document.createElement('iframe');
-      f.src = 'https://player.vimeo.com/video/' + b.getAttribute('data-vimeo') + '?autoplay=1&dnt=1&byline=0&portrait=0&title=0';
+      var yt = b.getAttribute('data-youtube');
+      f.src = yt ? 'https://www.youtube-nocookie.com/embed/' + yt + '?autoplay=1&rel=0&modestbranding=1'
+                 : 'https://player.vimeo.com/video/' + b.getAttribute('data-vimeo') + '?autoplay=1&dnt=1&byline=0&portrait=0&title=0';
       f.title = b.getAttribute('aria-label').replace(/^Play /, '');
       f.allow = 'autoplay; fullscreen; picture-in-picture';
       f.allowFullscreen = true;

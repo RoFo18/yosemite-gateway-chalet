@@ -7,8 +7,9 @@ kicker: Lodging
 seo_title: "June Lake Lodging: Private Log Chalet for 8 near Yosemite"
 description: "June Lake lodging guide: resorts, cabins and whole homes compared, when to book, and a private 4,000 sq ft log chalet for 8 with a hot tub, 27 miles from Yosemite."
 topic: June Lake lodging
-hero: june-lake-chalet-summer
-hero_alt: The Yosemite Gateway Chalet in summer on the June Lake Loop
+hero: grant-lake-sunset-stone-throw
+hero_focus: 62% 45%
+hero_alt: "A child skipping a stone into Grant Lake at sunset on the June Lake Loop"
 lead: June Lake lodging runs from lakeside resort cabins and motels to private homes. For a group that wants to be together under one roof, this is the one.
 business_schema: true
 updated: 2026-10-27

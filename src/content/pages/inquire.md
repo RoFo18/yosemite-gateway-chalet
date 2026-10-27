@@ -8,8 +8,8 @@ kicker: Inquire
 seo_title: "Availability and Direct Booking | Yosemite Gateway Chalet, June Lake"
 description: "See which nights are open at the Yosemite Gateway Chalet in June Lake, pick your dates, and inquire directly. Whole-home rental for up to 8 guests near Yosemite."
 topic: book Yosemite Gateway Chalet
-hero: grand-room-fireside-evening
-hero_alt: The Grand Room in firelight on a winter evening
+hero: eastern-sierra-sunset-panorama
+hero_alt: "The sun going down over the Eastern Sierra and the Mono Basin"
 lead: See which nights are open, choose your dates, and send them straight to us. We reply within a day.
 hide_cta: true
 updated: 2026-10-27

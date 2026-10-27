@@ -9,9 +9,8 @@ card: The highest highway pass in California and Yosemite's east entrance. When 
 seo_title: "Tioga Pass Guide: Opening Dates, Hikes, and Where to Stay | Yosemite East Entrance"
 description: "Everything about Tioga Pass, Yosemite's 9,945-foot east entrance on Highway 120: how the seasonal opening works, recent opening dates, Gaylor Lakes, Mono Pass, Mount Dana, spring skiing, and lodging nearby in June Lake."
 topic: Tioga Pass
-hero: backcountry-skier-gaylor-peak
-hero_alt: A backcountry skier climbing toward Gaylor Peak above Tioga Pass in spring
-hero_focus: 50% 72%
+hero: saddlebag-lake-tioga
+hero_alt: "Saddlebag Lake, just outside Tioga Pass, under a clear fall sky"
 published: 2026-10-26
 updated: 2026-10-27
 lead: Tioga Pass is the 9,945-foot summit of Highway 120 and the east entrance to Yosemite National Park, the highest highway pass in California. It is open only part of the year, usually from late May or June until the first big storms around November, and it is 27 miles from June Lake.

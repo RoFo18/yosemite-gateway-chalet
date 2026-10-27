@@ -52,7 +52,6 @@ sources:
 
 Yosemite Valley is the postcard. Tuolumne Meadows is where people who know Yosemite go to walk. The meadow runs for miles beside the Tuolumne River at about 8,600 feet, framed by Lembert Dome, Pothole Dome, Cathedral Peak and the Cathedral Range. The air is thin and clear, the granite is close enough to touch, and the trails start from the road.
 
-{{ figure("tuolumne-granite-reflection", "Granite reflected in still water in the high country", None, "right") }}
 
 It is also, for anyone coming from the east, the near side of Yosemite. From June Lake you can be at a Tuolumne trailhead in about 45 minutes, while visitors staying in the Valley drive about an hour and a half the other way.
 

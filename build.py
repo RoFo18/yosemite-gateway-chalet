@@ -30,23 +30,25 @@ BUILD_DATE = dt.date.today().isoformat()
 NAV = [
     ("The Chalet", "/the-chalet/"),
     ("Gallery", "/gallery/"),
-    ("Experiences", "/experiences/"),
-    ("Guides", "/guides/"),
-    ("Location", "/location/"),
-    ("FAQ", "/faq/"),
+    ("Things to Do", "/experiences/"),
+    ("Plan Your Trip", "/guides/"),
+    ("Reviews", "/reviews/"),
 ]
 FOOTER = [
     ("Stay", [("The Chalet", "/the-chalet/"), ("Suites", "/the-chalet/#suites"), ("Floorplan", "/the-chalet/floorplan/"),
               ("Gallery", "/gallery/"), ("Guest reviews", "/reviews/"), ("Rates and policies", "/rates-and-policies/"), ("Inquire", "/inquire/")]),
-    ("Guides", [("Tioga Pass", "/guides/tioga-pass/"), ("Tuolumne Meadows", "/guides/tuolumne-meadows/"),
+    ("Things to do", [("Skiing June Mountain", "/experiences/winter/"), ("Lakes and paddleboarding", "/experiences/summer/"),
+                      ("Hiking and horseback riding", "/experiences/hiking/"), ("Mono Lake and hidden places", "/experiences/sightseeing/"),
+                      ("Fishing", "/experiences/fishing/"), ("Hot springs and the spa", "/experiences/spa-and-hot-springs/"),
+                      ("Where to eat", "/experiences/dining/")]),
+    ("Plan your trip", [("Tioga Pass", "/guides/tioga-pass/"), ("Tuolumne Meadows", "/guides/tuolumne-meadows/"),
                 ("June Lake", "/guides/june-lake/"), ("June Lake Loop fall colors", "/guides/june-lake-fall-colors/"),
                 ("Yosemite's east side in winter", "/guides/yosemite-east-side-in-winter/"),
                 ("Lodging near Yosemite's east entrance", "/yosemite-national-park-lodging/"),
                 ("June Lake lodging", "/june-lake-lodging/"), ("June Lake cabin rentals", "/june-lake-cabin-rentals/"),
                 ("Group lodging near Yosemite", "/yosemite-group-lodging/"), ("Tuolumne Meadows lodging", "/tuolumne-meadows-lodging/"),
                 ("June Mountain lodging", "/june-mountain-lodging/"), ("When Tioga Pass opens", "/guides/tioga-pass-opening-dates/")]),
-    ("Plan", [("Getting here", "/location/"), ("Experiences", "/experiences/"), ("FAQ", "/faq/"),
-              ("Journal", "/journal/"), ("Privacy", "/privacy/")]),
+    ("More", [("Getting here", "/location/"), ("FAQ", "/faq/"), ("Journal", "/journal/"), ("Privacy", "/privacy/")]),
 ]
 
 
@@ -73,9 +75,16 @@ def picture(name, alt, sizes="100vw", cls="", eager=False, fit=None):
 
 
 def figure(name, alt, caption=None, layout="wide"):
-    sizes = {"wide": "(min-width: 1100px) 1040px, 100vw", "full": "100vw",
-             "right": "(min-width: 900px) 420px, 100vw", "left": "(min-width: 900px) 420px, 100vw",
-             "small": "(min-width: 900px) 320px, 70vw"}.get(layout, "100vw")
+    """Body photos are always large: content width plus a bleed, or full width.
+    Old "right", "left" and "small" layouts now render wide too. Portrait photos
+    are centred at a generous width instead of being stretched edge to edge."""
+    m = IMAGES[name]
+    if layout in ("right", "left", "small"):
+        layout = "wide"
+    if layout == "wide" and m["h"] > m["w"] * 1.05:
+        layout = "portrait"
+    sizes = {"wide": "(min-width: 1200px) 1180px, 100vw", "full": "100vw",
+             "portrait": "(min-width: 900px) 720px, 100vw"}.get(layout, "100vw")
     cap = f"<figcaption>{caption}</figcaption>" if caption else ""
     return Markup(f'<figure class="fig fig-{layout}">{picture(name, alt, sizes)}{cap}</figure>')
 
@@ -151,6 +160,28 @@ def film(vimeo_id, title, credit, minutes, poster="eastern-sierra-sunset-panoram
         f'<span class="film-title">{html.escape(heading)}</span>'
         f'<span class="film-cta"><span class="film-icon" aria-hidden="true"></span>Play the film &middot; {minutes} min</span></span>'
         f'</button><p class="film-credit">{credit}</p></section>')
+
+
+def video_tour(youtube_id, title, credit, minutes, upload_date, description,
+               eyebrow="A guest's video tour", heading="Walk through the chalet"):
+    """Click-to-play YouTube band in the same style as film(). Uses youtube-nocookie and loads
+    nothing from YouTube until pressed, apart from the video's own poster frame."""
+    label = html.escape(f"Play {title}, {minutes} minutes", quote=True)
+    thumb = f"https://i.ytimg.com/vi/{youtube_id}/maxresdefault.jpg"
+    ld = {"@context": "https://schema.org", "@type": "VideoObject", "name": title, "description": description,
+          "thumbnailUrl": thumb, "uploadDate": upload_date, "duration": f"PT{int(minutes)}M{round((minutes % 1) * 60)}S",
+          "embedUrl": f"https://www.youtube-nocookie.com/embed/{youtube_id}",
+          "contentUrl": f"https://www.youtube.com/watch?v={youtube_id}"}
+    mins = f"{int(minutes)}:{round((minutes % 1) * 60):02d}"
+    return Markup(
+        f'<section class="film film-tour" id="walkthrough" aria-label="Video: {html.escape(title, quote=True)}">'
+        f'<button type="button" class="film-frame" data-youtube="{youtube_id}" aria-label="{label}">'
+        f'<span class="film-poster"><img src="{thumb}" alt="" loading="lazy" width="1280" height="720"></span>'
+        f'<span class="film-copy"><span class="eyebrow">{html.escape(eyebrow)}</span>'
+        f'<span class="film-title">{html.escape(heading)}</span>'
+        f'<span class="film-cta"><span class="film-icon" aria-hidden="true"></span>Play the tour &middot; {mins}</span></span>'
+        f'</button><p class="film-credit">{credit}</p>'
+        f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></section>')
 
 
 GLANCE = [('Who it suits', 'Families and groups of up to eight'), ('Sleeps', '8 in three suites, each with its own bath'), ('Yosemite', '27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November'), ('June Mountain', '1 mile; kids 12 and under ski free'), ('Season', 'Open all year; the hot tub runs all year'), ('Rates', '$295 to $995 a night, plus a flat $295 cleaning fee and 15% Mono County tax')]
@@ -347,7 +378,7 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):

@@ -109,6 +109,25 @@
    350
   ]
  },
+ "crowley-lake-columns-inside": {
+  "color": "#796553",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
+ "crowley-lake-columns-shore": {
+  "color": "#788ea8",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "dining-room-doorway": {
   "color": "#955d34",
   "h": 500,
@@ -374,6 +393,16 @@
    1800
   ]
  },
+ "gull-lake-fiery-sunset": {
+  "color": "#705f58",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "gull-lake-rope-swing": {
   "color": "#6082ba",
   "h": 1692,
@@ -392,6 +421,16 @@
   "widths": [
    480,
    720
+  ]
+ },
+ "horseback-ride-above-june-lake": {
+  "color": "#6a655e",
+  "h": 790,
+  "w": 994,
+  "widths": [
+   480,
+   800,
+   994
   ]
  },
  "hot-creek-eastern-sierra": {
@@ -512,6 +551,15 @@
    1800
   ]
  },
+ "june-mountain-chair-7-empty-runs": {
+  "color": "#516894",
+  "h": 481,
+  "w": 641,
+  "widths": [
+   480,
+   641
+  ]
+ },
  "june-mountain-winter-forest": {
   "color": "#7fa7a5",
   "h": 1048,
@@ -590,6 +638,25 @@
    402
   ]
  },
+ "mono-craters-sunset-rays": {
+  "color": "#706d6b",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "mono-lake-black-point-fissures": {
+  "color": "#8e7b6d",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
  "natural-hot-spring-soak": {
   "color": "#a09fa0",
   "h": 957,
@@ -613,6 +680,16 @@
  },
  "paddleboarding-rush-creek-family-bw": {
   "color": "#7e7e7e",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "paddleboards-silver-lake-shore": {
+  "color": "#69675b",
   "h": 768,
   "w": 1024,
   "widths": [
@@ -668,6 +745,16 @@
    954
   ]
  },
+ "saddlebag-lake-tioga": {
+  "color": "#516789",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "sierra-lake-and-forest": {
   "color": "#74786b",
   "h": 500,
@@ -713,6 +800,16 @@
    800,
    1200,
    1280
+  ]
+ },
+ "wild-mustang-herd-mono-county": {
+  "color": "#6c707f",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "wild-mustangs-mono-basin": {

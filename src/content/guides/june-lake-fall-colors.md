@@ -9,8 +9,8 @@ card: When the aspens turn gold on the June Lake Loop, and the best drives and w
 seo_title: "June Lake Loop Fall Colors: When Aspens Peak and Where to See Them"
 description: "When the aspens turn on the June Lake Loop (usually October), where to see them, from Silver Lake and Parker Bench to Lundy and Lee Vining Canyons, and tips for photographing Eastern Sierra fall color."
 topic: June Lake fall colors
-hero: june-lake-loop-fall-aspens-wide
-hero_alt: Golden aspens above a lake on the June Lake Loop in October
+hero: june-lake-fall-reflections
+hero_alt: "Fall color reflected in still water on the June Lake Loop"
 published: 2026-10-26
 updated: 2026-10-27
 lead: The aspens of the June Lake Loop usually reach their peak in October, among the last in Mono County's long fall color season. The color starts in the high canyons in late September and works its way down to the loop, where groves around Silver Lake, Grant Lake and the village turn gold against granite and dark pine.
@@ -51,7 +51,6 @@ No two years are the same. A dry summer, an early cold snap or a windstorm can m
 
 ## On the loop
 
-{{ figure("june-lake-fall-reflections", "Fall color reflected in still water near June Lake", None, "right") }}
 
 **Silver Lake.** Groves of aspen climb the slopes above the lake and the creeks that feed it, under the cliffs of Carson Peak. Come at sunrise, when the water is calm.
 

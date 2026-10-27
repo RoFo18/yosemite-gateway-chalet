@@ -9,8 +9,8 @@ card: The June Lake Loop, its four lakes, June Mountain, and how to spend a week
 seo_title: "June Lake, California Guide: The June Lake Loop, Four Lakes, June Mountain"
 description: "A local guide to June Lake, California: the 14-mile June Lake Loop, June, Gull, Silver and Grant Lakes, June Mountain, fishing, fall color, the seasons, and how close it is to Yosemite."
 topic: June Lake California
-hero: june-lake-loop-mountain-panorama
-hero_alt: A lake on the June Lake Loop below snow-dusted Sierra peaks
+hero: gull-lake-fiery-sunset
+hero_alt: "A fiery sunset over Gull Lake, with snow on the granite peaks reflected in the water"
 published: 2026-10-26
 updated: 2026-10-27
 lead: June Lake is a small mountain village on the June Lake Loop, a horseshoe of Highway 158 off US 395 in Mono County. Four lakes, a ski mountain and the Ansel Adams Wilderness sit inside a few miles, and Yosemite's Tioga Pass entrance is 27 miles away.
@@ -92,5 +92,3 @@ The June Lake General Store has groceries, hardware, liquor and camping supplies
 
 June Lake has small resorts, cabins and motels near the lakes, plus private vacation homes. Read our guide to [June Lake lodging](/june-lake-lodging/).
 
-
-{{ figure("chalet-grounds-log-exterior", "The chalet's log exterior and stone steps among aspens", None, "wide") }}

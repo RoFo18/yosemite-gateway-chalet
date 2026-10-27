@@ -1,14 +1,14 @@
 ---
 url: /experiences/sightseeing/
-title: Mono Lake, Wild Mustangs, Bodie and Devils Postpile
-nav_title: Sightseeing
+title: Mono Lake, Wild Mustangs and Hidden Places
+nav_title: Mono Lake and hidden places
 eyebrow: Geology and history near June Lake
 kicker: Year round
-seo_title: "Near June Lake: Mono Lake, Wild Mustangs, Bodie, Devils Postpile"
-description: "From the chalet: Mono Lake's tufa towers (17 minutes), wild mustangs on the high desert, Bodie ghost town (1 hour), Devils Postpile and Yosemite's Tioga Pass."
+seo_title: "Mono Lake, Wild Mustangs, Crowley Lake Columns and Hidden Places near June Lake"
+description: "Mono Lake's tufa towers, wild mustangs, the hidden Black Point fissures, the Crowley Lake stone columns, Bodie ghost town and Devils Postpile, all within an hour of the chalet in June Lake."
 topic: sightseeing near June Lake
-hero: wild-mustangs-mono-basin
-hero_alt: A band of wild mustangs grazing on the high desert of the Mono Basin under evening clouds
+hero: wild-mustang-herd-mono-county
+hero_alt: "A herd of wild mustangs watching from the sagebrush in Mono County, with pines behind"
 lead: Many travelers rush past June Lake on the way somewhere else. They miss a landscape steeped in geological and human history.
 updated: 2026-10-27
 related: [/guides/tioga-pass/, /guides/tuolumne-meadows/, /experiences/summer/]
@@ -24,6 +24,26 @@ About seventeen minutes from the chalet. Walk among the tufa towers on the south
 ## Wild mustangs
 
 Bands of wild mustangs roam the high desert around Mono Lake, grazing the sagebrush flats between the lake and the Nevada line. They are truly wild, and seeing a herd move across open country in the evening light is one of the most majestic sights in the Eastern Sierra. Sightings are never guaranteed, which is part of the magic. If you find them, stay well back, stay in or near your car, and never feed or approach them.
+
+## The Mono Lake fissures
+
+{{ figure("mono-lake-black-point-fissures", "A boy with a small backpack walking into a narrow rock fissure at Black Point, with daylight far above", "Inside the Black Point fissures. Narrow, cool and very quiet.") }}
+
+They feel like the slot canyons of Utah, but they are something stranger. About 13,000 years ago, when Mono Lake stood hundreds of feet higher, a volcano erupted underneath it and built a flat-topped hill of cinder and ash now called Black Point. As the hill cooled and settled, it cracked open. The cracks are still there: narrow fissures up to about 80 feet deep, some long enough to walk through for a stretch, with sky a thin line overhead.
+
+They are hard to find, and well worth it. There is no trail and no sign at the fissures themselves. From US 395 about four miles north of Lee Vining, take Cemetery Road east toward the north shore of Mono Lake and follow the dirt roads to the base of Black Point. From there it is about a mile up the slope, with roughly 500 feet of climbing, picking your way along the footprints of the people who came before you. Load a map on your phone before you lose signal, bring water, and go in the cool of the morning.
+
+## The Crowley Lake columns
+
+{{ figure("crowley-lake-columns-shore", "A row of pale stone columns along the east shore of Crowley Lake, with snow on the beach and Sierra peaks across the water", "The columns line the east shore of Crowley Lake for about half a mile.") }}
+
+On the far side of Crowley Lake, about forty minutes south of the chalet, a low cliff has worn into a colonnade of pale stone pillars and arches. Walk inside and it looks like a Moorish palace: rows of columns, light falling in shafts between them, and the lake beyond. It is entirely natural.
+
+{{ figure("crowley-lake-columns-inside", "A child standing among stone columns inside the Crowley Lake formations, with light streaming between them", "Inside the colonnade. Every one of these was made by steam.") }}
+
+The columns began about 760,000 years ago, when the eruption that created the Long Valley Caldera buried this valley in hot ash. Snowmelt seeped down into the ash, boiled, and the rising steam hardened the rock in vertical channels. The softer rock around them stayed hidden until Crowley Lake was filled in 1941 and its waves began to wash it away, leaving the columns standing. Geologists only worked out how they formed in 2015.
+
+Getting there is half the adventure. The usual way in is from Benton Crossing Road, then dirt roads to the east shore. You will want a high-clearance vehicle for the last stretch, or park early and walk the last mile or two. When the lake is high, some columns are underwater, so late summer and fall are the safest bets. Our friends at California Through My Lens wrote a [detailed guide to finding them](https://californiathroughmylens.com/crowley-lake-columns/).
 
 ## Bodie State Historic Park
 

@@ -1,16 +1,16 @@
 ---
 url: /experiences/hiking/
-title: Hiking Trails from the Chalet
-nav_title: Hiking
-eyebrow: Trail notes
+title: Hiking and Horseback Riding from the Chalet
+nav_title: Hiking and horseback riding
+eyebrow: On foot and on horseback
 kicker: Summer and fall
 seo_title: "Hiking Trails near June Lake, Tioga Pass and Yosemite's East Side"
-description: "Trail notes from the chalet: Fern and Yost Lakes a mile's walk from the chalet, Parker Lake, Gibbs Lake, Lundy Canyon, Tioga Peak, Lee Vining Creek and the Tuolumne Grove, with distances and trailheads."
+description: "Hiking and horseback riding from the chalet: Fern Lake from the back door, Parker Lake and Parker Bench, trail rides at the June Lake pack station, Lundy Canyon, Tioga Peak and more, with distances."
 topic: hiking near June Lake
-hero: fall-view-over-yosemite-climber
-hero_alt: A hiker on granite above a high Sierra lake
-hero_focus: 50% 40%
-lead: The Ansel Adams Wilderness begins at the back door, and Yosemite's high country is forty-five minutes up the road.
+hero: horseback-ride-above-june-lake
+hero_focus: 40% 40%
+hero_alt: "A family on horseback on a ridge high above Silver Lake and the June Lake Loop"
+lead: The Ansel Adams Wilderness begins at the back door, the pack station is a few minutes down the road, and Yosemite's high country is forty-five minutes away.
 updated: 2026-10-27
 related: [/guides/tuolumne-meadows/, /guides/tioga-pass/, /experiences/fishing/]
 ---
@@ -35,7 +35,7 @@ The trailhead is on North Shore Drive, northeast of Gull Lake. This is prime wil
 ## Parker Lake
 
 <aside class="trail-card">
-{{ picture("parker-bench-silver-lake-view", "Hikers with packs on the Parker Bench trail, with Silver Lake far below in the June Lake canyon", "(min-width: 900px) 340px, 100vw") }}
+{{ picture("parker-bench-silver-lake-view", "Hikers with packs on the Parker Bench trail, with Silver Lake far below in the June Lake canyon", "(min-width: 1200px) 1180px, 100vw") }}
 <div class="tc-body">
 <p class="tc-kicker">Trail notes</p>
 <p class="tc-title">Parker Lake</p>
@@ -52,6 +52,14 @@ The trailhead is on North Shore Drive, northeast of Gull Lake. This is prime wil
 One of the easiest and prettiest hikes on the loop, and a good first day at altitude. About half a mile past Grant Lake heading toward Highway 395, turn left onto the dirt road signed for Parker Lake and follow signs to the trailhead. Past the first steep pitch, the trail levels out beside Parker Creek through meadow and aspen, and ends at a deep lake under the walls of the Sierra crest.
 
 **The Parker Bench option.** At the junction signed for Silver Lake, turn left instead of continuing to Parker Lake. The trail climbs onto Parker Bench, a high sagebrush shoulder with long views down the canyon to Silver Lake and out to Mono Lake. It is a bigger day, up to 10 miles round trip, and spectacular in fall when the aspens below turn.
+
+## Horseback riding from the pack station
+
+Some of the best days our guests have here start a few minutes down the road at [Frontier Pack Train](https://www.monocounty.org/listing/frontier-pack-train/1103/), the June Lake Loop's own pack station on Highway 158 near Silver Lake. Real wranglers, sure-footed horses matched to every rider from first-timer to expert, and trails that climb straight out of the canyon to views most visitors never see.
+
+Ride for an hour along Rush Creek, take a half day up to Parker Bench with Mono Lake and the Mono Craters laid out below, or go all day past Agnew Lake to Gem Lake for a picnic and some fishing. The pack station also runs overnight trips into the Ansel Adams Wilderness and, in fall, a multi-day horse drive from June Lake to Bishop. Kids love it, and it is the easiest way to get a whole family into the high country.
+
+Rides run in summer and early fall. Call ahead to book, especially on weekends: (760) 648-7701.
 
 ## Gibbs Lake and Kidney Lake
 

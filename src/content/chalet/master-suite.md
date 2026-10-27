@@ -13,11 +13,11 @@ lead: A California King memory foam bed, a private two-person jacuzzi, and a sle
 updated: 2026-10-26
 related: [/the-chalet/elsie-room/, /the-chalet/river-room/, /the-chalet/floorplan/]
 ---
-The largest of the three suites is built for a long soak at the end of the day. The two-person jacuzzi is private to the room, and the bath is newly finished.
+The largest of the three suites is built for a long soak at the end of the day. It holds the chalet's indoor hot tub, a two-person jacuzzi private to the room, for the nights when the snow is coming down too hard even for the tub outside. The bath is newly finished.
 
 Above the bed, a loft holds a pull-out couch. Like any loft, whoever sleeps up there has a commanding view of the room below, so it suits children or close friends best.
 
-{{ gallery([("master-suite-bed", "The master suite bed"), ("master-suite-evening", "The master suite in the evening"), ("master-suite-window-snow-peaks", "Snow-covered peaks through the master suite window")]) }}
+{{ figure("master-suite-window-snow-peaks", "Snow-covered peaks framed by the master suite window", "From the master suite, the peaks above the June Lake Loop.") }}
 
 {{ facts([("Bed", "California King, memory foam"), ("Bath", "Private, with two-person jacuzzi"), ("Loft", "Pull-out couch"), ("Level", "Upper")]) }}
 

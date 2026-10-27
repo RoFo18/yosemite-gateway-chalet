@@ -100,6 +100,17 @@ NAMES = {
     "camap.jpg": "california-map-june-lake",
     "mr.jpg": "press-magazine-review",
     "np.jpg": "press-newspaper-geothermal",
+    # October 2026, from Robert
+    "new-mono-craters-sunset.jpg": "mono-craters-sunset-rays",
+    "silver-lake-boards-enhanced.jpg": "paddleboards-silver-lake-shore",
+    "new-gull-lake-sunset.jpg": "gull-lake-fiery-sunset",
+    "new-wild-mustangs.jpg": "wild-mustang-herd-mono-county",
+    "new-crowley-columns-inside.jpg": "crowley-lake-columns-inside",
+    "new-crowley-columns-shore.jpg": "crowley-lake-columns-shore",
+    "new-chair-7.jpg": "june-mountain-chair-7-empty-runs",
+    "new-saddlebag-lake.jpg": "saddlebag-lake-tioga",
+    "new-mono-fissures.jpg": "mono-lake-black-point-fissures",
+    "new-horseback-june-lake.jpg": "horseback-ride-above-june-lake",
 }
 
 
@@ -154,8 +165,7 @@ def main():
     # 1200x630 social sharing images
     og = os.path.join(ROOT, "public", "og")
     os.makedirs(og, exist_ok=True)
-    for f in os.listdir(og):
-        os.remove(os.path.join(og, f))
+    # overwrite only the generated cards; hand-made cards (like the Tioga analysis) stay
     for src, name in NAMES.items():
         if src.endswith(".png") or name.startswith(("press", "floorplan", "california")):
             continue

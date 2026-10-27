@@ -4,8 +4,6 @@ title: Thank you
 eyebrow: Inquiry received
 seo_title: "Thank You | Yosemite Gateway Chalet"
 description: "Thank you for your inquiry to the Yosemite Gateway Chalet."
-hero: guest-in-deep-snow
-hero_alt: A guest laughing waist-deep in fresh snow outside the chalet
 lead: Your inquiry is on its way. We will reply within 24 hours with availability and a quote.
 noindex: true
 hide_cta: true

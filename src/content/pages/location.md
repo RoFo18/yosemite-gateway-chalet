@@ -2,7 +2,7 @@
 url: /location/
 title: Location and Getting Here
 nav_title: Location
-eyebrow: 4835 Highway 158, June Lake
+hide_crumbs: true
 kicker: Location
 seo_title: "Location and Directions | Yosemite Gateway Chalet, June Lake, CA"
 description: "Yosemite Gateway Chalet is at 4835 Highway 158 on the June Lake Loop, 27 miles from Yosemite's Tioga Pass entrance. Directions and drive times."

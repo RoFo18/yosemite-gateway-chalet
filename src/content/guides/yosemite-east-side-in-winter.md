@@ -39,7 +39,6 @@ sources:
 
 Tioga Road is not maintained in winter. When the first heavy snow arrives, usually in November, the National Park Service closes it for the season. It stays closed until crews plow it open in spring, a job that starts around April 15 and usually takes one to two months. Most years it reopens in late May or June. See our [Tioga Pass guide](/guides/tioga-pass/) for recent dates.
 
-{{ figure("ritter-range-snow", "The Ritter Range in winter snow", None, "wide") }}
 
 While the road is closed, Tuolumne Meadows and the whole high country along Tioga Road are buried under snow and reachable only on skis.
 

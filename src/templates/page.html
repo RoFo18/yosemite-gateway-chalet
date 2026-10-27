@@ -4,14 +4,14 @@
 <header class="page-hero{% if page.hero_tall %} tall{% endif %}">
   {{ picture(page.hero, page.hero_alt, '100vw', 'ph-img', eager=True, fit=page.hero_focus) }}
   <div class="ph-copy">
-    <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
+    {% if not page.hide_crumbs %}<nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>{% endif %}
     {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
     <h1>{{ page.title }}</h1>
   </div>
 </header>
 {% else %}
 <header class="page-head">
-  <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
+  {% if not page.hide_crumbs %}<nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>{% endif %}
   {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
   <h1>{{ page.title }}</h1>
 </header>

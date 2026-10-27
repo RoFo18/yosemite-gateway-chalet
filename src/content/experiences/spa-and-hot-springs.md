@@ -1,14 +1,14 @@
 ---
 url: /experiences/spa-and-hot-springs/
 title: Spa and Hot Springs
-nav_title: Spa and hot springs
+nav_title: Hot springs and the spa
 eyebrow: Recovery, Eastern Sierra style
 kicker: Year round
 seo_title: "Spa and Hot Springs near June Lake and Mammoth | Yosemite Gateway Chalet"
 description: "The Double Eagle Creekside Spa is a 15-minute walk from the chalet. Natural hot springs near Mammoth are about 35 minutes away, and Travertine Hot Springs near Bridgeport about 50."
 topic: hot springs near June Lake
-hero: hot-creek-eastern-sierra
-hero_alt: Steam rising from hot springs in the Eastern Sierra
+hero: natural-hot-spring-soak
+hero_alt: "Bathers in a natural hot spring with the Sierra behind"
 lead: Start with the tub on the back deck. Then go further.
 updated: 2026-10-26
 related: [/experiences/dining/, /experiences/winter/, /gallery/]
@@ -19,7 +19,6 @@ The Double Eagle's Creekside Spa is a fifteen-minute walk from the chalet. It of
 
 ## Natural hot springs near Mammoth
 
-{{ figure("natural-hot-spring-soak", "Bathers in a natural hot spring with mountain views", None, "right") }}
 
 About thirty-five minutes from the chalet, southeast of Mammoth Lakes, natural mineral springs have been gathered into rock tubs. They are anything but commercial and take some patience to find, and the views are worth it. Be considerate, and thank the volunteers who maintain them if you meet them.
 

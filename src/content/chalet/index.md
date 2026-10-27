@@ -55,21 +55,23 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 
 <section class="ch-suites" aria-labelledby="suites">
 <h2 id="suites">The suites</h2>
-<p class="ch-sub">Three bedrooms upstairs, each its own retreat with a private bath and a memory foam bed.</p>
+<p class="ch-sub">Three bedrooms upstairs, each its own retreat with a private bath and a memory foam bed. The master has the house's indoor hot tub, a jacuzzi for two.</p>
 <div class="ch-suite-row">
-<a class="ch-suite" href="/the-chalet/master-suite/">{{ picture("master-suite-bed", "The master suite with its California King under a log ceiling", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Master Suite</span><span class="cs-line">California King, a two-person jacuzzi and a sleeping loft</span></a>
-<a class="ch-suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-suite", "The Elsie Room, with windows on two sides", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Elsie Room</span><span class="cs-line">A ruby-red claw-foot tub and windows on two sides</span></a>
+<a class="ch-suite" href="/the-chalet/master-suite/">{{ picture("master-suite-evening", "The master suite in the evening, under its log ceiling", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Master Suite</span><span class="cs-line">California King, a sleeping loft and its own indoor two-person jacuzzi</span></a>
+<a class="ch-suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-claw-foot-tub", "The Elsie Room's ruby-red claw-foot tub beneath a timber window", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Elsie Room</span><span class="cs-line">A ruby-red claw-foot tub and windows on two sides</span></a>
 <a class="ch-suite" href="/the-chalet/river-room/">{{ picture("river-room-suite", "The River Room, with windows onto the forest", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">River Room</span><span class="cs-line">The quietest room, with Yost Creek below the window</span></a>
 </div>
 <p class="ch-more"><a href="/the-chalet/floorplan/">See both floors on the floorplan</a></p>
 </section>
+
+{{ video_tour("dYlCn8rzxA8", "Walkthrough of the Yosemite Gateway Chalet", 'Filmed by <a href="https://californiathroughmylens.com/" rel="noopener" target="_blank">California Through My Lens</a>, the California travel writers, who stayed with us. <a href="https://www.youtube.com/watch?v=dYlCn8rzxA8" rel="noopener" target="_blank">Watch on YouTube</a>.', 2.95, "2018-11-18", "A three-minute video walkthrough of the Yosemite Gateway Chalet in June Lake, California, filmed by California Through My Lens.") }}
 
 <section class="ch-amen" aria-labelledby="in-the-house">
 <h2 id="in-the-house">In the house</h2>
 <div class="ch-amen-cols">
 <div>
 <h3>To soak</h3>
-<p>Outdoor hydrotherapy tub for six, open all year. A two-person jacuzzi in the master suite. A claw-foot tub in the Elsie Room.</p>
+<p>Two hot tubs: the outdoor hydrotherapy tub for six, open all year under Carson Peak, and an indoor two-person jacuzzi in the master suite. Plus a claw-foot tub in the Elsie Room.</p>
 <h3>To sleep</h3>
 <p>Two California Kings and a queen in the suites, all memory foam, plus a pull-out couch in the loft and a queen futon in the family room. Organic cotton sheets and towels.</p>
 </div>

@@ -7,8 +7,8 @@ kicker: Lodging
 seo_title: "Group Lodging near Yosemite for 6 to 8 | Private Log Chalet, June Lake"
 description: "Where a group of six to eight can stay together near Yosemite: a private 4,000 sq ft log chalet in June Lake with three suites, a hot tub and room to gather, 27 miles from Tioga Pass."
 topic: group lodging near Yosemite
-hero: grand-room-oak-bar-wine
-hero_alt: Friends laughing over wine at the chalet's oak bar
+hero: chalet-grounds-log-exterior
+hero_alt: "The chalet's log walls and stone steps among the aspens, room for a group of eight"
 lead: For a group of six to eight, the easiest way to stay together near Yosemite is a whole home on the east side. The Yosemite Gateway Chalet sleeps eight in three private suites, 27 miles from the Tioga Pass entrance.
 updated: 2026-10-27
 related: [/the-chalet/, /yosemite-national-park-lodging/, /tuolumne-meadows-lodging/]

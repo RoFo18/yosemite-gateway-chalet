@@ -1,22 +1,23 @@
 ---
 url: /experiences/summer/
-title: Summer at June Lake
-nav_title: Summer
+title: Lakes and Paddleboarding at June Lake
+nav_title: Lakes and paddleboarding
 eyebrow: Climbing, riding, birding and lake days
 kicker: Summer
 seo_title: "Summer in June Lake: Paddleboarding, Lakes, Climbing | Yosemite Gateway Chalet"
 description: "Summer from the chalet: five paddleboards for Rush Creek and Silver Lake, Grant Lake swims, Gull Lake's rope swing, bouldering, birding and races."
 topic: summer in June Lake
-hero: paddleboard-rush-creek-silver-lake
-hero_alt: A paddleboarder on Rush Creek above Silver Lake, with snow-streaked granite peaks rising behind
-hero_focus: 50% 45%
+hero: paddleboards-silver-lake-shore
+hero_alt: "Four paddleboards pulled up on the shore of Silver Lake under the aspens"
 lead: Most June Lake locals came for the winter and stayed for the summer.
 updated: 2026-10-27
 related: [/experiences/hiking/, /experiences/fishing/, /guides/tuolumne-meadows/]
 ---
 ## Paddleboards in the garage
 
-Five stand-up paddleboards wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the canyon walls. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
+Five stand-up paddleboards wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Carry them down to the shore of Silver Lake, a few minutes away, and you are on the water. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the canyon walls. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
+
+For trout, see [fishing the June Lake Loop](/experiences/fishing/).
 
 ## Lake days
 
@@ -34,7 +35,7 @@ June Lake is surrounded by published climbing areas, including the Bachar Boulde
 
 ## Horseback riding
 
-Frontier Pack Train, a few miles down-canyon, runs trips into the Sierra backcountry. For serious adventure, join the multi-day fall horse drive from June Lake to Bishop.
+The June Lake pack station is a few minutes down the road. See [horseback riding from the chalet](/experiences/hiking/#horseback-riding-from-the-pack-station) for rides from an hour to several days.
 
 ## Birding
 
@@ -45,5 +46,3 @@ The chalet sits where the Sierra Nevada meets the Great Basin, which makes for s
 ## Races
 
 After a race there is nothing better than your own hot tub, a massage down the road, and a California King bed. The Eastern Sierra calendar has included the June Lake Triathlon in early summer, the Mammoth Half Marathon, the Eastern Sierra Double Century, the High Sierra Fall Century and the Tioga Pass Run in September. Check each event for current dates.
-
-{{ figure("horse-drive-riders", "Riders on a horse drive in the Eastern Sierra", None, "wide") }}

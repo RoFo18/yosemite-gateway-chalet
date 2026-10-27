@@ -1,14 +1,14 @@
 ---
 url: /experiences/winter/
-title: Winter at June Lake
-nav_title: Winter
+title: Skiing June Mountain and Winter at June Lake
+nav_title: Skiing and winter
 eyebrow: Skiing, backcountry and ice
 kicker: Winter
 seo_title: "June Mountain Ski Lodging | Winter at Yosemite Gateway Chalet, June Lake"
 description: "June Mountain is one mile from the chalet and Mammoth Mountain 30 minutes away. Guided backcountry skiers can ski from June Mountain to the chalet's hot tub. Plus snowshoeing, ice climbing and more."
 topic: June Mountain ski lodging
-hero: ski-tracks-to-the-hot-tub
-hero_alt: Ski tracks across deep snow below June Mountain
+hero: guest-in-deep-snow
+hero_alt: "A guest laughing waist-deep in fresh snow outside the chalet"
 lead: June Mountain is a mile from the door, Mammoth is thirty minutes away, and some of the best backcountry descents in North America end at the chalet's back fence.
 updated: 2026-10-27
 related: [/guides/yosemite-east-side-in-winter/, /guides/tioga-pass/, /faq/]
@@ -19,10 +19,16 @@ Less than a mile away, [June Mountain](https://www.junemountain.com/) offers 2,5
 
 ### Kids 12 and under ski free
 
-{{ figure("kids-ski-free-june-mountain", "Two young skiers in helmets and goggles riding in a gear cart beside a pair of skis", "Done for the day at June Mountain.", "right") }}
+{{ figure("kids-ski-free-june-mountain", "Two young skiers in helmets and goggles riding home in a gear cart beside a pair of skis", "Done for the day, and it cost nothing: kids 12 and under ski free at June Mountain.") }}
 
-June Mountain is one of the best family ski deals in California. Kids 12 and under ski free all season with a no-cost child season pass, which you can reserve ahead on IkonPass.com or pick up at the ticket office. With the mountain a mile from the chalet, little legs can call it a day whenever they like and be back by the fire in ten minutes. Check [June Mountain](https://junemountain.com/explore-june-mountain/kids-ski-and-ride-free) for current terms.
+For parents, this is the deciding number. A family of four can spend more on kids' lift tickets in a weekend than on the house. At June Mountain kids 12 and under ski free all season with a no-cost child season pass, which you can reserve ahead on IkonPass.com or pick up at the ticket office. With the mountain a mile from the chalet, little legs can call it a day whenever they like and be back by the fire in ten minutes. Check [June Mountain](https://junemountain.com/explore-june-mountain/kids-ski-and-ride-free) for current terms.
 
+
+### No lift lines on weekdays
+
+{{ figure("june-mountain-chair-7-empty-runs", "Three skiers carving fresh corduroy under a deep blue sky on June Mountain, with nobody else on the run", "Off Chair 7 on a weekday. That is the whole crowd.") }}
+
+June Mountain is the quiet one. On a weekday you will often ski straight onto the chair, and the groomers off Chair 7 stay empty long after first tracks. Come Monday to Thursday and you get the mountain nearly to yourselves, and the chalet costs less too.
 
 ## Mammoth Mountain
 

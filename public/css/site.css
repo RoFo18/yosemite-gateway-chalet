@@ -225,15 +225,16 @@ p{margin:0}
 .prose blockquote{margin:2.4rem 0;padding:0 0 0 1.6rem;border-left:1px solid var(--bronze);font:500 1.55rem/1.4 var(--f-display);color:var(--ink)}
 .prose::after{content:"";display:block;clear:both}
 .prose h2{clear:both}
-.fig{margin:2.6rem 0}
+.fig{margin:clamp(2.6rem,5vw,4rem) 0}
 .fig img{width:100%}
 .fig figcaption{font-size:.84rem;color:var(--ink-3);padding-top:.75rem;max-width:60ch}
-@media (min-width:1100px){.fig-wide{margin-inline:-70px}}
+@media (min-width:1100px){.page-body:not(.wide) .fig-wide,.page-body:not(.wide) .trail-card{width:min(100vw - 2 * var(--gutter),1180px);max-width:none;margin-left:calc((min(100vw,900px) - min(100vw - 2 * var(--gutter),1180px)) / 2 - var(--gutter))}}
+.fig-portrait{max-width:720px;margin-inline:auto}
+@media (min-width:900px){.page-body:not(.wide) .fig-portrait{width:min(100vw - 2 * var(--gutter),720px);max-width:none;margin-left:calc((min(100vw,900px) - min(100vw - 2 * var(--gutter),720px)) / 2 - var(--gutter))}}
+.fig-portrait img{max-height:92vh;object-fit:cover}
+.fig-portrait figcaption{text-align:center;margin-inline:auto}
 .fig-full{margin-inline:calc(50% - 50vw)}
 .fig-full figcaption{padding-inline:var(--gutter)}
-.fig-right{float:right;width:min(46%,420px);margin:.4rem 0 1.4rem 2.2rem}
-.fig-left{float:left;width:min(46%,420px);margin:.4rem 2.2rem 1.4rem 0}
-.fig-small{max-width:320px}
 @media (max-width:760px){.fig-right,.fig-left{float:none;width:100%;margin:2rem 0}.fig-wide{margin-inline:0}}
 .note{border-top:1px solid var(--bronze);border-bottom:1px solid var(--rule);padding:1.1rem 0;margin:2.4rem 0;clear:both}
 .note p{color:var(--ink);font-size:.95rem}
@@ -317,10 +318,10 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 @media (max-width:640px){.inquiry{grid-template-columns:1fr}}
 
 /* closing */
-.closing{position:relative;color:#fff;min-height:540px;display:flex;align-items:center;background:#1c2420;overflow:hidden}
+.closing{position:relative;color:#fff;min-height:420px;display:flex;align-items:center;background:var(--pine) radial-gradient(120% 140% at 85% 10%,#2d4537 0%,#22352b 45%,#18241d 100%);overflow:hidden}
 .closing .closing-img,.closing .closing-img img{position:absolute;inset:0;width:100%;height:100%}
 .closing .closing-img img{object-fit:cover}
-.closing::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(12,17,14,.78) 0%,rgba(12,17,14,.45) 55%,rgba(12,17,14,.25) 100%)}
+
 .closing-inner{position:relative;z-index:1;width:100%;max-width:var(--max);margin:0 auto;padding:var(--s-8) var(--gutter)}
 .closing .eyebrow{color:#e8d2a8}
 .closing h2{max-width:14ch;margin-bottom:1.2rem}
@@ -400,7 +401,7 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 
 /* film band: full-bleed, poster until played */
 .film{position:relative;margin:0;background:#0d110f;color:#fff}
-.prose .film{margin-top:var(--s-8);margin-bottom:var(--s-8)}
+.prose .film,.film-tour{margin-top:clamp(4rem,9vw,8rem);margin-bottom:clamp(4rem,9vw,8rem)}
 .prose .film,.page-body .film{width:100vw;margin-left:calc(50% - 50vw)}
 .film-frame{position:relative;display:block;width:100%;aspect-ratio:21/9;min-height:340px;max-height:86vh;padding:0;border:0;background:#0d110f;color:inherit;cursor:pointer;overflow:hidden;text-align:left}
 .film-frame .film-poster,.film-frame .film-poster img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
@@ -415,14 +416,19 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 .film-frame:hover .film-icon,.film-frame:focus-visible .film-icon{background:rgba(255,255,255,.18)}
 .film-frame.playing{aspect-ratio:16/9;max-height:none;cursor:auto}
 .film-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
-.film-credit{margin:0;padding:.8rem clamp(1rem,6vw,6rem);font-size:.8rem;color:#a9aea7;background:#0d110f}
+.film-credit{margin:0;padding:1.1rem clamp(1rem,6vw,6rem) 1.3rem;font-size:.84rem;line-height:1.5;color:#c3c7c0;background:#0d110f}
+.film-tour{width:100vw;margin-left:calc(50% - 50vw)}
+.film-tour .film-frame{aspect-ratio:16/9;max-height:82vh}
+.film-tour .film-poster img{filter:brightness(.55)}
 .film-credit a{color:inherit}
 @media (max-width:760px){.film-frame{aspect-ratio:4/5;max-height:80vh}.film-frame.playing{aspect-ratio:16/9}}
 
 /* trail card: a hike's key numbers beside its write-up */
-.trail-card{float:right;width:min(340px,42%);margin:.4rem 0 1.6rem 2.2rem;background:var(--paper);border:1px solid var(--rule)}
+.trail-card{margin:clamp(2.6rem,5vw,4rem) 0;background:var(--paper);border:1px solid var(--rule);display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr)}
+.trail-card picture{height:100%}.trail-card img{height:100%!important;object-fit:cover}
+@media (max-width:760px){.trail-card{grid-template-columns:1fr}}
 .trail-card picture,.trail-card img{display:block;width:100%;height:auto}
-.tc-body{padding:1.1rem 1.2rem 1.2rem}
+.tc-body{padding:clamp(1.2rem,3vw,2.2rem);align-self:center}
 .prose .tc-kicker{font:500 .7rem/1.4 var(--f-text);letter-spacing:.2em;text-transform:uppercase;color:var(--bronze);margin:0}
 .prose .tc-title{font:500 1.7rem/1.1 var(--f-display);color:var(--ink);margin:.3rem 0 .8rem}
 .trail-card dl{margin:0;display:grid;gap:.55rem}
@@ -688,7 +694,7 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 .prose .rv-pull p{font-size:clamp(1.4rem,2.3vw,1.8rem)}.prose .rv-pull.rv-lead p{font-size:clamp(1.6rem,3vw,2.3rem)}
 
 /* ---------- Tioga analysis ---------- */
-.tg-hero{--c-old:#4f95d6;--c-new:#c4842a;--c-early:#8f968f;--tg-ink:var(--on-dark);--tg-ink-2:rgba(241,239,232,.72);--tg-rule:rgba(241,239,232,.14);--tg-surface:#18241d;
+.tg-hero{--c-old:#2fa874;--c-new:#c27a24;--c-early:#9aa39b;--tg-ink:var(--on-dark);--tg-ink-2:rgba(241,239,232,.74);--tg-rule:rgba(241,239,232,.14);--tg-surface:#22352b;
   background:var(--tg-surface);color:var(--tg-ink);padding:calc(var(--s-8) + 40px) var(--gutter) var(--s-7)}
 .tg-hero-copy{max-width:var(--max);margin:0 auto}
 .tg-hero .crumbs a,.tg-hero .crumbs span{color:var(--tg-ink-2)}
@@ -725,8 +731,8 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 .tg-wrap{max-width:var(--max);margin:0 auto;padding:var(--s-7) var(--gutter) 0}
 .tg-main{max-width:760px;margin:0 auto}
 .tg-main .prose h2{margin-top:var(--s-7)}
-.tg-block{--c-old:#2f78b8;--c-new:#b5761f;--c-early:#8a908a;--tg-ink:var(--ink);--tg-ink-2:var(--ink-2);--tg-rule:var(--rule);--tg-surface:var(--ground);margin:var(--s-6) 0 var(--s-7)}
-@media (prefers-color-scheme:dark){.tg-block{--c-old:#4f95d6;--c-new:#c4842a}}
+.tg-block{--c-old:#0f8a5f;--c-new:#ad661c;--c-early:#8a908a;--tg-ink:var(--ink);--tg-ink-2:var(--ink-2);--tg-rule:var(--rule);--tg-surface:var(--ground);margin:var(--s-6) 0 var(--s-7)}
+@media (prefers-color-scheme:dark){.tg-block{--c-old:#2fa874;--c-new:#c27a24}}
 .tg-residuals,.tg-eras{padding-top:var(--s-3);border-top:1px solid var(--rule)}
 .tg-pred{border:1px solid var(--rule);background:var(--paper);padding:var(--s-6)}
 .tg-pred-l{display:block;font:500 1.05rem/1.4 var(--f-text);color:var(--ink);margin-bottom:var(--s-4)}
@@ -750,3 +756,26 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 .tg-promo{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:var(--s-6);align-items:center;text-decoration:none;color:inherit;margin:var(--s-8) 0 0;padding-top:var(--s-7);border-top:1px solid var(--rule)}
 .tg-promo img{width:100%;height:auto;display:block}
 @media (max-width:760px){.tg-promo{grid-template-columns:1fr}}
+.dine-links{display:flex;gap:1.2rem;margin:-.4rem 0 1rem;font:500 .74rem/1 var(--f-text);letter-spacing:.16em;text-transform:uppercase}
+.prose .dine-links a{color:var(--bronze);text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:.2rem}
+.prose .dine-links a:hover{color:var(--ink)}
+
+/* home: the tub under Carson Peak, full width */
+.feature.feature-big{grid-template-columns:1fr;max-width:none;padding-inline:0;gap:0}
+.feature-big .feature-media img{aspect-ratio:21/9;max-height:84vh;min-height:360px}
+.feature-big .feature-copy{max-width:760px;margin:0 auto;padding:clamp(2rem,5vw,3.5rem) var(--gutter) 0}
+@media (max-width:860px){.feature-big .feature-media img{aspect-ratio:4/3;min-height:0}}
+/* home and chalet: photos lead */
+.feature{grid-template-columns:minmax(0,8fr) minmax(0,4fr)}
+.feature.reverse:not(.feature-big){grid-template-columns:minmax(0,4fr) minmax(0,8fr)}
+.ch-split{grid-template-columns:minmax(0,8fr) minmax(0,4fr)}
+.ch-split.reverse{grid-template-columns:minmax(0,4fr) minmax(0,8fr)}
+@media (max-width:860px){.feature,.feature.reverse:not(.feature-big),.ch-split,.ch-split.reverse{grid-template-columns:1fr}}
+/* plan your trip */
+.plan-group{margin:0 0 var(--s-7)}
+.plan-group h2{font:500 clamp(1.6rem,2.6vw,2.1rem)/1.15 var(--f-display);margin:0 0 var(--s-4)}
+.rel-links.plan-links{margin:0;max-width:none}
+
+.prose>.film:last-child{margin-bottom:0}
+.page-body:has(>.prose>.film:last-child){padding-bottom:0}
+.page-body:has(>.prose>.film:last-child)+*{margin-top:0}
