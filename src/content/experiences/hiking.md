@@ -64,6 +64,8 @@ About half a mile past Grant Lake heading toward Highway 395, turn left onto the
 
 {{ figure("parker-lake-trail-fall-color", "Gold and orange aspen groves on the slopes below a dark snow-dusted peak, on the way to Parker Lake", "The walk in to Parker Lake in October. Go then if you can.") }}
 
+{{ figure("mono-lake-from-above-fern-lake", "Looking back at Mono Lake and the Mono Craters under a storm-lit sky, on the walk down from Parker Lake", "The view back to Mono Lake on the way down from Parker Lake. Stop and turn around. Everybody forgets to.") }}
+
 **The Parker Bench option.** At the junction signed for Silver Lake, turn left instead of continuing to Parker Lake. The trail climbs onto Parker Bench, a high sagebrush shoulder with long views down the canyon to Silver Lake and out to Mono Lake. It is spectacular in fall, when the aspens below turn.
 
 ## Glass Creek Meadow
