@@ -34,9 +34,24 @@ The trailhead is on North Shore Drive, northeast of Gull Lake. This is prime wil
 
 ## Parker Lake
 
-{{ facts([("Trailhead", "8,000 ft"), ("Round trip", "About 4 miles to the lake")]) }}
+<aside class="trail-card">
+{{ picture("parker-bench-silver-lake-view", "Hikers with packs on the Parker Bench trail, with Silver Lake far below in the June Lake canyon", "(min-width: 900px) 340px, 100vw") }}
+<div class="tc-body">
+<p class="tc-kicker">Trail notes</p>
+<p class="tc-title">Parker Lake</p>
+<dl>
+<div><dt>Trailhead</dt><dd>About 8,000 ft</dd></div>
+<div><dt>Round trip</dt><dd>About 4 miles</dd></div>
+<div><dt>Climb</dt><dd>About 550 ft</dd></div>
+<div><dt>Option</dt><dd>Parker Bench, up to 10 miles round trip</dd></div>
+</dl>
+<p class="tc-cap">On the Parker Bench option, looking down to Silver Lake.</p>
+</div>
+</aside>
 
-About half a mile past Grant Lake heading toward Highway 395, turn left onto the dirt road signed for Parker Lake and follow signs to the trailhead. Past the first steep pitch, the trail levels out beside Parker Creek through meadow and forest. At the junction signed for Silver Lake, continue straight to Parker Lake, or turn left for a longer outing of up to 10 miles round trip to Parker Bench, with its view of Mono Lake.
+One of the easiest and prettiest hikes on the loop, and a good first day at altitude. About half a mile past Grant Lake heading toward Highway 395, turn left onto the dirt road signed for Parker Lake and follow signs to the trailhead. Past the first steep pitch, the trail levels out beside Parker Creek through meadow and aspen, and ends at a deep lake under the walls of the Sierra crest.
+
+**The Parker Bench option.** At the junction signed for Silver Lake, turn left instead of continuing to Parker Lake. The trail climbs onto Parker Bench, a high sagebrush shoulder with long views down the canyon to Silver Lake and out to Mono Lake. It is a bigger day, up to 10 miles round trip, and spectacular in fall when the aspens below turn.
 
 ## Gibbs Lake and Kidney Lake
 

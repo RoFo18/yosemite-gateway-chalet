@@ -420,3 +420,16 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 .film-credit{margin:0;padding:.8rem clamp(1rem,6vw,6rem);font-size:.8rem;color:#a9aea7;background:#0d110f}
 .film-credit a{color:inherit}
 @media (max-width:760px){.film-frame{aspect-ratio:4/5;max-height:80vh}.film-frame.playing{aspect-ratio:16/9}}
+
+/* trail card: a hike's key numbers beside its write-up */
+.trail-card{float:right;width:min(340px,42%);margin:.4rem 0 1.6rem 2.2rem;background:var(--paper);border:1px solid var(--rule)}
+.trail-card picture,.trail-card img{display:block;width:100%;height:auto}
+.tc-body{padding:1.1rem 1.2rem 1.2rem}
+.prose .tc-kicker{font:500 .7rem/1.4 var(--f-text);letter-spacing:.2em;text-transform:uppercase;color:var(--bronze);margin:0}
+.prose .tc-title{font:500 1.7rem/1.1 var(--f-display);color:var(--ink);margin:.3rem 0 .8rem}
+.trail-card dl{margin:0;display:grid;gap:.55rem}
+.trail-card dl div{display:flex;justify-content:space-between;gap:1rem;border-top:1px solid var(--rule);padding-top:.5rem}
+.trail-card dt{font-size:.74rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+.trail-card dd{margin:0;text-align:right;font-size:.92rem;color:var(--ink)}
+.prose .tc-cap{font-size:.8rem;color:var(--ink-3);margin:.9rem 0 0}
+@media (max-width:760px){.trail-card{float:none;width:100%;margin:1.4rem 0}}

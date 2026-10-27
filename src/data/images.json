@@ -342,6 +342,16 @@
    768
   ]
  },
+ "grant-lake-sunset-stone-throw": {
+  "color": "#6b615a",
+  "h": 826,
+  "w": 952,
+  "widths": [
+   480,
+   800,
+   952
+  ]
+ },
  "guest-in-deep-snow": {
   "color": "#707074",
   "h": 960,
@@ -513,6 +523,15 @@
    1651
   ]
  },
+ "kids-ski-free-june-mountain": {
+  "color": "#6b7489",
+  "h": 1024,
+  "w": 767,
+  "widths": [
+   480,
+   767
+  ]
+ },
  "kitchen-and-breakfast-bar": {
   "color": "#55290b",
   "h": 431,
@@ -592,6 +611,26 @@
    1024
   ]
  },
+ "paddleboarding-rush-creek-family-bw": {
+  "color": "#7e7e7e",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "parker-bench-silver-lake-view": {
+  "color": "#69737d",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "press-magazine-review": {
   "color": "#cec6bd",
   "h": 365,
@@ -617,6 +656,16 @@
    800,
    1200,
    1280
+  ]
+ },
+ "river-room-suite": {
+  "color": "#816442",
+  "h": 960,
+  "w": 954,
+  "widths": [
+   480,
+   800,
+   954
   ]
  },
  "sierra-lake-and-forest": {
@@ -664,6 +713,16 @@
    800,
    1200,
    1280
+  ]
+ },
+ "wild-mustangs-mono-basin": {
+  "color": "#989b9e",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "yosemite-high-country-lake": {

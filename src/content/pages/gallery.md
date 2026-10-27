@@ -21,7 +21,7 @@ updated: 2026-10-27
 
 ## Suites {#suites}
 
-{{ gallery([("master-suite-bed", "The master suite"), ("master-suite-window-snow-peaks", "Snowy peaks from the master suite"), ("elsie-room-suite", "The Elsie Room"), ("elsie-room-claw-foot-tub", "The Elsie Room's claw-foot tub")]) }}
+{{ gallery([("master-suite-bed", "The master suite"), ("master-suite-window-snow-peaks", "Snowy peaks from the master suite"), ("elsie-room-suite", "The Elsie Room"), ("elsie-room-claw-foot-tub", "The Elsie Room's claw-foot tub"), ("river-room-suite", "The River Room")]) }}
 
 ## The grounds {#grounds}
 
@@ -29,7 +29,7 @@ updated: 2026-10-27
 
 ## The region {#region}
 
-{{ gallery([("paddleboard-rush-creek-silver-lake", "Paddleboarding Rush Creek above Silver Lake"), ("grant-lake-cliff-jump", "A summer leap into Grant Lake"), ("june-lake-loop-fall-aspens", "Fall aspens on the June Lake Loop"), ("alpine-lake-below-sierra-peaks", "An alpine lake below Sierra peaks"), ("ritter-range-snow", "The Ritter Range in snow"), ("tuolumne-granite-reflection", "Granite reflected in still water"), ("june-lake-fall-reflections", "Fall reflections near June Lake"), ("eastern-sierra-sunset-panorama", "Sunset over the Eastern Sierra"), ("bodie-wagon-wheel", "A wagon wheel at Bodie"), ("fern-creek-falls", "Fern Creek falls"), ("yosemite-high-country-lake", "A high country lake near Tioga Pass")]) }}
+{{ gallery([("paddleboard-rush-creek-silver-lake", "Paddleboarding Rush Creek above Silver Lake"), ("grant-lake-cliff-jump", "A summer leap into Grant Lake"), ("grant-lake-sunset-stone-throw", "Sunset at Grant Lake"), ("parker-bench-silver-lake-view", "Silver Lake from Parker Bench"), ("wild-mustangs-mono-basin", "Wild mustangs in the Mono Basin"), ("june-lake-loop-fall-aspens", "Fall aspens on the June Lake Loop"), ("alpine-lake-below-sierra-peaks", "An alpine lake below Sierra peaks"), ("ritter-range-snow", "The Ritter Range in snow"), ("tuolumne-granite-reflection", "Granite reflected in still water"), ("june-lake-fall-reflections", "Fall reflections near June Lake"), ("eastern-sierra-sunset-panorama", "Sunset over the Eastern Sierra"), ("bodie-wagon-wheel", "A wagon wheel at Bodie"), ("fern-creek-falls", "Fern Creek falls"), ("yosemite-high-country-lake", "A high country lake near Tioga Pass")]) }}
 
 <div id="videos"></div>
 

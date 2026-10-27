@@ -7,9 +7,9 @@ kicker: FAQ
 seo_title: "FAQ | Yosemite Gateway Chalet, June Lake Vacation Rental"
 description: "Answers about Yosemite Gateway Chalet: sleeps 8, beds, the $295 cleaning fee, the year-round hot tub, distance to Yosemite, parking, pets and check-in."
 topic: Yosemite Gateway Chalet FAQ
-hero: ski-tracks-to-the-hot-tub
-hero_alt: Ski tracks from the top of June Mountain down to the chalet's hydrotherapy tub
-hero_focus: 50% 60%
+hero: paddleboarding-rush-creek-family-bw
+hero_alt: Two paddleboarders, a child and a dog on Rush Creek above Silver Lake, in black and white
+hero_focus: 50% 70%
 lead: The questions guests ask most, answered plainly.
 faq_title: Staying at the chalet
 faq_open: true
@@ -32,6 +32,8 @@ faq:
     a: Two, and no others. A flat $295 cleaning fee per stay, and Mono County's 15% transient occupancy tax. Both are in your quote before you book.
   - q: Is the hot tub open year round?
     a: Yes. The outdoor hydrotherapy tub runs all year, in summer under the stars and in winter with snow banked around it. Guests under 18, pregnant guests, and anyone with a heart condition or pacemaker may not use it.
+  - q: Do kids ski free at June Mountain?
+    a: Yes. Kids 12 and under ski free all season at June Mountain with a no-cost child season pass, reserved on IkonPass.com or issued at the ticket office. The mountain is a mile from the chalet.
   - q: Are there paddleboards?
     a: Yes. Five stand-up paddleboards in the garage are included with your stay. Silver Lake and Rush Creek are a few minutes up the road.
   - q: What are check-in and check-out times?

@@ -24,7 +24,7 @@ Each bedroom is its own suite with a private bath and a memory foam mattress, an
 <div class="suite-grid in-prose">
 <a class="suite" href="/the-chalet/master-suite/">{{ picture("master-suite-bed", "The master suite with its California King bed", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">Master Suite</span><span class="suite-spec">California King, private two-person jacuzzi, sleeping loft</span></a>
 <a class="suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-suite", "The Elsie Room, with windows on two sides", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">Elsie Room</span><span class="suite-spec">Ruby-red claw-foot tub, granite peak views</span></a>
-<a class="suite" href="/the-chalet/river-room/">{{ picture("chalet-grounds-hammock-aspens", "Yost Creek and the aspens outside the River Room", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">River Room</span><span class="suite-spec">The quietest room, Yost Creek below the window</span></a>
+<a class="suite" href="/the-chalet/river-room/">{{ picture("river-room-suite", "The River Room, with windows onto the forest", "(min-width: 900px) 300px, 100vw") }}<span class="suite-name">River Room</span><span class="suite-spec">The quietest room, Yost Creek below the window</span></a>
 </div>
 
 ## The Grand Room

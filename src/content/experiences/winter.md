@@ -10,12 +10,18 @@ topic: June Mountain ski lodging
 hero: ski-tracks-to-the-hot-tub
 hero_alt: Ski tracks across deep snow below June Mountain
 lead: June Mountain is a mile from the door, Mammoth is thirty minutes away, and some of the best backcountry descents in North America end at the chalet's back fence.
-updated: 2026-10-26
+updated: 2026-10-27
 related: [/guides/yosemite-east-side-in-winter/, /guides/tioga-pass/, /faq/]
 ---
 ## June Mountain
 
 Less than a mile away, [June Mountain](https://www.junemountain.com/) offers 2,580 vertical feet of terrain for every level, with fewer people than its big neighbor. It is becoming known for some of the best lift-assisted backcountry skiing on the continent. Experienced skiers who hire a guide can ski from the top of June Mountain all the way to the chalet's hydrotherapy tub.
+
+### Kids 12 and under ski free
+
+{{ figure("kids-ski-free-june-mountain", "Two young skiers in helmets and goggles riding in a gear cart beside a pair of skis", "Done for the day at June Mountain.", "right") }}
+
+June Mountain is one of the best family ski deals in California. Kids 12 and under ski free all season with a no-cost child season pass, which you can reserve ahead on IkonPass.com or pick up at the ticket office. With the mountain a mile from the chalet, little legs can call it a day whenever they like and be back by the fire in ten minutes. Check [June Mountain](https://junemountain.com/explore-june-mountain/kids-ski-and-ride-free) for current terms.
 
 
 ## Mammoth Mountain

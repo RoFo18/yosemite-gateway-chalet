@@ -21,8 +21,10 @@ Skiing has been my exercise, my escape, and my test of courage. It has meant cou
 
 ## Why June Mountain
 
-June Mountain is a mile from the chalet, two minutes by car. It is a relaxed, uncrowded mountain with about 2,500 vertical feet of terrain for every level, and views straight across the June Lake Loop to Carson Peak. Lift lines are short, the vibe is family-first, and it is a wonderful place for kids to find their own Spirit of Glissé. Mammoth Mountain is thirty minutes away when you want something bigger.
+June Mountain is a mile from the chalet, two minutes by car. It is a relaxed, uncrowded mountain with about 2,500 vertical feet of terrain for every level, and views straight across the June Lake Loop to Carson Peak. Lift lines are short, the vibe is family-first, and it is a wonderful place for kids to find their own Spirit of Glissé. Better still, kids 12 and under ski free at June Mountain all season with a no-cost child pass. [Details here](/experiences/winter/#kids-12-and-under-ski-free). Mammoth Mountain is thirty minutes away when you want something bigger.
 
 For experienced backcountry skiers, there is one more reason. With a local guide, you can ski from the top of June Mountain all the way down to the chalet's hot tub. See [winter at the chalet](/experiences/winter/) and our [guide to Yosemite's east side in winter](/guides/yosemite-east-side-in-winter/). For conditions and tickets, check [June Mountain](https://www.junemountain.com/).
+
+{{ figure("kids-ski-free-june-mountain", "Two young skiers in helmets and goggles riding in a gear cart beside a pair of skis", "Kids 12 and under ski free at June Mountain.", "right") }}
 
 Have you felt the Spirit of Glissé? Linking turns on the open slopes of June Mountain, your children might find it too. [Ask about winter dates](/inquire/).

@@ -92,7 +92,7 @@ June Lake is about five hours from Los Angeles on US 395 and under six from the 
 
 ## Essentials in the village
 
-The June Lake General Store has groceries, hardware, liquor and camping supplies, and the Fern Creek store, a few hundred yards from the chalet, is handy in a pinch. Ernie's Tackle and Ski Shop is the place for fishing advice and snowshoe rentals. Many businesses keep seasonal hours, so call ahead in spring and late fall.
+The June Lake General Store has groceries, hardware, liquor and camping supplies. Ernie's Tackle and Ski Shop is the place for fishing advice and snowshoe rentals. Many businesses keep seasonal hours, so call ahead in spring and late fall.
 
 ## Where to stay in June Lake
 
