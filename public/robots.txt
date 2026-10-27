@@ -47,4 +47,4 @@ Allow: /
 User-agent: DuckDuckBot
 Allow: /
 
-Sitemap: https://yosemitegatewaychalet.com/sitemap.xml
+Sitemap: https://yosemitechalet.us/sitemap.xml

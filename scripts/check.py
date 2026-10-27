@@ -12,6 +12,8 @@ from html.parser import HTMLParser
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DIST = os.path.join(ROOT, "dist")
+import yaml
+SITE = yaml.safe_load(open(os.path.join(ROOT, "src", "data", "property.yaml")))["site_url"].rstrip("/")
 subprocess.run([sys.executable, os.path.join(ROOT, "build.py")], check=True)
 errors = []
 EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+\.[A-Za-z.]{2,}")
@@ -88,20 +90,29 @@ for t, us in titles.items():
 for t, us in descs.items():
     if len(us) > 1: errors.append(f"duplicate description on {us}")
 
-# redirects must land on real pages
+# redirects must land on real pages, in one hop
+rules = []
 for line in open(os.path.join(DIST, "_redirects")):
     line = line.strip()
     if not line or line.startswith("#"): continue
     src, dst, code = line.split()[:3]
-    if code.startswith("30") and not exists(dst):
+    rules.append((src, dst, code))
+sources = {src for src, _, _ in rules if src.startswith("/")}
+for src, dst, code in rules:
+    if not code.startswith("30"): continue
+    path = (dst[len(SITE):] or "/") if dst.startswith(SITE) else dst
+    if path.endswith(":splat"): continue
+    if not exists(path):
         errors.append(f"_redirects: {src} -> {dst} does not exist")
+    elif path.split("#")[0] in sources:
+        errors.append(f"_redirects: {src} -> {dst} is a chain")
 
 # sitemap covers every indexable page
 sm = open(os.path.join(DIST, "sitemap.xml")).read()
 for rel in pages:
     url = rel.replace("index.html", "")
     if url in ("/404.html", "/thank-you/"): continue
-    if f"yosemitegatewaychalet.com{url}<" not in sm: errors.append(f"sitemap missing {url}")
+    if f"yosemitechalet.us{url}<" not in sm: errors.append(f"sitemap missing {url}")
 
 if errors:
     print("\n".join(errors))
