@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block main %}
+<header class="tg-hero" aria-labelledby="tg-h">
+  <div class="tg-hero-copy">
+    <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
+    <p class="eyebrow">{{ page.eyebrow }}</p>
+    <h1 id="tg-h">{{ page.title }}</h1>
+    <p class="tg-dek">{{ page.lead }}</p>
+  </div>
+  <figure class="tg-fig tg-fig-hero">
+    <div class="tg-legend" aria-hidden="true">
+      <span><i class="tg-key tg-old"></i>1980 to 2019</span>
+      <span><i class="tg-key tg-new"></i>2020 to 2026</span>
+      <span><i class="tg-key tg-line"></i>What the snow predicts</span>
+    </div>
+    <div class="tg-chart" data-tioga="scatter" role="img" aria-label="Scatter chart of April 1 snowpack against the date Tioga Road opened, 1980 to 2026. Opening dates rise steadily with snowpack. Most 2020s points sit above the line."></div>
+    <figcaption>Each dot is one spring. Across: snowpack on April 1 in the Tuolumne River drainage, as a percent of average. Up: the day Tioga Road opened. Hover or tap a dot for the year.</figcaption>
+  </figure>
+</header>
+
+<div class="tg-wrap">
+  <article class="tg-main">
+    <p class="byline">By Robert Foster, owner of the {{ P.name }}, 27 miles from the Tioga Pass entrance. Data checked {{ page.updated|longdate }}.</p>
+    <div class="prose">{{ body }}</div>
+    <p class="tg-share"><a class="btn btn-line" href="https://x.com/intent/tweet?text={{ page.tweet|urlencode }}&url={{ canonical|urlencode }}&via=yosemitechalet" rel="noopener" target="_blank">Share on X</a></p>
+    <aside class="stay-box" aria-label="Stay at the chalet">
+      <p class="eyebrow">Where to stay</p>
+      <p class="stay-h">Yosemite Gateway Chalet, June Lake</p>
+      <p>A 4,000 square foot log chalet rented as a whole home, 27 miles from the Tioga Pass entrance. Sleeps eight in three private suites, with an outdoor hydrotherapy tub under Carson Peak. When the road opens, we are among the closest whole homes to Tuolumne Meadows.</p>
+      <p class="btn-row"><a class="btn btn-solid" href="/inquire/#availability">Check availability</a><a class="btn btn-line" href="/guides/tioga-pass/">Tioga Pass guide</a></p>
+    </aside>
+    {% if page.sources %}
+    <section class="sources" aria-labelledby="src-h">
+      <h2 id="src-h">Sources and method</h2>
+      <p class="muted">{{ page.method }}</p>
+      <ul>{% for s in page.sources %}<li><a href="{{ s.url }}" rel="noopener" target="_blank">{{ s.title }}</a></li>{% endfor %}</ul>
+    </section>
+    {% endif %}
+  </article>
+</div>
+{% if related %}
+<section class="related" aria-labelledby="rel-h">
+  <h2 id="rel-h" class="rel-h">More guides</h2>
+  <ul class="rel-links">
+  {% for r in related %}
+    <li><a href="{{ r.url }}"><span class="rl-title">{{ r.nav_title or r.title }}</span>{% if r.card or r.description %}<span class="rl-desc">{{ r.card or (r.description|striptags)[:110] }}</span>{% endif %}</a></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+{{ tioga_data() }}
+<script src="/js/tioga.js?v={{ TG_V }}" defer></script>
+{% endblock %}

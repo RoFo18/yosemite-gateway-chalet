@@ -32,7 +32,7 @@ places:
     url: https://en.wikipedia.org/wiki/Tioga_Pass
 faq:
   - q: When does Tioga Pass open?
-    a: There is no fixed date. The National Park Service begins plowing Tioga Road around April 15, and clearing usually takes one to two months, so the road most often opens in late May or June. It opened on May 15 in 2026, and as late as July 1 in the record snow year of 2023. The park says opening dates cannot be predicted, even in late spring.
+    a: There is no fixed date. The National Park Service begins plowing Tioga Road around April 15, and clearing usually takes one to two months, so the road most often opens in late May or June. It opened on May 15 in 2026, and as late as July 22 in the record snow year of 2023. The park says opening dates cannot be predicted, even in late spring.
   - q: When does Tioga Pass close for the winter?
     a: Tioga Road closes for the season when significant snow arrives, usually sometime in November, and sometimes as early as late October. It can also close for a few days at a time after an early storm.
   - q: Do I need a reservation to enter Yosemite through Tioga Pass?
@@ -65,11 +65,11 @@ In practice the road most often opens in late May or June. A few recent referenc
 
 | Year | Tioga Road opened | What happened |
 |---|---|---|
-| 2014 | May 2 | Light snow year; the earliest opening since 1987 |
-| 2023 | July 1 | Record snowpack after a historic winter |
+| 2014 | May 2 | Light snow year; the earliest opening since 1988 |
+| 2023 | July 22 | Record snowpack, 244% of average, and storm damage |
 | 2026 | May 15 | An early opening |
 
-The National Park Service publishes the full year-by-year record of opening and closing dates, with the April 1 snowpack for each year, on its historical dates page. Check it, and the current conditions page, before you plan around the pass.
+For every year since 1980 charted against the snowpack, and an estimator for this spring, see our analysis, [when does Tioga Pass open](/guides/tioga-pass-opening-dates/). The National Park Service publishes the full year-by-year record of opening and closing dates, with the April 1 snowpack for each year, on its historical dates page. Check it, and the current conditions page, before you plan around the pass.
 
 ## When it closes
 

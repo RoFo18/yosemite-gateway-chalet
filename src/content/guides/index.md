@@ -16,3 +16,5 @@ updated: 2026-10-27
 {% for u in ["/guides/tioga-pass/", "/guides/tuolumne-meadows/", "/yosemite-national-park-lodging/", "/guides/june-lake/", "/guides/june-lake-fall-colors/", "/guides/yosemite-east-side-in-winter/"] %}{% set g = pages[u] %}<a class="gfeat" href="{{ u }}"><span class="gf-img">{{ picture(g.hero, g.hero_alt or "", "(min-width: 900px) 60vw, 100vw") }}</span><span class="gf-text"><span class="gf-title">{{ g.nav_title or g.title }}</span><span class="gf-desc">{{ g.card }}</span><span class="gf-more">Read the guide</span></span></a>
 {% endfor %}
 </div>
+
+<a class="tg-promo" href="/guides/tioga-pass-opening-dates/"><img src="/og/tioga-pass-snow-analysis.jpg" alt="Chart of Tioga Road opening dates against April 1 snowpack, 1980 to 2026" width="1200" height="630" loading="lazy"><span class="gf-text"><span class="gf-title">When does Tioga Pass open?</span><span class="gf-desc">47 springs of park data, charted. Snow explains most of it. The 2020s don't add up.</span><span class="gf-more">See the analysis</span></span></a>

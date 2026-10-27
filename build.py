@@ -44,7 +44,7 @@ FOOTER = [
                 ("Lodging near Yosemite's east entrance", "/yosemite-national-park-lodging/"),
                 ("June Lake lodging", "/june-lake-lodging/"), ("June Lake cabin rentals", "/june-lake-cabin-rentals/"),
                 ("Group lodging near Yosemite", "/yosemite-group-lodging/"), ("Tuolumne Meadows lodging", "/tuolumne-meadows-lodging/"),
-                ("June Mountain lodging", "/june-mountain-lodging/")]),
+                ("June Mountain lodging", "/june-mountain-lodging/"), ("When Tioga Pass opens", "/guides/tioga-pass-opening-dates/")]),
     ("Plan", [("Getting here", "/location/"), ("Experiences", "/experiences/"), ("FAQ", "/faq/"),
               ("Journal", "/journal/"), ("Privacy", "/privacy/")]),
 ]
@@ -194,6 +194,21 @@ def review_scores():
         '</dl>')
 
 
+def tioga_data():
+    """Tioga Road opening dates and April 1 snowpack (NPS), embedded for the analysis charts."""
+    import csv
+    rows = list(csv.DictReader(open(os.path.join(SRC, "data", "tioga.csv"), encoding="utf-8")))
+    data = [{"y": int(r["year"]), "open": r["open"], "close": r["close"] or None,
+             "snow": int(r["snowpack"]) if r["snowpack"] else None, "note": r["note"] or None} for r in rows]
+    return Markup(f'<script type="application/json" id="tioga-data">{json.dumps(data)}</script>')
+
+
+def tioga(kind, label=""):
+    """Placeholder the analysis script draws into: residuals, predictor, eras or table."""
+    return Markup(f'<div class="tg-block tg-{kind}" data-tioga="{kind}" role="img" aria-label="{html.escape(label, quote=True)}"></div>'
+                  if label else f'<div class="tg-block tg-{kind}" data-tioga="{kind}"></div>')
+
+
 def note(text):
     return Markup(f'<aside class="note"><p>{text}</p></aside>')
 
@@ -302,8 +317,10 @@ def article_ld(meta, url):
          "description": meta["description"], "mainEntityOfPage": SITE + url,
          "datePublished": str(meta.get("published", BUILD_DATE)), "dateModified": str(meta.get("updated", BUILD_DATE)),
          "author": ({"@type": "Person", "name": "Robert Foster", "worksFor": {"@id": SITE + "/#chalet"}}
-                    if meta.get("template") == "guide" else {"@type": "Organization", "name": P["name"], "url": SITE + "/"}),
+                    if meta.get("template") in ("guide", "analysis") else {"@type": "Organization", "name": P["name"], "url": SITE + "/"}),
          "publisher": {"@id": SITE + "/#chalet"}}
+    if meta.get("og") and not meta.get("hero"):
+        d["image"] = f"{SITE}/og/{meta['og']}.jpg"
     if meta.get("hero"):
         n = meta["hero"]
         d["image"] = f"{SITE}/img/{n}-{IMAGES[n]['widths'][-1]}.webp"
@@ -330,13 +347,13 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, distance_table=distance_table, note=note, film=film,
                    facts=facts, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):
         return hashlib.md5(open(os.path.join(ROOT, "public", rel), "rb").read()).hexdigest()[:10]
     env.globals.update(helpers, NAV=NAV, FOOTER=FOOTER, SITE=SITE, year=dt.date.today().year,
-                       CSS_V=asset_v("css/site.css"), JS_V=asset_v("js/site.js"))
+                       CSS_V=asset_v("css/site.css"), JS_V=asset_v("js/site.js"), TG_V=asset_v("js/tioga.js"))
     env.filters["md"] = lambda s: Markup(markdown.markdown(str(s), extensions=["smarty"]))
     env.filters["longdate"] = lambda d: (d.strftime("%B %-d, %Y") if hasattr(d, "strftime") else str(d))
 
@@ -362,7 +379,7 @@ def main():
             ld.insert(0, business_ld())
         if c.get("faq"):
             ld.append(faq_ld(c["faq"]))
-        if c.get("template") in ("guide", "post"):
+        if c.get("template") in ("guide", "post", "analysis"):
             ld.append(article_ld(c, url))
         for pl in c.get("places", []) or []:
             ld.append(place_ld(pl))
@@ -381,7 +398,7 @@ def main():
         open(path, "w", encoding="utf-8").write(out)
         if not c.get("noindex"):
             sitemap.append((url, str(c.get("updated", c.get("published", BUILD_DATE)))))
-        if c.get("template") == "guide":
+        if c.get("template") in ("guide", "analysis"):
             text = re.sub(r"<[^>]+>", "", str(body))
             text = re.sub(r"\n{3,}", "\n\n", html.unescape(text)).strip()
             llms_full.append(f"# {c['title']}\n\nURL: {SITE}{url}\nLast checked: {c.get('updated')}\n\n{c.get('lead','')}\n\n{text}\n")
