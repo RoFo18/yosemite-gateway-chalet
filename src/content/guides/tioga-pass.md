@@ -31,7 +31,7 @@ places:
     url: https://en.wikipedia.org/wiki/Tioga_Pass
 faq:
   - q: When does Tioga Pass open?
-    a: There is no fixed date. The National Park Service begins plowing Tioga Road around April 15, and clearing usually takes one to two months, so the road most often opens in late May or June. It opened on May 15 in 2026, and as late as July 22 in the record snow year of 2023. The park says opening dates cannot be predicted, even in late spring.
+    a: 'There is no fixed date. The National Park Service begins plowing Tioga Road around April 15, and clearing usually takes one to two months, so the road most often opens in late May or June. It has opened as early as April 29 and as late as July 22, in the record snow year of 2023. Our analysis, [when does Tioga Pass open](/guides/tioga-pass-opening-dates/), charts every opening since 1980 against the snowpack, with an estimator for this spring.'
   - q: When does Tioga Pass close for the winter?
     a: Tioga Road closes for the season when significant snow arrives, usually sometime in November, and sometimes as early as late October. It can also close for a few days at a time after an early storm.
   - q: Do I need a reservation to enter Yosemite through Tioga Pass?

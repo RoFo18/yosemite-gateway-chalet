@@ -59,7 +59,7 @@ It is also, for anyone coming from the east, the near side of Yosemite. From Jun
 
 ## When to go
 
-Tuolumne is open only while Tioga Road is open, usually from late May or June until about November. Early summer brings snowmelt, full rivers and mosquitoes. July and August bring wildflowers, warm days and afternoon thunderstorms. September and early October are quieter, cooler and often the most beautiful, until the first storm closes the road. See our [Tioga Pass guide](/guides/tioga-pass/) for how the opening works.
+Tuolumne is open only while Tioga Road is open, usually from late May or June until about November. To guess this year's date, see [when Tioga Pass opens](/guides/tioga-pass-opening-dates/). Early summer brings snowmelt, full rivers and mosquitoes. July and August bring wildflowers, warm days and afternoon thunderstorms. September and early October are quieter, cooler and often the most beautiful, until the first storm closes the road. See our [Tioga Pass guide](/guides/tioga-pass/) for how the opening works.
 
 ## The best day hikes
 

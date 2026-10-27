@@ -66,7 +66,7 @@ If seeing the Valley in snow is the goal, plan that as its own trip from the wes
 
 ## Spring: the shoulder season
 
-From April to the Tioga opening, the east side is in between. Lower trails melt out, fishing season opens, Mammoth may still be skiing, and the high country waits. Some of the best backcountry skiing of the year comes in the weeks right after Tioga Road opens.
+From April to the [Tioga opening](/guides/tioga-pass-opening-dates/), the east side is in between. Lower trails melt out, fishing season opens, Mammoth may still be skiing, and the high country waits. Some of the best backcountry skiing of the year comes in the weeks right after Tioga Road opens.
 
 ## Driving the Eastern Sierra in winter
 

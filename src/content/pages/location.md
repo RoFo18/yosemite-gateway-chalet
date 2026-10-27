@@ -29,4 +29,4 @@ The nearest airport is Mammoth Yosemite (MMH), about 25 minutes away, with seaso
 
 {{ facts([("Los Angeles", "About 5 hours"), ("Bay Area", "Under 6 hours in summer"), ("Reno", "About 3 hours"), ("Las Vegas", "About 5.5 hours"), ("San Diego", "About 6.5 hours"), ("Yosemite, Tioga Pass entrance", "27 miles, about 40 minutes"), ("Mammoth Lakes", "30 minutes"), ("June Mountain", "1 mile")]) }}
 
-{{ note("Tioga Road through Yosemite closes in winter, usually from about November to late May or June. Check <a href=\"https://www.nps.gov/yose/planyourvisit/conditions.htm\" rel=\"noopener\" target=\"_blank\">Yosemite conditions</a> and <a href=\"https://quickmap.dot.ca.gov/\" rel=\"noopener\" target=\"_blank\">Caltrans QuickMap</a> before you drive.") }}
+{{ note("Tioga Road through Yosemite closes in winter, usually from about November to <a href=\"/guides/tioga-pass-opening-dates/\">late May or June</a>. Check <a href=\"https://www.nps.gov/yose/planyourvisit/conditions.htm\" rel=\"noopener\" target=\"_blank\">Yosemite conditions</a> and <a href=\"https://quickmap.dot.ca.gov/\" rel=\"noopener\" target=\"_blank\">Caltrans QuickMap</a> before you drive.") }}

@@ -55,7 +55,7 @@ For a group that wants to be together under one roof, a whole home is the way to
 
 **Winter, December to April.** June Mountain is a mile from the chalet and Mammoth Mountain is thirty minutes south. Tioga Road is closed, so Yosemite's east side is quiet and snowbound. Book the holidays early.
 
-**Spring.** Corn snow, the trout opener in late April, and the first long days. Tioga Road usually opens in late May or June, and the high country comes back.
+**Spring.** Corn snow, the trout opener in late April, and the first long days. Tioga Road [usually opens in late May or June](/guides/tioga-pass-opening-dates/), and the high country comes back.
 
 **Summer.** The busiest season. Lake days on Gull, June, Silver and Grant Lakes, hikes from the door, and day trips over Tioga Pass to Tuolumne Meadows.
 

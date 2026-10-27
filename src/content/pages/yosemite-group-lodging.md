@@ -54,7 +54,7 @@ Groups eat in. The remodeled kitchen has a six-burner stove, a double oven and a
 
 ## Planning a group trip to Yosemite from June Lake
 
-From late May or June until about November, Tioga Road crosses the Sierra and the east entrance opens. A group can be at the Tioga Pass entrance in about 40 minutes and in Tuolumne Meadows in 45. Leave early: parking at popular trailheads often fills by mid-morning in summer. Yosemite Valley is two to two and a half hours away, a long but rewarding day.
+From [late May or June](/guides/tioga-pass-opening-dates/) until about November, Tioga Road crosses the Sierra and the east entrance opens. A group can be at the Tioga Pass entrance in about 40 minutes and in Tuolumne Meadows in 45. Leave early: parking at popular trailheads often fills by mid-morning in summer. Yosemite Valley is two to two and a half hours away, a long but rewarding day.
 
 Our [Tuolumne Meadows guide](/guides/tuolumne-meadows/) and [Tioga Pass guide](/guides/tioga-pass/) cover the hikes, and [lodging near Yosemite's east entrance](/yosemite-national-park-lodging/) compares June Lake with Lee Vining and Mammoth Lakes.
 

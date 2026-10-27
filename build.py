@@ -37,17 +37,18 @@ NAV = [
 FOOTER = [
     ("Stay", [("The Chalet", "/the-chalet/"), ("Suites", "/the-chalet/#suites"), ("Floorplan", "/the-chalet/floorplan/"),
               ("Gallery", "/gallery/"), ("Guest reviews", "/reviews/"), ("Rates and policies", "/rates-and-policies/"), ("Inquire", "/inquire/")]),
-    ("Things to do", [("Skiing June Mountain", "/experiences/winter/"), ("Lakes and paddleboarding", "/experiences/summer/"),
+    ("Things to do", [("Skiing June Mountain", "/experiences/winter/"), ("Fly fishing, and where to fish today", "/fly-fishing/"),
+                      ("Lakes and paddleboarding", "/experiences/summer/"),
                       ("Hiking and horseback riding", "/experiences/hiking/"), ("Mono Lake and hidden places", "/experiences/sightseeing/"),
-                      ("Fly fishing", "/fly-fishing/"), ("Hot springs and the spa", "/experiences/spa-and-hot-springs/"),
+                      ("Hot springs and the spa", "/experiences/spa-and-hot-springs/"),
                       ("Where to eat", "/experiences/dining/")]),
-    ("Plan your trip", [("Tioga Pass", "/guides/tioga-pass/"), ("Tuolumne Meadows", "/guides/tuolumne-meadows/"),
+    ("Plan your trip", [("Tioga Pass", "/guides/tioga-pass/"), ("When Tioga Pass opens", "/guides/tioga-pass-opening-dates/"), ("Tuolumne Meadows", "/guides/tuolumne-meadows/"),
                 ("June Lake", "/guides/june-lake/"), ("June Lake Loop fall colors", "/guides/june-lake-fall-colors/"),
                 ("Yosemite's east side in winter", "/guides/yosemite-east-side-in-winter/"),
                 ("Lodging near Yosemite's east entrance", "/yosemite-national-park-lodging/"),
                 ("June Lake lodging", "/june-lake-lodging/"), ("June Lake cabin rentals", "/june-lake-cabin-rentals/"),
                 ("Group lodging near Yosemite", "/yosemite-group-lodging/"), ("Tuolumne Meadows lodging", "/tuolumne-meadows-lodging/"),
-                ("June Mountain lodging", "/june-mountain-lodging/"), ("When Tioga Pass opens", "/guides/tioga-pass-opening-dates/")]),
+                ("June Mountain lodging", "/june-mountain-lodging/")]),
     ("More", [("Getting here", "/location/"), ("FAQ", "/faq/"), ("Local favorites", "/local-favorites/"), ("Journal", "/journal/"), ("Privacy", "/privacy/")]),
 ]
 
@@ -333,6 +334,16 @@ def note(text):
     return Markup(f'<aside class="note"><p>{text}</p></aside>')
 
 
+def trail_card(title, pairs, img=None, alt="", cap=None, kicker="Trail notes"):
+    """A boxed set of trail notes, with an optional photo, the way the Parker Lake card looks."""
+    pic = picture(img, alt, "(min-width: 1200px) 780px, (min-width: 760px) 66vw, 100vw") if img else ""
+    rows = "".join(f"<div><dt>{html.escape(k)}</dt><dd>{html.escape(v)}</dd></div>" for k, v in pairs)
+    capp = f'<p class="tc-cap">{cap}</p>' if cap else ""
+    cls = "trail-card" + ("" if img else " no-img")
+    return Markup(f'<aside class="{cls}">{pic}<div class="tc-body"><p class="tc-kicker">{html.escape(kicker)}</p>'
+                  f'<p class="tc-title">{html.escape(title)}</p><dl>{rows}</dl>{capp}</div></aside>')
+
+
 def facts(pairs):
     lis = "".join(f"<div><dt>{k}</dt><dd>{v}</dd></div>" for k, v in pairs)
     return Markup(f'<dl class="facts">{lis}</dl>')
@@ -471,7 +482,7 @@ def main():
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
     helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, ff_calendar=ff_calendar, ff_drive=ff_drive, ff_facts=ff_facts, ff_tool=ff_tool, guide_says=guide_says, locals_list=locals_list, distance_table=distance_table, note=note, film=film,
-                   facts=facts, P=P, IMAGES=IMAGES)
+                   facts=facts, trail_card=trail_card, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):
         return hashlib.md5(open(os.path.join(ROOT, "public", rel), "rb").read()).hexdigest()[:10]

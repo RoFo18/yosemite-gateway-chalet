@@ -35,11 +35,11 @@ faq:
 - q: Do you rent individual rooms?
   a: No. Guests book the entire 4,000 square foot chalet.
 - q: How far is the chalet from Yosemite?
-  a: 27 highway miles to Yosemite's Tioga Pass entrance, about 40 minutes, and about 45 minutes to Tuolumne Meadows. Yosemite Valley is about 2 to 2.5 hours away by Tioga Road. Tioga Road is open seasonally, usually from late May or June to about November.
+  a: 27 highway miles to Yosemite's Tioga Pass entrance, about 40 minutes, and about 45 minutes to Tuolumne Meadows. Yosemite Valley is about 2 to 2.5 hours away by Tioga Road. Tioga Road is open seasonally, usually from late May or June to about November; see [when Tioga Pass opens](/guides/tioga-pass-opening-dates/) for the full record.
 - q: Can I really ski from the top of June Mountain to the hot tub?
   a: Yes, with a local guide service. June Mountain is known for some of the best lift-assisted backcountry skiing in North America, and a guided run can end at the chalet's hydrotherapy tub.
 - q: Can I hike from the back door into Yosemite?
-  a: "Yes, but only if you are in real shape and know what you are doing: long miles, high passes, no cell service and fast-changing weather. Our advice is to do it in reverse. Ride the YARTS bus up to Tuolumne Meadows in summer and hike back to June Lake. You get more downhill, and there are several routes, from Mono Pass down Bloody Canyon to the longer Rush Creek route past Gem and Agnew lakes to Silver Lake. Arrange your pickup or car shuttle before you go."
+  a: "Yes, but only if you are in real shape and know what you are doing: long miles, high passes, no cell service and fast-changing weather. Our advice is to do it in reverse. Ride the YARTS bus up to Tuolumne Meadows in summer and hike back to June Lake. You get more downhill, and there are several routes, from Mono Pass down Bloody Canyon, to the high route over Koip Peak Pass past the Alger Lakes and down to Gem Lake, Agnew Lake and Silver Lake. Arrange your pickup or car shuttle before you go."
 - q: How much does the chalet cost per night?
   a: "From $295 a night on quiet midweek dates to $995 at the Christmas peak, for up to six guests. Book direct through our availability calendar, or see live prices on VRBO and Airbnb."
 - q: Are there taxes or additional charges?

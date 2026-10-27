@@ -15,7 +15,7 @@ related: [/guides/tioga-pass/, /guides/tuolumne-meadows/, /experiences/summer/]
 ---
 ## Yosemite National Park
 
-The park boundary is 5.75 miles from the chalet as the crow flies and 27 highway miles to the Tioga Pass entrance. Tuolumne Meadows is about forty-five minutes away, and Yosemite Valley, home of Half Dome and El Capitan, about two to two and a half hours when Tioga Road is open. Start with our guides to [Tioga Pass](/guides/tioga-pass/) and [Tuolumne Meadows](/guides/tuolumne-meadows/).
+The park boundary is 5.75 miles from the chalet as the crow flies and 27 highway miles to the Tioga Pass entrance. Tuolumne Meadows is about forty-five minutes away, and Yosemite Valley, home of Half Dome and El Capitan, about two to two and a half hours when Tioga Road is open. Start with our guides to [Tioga Pass](/guides/tioga-pass/) and [Tuolumne Meadows](/guides/tuolumne-meadows/), and our analysis of [when the road actually opens](/guides/tioga-pass-opening-dates/).
 
 ## Mono Lake
 
@@ -66,9 +66,9 @@ Here is the thing nobody tells you about the Eastern Sierra: the mountains are t
 So set an alarm. Watch from the hot tub at dusk. Pick the hike that puts the sun behind you. The place rewards anybody who pays attention to when, not just where.
 
 <div class="light-trio">
-<figure class="lt-a">{{ picture("light-through-the-canyon", "Late sunlight falling in hazy shafts through a forested canyon, with a granite knob lit in the distance", "(min-width: 900px) 33vw, 100vw") }}</figure>
-<figure>{{ picture("eastern-sierra-morning-water", "A clear mountain stream spilling over dark boulders at the foot of a granite wall and tall firs, in blue morning light", "(min-width: 900px) 33vw, 50vw") }}</figure>
-<figure>{{ picture("june-lake-loop-evening-clouds", "Golden clouds streaming across a teal evening sky above a dark mountain silhouette on the June Lake Loop", "(min-width: 900px) 33vw, 50vw") }}</figure>
+<figure class="lt-a">{{ picture("light-through-the-canyon", "Late sunlight falling in hazy shafts through a forested canyon, with a granite knob lit in the distance", "(min-width: 760px) 33vw, 100vw") }}</figure>
+<figure>{{ picture("eastern-sierra-morning-water", "A clear mountain stream spilling over dark boulders at the foot of a granite wall and tall firs, in blue morning light", "(min-width: 760px) 33vw, 100vw") }}</figure>
+<figure>{{ picture("june-lake-loop-evening-clouds", "Golden clouds streaming across a teal evening sky above a dark mountain silhouette on the June Lake Loop", "(min-width: 760px) 33vw, 100vw") }}</figure>
 <figcaption>Late light in the canyon, a blue morning on the water, and the evening sky over the loop.</figcaption>
 </div>
 

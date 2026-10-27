@@ -33,7 +33,7 @@ faq:
   - q: Where is June Lake?
     a: In Mono County on the eastern side of the Sierra Nevada, just off US 395 about 20 miles north of Mammoth Lakes and a few miles south of Lee Vining. The June Lake Loop, Highway 158, leaves 395 at two junctions and runs past all four lakes.
   - q: How far is June Lake from Yosemite?
-    a: About 27 miles to Yosemite's Tioga Pass entrance, roughly 40 minutes, and about 45 minutes to Tuolumne Meadows. The route over Tioga Pass is open only seasonally, usually late May or June to about November.
+    a: About 27 miles to Yosemite's Tioga Pass entrance, roughly 40 minutes, and about 45 minutes to Tuolumne Meadows. The route over Tioga Pass is open only seasonally, usually late May or June to about November. Our [Tioga opening analysis](/guides/tioga-pass-opening-dates/) has every date since 1980.
   - q: Is June Lake worth visiting in winter?
     a: Yes, for skiing and snow. June Mountain is right on the loop, Mammoth Mountain is about 30 minutes away, and the village is quiet and snowy. Tioga Road into Yosemite is closed in winter.
   - q: What are the four lakes on the June Lake Loop?
@@ -66,7 +66,7 @@ June Mountain is a small, friendly ski area right on the loop, with about 2,580 
 
 **Winter** brings deep snow, skiing at June Mountain and Mammoth, snowshoeing and ice climbing. The village is quiet and Tioga Road is closed.
 
-**Spring** is snowmelt season. The fishing opener draws anglers from across California, and when Tioga Road opens the high country of Yosemite returns.
+**Spring** is snowmelt season. The fishing opener draws anglers from across California, and when [Tioga Road opens](/guides/tioga-pass-opening-dates/) the high country of Yosemite returns.
 
 **Summer** is for hiking, paddling, fishing, climbing and day trips over Tioga Pass to Tuolumne Meadows. Afternoons can bring thunderstorms.
 

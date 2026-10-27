@@ -921,14 +921,13 @@ i.ffc{display:inline-block;width:14px;height:14px;vertical-align:-2px;margin-rig
 p:has(> .link-arrow + .link-arrow){display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;align-items:center}
 p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 
-/* three-photo light study */
-.light-trio{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:var(--s-6,2.5rem) 0}
+/* three-photo light study: a gallery, given room */
+.light-trio{display:grid;grid-template-columns:1fr;gap:clamp(10px,1.4vw,18px);margin:clamp(2.4rem,5vw,4rem) 0}
 .light-trio figure{margin:0;min-width:0}
-.light-trio .lt-a{grid-column:1/-1}
-.light-trio img{width:100%;height:100%;object-fit:cover;aspect-ratio:3/4;display:block}
-.light-trio .lt-a img{aspect-ratio:4/3}
-.light-trio figcaption{grid-column:1/-1;font-size:.86rem;color:var(--ink-3)}
-@media (min-width:760px){.light-trio{grid-template-columns:repeat(3,1fr)}.light-trio .lt-a{grid-column:auto}.light-trio .lt-a img{aspect-ratio:3/4}}
+.light-trio img{width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;display:block}
+.light-trio figcaption{grid-column:1/-1;font-size:.86rem;color:var(--ink-3);margin-top:.2rem}
+@media (min-width:760px){.light-trio{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (min-width:1100px){.page-body:not(.wide) .light-trio{width:min(100vw - 2 * var(--gutter),1320px);margin-left:calc((min(100vw,900px) - min(100vw - 2 * var(--gutter),1320px)) / 2 - var(--gutter))}}
 .band-light .band-quote{max-width:34ch}
 .band-light::after{background:linear-gradient(180deg,rgba(10,12,10,0) 25%,rgba(10,12,10,.78) 100%)}
 .band-quote{margin:.6rem 0 1rem;font:italic 500 clamp(1.35rem,2.6vw,2.1rem)/1.3 var(--f-display);text-wrap:balance}
@@ -942,3 +941,15 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .prose .plan-links.pl-notes a{padding:.75rem 0 .2rem}
 .plan-links.pl-notes p{margin:0;max-width:56ch;font-size:.95rem;line-height:1.5;color:var(--ink-2)}
 .prose .plan-links.pl-notes{padding-left:0;margin-left:0}
+.trail-card.no-img{grid-template-columns:1fr;max-width:34rem}
+.page-body:not(.wide) .trail-card.no-img{width:auto;margin-left:0}
+
+/* home: fly fishing tool callout */
+.ff-band{background:var(--night);color:var(--on-dark)}
+.ff-band-in{max-width:var(--max);margin:0 auto;padding-block:clamp(3rem,7vw,5.5rem);padding-left:var(--gutter);padding-right:var(--gutter);display:grid;gap:1rem;justify-items:start}
+.ff-band .eyebrow{color:var(--bronze-lt);margin:0}
+.ff-band h2{font:500 clamp(2rem,4vw,3.2rem)/1.08 var(--f-display);margin:0;color:var(--on-dark)}
+.ff-band p{max-width:58ch;margin:0;color:var(--on-dark);opacity:.88}
+.ff-band .ff-band-quote{font:italic 500 clamp(1.3rem,2.4vw,1.8rem)/1.2 var(--f-display);color:var(--bronze-lt);opacity:1}
+.ff-band .btn{margin-top:.6rem}
+.ff-band .btn-solid{background:var(--on-dark);color:var(--night);border-color:var(--on-dark)}

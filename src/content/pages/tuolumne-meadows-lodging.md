@@ -18,7 +18,7 @@ faq:
   - q: How far is June Lake from Tuolumne Meadows?
     a: About 45 minutes by car over Tioga Pass, when Tioga Road is open. The Tioga Pass entrance is 27 miles from the chalet.
   - q: When can you drive to Tuolumne Meadows?
-    a: Only while Tioga Road is open, usually from late May or June until about November. Opening depends on the winter's snow. Check the National Park Service before you go.
+    a: Only while Tioga Road is open, usually from late May or June until about November. Opening depends on the winter's snow; our [Tioga opening analysis](/guides/tioga-pass-opening-dates/) shows how much. Check the National Park Service before you go.
   - q: Is Lee Vining closer than June Lake?
     a: Yes. Lee Vining is about 12 miles from the entrance and has motels near the junction of Highways 120 and 395. June Lake is about 15 minutes farther and offers lakes, trails and whole-home lodging.
 ---

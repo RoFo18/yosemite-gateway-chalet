@@ -43,7 +43,7 @@ sources:
 
 Yosemite Valley gets the crowds. The east side, where Highway 120 climbs from the Mono Basin over Tioga Pass to Tuolumne Meadows, is the quieter, higher half of the park. There are no large hotels up here. Lodging inside the park along Tioga Road is limited and seasonal, so most people stay outside the park on US 395 and drive in.
 
-One thing shapes every plan: Tioga Road is open only part of the year, usually from late May or June until the first big snow around November. Outside those months, there is no entrance to Yosemite from the east. See our [Tioga Pass guide](/guides/tioga-pass/).
+One thing shapes every plan: Tioga Road is open only part of the year, usually from late May or June until the first big snow around November. Outside those months, there is no entrance to Yosemite from the east. See our [Tioga Pass guide](/guides/tioga-pass/), and our [analysis of every opening since 1980](/guides/tioga-pass-opening-dates/).
 
 ## Comparing the three towns
 
@@ -85,6 +85,6 @@ Families and groups traveling together often want one house rather than several 
 
 ## Before you book
 
-- **Season:** for Yosemite access, book between late spring and fall, and watch the Tioga opening each year.
+- **Season:** for Yosemite access, book between late spring and fall, and watch the [Tioga opening](/guides/tioga-pass-opening-dates/) each year.
 - **Park entry:** an entrance fee applies, and the park has required reservations in some recent years. Check the National Park Service for your dates.
 - **Winter:** if your trip falls between November and spring, plan around skiing and snow on the east side rather than the park. See [Yosemite's east side in winter](/guides/yosemite-east-side-in-winter/).

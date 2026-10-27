@@ -80,7 +80,7 @@ No two years are the same. A dry summer, an early cold snap or a windstorm can m
 
 ## Fall at the chalet
 
-Fall is a quiet, beautiful time to stay. The summer crowds are gone, the fire is lit in the evenings, and the hydrotherapy tub is at its best on a cold, clear night. Keep an eye on the weather if you plan to cross Tioga Pass, since the first storm of the season can close the road. See our [Tioga Pass guide](/guides/tioga-pass/).
+Fall is a quiet, beautiful time to stay. The summer crowds are gone, the fire is lit in the evenings, and the hydrotherapy tub is at its best on a cold, clear night. Keep an eye on the weather if you plan to cross Tioga Pass, since the first storm of the season can close the road. See our [Tioga Pass guide](/guides/tioga-pass/). If you can only come once, come in October. You will thank us, and then you will book next October.
 
 
-{{ figure("family-room-evening", "The family room and its wood stove on a fall evening at the chalet", None, "wide") }}
+{{ figure("silver-lake-fall-morning-boats", "Three anglers in a boat on misty Silver Lake on a fall morning, with a row of snow-dusted rental boats on the shore, gold aspens and fresh snow on Carson Peak", "Silver Lake, five minutes from the chalet, the morning after the first fall snow. Steam on the water, gold on the aspens, and three guys who did not sleep in.", "wide") }}

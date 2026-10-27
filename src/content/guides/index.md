@@ -33,7 +33,7 @@ updated: 2026-10-27
 {% set g = pages["/yosemite-group-lodging/"] %}<li><a href="/yosemite-group-lodging/">{{ g.nav_title or g.title }}</a><p>Three suites, one long table, and a fire everybody fits around. Built for families and old friends.</p></li>
 {% set g = pages["/june-lake-cabin-rentals/"] %}<li><a href="/june-lake-cabin-rentals/">{{ g.nav_title or g.title }}</a><p>What to look for in a June Lake cabin, and the questions the listings hope you skip.</p></li>
 </ul></div></section>
-<section class="plan-group"><div class="pg-body"><h2>Before you book</h2><ul class="plan-links pl-notes">
+<section class="plan-group has-img"><div class="pg-img">{{ picture("horse-drive-riders", "Wranglers on horseback riding abreast through the dust on the fall horse drive from June Lake, in black and white", "(min-width: 900px) 34vw, 100vw") }}</div><div class="pg-body"><h2>Before you book</h2><ul class="plan-links pl-notes">
 {% set g = pages["/rates-and-policies/"] %}<li><a href="/rates-and-policies/">{{ g.nav_title or g.title }}</a><p>What it costs, every fee in writing, and why booking direct keeps more money in your pocket.</p></li>
 {% set g = pages["/faq/"] %}<li><a href="/faq/">{{ g.nav_title or g.title }}</a><p>Beds, stairs, snow, pets and weddings. Asked a thousand times, answered plainly.</p></li>
 {% set g = pages["/reviews/"] %}<li><a href="/reviews/">{{ g.nav_title or g.title }}</a><p>What our guests say. We did not write these, though we wish we wrote that well.</p></li>
