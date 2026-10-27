@@ -60,11 +60,13 @@ export default async () => {
   );
   const ok = results.filter((r) => r.status === "fulfilled");
   if (!ok.length) {
-    return Response.json({ error: "calendars unavailable" }, { status: 503, headers: { "cache-control": "no-store" } });
+    const why = FEEDS.length ? results.map((r) => String(r.reason && r.reason.message)) : ["no calendar feeds configured"];
+    return Response.json({ error: "calendars unavailable", why }, { status: 503, headers: { "cache-control": "no-store" } });
   }
   const booked = merge(ok.flatMap((r) => r.value)).filter(([, e]) => e > today);
+  const failed = results.flatMap((r, i) => (r.status === "rejected" ? [FEEDS[i][0]] : []));
   return Response.json(
-    { updated: new Date().toISOString(), complete: ok.length === FEEDS.length, booked },
+    { updated: new Date().toISOString(), complete: !failed.length, failed, booked },
     {
       headers: {
         "cache-control": "public, max-age=0, must-revalidate",
