@@ -743,6 +743,16 @@
    1800
   ]
  },
+ "june-lake-panorama": {
+  "color": "#454949",
+  "h": 251,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "june-mountain-chair-7-empty-runs": {
   "color": "#516894",
   "h": 481,
@@ -827,6 +837,26 @@
   "widths": [
    480,
    768
+  ]
+ },
+ "lundy-canyon-fall-aspens": {
+  "color": "#627893",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "lundy-canyon-waterfall-fall-color": {
+  "color": "#766b2d",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "master-suite-bed": {

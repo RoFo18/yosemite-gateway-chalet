@@ -23,6 +23,8 @@ For trout, see [fishing the June Lake Loop](/fly-fishing/).
 
 ## Lake days
 
+{{ figure("june-lake-panorama", "June Lake end to end: blue water ringed by Jeffrey pines and a sand beach, with Carson Peak and the June Lake Loop peaks under big summer clouds", "June Lake, the whole thing, with the beach on the near shore. Paddle the length of it before lunch and you have earned the afternoon.", "full") }}
+
 {{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", "A summer leap into Grant Lake.", "right") }}
 
 Four lakes sit on the loop, and each has its own kind of summer day. Gull Lake is the closest water to the chalet, with a marina and a rope swing that has launched generations of summers. June Lake has a sandy beach for a slow afternoon. Grant Lake, the largest, is open and wild at the north end of the loop, with granite ledges along the shore and cold, clear water.

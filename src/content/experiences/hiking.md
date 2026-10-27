@@ -1,20 +1,26 @@
 ---
 url: /experiences/hiking/
-title: Hiking and Horseback Riding from the Chalet
-nav_title: Hiking and horseback riding
-eyebrow: On foot and on horseback
+title: Horseback Riding and Hiking from the Chalet
+nav_title: Horseback riding and hiking
+eyebrow: On horseback and on foot
 kicker: Summer and fall
-seo_title: "Hiking Trails near June Lake, Tioga Pass and Yosemite's East Side"
-description: "Hiking and horseback riding from the chalet, with trail notes for each: Fern Lake, Yost Lake and Carson Peak from the back door, Crater Mountain, Glass Mountain, the Rush Creek trail from Silver Lake, Glass Creek Meadow, Parker Lake and Parker Bench, trail rides at the June Lake pack station, Lundy Canyon, Tioga Peak and more, with distances."
+seo_title: "Horseback Riding and Hiking near June Lake, Tioga Pass and Yosemite's East Side"
+description: "Horseback riding and hiking from the chalet: trail rides from the June Lake pack station, then trail notes for every hike: Fern Lake, Yost Lake and Carson Peak from the back door, Crater Mountain, Glass Mountain, the Rush Creek trail from Silver Lake, Glass Creek Meadow, Parker Lake and Parker Bench, trail rides at the June Lake pack station, Lundy Canyon, Tioga Peak and more, with distances."
 topic: hiking near June Lake
 hero: sierra-ridge-spires
 hero_focus: 50% 35%
 hero_alt: "A jagged granite ridge of spires and couloirs above long talus slopes under a deep blue sky"
-lead: The Ansel Adams Wilderness begins at the back door, the pack station is a few minutes down the road, and Yosemite's high country is forty-five minutes away.
+lead: The pack station is a few minutes down the road, the Ansel Adams Wilderness begins at the back door, and Yosemite's high country is forty-five minutes away.
 updated: 2026-10-27
 related: [/guides/tuolumne-meadows/, /guides/tioga-pass/, /fly-fishing/]
 ---
-Every hike on this page starts within half an hour of the chalet, and the best of them start at the back door. For trails inside Yosemite, see our [Tuolumne Meadows guide](/guides/tuolumne-meadows/), and before you plan on Tioga Road, read [when Tioga Pass actually opens](/guides/tioga-pass-opening-dates/).
+Start on a horse, then go on foot. Every ride and hike on this page starts within half an hour of the chalet, and the best of them start at the back door. For trails inside Yosemite, see our [Tuolumne Meadows guide](/guides/tuolumne-meadows/), and before you plan on Tioga Road, read [when Tioga Pass actually opens](/guides/tioga-pass-opening-dates/).
+
+## Horseback riding from the pack station
+
+Some of the best days our guests have here start a few minutes down the road at [Frontier Pack Train](https://www.monocounty.org/listing/frontier-pack-train/1103/), the June Lake Loop's own pack station near Silver Lake. Real wranglers, sure-footed horses matched to every rider from first-timer to expert, and trails that climb straight out of the canyon to views most visitors never see. In fall, they run a multi-day horse drive from June Lake to Bishop.
+
+{{ trail_card("Frontier Pack Train", [("Where", "Highway 158, near Silver Lake"), ("Rides", "One hour to several days"), ("Season", "Summer and early fall"), ("Book", "(760) 648-7701")], img="horseback-ride-above-june-lake", alt="A family on horseback on a ridge high above Silver Lake and the June Lake Loop", cap="Above Silver Lake. The horse does the climbing. You do the looking. It is the easiest way to get a whole family into the high country.", kicker="On horseback") }}
 
 ## Fern and Yost Lakes, from the chalet
 
@@ -66,12 +72,6 @@ About twenty minutes south of the chalet, off Highway 395 near Obsidian Dome, th
 
 {{ trail_card("Glass Creek Meadow", [("Trailhead", "About 8,200 ft"), ("To the meadow", "A couple of miles"), ("Best", "Early summer wildflowers"), ("Access", "Day use; high-clearance car")], img="glass-creek-meadow-corn-lilies", alt="Backlit corn lily leaves in the foreground of a wide meadow, with snowy San Joaquin peaks and pine forest beyond", cap="Corn lilies first, the crest behind. Few people know this one. Let us keep it that way.") }}
 
-## Horseback riding from the pack station
-
-Some of the best days our guests have here start a few minutes down the road at [Frontier Pack Train](https://www.monocounty.org/listing/frontier-pack-train/1103/), the June Lake Loop's own pack station near Silver Lake. Real wranglers, sure-footed horses matched to every rider from first-timer to expert, and trails that climb straight out of the canyon to views most visitors never see. In fall, they run a multi-day horse drive from June Lake to Bishop.
-
-{{ trail_card("Frontier Pack Train", [("Where", "Highway 158, near Silver Lake"), ("Rides", "One hour to several days"), ("Season", "Summer and early fall"), ("Book", "(760) 648-7701")], img="horseback-ride-above-june-lake", alt="A family on horseback on a ridge high above Silver Lake and the June Lake Loop", cap="Above Silver Lake. The horse does the climbing. You do the looking. It is the easiest way to get a whole family into the high country.", kicker="On horseback") }}
-
 {{ figure("mule-deer-buck", "A mule deer buck standing in sagebrush and manzanita at the edge of the forest", "A regular on the loop. Give him room; he was here first.") }}
 
 ## Crater Mountain, top of the Mono Craters
@@ -114,9 +114,9 @@ A rounded summit just outside Yosemite's Tioga Pass boundary, with arguably the 
 
 ## Lundy Canyon
 
-From Highway 395 north of Lee Vining, drive past Lundy Lake to the end of the dirt road beyond the beaver ponds. The trail climbs through aspen groves, wildflowers, cliffs and waterfalls.
+From Highway 395 north of Lee Vining, drive past Lundy Lake to the end of the dirt road beyond the beaver ponds. The trail climbs through aspen groves, wildflowers, cliffs and waterfalls, and in fall it is one of the best places for color in the whole Eastern Sierra. See our [fall colors guide](/guides/june-lake-fall-colors/).
 
-{{ trail_card("Lundy Canyon", [("Distance", "As far as you like"), ("Highlights", "Beaver ponds, waterfalls, aspen"), ("Best", "Late September and October")], cap="When the aspens turn, this is one of the finest walks in the Sierra, and the beavers will act like they did it themselves.") }}
+{{ trail_card("Lundy Canyon", [("Distance", "As far as you like"), ("Highlights", "Beaver ponds, waterfalls, aspen"), ("Best", "Late September and October")], img="lundy-canyon-fall-aspens", alt="Gold aspens filling the floor of Lundy Canyon below dark peaks and a clear blue October sky", cap="When the aspens turn, this is one of the finest walks in the Sierra, and the beavers will act like they did it themselves.") }}
 
 ## Tuolumne Grove of Giant Sequoias
 

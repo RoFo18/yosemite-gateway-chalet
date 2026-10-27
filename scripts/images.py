@@ -152,6 +152,9 @@ NAMES = {
     "new-glass-mountain-long-valley-view.jpg": "glass-mountain-long-valley-view",
     "new-crater-mountain-summit-view.jpg": "crater-mountain-summit-view",
     "new-crater-mountain-survey-marker.jpg": "crater-mountain-survey-marker",
+    "new-june-lake-panorama.jpg": "june-lake-panorama",
+    "new-lundy-canyon-fall-aspens.jpg": "lundy-canyon-fall-aspens",
+    "new-lundy-canyon-waterfall-fall-color.jpg": "lundy-canyon-waterfall-fall-color",
 }
 
 

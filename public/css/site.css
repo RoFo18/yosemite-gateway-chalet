@@ -233,7 +233,7 @@ p{margin:0}
 @media (min-width:900px){.page-body:not(.wide) .fig-portrait{width:min(100vw - 2 * var(--gutter),720px);max-width:none;margin-left:calc((min(100vw,900px) - min(100vw - 2 * var(--gutter),720px)) / 2 - var(--gutter))}}
 .fig-portrait img{max-height:92vh;object-fit:cover}
 .fig-portrait figcaption{text-align:center;margin-inline:auto}
-.fig-full{margin-inline:calc(50% - 50vw)}
+.fig-full{width:100vw;max-width:none;margin-left:calc((min(100vw,900px) - 100vw) / 2 - var(--gutter));margin-right:0}
 .fig-full figcaption{padding-inline:var(--gutter)}
 @media (max-width:760px){.fig-right,.fig-left{float:none;width:100%;margin:2rem 0}.fig-wide{margin-inline:0}}
 .note{border-top:1px solid var(--bronze);border-bottom:1px solid var(--rule);padding:1.1rem 0;margin:2.4rem 0;clear:both}

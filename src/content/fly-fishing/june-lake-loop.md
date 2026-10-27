@@ -66,6 +66,8 @@ Between Silver and Grant, Rush Creek runs through meadow and willow, with a mix 
 
 ## Through the season
 
+{{ figure("silver-lake-fall-morning-boats", "Three anglers in a boat on misty Silver Lake on a fall morning, with a row of snow-dusted rental boats on the shore and fresh snow on Carson Peak", "Silver Lake, five minutes from the chalet, the morning after an early snow. Steam on the water, browns on the move, and three guys who did not sleep in.") }}
+
 | Months | What works |
 |---|---|
 | Opener to June | Streamers at the drop-offs, chironomids off the edges, the inlets at first light |

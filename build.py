@@ -39,7 +39,7 @@ FOOTER = [
               ("Gallery", "/gallery/"), ("Guest reviews", "/reviews/"), ("Rates and policies", "/rates-and-policies/"), ("Inquire", "/inquire/")]),
     ("Things to do", [("Skiing June Mountain", "/experiences/winter/"), ("Fly fishing, and where to fish today", "/fly-fishing/"),
                       ("Lakes and paddleboarding", "/experiences/summer/"),
-                      ("Hiking and horseback riding", "/experiences/hiking/"), ("Mono Lake and hidden places", "/experiences/sightseeing/"),
+                      ("Horseback riding and hiking", "/experiences/hiking/"), ("Mono Lake and hidden places", "/experiences/sightseeing/"),
                       ("Hot springs and the spa", "/experiences/spa-and-hot-springs/"),
                       ("Where to eat", "/experiences/dining/")]),
     ("Plan your trip", [("Tioga Pass", "/guides/tioga-pass/"), ("When Tioga Pass opens", "/guides/tioga-pass-opening-dates/"), ("Tuolumne Meadows", "/guides/tuolumne-meadows/"),
