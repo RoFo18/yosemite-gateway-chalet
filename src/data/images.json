@@ -1,0 +1,679 @@
+{
+ "alpine-lake-below-sierra-peaks": {
+  "color": "#5c6965",
+  "h": 1350,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "bachar-boulders-climbing": {
+  "color": "#76624a",
+  "h": 2395,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "backcountry-skier-gaylor-peak": {
+  "color": "#5d645d",
+  "h": 2271,
+  "w": 1703,
+  "widths": [
+   480,
+   800,
+   1200,
+   1703
+  ]
+ },
+ "bodie-wagon-wheel": {
+  "color": "#656048",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "california-map-june-lake": {
+  "color": "#c6c3b0",
+  "h": 360,
+  "w": 360,
+  "widths": [
+   360
+  ]
+ },
+ "chalet-deck-and-forest": {
+  "color": "#5b4d28",
+  "h": 411,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "chalet-exterior-carson-peak": {
+  "color": "#554f2b",
+  "h": 851,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
+ "chalet-grounds-hammock-aspens": {
+  "color": "#5c5c40",
+  "h": 500,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "chalet-grounds-log-exterior": {
+  "color": "#5b4c28",
+  "h": 500,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "chalet-lawn-lodgepole-pines": {
+  "color": "#6e674e",
+  "h": 500,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "clarks-nutcracker": {
+  "color": "#656658",
+  "h": 526,
+  "w": 350,
+  "widths": [
+   350
+  ]
+ },
+ "dining-room-doorway": {
+  "color": "#955d34",
+  "h": 500,
+  "w": 333,
+  "widths": [
+   333
+  ]
+ },
+ "dining-room-timber-table": {
+  "color": "#702c15",
+  "h": 500,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "dinner-at-the-chalet": {
+  "color": "#a56937",
+  "h": 500,
+  "w": 438,
+  "widths": [
+   438
+  ]
+ },
+ "eastern-sierra-sunset-panorama": {
+  "color": "#583b1c",
+  "h": 706,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "elsie-room-claw-foot-tub": {
+  "color": "#542a16",
+  "h": 500,
+  "w": 690,
+  "widths": [
+   480,
+   690
+  ]
+ },
+ "elsie-room-granite-peak-view": {
+  "color": "#616e70",
+  "h": 500,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "elsie-room-suite": {
+  "color": "#693e1b",
+  "h": 402,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "fall-aspen-meadow-eastern-sierra": {
+  "color": "#7e7447",
+  "h": 960,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
+ "fall-view-over-yosemite-climber": {
+  "color": "#5d6165",
+  "h": 2400,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "family-room-evening": {
+  "color": "#4f3519",
+  "h": 330,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "family-room-wide-view": {
+  "color": "#67381a",
+  "h": 195,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "family-room-wood-stove": {
+  "color": "#663719",
+  "h": 193,
+  "w": 859,
+  "widths": [
+   480,
+   800,
+   859
+  ]
+ },
+ "fern-creek-falls": {
+  "color": "#5d615d",
+  "h": 977,
+  "w": 633,
+  "widths": [
+   480,
+   633
+  ]
+ },
+ "floorplan-main-level": {
+  "color": "#e4d5c5",
+  "h": 731,
+  "w": 670,
+  "widths": [
+   480,
+   670
+  ]
+ },
+ "floorplan-upper-level": {
+  "color": "#e5dcd1",
+  "h": 731,
+  "w": 670,
+  "widths": [
+   480,
+   670
+  ]
+ },
+ "fly-fishing-rush-creek": {
+  "color": "#747858",
+  "h": 634,
+  "w": 1127,
+  "widths": [
+   480,
+   800,
+   1127
+  ]
+ },
+ "grand-room-evening-lamplight": {
+  "color": "#361508",
+  "h": 1347,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "grand-room-fireplace-and-bar": {
+  "color": "#674120",
+  "h": 463,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "grand-room-fireside-evening": {
+  "color": "#632310",
+  "h": 963,
+  "w": 1340,
+  "widths": [
+   480,
+   800,
+   1200,
+   1340
+  ]
+ },
+ "grand-room-fireside-gathering": {
+  "color": "#632517",
+  "h": 963,
+  "w": 1340,
+  "widths": [
+   480,
+   800,
+   1200,
+   1340
+  ]
+ },
+ "grand-room-oak-bar-wine": {
+  "color": "#b07239",
+  "h": 1178,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "granite-boulder-pond": {
+  "color": "#737769",
+  "h": 640,
+  "w": 480,
+  "widths": [
+   480
+  ]
+ },
+ "granite-dome-and-pond": {
+  "color": "#74786b",
+  "h": 640,
+  "w": 480,
+  "widths": [
+   480
+  ]
+ },
+ "guest-in-deep-snow": {
+  "color": "#707074",
+  "h": 960,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
+ "guests-celebrating-in-snow": {
+  "color": "#7298cf",
+  "h": 1423,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "gull-lake-rope-swing": {
+  "color": "#6082ba",
+  "h": 1692,
+  "w": 1387,
+  "widths": [
+   480,
+   800,
+   1200,
+   1387
+  ]
+ },
+ "horse-drive-riders": {
+  "color": "#878788",
+  "h": 252,
+  "w": 720,
+  "widths": [
+   480,
+   720
+  ]
+ },
+ "hot-creek-eastern-sierra": {
+  "color": "#59606f",
+  "h": 1297,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "hydrotherapy-tub-and-chalet": {
+  "color": "#735b55",
+  "h": 500,
+  "w": 373,
+  "widths": [
+   373
+  ]
+ },
+ "hydrotherapy-tub-night-steam": {
+  "color": "#463727",
+  "h": 413,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "hydrotherapy-tub-stone-surround": {
+  "color": "#745e59",
+  "h": 1030,
+  "w": 684,
+  "widths": [
+   480,
+   684
+  ]
+ },
+ "hydrotherapy-tub-winter-guests": {
+  "color": "#80776a",
+  "h": 500,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "ice-climbing-lee-vining-canyon": {
+  "color": "#90a5bb",
+  "h": 467,
+  "w": 700,
+  "widths": [
+   480,
+   700
+  ]
+ },
+ "june-lake-chalet-summer": {
+  "color": "#554e2b",
+  "h": 640,
+  "w": 960,
+  "widths": [
+   480,
+   800,
+   960
+  ]
+ },
+ "june-lake-fall-reflections": {
+  "color": "#6b7f78",
+  "h": 800,
+  "w": 800,
+  "widths": [
+   480,
+   800
+  ]
+ },
+ "june-lake-loop-fall-aspens": {
+  "color": "#515957",
+  "h": 960,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
+ "june-lake-loop-fall-aspens-wide": {
+  "color": "#515957",
+  "h": 960,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
+ "june-lake-loop-map": {
+  "color": "#e6ddb7",
+  "h": 1033,
+  "w": 690,
+  "widths": [
+   480,
+   690
+  ]
+ },
+ "june-lake-loop-mountain-panorama": {
+  "color": "#5d676c",
+  "h": 703,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "june-mountain-winter-forest": {
+  "color": "#7fa7a5",
+  "h": 1048,
+  "w": 1651,
+  "widths": [
+   480,
+   800,
+   1200,
+   1651
+  ]
+ },
+ "kitchen-and-breakfast-bar": {
+  "color": "#55290b",
+  "h": 431,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "kitchen-copper-sink": {
+  "color": "#643c10",
+  "h": 500,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "kitchen-wide-view": {
+  "color": "#533719",
+  "h": 205,
+  "w": 837,
+  "widths": [
+   480,
+   800,
+   837
+  ]
+ },
+ "master-suite-bed": {
+  "color": "#6d3914",
+  "h": 422,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "master-suite-evening": {
+  "color": "#652a0b",
+  "h": 274,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "master-suite-window-snow-peaks": {
+  "color": "#4a7591",
+  "h": 500,
+  "w": 402,
+  "widths": [
+   402
+  ]
+ },
+ "natural-hot-spring-soak": {
+  "color": "#a09fa0",
+  "h": 957,
+  "w": 1281,
+  "widths": [
+   480,
+   800,
+   1200,
+   1281
+  ]
+ },
+ "press-magazine-review": {
+  "color": "#cec6bd",
+  "h": 365,
+  "w": 280,
+  "widths": [
+   280
+  ]
+ },
+ "press-newspaper-geothermal": {
+  "color": "#d8d8d8",
+  "h": 341,
+  "w": 280,
+  "widths": [
+   280
+  ]
+ },
+ "ritter-range-snow": {
+  "color": "#546d7d",
+  "h": 677,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
+ "river-room-evening": {
+  "color": "#684322",
+  "h": 412,
+  "w": 860,
+  "widths": [
+   480,
+   800,
+   860
+  ]
+ },
+ "river-room-suite": {
+  "color": "#7e5c33",
+  "h": 500,
+  "w": 478,
+  "widths": [
+   478
+  ]
+ },
+ "sierra-lake-and-forest": {
+  "color": "#74786b",
+  "h": 500,
+  "w": 387,
+  "widths": [
+   387
+  ]
+ },
+ "ski-tracks-to-the-hot-tub": {
+  "color": "#9a9fb0",
+  "h": 1600,
+  "w": 1200,
+  "widths": [
+   480,
+   800,
+   1200
+  ]
+ },
+ "skiing-june-mountain-corduroy": {
+  "color": "#91909b",
+  "h": 479,
+  "w": 416,
+  "widths": [
+   416
+  ]
+ },
+ "tuolumne-granite-reflection": {
+  "color": "#726b70",
+  "h": 960,
+  "w": 960,
+  "widths": [
+   480,
+   800,
+   960
+  ]
+ },
+ "white-mountain-summit-sunrise": {
+  "color": "#7e7b7f",
+  "h": 960,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
+ "yosemite-high-country-lake": {
+  "color": "#526869",
+  "h": 477,
+  "w": 872,
+  "widths": [
+   480,
+   800,
+   872
+  ]
+ }
+}
