@@ -26,7 +26,15 @@ From the trailhead it is about 1.6 miles to the lake, with roughly 1,600 feet of
 
 These distances are approximate. Carry water, start early in summer, and turn back if afternoon thunderstorms build over the crest.
 
-To summit Carson Peak, the peak you see from the hydrotherapy tub, continue past Fern Lake up the east slope to the plateau, then walk north to the top. From Yost Meadow, another trail returns through the June Mountain ski area to June Lake village, ending near the Balanced Boulder by the fire station.
+You can climb Carson Peak, 10,909 feet, the mountain you see from the hot tub, without ever getting in a car. Walk out the back door, take the Fern Lake trail, continue past the lake up the east slope to the summit plateau, then walk north to the top. It is a long, steep, full day, but few rentals anywhere can offer a 10,000-foot summit from the back door.
+
+{{ figure("carson-peak-summit-view", "The view west from the summit of Carson Peak across the high Sierra, with jagged snow-streaked peaks and an alpine lake", "From the top of Carson Peak, 10,909 feet. You walked here from the chalet.") }} From Yost Meadow, another trail returns through the June Mountain ski area to June Lake village, ending near the Balanced Boulder by the fire station.
+
+## A secret spot
+
+{{ figure("secret-spot-alpine-lakes", "A hiker on a trail beside a clear creek, with an alpine lake and snow-streaked peaks ahead", "Ask us when you arrive. We will tell you how to get here.") }}
+
+Some places we only share in person. This one is within an easy drive and a morning's walk of the chalet: a clear creek, a string of turquoise lakes, and almost nobody else. Ask us when you check in.
 
 ## Reversed Peak
 

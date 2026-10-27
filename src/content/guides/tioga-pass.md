@@ -92,6 +92,8 @@ From the Dana Meadows trailhead a few miles inside the park, an 8-mile round tri
 
 ### Mount Dana
 
+{{ figure("mount-dana-tioga-pass", "The rocky summit cone of Mount Dana against a deep blue sky, with patches of snow", "Mount Dana, 13,061 feet, from the use trail near the Tioga Pass entrance.") }}
+
 At 13,061 feet, Mount Dana is the second-highest peak in Yosemite and one of the most accessible big summits in the Sierra. The route climbs steeply from near the entrance station on a use trail. It is a serious day at high altitude: start early, carry plenty of water, and turn around if afternoon thunderstorms build.
 
 ### Tioga Peak and Gardisky Lake

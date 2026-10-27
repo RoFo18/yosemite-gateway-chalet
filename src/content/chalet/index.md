@@ -58,7 +58,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <p class="ch-sub">Three bedrooms upstairs, each its own retreat with a private bath and a memory foam bed. The master has the house's indoor hot tub, a jacuzzi for two.</p>
 <div class="ch-suite-row">
 <a class="ch-suite" href="/the-chalet/master-suite/">{{ picture("master-suite-evening", "The master suite in the evening, under its log ceiling", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Master Suite</span><span class="cs-line">California King, a sleeping loft and its own indoor two-person jacuzzi</span></a>
-<a class="ch-suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-claw-foot-tub", "The Elsie Room's ruby-red claw-foot tub beneath a timber window", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Elsie Room</span><span class="cs-line">A ruby-red claw-foot tub and windows on two sides</span></a>
+<a class="ch-suite" href="/the-chalet/elsie-room/">{{ picture("elsie-room-red-claw-foot-tub", "The Elsie Room's ruby-red claw-foot tub under a timber window, with brass fixtures", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">Elsie Room</span><span class="cs-line">A ruby-red claw-foot tub and windows on two sides</span></a>
 <a class="ch-suite" href="/the-chalet/river-room/">{{ picture("river-room-suite", "The River Room, with windows onto the forest", "(min-width: 900px) 33vw, 100vw") }}<span class="cs-name">River Room</span><span class="cs-line">The quietest room, with Yost Creek below the window</span></a>
 </div>
 <p class="ch-more"><a href="/the-chalet/floorplan/">See both floors on the floorplan</a></p>

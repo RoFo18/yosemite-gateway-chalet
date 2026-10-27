@@ -50,6 +50,16 @@
    360
   ]
  },
+ "carson-peak-summit-view": {
+  "color": "#2b6a8c",
+  "h": 856,
+  "w": 918,
+  "widths": [
+   480,
+   800,
+   918
+  ]
+ },
  "chalet-deck-and-forest": {
   "color": "#5b4d28",
   "h": 411,
@@ -172,6 +182,16 @@
   "widths": [
    480,
    690
+  ]
+ },
+ "elsie-room-red-claw-foot-tub": {
+  "color": "#a7622c",
+  "h": 724,
+  "w": 1086,
+  "widths": [
+   480,
+   800,
+   1086
   ]
  },
  "elsie-room-suite": {
@@ -611,13 +631,13 @@
   ]
  },
  "master-suite-bed": {
-  "color": "#6d3914",
-  "h": 422,
-  "w": 860,
+  "color": "#6d3913",
+  "h": 493,
+  "w": 1024,
   "widths": [
    480,
    800,
-   860
+   1024
   ]
  },
  "master-suite-evening": {
@@ -630,12 +650,43 @@
    860
   ]
  },
+ "master-suite-jacuzzi-and-beds": {
+  "color": "#774713",
+  "h": 442,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "master-suite-loft": {
+  "color": "#652b09",
+  "h": 570,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "master-suite-window-snow-peaks": {
   "color": "#4a7591",
   "h": 500,
   "w": 402,
   "widths": [
    402
+  ]
+ },
+ "matthes-crest-climber": {
+  "color": "#868d97",
+  "h": 1024,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "mono-craters-sunset-rays": {
@@ -655,6 +706,16 @@
   "widths": [
    480,
    768
+  ]
+ },
+ "mount-dana-tioga-pass": {
+  "color": "#545d69",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
   ]
  },
  "natural-hot-spring-soak": {
@@ -755,6 +816,16 @@
    1024
   ]
  },
+ "secret-spot-alpine-lakes": {
+  "color": "#4b645c",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "sierra-lake-and-forest": {
   "color": "#74786b",
   "h": 500,
@@ -815,6 +886,26 @@
  "wild-mustangs-mono-basin": {
   "color": "#989b9e",
   "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "yellow-bellied-marmot": {
+  "color": "#829168",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "yosemite-gateway-chalet-sign": {
+  "color": "#584724",
+  "h": 860,
   "w": 1024,
   "widths": [
    480,

@@ -111,6 +111,15 @@ NAMES = {
     "new-saddlebag-lake.jpg": "saddlebag-lake-tioga",
     "new-mono-fissures.jpg": "mono-lake-black-point-fissures",
     "new-horseback-june-lake.jpg": "horseback-ride-above-june-lake",
+    "new-master-suite-jacuzzi-vanity.jpg": "master-suite-jacuzzi-and-beds",
+    "new-master-suite-loft.jpg": "master-suite-loft",
+    "new-secret-spot-lakes.jpg": "secret-spot-alpine-lakes",
+    "new-elsie-red-tub.jpg": "elsie-room-red-claw-foot-tub",
+    "new-mount-dana.jpg": "mount-dana-tioga-pass",
+    "new-marmot.jpg": "yellow-bellied-marmot",
+    "new-chalet-sign.jpg": "yosemite-gateway-chalet-sign",
+    "carson-peak-summit-view.jpg": "carson-peak-summit-view",
+    "new-matthes-crest.jpg": "matthes-crest-climber",
 }
 
 

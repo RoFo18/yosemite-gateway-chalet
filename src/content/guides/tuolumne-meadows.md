@@ -55,6 +55,8 @@ Yosemite Valley is the postcard. Tuolumne Meadows is where people who know Yosem
 
 It is also, for anyone coming from the east, the near side of Yosemite. From June Lake you can be at a Tuolumne trailhead in about 45 minutes, while visitors staying in the Valley drive about an hour and a half the other way.
 
+{{ figure("yellow-bellied-marmot", "A yellow-bellied marmot sitting on a granite boulder in a green alpine meadow", "A yellow-bellied marmot keeping watch. They are everywhere in the high country, and they will eat your lunch.") }}
+
 ## When to go
 
 Tuolumne is open only while Tioga Road is open, usually from late May or June until about November. Early summer brings snowmelt, full rivers and mosquitoes. July and August bring wildflowers, warm days and afternoon thunderstorms. September and early October are quieter, cooler and often the most beautiful, until the first storm closes the road. See our [Tioga Pass guide](/guides/tioga-pass/) for how the opening works.
@@ -102,7 +104,11 @@ From Twin Bridges, the trail continues up the long, gentle floor of Lyell Canyon
 
 ## Climbing
 
+{{ figure("matthes-crest-climber", "A climber in a harness and pack on the knife-edge granite of Matthes Crest, with the Yosemite high country behind", "On Matthes Crest. Breakfast at the chalet, the crest by midday, dinner back in June Lake.") }}
+
 Tuolumne's domes and spires are one of America's great alpine climbing areas, from moderate routes on Lembert Dome to the classic ridges of Cathedral Peak and Matthes Crest. The climbing season is short and the rock is superb.
+
+Matthes Crest is the one climbers dream about: a mile-long knife edge of granite above the Cathedral Range, with air on both sides. From the chalet it is an easy day trip. Drive over Tioga Pass in the morning, hike in from the Cathedral Lakes trailhead, and be back by the fire for dinner. Go with a partner who knows the route, or hire a guide.
 
 ## Practical notes
 

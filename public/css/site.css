@@ -779,3 +779,4 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
 .prose>.film:last-child{margin-bottom:0}
 .page-body:has(>.prose>.film:last-child){padding-bottom:0}
 .page-body:has(>.prose>.film:last-child)+*{margin-top:0}
+.fig-wide img{max-height:88vh;object-fit:cover}

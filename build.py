@@ -81,7 +81,7 @@ def figure(name, alt, caption=None, layout="wide"):
     m = IMAGES[name]
     if layout in ("right", "left", "small"):
         layout = "wide"
-    if layout == "wide" and m["h"] > m["w"] * 1.05:
+    if layout == "wide" and m["h"] > m["w"] * 0.88:
         layout = "portrait"
     sizes = {"wide": "(min-width: 1200px) 1180px, 100vw", "full": "100vw",
              "portrait": "(min-width: 900px) 720px, 100vw"}.get(layout, "100vw")
