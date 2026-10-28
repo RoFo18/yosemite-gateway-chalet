@@ -21,7 +21,7 @@ June Lake is ringed by published bouldering: the Bachar Boulders, Big Springs, t
 
 <div class="fig-pair">{{ figure("bouldering-overhang-blue-shirt", "A boulderer in a blue shirt reaching up the underside of a steep, pocketed volcanic overhang", "Pockets, pinches and a long reach. The volcanic rock here is built for it.") }}{{ figure("bouldering-rockin-dave-mono-basin", "A climber silhouetted on the edge of a tall pocketed boulder in the sagebrush, with the Mono Basin hills and Sierra beyond", "Rockin' Dave, out in the Mono Lake country.") }}</div>
 
-{{ guide_says("Every boulderer in America has a problem they swear is sandbagged. Around here, it is all of them. The altitude does half the work. Your ego does the rest.") }}
+{{ guide_says("The grades at the Bachar Boulders were set by people who thought crimping on razor blades was a rest day. Whatever the guidebook says, add two. Then add one more for the altitude, and leave your ego in the car with the snacks.") }}
 
 ## Sunset near the tufas
 

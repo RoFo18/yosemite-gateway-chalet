@@ -23,7 +23,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <dl class="ch-glance">
 <div><dt>Who it suits</dt><dd>Families and groups of up to eight</dd></div>
 <div><dt>Sleeps</dt><dd>8 in three suites, each with its own bath</dd></div>
-<div><dt>Yosemite</dt><dd>27 miles to Tioga Pass, 45 minutes to Tuolumne Meadows, late May to November</dd></div>
+<div><dt>Yosemite</dt><dd>5.75 miles to the park boundary as the crow flies; 27 road miles to Tioga Pass, open late May to November</dd></div>
 <div><dt>June Mountain</dt><dd>1 mile; kids 12 and under ski free</dd></div>
 <div><dt>Season</dt><dd>Open all year; the hot tub runs all year</dd></div>
 <div><dt>Arrival</dt><dd>Parking for three cars, and steps up from the driveway to the front door</dd></div>

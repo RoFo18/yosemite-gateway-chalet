@@ -14,7 +14,7 @@ lead: The pack station is a few minutes down the road, the Ansel Adams Wildernes
 updated: 2026-10-27
 related: [/guides/tuolumne-meadows/, /guides/tioga-pass/, /fly-fishing/]
 ---
-Start on a horse, then go on foot. After the horses, the hikes run from the closest trailhead to the farthest. Every ride and hike on this page starts within half an hour of the chalet, and the best of them start at the back door. For trails inside Yosemite, see our [Tuolumne Meadows guide](/guides/tuolumne-meadows/), and before you plan on Tioga Road, read [when Tioga Pass actually opens](/guides/tioga-pass-opening-dates/).
+Start on a horse, then go on foot. After the horses, the hikes run from the closest trailhead to the farthest. Every ride and hike on this page starts within half an hour of the chalet, and the best of them start at the back door. This is the quiet side of the Sierra: the same granite and lakes as Yosemite, 5.75 miles away as the crow flies, with a fraction of the people. Start early and most days you will have the trail to yourself. For trails inside Yosemite, see our [Tuolumne Meadows guide](/guides/tuolumne-meadows/), and before you plan on Tioga Road, read [when Tioga Pass actually opens](/guides/tioga-pass-opening-dates/).
 
 ## Horseback riding from the pack station
 

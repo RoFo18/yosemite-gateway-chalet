@@ -32,7 +32,7 @@ For trout, see [fishing the June Lake Loop](/fly-fishing/).
 
 Four lakes sit on the loop, and each has its own kind of summer day. Gull Lake is the closest water to the chalet, with a marina and a rope swing that has launched generations of summers. June Lake has a sandy beach for a slow afternoon. Grant Lake, the largest, is open and wild at the north end of the loop, with granite ledges along the shore and cold, clear water.
 
-<div class="fig-pair">{{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", "A summer leap into Grant Lake.") }}{{ figure("gull-lake-rope-swing-silhouette", "A swimmer silhouetted at the top of the rope swing's arc against a deep blue sky, knees tucked, the lake and the far shore below", "The top of the arc. This is the moment to let go. Everybody learns that a second too late.") }}</div>
+{{ figure("gull-lake-rope-swing-silhouette", "A swimmer silhouetted at the top of the rope swing's arc against a deep blue sky, knees tucked, the lake and the far shore below", "The top of the arc. This is the moment to let go. Everybody learns that a second too late.", fit="50% 42%") }}
 
 Check the water and your landing before you jump, and keep an eye on afternoon wind, which comes up fast on the bigger lakes.
 

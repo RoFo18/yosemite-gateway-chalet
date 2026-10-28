@@ -139,6 +139,8 @@ p{margin:0}
 .feature{max-width:var(--max);margin:0 auto;padding:var(--s-9) var(--gutter);display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:clamp(2rem,6vw,6.5rem);align-items:center}
 .feature.reverse .feature-media{order:2}
 .feature-media img{width:100%;aspect-ratio:4/3;object-fit:cover}
+.feature-tall .feature-media{margin:0}.feature-tall .feature-media img{aspect-ratio:4/5}
+.feature-media figcaption{margin-top:.7rem;font-size:.86rem;color:var(--ink-3)}
 .feature-copy h2{margin-bottom:1.6rem}
 .feature-copy p{color:var(--ink-2);max-width:46ch}
 .feature-copy p+p{margin-top:1.6rem}
