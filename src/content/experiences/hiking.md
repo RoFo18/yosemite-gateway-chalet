@@ -24,7 +24,7 @@ Some of the best days our guests have here start a few minutes down the road at 
 
 ## Fern and Yost Lakes, from the chalet
 
-Leave the car at the house. Walk out the back door and about a mile down the Loop to the Fern Lake trailhead, then up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows. Yost Creek is the same water that runs past the hot tub, so you can follow it home.
+Leave the car at the house. Walk out the back door and about a mile down-canyon to the Fern Lake trailhead, then up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows. Yost Creek is the same water that runs past the hot tub, so you can follow it home.
 
 {{ trail_card("Fern Lake and Yost Lake", [("Start", "The back door"), ("Back door to trailhead", "About 1 mile"), ("Trailhead to Fern Lake", "About 1.6 miles, 1,600 ft up"), ("Fern Lake round trip", "5 to 6 miles, half a day"), ("Trailhead to Yost Lake", "About 3.8 miles, past Yost Meadow"), ("Yost Lake round trip", "About 9 to 10 miles, a full day")], cap="The Fern Lake trail is steep from the first step, and it will tell you so. Everyone says it is only a mile and a half. Everyone says that at the bottom.") }}
 

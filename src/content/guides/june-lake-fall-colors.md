@@ -58,7 +58,7 @@ No two years are the same. A dry summer, an early cold snap or a windstorm can m
 
 **The village and Gull Lake.** Aspens line the shore of Gull Lake and the streets of the village. An easy walk from the chalet.
 
-**Fern Lake trail.** About a mile down the Loop from the chalet, the trail climbs roughly 1.6 miles and 1,600 feet through aspen toward Carson Peak. Steep, short and spectacular in color.
+**Fern Lake trail.** About a mile down-canyon from the chalet, the trail climbs roughly 1.6 miles and 1,600 feet through aspen toward Carson Peak. Steep, short and spectacular in color.
 
 **Parker Bench.** From the Parker Lake trailhead, a longer hike leads up to Parker Bench and its aspens, with Mono Lake spread out below.
 

@@ -29,7 +29,7 @@ June Lake's historic bar, now in the hands of the family behind La Parrilla, and
 
 <span class="dine-links"><a href="https://doubleeagle.com/eagles-landing-restaurant/" rel="noopener" target="_blank">Website</a><a href="https://www.instagram.com/doubleeagleresort/" rel="noopener" target="_blank">Instagram</a></span>
 
-Two minutes down the Loop at the Double Eagle Resort, with mountain and waterfall views from every seat. We recommend breakfast.
+Two minutes down-canyon at the Double Eagle Resort, with mountain and waterfall views from every seat. We recommend breakfast.
 
 ## 4. Silver Lake Resort
 

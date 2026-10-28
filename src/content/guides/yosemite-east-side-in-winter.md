@@ -56,7 +56,7 @@ If seeing the Valley in snow is the goal, plan that as its own trip from the wes
 
 **Ski Mammoth Mountain.** About thirty minutes south, one of the biggest ski mountains in North America, with a season that often runs into late spring.
 
-**Snowshoe from the door.** Rent snowshoes in the village and walk from the house to the Fern and Yost Lakes trail, about a mile down the Loop.
+**Snowshoe from the door.** Rent snowshoes in the village and walk from the house to the Fern and Yost Lakes trail, about a mile down-canyon.
 
 **Climb ice.** Beginners learn above Silver Lake, and Lee Vining Canyon has some of the best ice in the West.
 

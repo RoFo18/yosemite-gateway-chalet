@@ -45,7 +45,7 @@ For a group that wants to be together under one roof, a whole home is the way to
 - **An outdoor hydrotherapy tub** under Carson Peak, open all year.
 - **A Grand Room** with 21-foot ceilings, an open fire and an oak bar, and a remodeled gourmet kitchen.
 - **Five paddleboards** in the garage for Silver Lake and Rush Creek.
-- **Trails from the back door:** the Fern and Yost Lakes trail is about a mile down the Loop.
+- **Trails from the back door:** the Fern and Yost Lakes trail is about a mile down-canyon.
 - **One mile to June Mountain,** where kids 12 and under ski free.
 - **Yosemite within reach.** 27 miles to the Tioga Pass entrance and 45 minutes to Tuolumne Meadows when Tioga Road is open.
 
