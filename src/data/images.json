@@ -40,6 +40,17 @@
    1800
   ]
  },
+ "backcountry-skier-coffee-break": {
+  "color": "#7d8a9d",
+  "h": 1350,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "backcountry-skier-gaylor-peak": {
   "color": "#5d645d",
   "h": 2271,
@@ -489,6 +500,15 @@
    666
   ]
  },
+ "fresh-powder-tree-slope": {
+  "color": "#7f85a2",
+  "h": 674,
+  "w": 736,
+  "widths": [
+   480,
+   736
+  ]
+ },
  "garage-climbing-wall-full": {
   "color": "#4a483c",
   "h": 1385,
@@ -877,6 +897,16 @@
   "widths": [
    480,
    641
+  ]
+ },
+ "june-mountain-groomer-carve": {
+  "color": "#918f9b",
+  "h": 1197,
+  "w": 1039,
+  "widths": [
+   480,
+   800,
+   1039
   ]
  },
  "june-mountain-steep-powder": {

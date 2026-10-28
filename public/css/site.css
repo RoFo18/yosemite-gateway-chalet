@@ -1025,3 +1025,10 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .prose .lf-section{font:500 clamp(1.8rem,1.4rem + 1.4vw,2.6rem)/1.15 var(--f-display);margin:var(--s-8) 0 .4rem;padding-top:var(--s-6);border-top:1px solid var(--ink)}
 .prose .lf-section-note{color:var(--ink-3);margin:0 0 var(--s-5)}
 @media (min-width:760px){.lf.lf-wide{grid-column:1/-1;columns:2;column-gap:var(--s-7)}.prose .lf.lf-wide h2{column-span:all}}
+.pow-drop{margin:var(--s-5) 0 var(--s-6);border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.pow-drop summary{cursor:pointer;list-style:none;padding:1rem 0;font:500 .78rem/1 var(--f-text);letter-spacing:.16em;text-transform:uppercase;color:var(--ink);display:flex;justify-content:space-between;align-items:center}
+.pow-drop summary::-webkit-details-marker{display:none}
+.pow-drop summary::after{content:"+";font-size:1.3rem;color:var(--bronze)}
+.pow-drop[open] summary::after{content:"\2212"}
+.pow-drop .fig{margin-top:.4rem}
+.page-hero.dim::after{background:linear-gradient(180deg,rgba(12,16,13,.5) 0%,rgba(12,16,13,.08) 28%,rgba(12,16,13,.2) 50%,rgba(12,16,13,.82) 100%)}

@@ -7,10 +7,12 @@ kicker: Winter
 seo_title: "June Mountain Ski Lodging: Ski to the Hot Tub, Kids Ski Free | Yosemite Gateway Chalet"
 description: "Ski lodging one mile from June Mountain, on the highway so you are plowed out first. Kids 12 and under ski free, weekday lifts with no lines, and some of the best lift-assisted backcountry in the lower 48, ending, with a guide, at the chalet's hot tub."
 topic: June Mountain ski lodging
-hero: guest-in-deep-snow
-hero_alt: "A guest laughing waist-deep in fresh snow outside the chalet"
+hero: june-mountain-groomer-carve
+hero_focus: 50% 28%
+hero_dim: true
+hero_alt: "A skier carving across fresh corduroy on June Mountain, kicking up a plume of snow under a silver winter sky"
 lead: June Mountain is a mile from the door, the kids ski free, and in a good snow year the best backcountry run of your life can end in our hot tub.
-updated: 2026-10-27
+updated: 2026-10-28
 related: [/june-mountain-lodging/, /guides/yosemite-east-side-in-winter/, /faq/]
 ---
 ## Plowed out first
@@ -20,6 +22,10 @@ related: [/june-mountain-lodging/, /guides/yosemite-east-side-in-winter/, /faq/]
 Here is how a powder morning goes at most rentals around here. The house is up a side road. The road is plowed by one guy with one plow, and he had a long night. You wait. The kids are hungry and can feel you checking your phone. By the time you get out, the June Mountain lot is nearly full, the line of cars runs an eighth of a mile, and the people who stayed somewhere better are already three runs into bluebird fresh tracks.
 
 The chalet is right on Highway 158, and we hire professional plowing for the driveway. You are plowed out first, a mile from the lift, and in line while everyone else is still digging. That is the whole pitch. It is a good one.
+
+<details class="pow-drop"><summary>What you are racing for</summary>
+{{ figure("fresh-powder-tree-slope", "Fresh powder on an open slope dotted with pines, a few lone ski tracks curving through it under a bright winter sky", "Nobody in the history of skiing has ever said, I sure am glad I slept in on the powder day.") }}
+</details>
 
 {{ guide_says("Powder has a half-life of about ninety minutes on a Saturday. Every one of those minutes you spend watching a side road for a snowplow is a minute somebody from Los Angeles spends in your line. We are not saying stay with us out of spite. We are saying it is a factor.", "Local knowledge") }}
 
@@ -47,6 +53,8 @@ June Mountain is arguably the best lift-assisted backcountry skiing in the lower
 
 So yes: in a good snow year, you can ski from the top of June Mountain straight to the chalet's outdoor hydrotherapy tub. You have to be avalanche trained, carry the gear, and know exactly where you are going, because this is real avalanche terrain with no ski patrol. Which is why you should go with a guide.
 
+{{ figure("backcountry-skier-coffee-break", "A backcountry skier in a red jacket and helmet pouring a hot drink on a high snow slope, crampons on his boots, his skis and poles planted beside his pack", "The lift does the first part. Your legs do the rest, and the coffee is not optional.") }}
+
 **Go with Sierra Mountain Guides.** [Sierra Mountain Guides](https://sierramtnguides.com/) runs the backcountry tours at June Mountain in partnership with the resort. Its owner and lead guide, Howie Schwartz, is an IFMGA-certified mountain guide, guiding in the Sierra since 1993 and on the American Mountain Guides Association's instructor team. Howie knows the chalet. Ask him to design a day that, snow allowing, ends with your boots off and your skis leaning against the tub. Follow them on [Instagram](https://www.instagram.com/sierramountainguides/) for conditions, and look at their [avalanche courses](https://sierramtnguides.com/ski-tours/) if you want to learn to do it yourself.
 
 ### How it stacks up
@@ -65,6 +73,8 @@ Our ranking of lift-accessed backcountry in the lower 48. The terrain is theirs;
 ## Rentals, tunes and gear: Ernie's
 
 For ski and snowboard rentals, tunes, wax, and anything you forgot, go to [Ernie's Tackle and Ski Shop](https://www.erniestackleandskishop.com/) in June Lake village, 2604 Boulder Drive, (760) 648-7756. Jeremy and his crew, who will set you up on a fly rod in summer, will set your bindings in winter, and both conversations are worth having. Follow them on [Instagram](https://www.instagram.com/erniestacklejl/).
+
+{{ figure("guest-in-deep-snow", "A guest laughing waist-deep in fresh snow outside the chalet", "Not every snow day needs a lift ticket. Some of the best ones happen in the yard.") }}
 
 ## Mammoth Mountain
 
