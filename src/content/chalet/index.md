@@ -4,7 +4,7 @@ title: The Chalet
 nav_title: The Chalet
 eyebrow: June Lake, California
 seo_title: The Chalet | 4,000 sq ft Log Home in June Lake, Sleeps 8 | Yosemite Gateway Chalet
-description: "Inside the Yosemite Gateway Chalet: three private suites, a 21-foot Grand Room with open fireplace and oak bar, a remodeled gourmet kitchen, and an outdoor hydrotherapy tub under Carson Peak."
+description: "Inside the Yosemite Gateway Chalet: three private suites, a 21-foot Grand Room with fireplace and oak bar, a gourmet kitchen, and a hot tub under Carson Peak."
 topic: June Lake vacation rental sleeps 8
 hero: grand-room-evening-lamplight
 hero_alt: The Grand Room in evening lamplight, log walls glowing

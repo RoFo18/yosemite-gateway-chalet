@@ -3,7 +3,7 @@ url: /
 template: home
 title: Yosemite Gateway Chalet
 seo_title: "Yosemite Gateway Chalet | Luxury June Lake Lodging near Yosemite"
-description: A private 4,000 sq ft log chalet in June Lake, California. Sleeps 8 in three suites, with an outdoor hydrotherapy tub. 27 miles to Yosemite's Tioga Pass entrance, 45 minutes to Tuolumne Meadows.
+description: "Private 4,000 sq ft log chalet in June Lake for up to 8. Outdoor hot tub, a creek in the yard, a mile to June Mountain, 27 miles to Yosemite. Book direct."
 topic: luxury cabin near Yosemite, June Lake vacation rental
 hero_full: true
 business_schema: true

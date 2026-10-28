@@ -5,7 +5,7 @@ nav_title: FAQ
 eyebrow: Before you book
 kicker: FAQ
 seo_title: FAQ | Yosemite Gateway Chalet, June Lake Vacation Rental
-description: 'Answers about Yosemite Gateway Chalet: sleeps 8, beds, fees, the year-round hot tub, pets, weddings, distance to Yosemite, parking, pets and check-in.'
+description: "Answers about Yosemite Gateway Chalet: beds, fees, the hot tub, pets, weddings, snow, distance to Yosemite, parking, check-in and how to book."
 topic: Yosemite Gateway Chalet FAQ
 hero: dining-room-timber-table
 hero_alt: The chalet's eleven-and-a-half-foot dining table of local pine

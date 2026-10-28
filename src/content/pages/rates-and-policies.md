@@ -5,7 +5,7 @@ nav_title: Rates and policies
 eyebrow: The details
 kicker: Booking
 seo_title: "Rates and Policies | Yosemite Gateway Chalet, June Lake"
-description: "Rates at Yosemite Gateway Chalet run $295 to $995 a night for up to six, plus $59 a night for a seventh and eighth guest, a flat $295 cleaning fee and 15% Mono County tax. Book direct or on VRBO or Airbnb. House rules, guest and car limits, pets."
+description: "$295 to $995 a night for up to six, $59 per extra guest, a $295 cleaning fee and 15% county tax. No surprise fees. House rules, and how to book direct."
 topic: Yosemite Gateway Chalet rates
 lead: Rates follow the seasons. The house rules are few, they are firm, and they are the reason the chalet and the neighborhood are still the way guests love them.
 updated: 2026-10-27

@@ -7,7 +7,7 @@ eyebrow: Field guide
 kicker: Field guide
 card: Lee Vining, June Lake or Mammoth? An honest look at where to stay for Tioga Pass and Tuolumne Meadows.
 seo_title: "Yosemite Lodging near the East Entrance: Where to Stay for Tioga Pass"
-description: "Where to stay for Yosemite's Tioga Pass entrance and Tuolumne Meadows: Lee Vining, June Lake and Mammoth Lakes compared, with distances, seasons, and a whole-home chalet for groups of up to 8."
+description: "Where to stay near Yosemite's Tioga Pass entrance: Lee Vining, June Lake and Mammoth compared, with drive times, seasons and a private chalet for up to 8."
 topic: lodging near Yosemite east entrance, lodging near Tioga Pass
 hero: yosemite-high-country-lake
 hero_alt: A high country lake below granite peaks near Yosemite's east entrance
