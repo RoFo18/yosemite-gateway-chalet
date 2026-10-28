@@ -8,6 +8,8 @@ seo_title: "Guest Reviews | Yosemite Gateway Chalet, June Lake"
 description: "Rated 9.8 out of 10 from 129 VRBO reviews and 4.85 out of 5 on Airbnb. What guests say about the Yosemite Gateway Chalet in June Lake, quoted as written."
 topic: Yosemite Gateway Chalet reviews
 hero: gull-lake-rope-swing
+hero_xtall: true
+hero_focus: 50% 76%
 hero_alt: A guest swinging out over Gull Lake on a summer afternoon
 lead: Sixteen years of guests, two platforms and more than two hundred reviews. Here are some of them, quoted exactly as they were written.
 updated: 2026-10-27
