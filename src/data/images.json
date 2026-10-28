@@ -1198,6 +1198,17 @@
    1800
   ]
  },
+ "upper-owens-river-winter-snow": {
+  "color": "#8394ac",
+  "h": 1350,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "white-mountain-summit-sunrise": {
   "color": "#7e7b7f",
   "h": 960,

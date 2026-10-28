@@ -157,6 +157,7 @@ NAMES = {
     "new-upper-owens-river-meadow-cast.jpg": "upper-owens-river-meadow-cast",
     "new-rush-creek-meadow-carson-peak.jpg": "rush-creek-meadow-carson-peak",
     "new-rush-creek-wading-angler.jpg": "rush-creek-wading-angler",
+    "new-upper-owens-river-winter-snow.jpg": "upper-owens-river-winter-snow",
 }
 
 

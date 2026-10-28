@@ -62,6 +62,8 @@ In spring, rainbows and cutthroat push up from Crowley to spawn. In fall, fish f
 
 ## Through the year
 
+{{ figure("upper-owens-river-winter-snow", "The Upper Owens River running dark and open through fresh snow and frosted sagebrush, with the snow-covered Sierra crest behind under a clear blue sky", "The Upper Owens in winter. Above Benton Crossing it stays open all year, catch and release. Dress for it, fish the middle of the day, and you may have the whole valley to yourself.") }}
+
 | Season | What is happening | Flies |
 |---|---|---|
 | March to May | Lake-run fish, BWOs and midges on cloudy days | Parachute BWO 16 to 20, RS2, zebra midge, flashback pheasant tail, eggs |
