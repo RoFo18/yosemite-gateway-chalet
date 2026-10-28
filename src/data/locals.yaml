@@ -34,10 +34,13 @@ locals:
     kind: BarOrPub
     what: June Lake's historic bar and grill, under new management from the same owners as La Parrilla.
     address: June Lake village
+    instagram: https://www.instagram.com/tigerbar_junelake/
+    handle: "@tigerbar_junelake"
     used_on: [/experiences/dining/]
     posts:
       - "The Tiger Bar in June Lake has new owners, the same crew behind La Parrilla, and the food has never been better. One of the oldest liquor licenses in California, and still the best room in town."
-      - "Après in June Lake means the Tiger Bar. New management, great food, the same old bar. Go."
+      - "Après in June Lake means the Tiger Bar. New management, great food, the same old bar. Go. @tigerbar_junelake"
+      - "Best breakfast on the June Lake Loop? Silver Lake Resort has held the title for years. The Tiger Bar, under new management, is making it a tie. @tigerbar_junelake"
   - id: general-store
     name: June Lake General Store
     kind: GroceryStore
@@ -78,3 +81,34 @@ locals:
     used_on: [/experiences/hiking/]
     posts:
       - "Horseback up Parker Bench with Mono Lake laid out below. Frontier Pack Train on the June Lake Loop, a few minutes from the chalet."
+  - id: silver-lake-resort
+    name: Silver Lake Resort
+    kind: LodgingBusiness
+    what: Classic cabins on Silver Lake and a cafe with one of the best breakfasts on the June Lake Loop. Seasonal, roughly late spring to fall.
+    address: Silver Lake, June Lake Loop, Highway 158
+    url: https://www.silverlakeresort.net/store-cafe/
+    used_on: [/experiences/dining/, /faq/]
+    posts:
+      - "Breakfast at the Silver Lake Resort cafe, then a paddle on Silver Lake. That is a whole morning on the June Lake Loop, done right."
+      - "Some Silver Lake Resort cabin weeks have been booked by the same families for generations. If you get one, keep it."
+  - id: june-lake-pines
+    name: June Lake Pines Cottages
+    kind: LodgingBusiness
+    what: Cottages in June Lake village, good value and well run for years.
+    address: June Lake village
+    url: https://www.junelakepines.com/
+    used_on: [/faq/]
+    posts:
+      - "Looking for a good-value base in June Lake village? June Lake Pines Cottages has been well run for years."
+  - id: double-eagle
+    name: Double Eagle Resort and Spa
+    kind: Resort
+    what: A full spa, a gym, an indoor pool, the Eagle's Landing restaurant and a kids' fishing pond, about a mile from the chalet by the Forest Service trail through the aspens.
+    address: June Lake Loop, Highway 158
+    url: https://doubleeagle.com/
+    instagram: https://www.instagram.com/doubleeagleresort/
+    handle: "@doubleeagleresort"
+    used_on: [/experiences/dining/, /experiences/spa-and-hot-springs/, /faq/]
+    posts:
+      - "Walk a mile through the aspens on the Forest Service trail and you are at the Double Eagle: massage, workout, pool, and a fishing pond for the little ones. @doubleeagleresort"
+      - "When the kitchen at Eagle's Landing is on, it is really on. Breakfast with a waterfall view on the June Lake Loop. @doubleeagleresort"

@@ -26,6 +26,8 @@ The best Mexican food in the Eastern Sierra, and it sits right next to June Lake
 
 ## 2. The Tiger Bar
 
+<span class="dine-links"><a href="https://www.instagram.com/tigerbar_junelake/" rel="noopener" target="_blank">Instagram</a></span>
+
 <p class="dine-logo">{{ picture("tiger-bar-logo", "The Tiger Bar logo: a grinning cartoon tiger lounging over the words Tiger Bar, June Lake, Calif.", "180px") }}</p>
 
 June Lake's historic bar, now in the hands of the family behind La Parrilla, and you can taste it. Great food, a warm room, and still one of the oldest liquor licenses in California. Between the two places, the same good people are quietly making June Lake better, and we are grateful.
@@ -34,13 +36,13 @@ June Lake's historic bar, now in the hands of the family behind La Parrilla, and
 
 <span class="dine-links"><a href="https://doubleeagle.com/eagles-landing-restaurant/" rel="noopener" target="_blank">Website</a><a href="https://www.instagram.com/doubleeagleresort/" rel="noopener" target="_blank">Instagram</a></span>
 
-Two minutes down-canyon at the Double Eagle Resort, with mountain and waterfall views from every seat. We recommend breakfast.
+Two minutes down-canyon at the Double Eagle Resort, with mountain and waterfall views from every seat. The kitchen is hit and miss depending on who is cooking, but when it is good, it is really good. We recommend breakfast.
 
 ## 4. Silver Lake Resort
 
-<span class="dine-links"><a href="https://silverlakeresort.net/" rel="noopener" target="_blank">Website</a></span>
+<span class="dine-links"><a href="https://www.silverlakeresort.net/store-cafe/" rel="noopener" target="_blank">Cafe</a></span>
 
-A summer favorite and the best breakfast on the loop. Arrive early to beat the wait.
+A summer favorite and the best breakfast on the Loop, tied lately with the Tiger Bar. Seasonal, so check before you go, and arrive early to beat the wait.
 
 ## 5. On the way to Tioga Pass
 

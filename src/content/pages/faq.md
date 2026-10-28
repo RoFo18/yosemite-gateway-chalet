@@ -77,6 +77,8 @@ faq:
   a: Yes. Everything described is yours for the stay.
 - q: Can we fly into Mammoth?
   a: Yes. Mammoth Yosemite Airport is about 25 minutes from the chalet, with seasonal commercial service and rental cars. In winter, a storm can delay connections.
+- q: Where do you recommend if you are full?
+  a: "Honestly? Book earlier. There may be bigger houses in June Lake, but this is the nicest chalet you can rent here, and it is a commercially zoned lodging property, licensed and inspected, owned and run by the same family that answers your inquiry. A lot of vacation rentals are run by property managers who are thinking about powder and fishing before they are thinking about you. We own it and we manage it. That is the difference. If our dates are gone, here is where we send people: [Silver Lake Resort](https://www.silverlakeresort.net/store-cafe/), with classic cabins on the lake and one of the best breakfasts on the Loop. It is seasonal, and some cabin weeks have been booked by the same families for generations, so a summer week there opens up about as often as somebody writes it into a will. Next, [June Lake Pines Cottages](https://www.junelakepines.com/) in the village, good value and well run for years. And the [Double Eagle Resort](https://doubleeagle.com/), a mile from the chalet, with a spa, a gym, a pool and a fishing pond for little kids. Then book us for next year, before somebody else does."
 - q: How do we book?
   a: "Book direct: check our availability calendar on the Inquire page and send us your dates, and we will reply with an exact quote and no platform service fee. Or book instantly on VRBO (listing 452799) or Airbnb. Same chalet, same family, either way."
 ---
