@@ -20,6 +20,8 @@ related: [/guides/tioga-pass/, /guides/tuolumne-meadows/, /experiences/summer/]
 
 The park boundary is 5.75 miles from the chalet as the crow flies and 27 highway miles to the Tioga Pass entrance. Tuolumne Meadows is about forty-five minutes away, and Yosemite Valley, home of Half Dome and El Capitan, about two to two and a half hours when Tioga Road is open. Start with our guides to [Tioga Pass](/guides/tioga-pass/) and [Tuolumne Meadows](/guides/tuolumne-meadows/), and our analysis of [when the road actually opens](/guides/tioga-pass-opening-dates/).
 
+{{ film("87701971", "Yosemite HD II", 'Film: <a href="https://vimeo.com/87701971" rel="noopener" target="_blank">Yosemite HD II</a> by Colin Delehanty and Sheldon Neill of Project Yosemite, shot over ten months in the park.', 5, heading="Yosemite, forty minutes from the door") }}
+
 ## Mono Lake
 
 {{ figure("mono-lake-tufa-rainbow", "Tufa towers in Mono Lake framed through a gap in the tufa, with a faint rainbow over the far shore", "South Tufa, looking out through the tufa itself.") }}
@@ -59,7 +61,3 @@ Getting there is half the adventure. The usual way in is from Benton Crossing Ro
 A gold-mining town from the 1870s, preserved in a state of arrested decay, Bodie gives a vivid sense of California's boomtown years. About an hour's drive from the chalet. The road in is partly dirt and can close in winter. [Bodie State Historic Park](https://www.parks.ca.gov/?page_id=509).
 
 {{ guide_says("Legend says anyone who takes so much as a nail from Bodie gets cursed. The rangers have a box of things people mailed back. Leave the nails. You have enough going on.", "Local knowledge") }}
-
-## Further afield
-
-The Ancient Bristlecone Pine Forest, with trees more than 4,000 years old, is a long day trip south and east of Bishop.

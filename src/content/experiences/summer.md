@@ -18,6 +18,10 @@ related: [/experiences/hiking/, /fly-fishing/, /guides/tuolumne-meadows/]
 
 Five stand-up paddleboards and a kid-size board wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Carry them down to the shore of Silver Lake, a few minutes away, and you are on the water. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the walls of the Loop. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
 
+{{ figure("paddleboard-boy-and-mom-glassy-lake", "A boy and his mother on red-and-white paddleboards on a glassy lake, granite peaks and aspens across the water", "Morning glass. Get out early, before the wind gets ideas.") }}
+
+{{ figure("paddleboard-family-silver-lake-cliffs", "Two boys sharing one paddleboard and a woman on another, small against granite cliffs and a long scree slope above the lake", "Two kids, one board, and an argument about who steers.", fit="50% 45%") }}
+
 {{ guide_says("The kid-size board is the most fought-over object in the house. Settle who gets it before you leave the driveway. Rush Creek is flat, cold and perfectly clear, which means everyone on the bank can see exactly how you fell in.", "Local knowledge") }}
 
 For trout, see [fishing the June Lake Loop](/fly-fishing/).

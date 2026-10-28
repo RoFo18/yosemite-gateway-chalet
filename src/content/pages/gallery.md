@@ -65,5 +65,3 @@ lead: The chalet, the Loop it sits on, and the high country beyond, one photogra
 
 
 <div id="videos"></div>
-
-{{ film("87701971", "Yosemite HD II", 'Film: <a href="https://vimeo.com/87701971" rel="noopener" target="_blank">Yosemite HD II</a> by Colin Delehanty and Sheldon Neill of Project Yosemite, shot over ten months in the park.', 5) }}

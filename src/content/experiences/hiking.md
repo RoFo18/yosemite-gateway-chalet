@@ -28,6 +28,8 @@ Leave the car at the house. Walk out the back door and about a mile down-canyon 
 
 {{ trail_card("Fern Lake and Yost Lake", [("Start", "The back door"), ("Back door to trailhead", "About 1 mile"), ("Trailhead to Fern Lake", "About 1.6 miles, 1,600 ft up"), ("Fern Lake round trip", "5 to 6 miles, half a day"), ("Trailhead to Yost Lake", "About 3.8 miles, past Yost Meadow"), ("Yost Lake round trip", "About 9 to 10 miles, a full day")], cap="The Fern Lake trail is steep from the first step, and it will tell you so. Everyone says it is only a mile and a half. Everyone says that at the bottom.") }}
 
+{{ figure("mule-deer-buck", "A mule deer buck standing in sagebrush and manzanita at the edge of the forest", "A regular on the loop. Give him room; he was here first.") }}
+
 Carry water, start early in summer, and turn around if thunderheads build over the crest in the afternoon. They do not care that you are almost there.
 
 ## Carson Peak, from the back door
@@ -68,13 +70,19 @@ About half a mile past Grant Lake heading toward Highway 395, turn left onto the
 
 **The Parker Bench option.** At the junction signed for Silver Lake, turn left instead of continuing to Parker Lake. The trail climbs onto Parker Bench, a high sagebrush shoulder with long views down-canyon to Silver Lake and out to Mono Lake. It is spectacular in fall, when the aspens below turn.
 
+## Crater Mountain, top of the Mono Craters
+
+The Mono Craters are the youngest mountain range in North America, a chain of volcanic domes that rose out of the desert between June Lake and Mono Lake in the last forty thousand years, the newest only about six hundred years ago. Crater Mountain is the tallest of them. You drive the sandy fire roads off Highway 120 toward the saddle below the summit, park at the old barrier, and walk up through Jeffrey pine and pumice to a summit plateau of volcanic plugs. Up top, a brass survey marker, Mono Lake on one side, the Sierra crest on the other, and the June Lake Loop tucked into the mountains below.
+
+{{ trail_card("Crater Mountain", [("Summit", "9,172 ft"), ("Round trip", "About 4 miles"), ("Climb", "About 1,400 ft"), ("Time", "About 2.5 hours"), ("Footing", "Sand, pumice and loose rock; a short Class 2 scramble"), ("Access", "Dirt fire roads; a high-clearance car helps")], img="crater-mountain-summit-view", alt="The view from the summit ridge of Crater Mountain over patchy snow, Jeffrey pines and the high desert to the snowy Sierra crest", cap="The top of the youngest range in North America. Walking up a volcano is two steps forward, one step back, all the way. Bring gaiters, or bring a sense of humor and empty your shoes at the top.") }}
+
+{{ figure("crater-mountain-survey-marker", "A brass U.S. Geological Survey reference mark set in the rock at the summit of Crater Mountain", "The survey marker on top. Touch it. Everybody does.") }}
+
 ## Glass Creek Meadow
 
 About twenty minutes south of the chalet, off Highway 395 near Obsidian Dome, the Glass Creek trail climbs beside the creek into a broad meadow under the San Joaquin Ridge, in the Owens River Headwaters Wilderness. In early summer the corn lilies come up in thick green stands and the wildflowers follow.
 
 {{ trail_card("Glass Creek Meadow", [("Trailhead", "About 8,200 ft"), ("To the meadow", "A couple of miles"), ("Best", "Early summer wildflowers"), ("Access", "Day use; high-clearance car")], img="glass-creek-meadow-corn-lilies", alt="Backlit corn lily leaves in the foreground of a wide meadow, with snowy San Joaquin peaks and pine forest beyond", cap="Corn lilies first, the crest behind. Few people know this one. Let us keep it that way.") }}
-
-{{ figure("mule-deer-buck", "A mule deer buck standing in sagebrush and manzanita at the edge of the forest", "A regular on the loop. Give him room; he was here first.") }}
 
 ## Gibbs Lake and Kidney Lake
 
@@ -87,14 +95,6 @@ On Highway 395 south of Lee Vining, turn west on the dirt road signed for Horse 
 An easy walk from the south end of Lee Vining, along a creekside forest coming back to life after decades of water diversion. It ends at the Mono Basin Scenic Area Visitor Center above Mono Lake.
 
 {{ trail_card("Lee Vining Creek Trail", [("Distance", "About 1.5 miles each way"), ("Difficulty", "Easy"), ("Ends at", "Mono Basin Visitor Center")], cap="The one for tired legs, grandparents and the morning after Carson Peak.") }}
-
-## Crater Mountain, top of the Mono Craters
-
-The Mono Craters are the youngest mountain range in North America, a chain of volcanic domes that rose out of the desert between June Lake and Mono Lake in the last forty thousand years, the newest only about six hundred years ago. Crater Mountain is the tallest of them. You drive the sandy fire roads off Highway 120 toward the saddle below the summit, park at the old barrier, and walk up through Jeffrey pine and pumice to a summit plateau of volcanic plugs. Up top, a brass survey marker, Mono Lake on one side, the Sierra crest on the other, and the June Lake Loop tucked into the mountains below.
-
-{{ trail_card("Crater Mountain", [("Summit", "9,172 ft"), ("Round trip", "About 4 miles"), ("Climb", "About 1,400 ft"), ("Time", "About 2.5 hours"), ("Footing", "Sand, pumice and loose rock; a short Class 2 scramble"), ("Access", "Dirt fire roads; a high-clearance car helps")], img="crater-mountain-summit-view", alt="The view from the summit ridge of Crater Mountain over patchy snow, Jeffrey pines and the high desert to the snowy Sierra crest", cap="The top of the youngest range in North America. Walking up a volcano is two steps forward, one step back, all the way. Bring gaiters, or bring a sense of humor and empty your shoes at the top.") }}
-
-{{ figure("crater-mountain-survey-marker", "A brass U.S. Geological Survey reference mark set in the rock at the summit of Crater Mountain", "The survey marker on top. Touch it. Everybody does.") }}
 
 ## Tioga Peak
 
@@ -119,11 +119,5 @@ Southeast of the chalet, on the far rim of the Long Valley Caldera, Glass Mounta
 Within about an hour of the chalet, out on the high desert, there are boulders covered in petroglyphs pecked into the rock by the people who have lived in this country for thousands of years. We do not publish where they are, and neither should you. They are fragile, irreplaceable and deeply important to the Paiute people whose ancestors made them. If you would like to see them, ask us in person, and go the way you would visit any place that matters: look, photograph, and touch nothing.
 
 {{ figure("ancient-petroglyphs-high-desert", "Petroglyphs carved into a dark volcanic boulder on the high desert, with bare mountains under a clear blue sky behind", "Thousands of years old, and still here because people left them alone.") }}
-
-## Tuolumne Grove of Giant Sequoias
-
-About 74 miles west on Tioga Road near Crane Flat, and worth the stop if you are driving on to the Bay Area. The grove holds a couple of dozen mature giant sequoias. The paved trail drops about 400 feet to the grove, so the work comes on the way back.
-
-{{ trail_card("Tuolumne Grove", [("From the chalet", "About 74 miles"), ("Trail", "Paved, about 400 ft down"), ("Season", "When Tioga Road is open")], cap="Downhill to the trees, uphill to the car. The sequoias are three thousand years old. They have seen worse hikers than you.") }}
 
 {{ note("Tioga Road and Yosemite trailheads are seasonal. Check <a href=\"https://www.nps.gov/yose/planyourvisit/conditions.htm\" rel=\"noopener\" target=\"_blank\">current Yosemite conditions</a> before you go, carry water, and plan for afternoon thunderstorms in summer.") }}

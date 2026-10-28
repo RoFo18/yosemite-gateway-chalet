@@ -83,6 +83,24 @@
    1024
   ]
  },
+ "bouldering-overhang-blue-shirt": {
+  "color": "#988065",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
+ "bouldering-rockin-dave-mono-basin": {
+  "color": "#887970",
+  "h": 1086,
+  "w": 724,
+  "widths": [
+   480,
+   724
+  ]
+ },
  "bouldering-silhouette-mono-basin": {
   "color": "#5d697b",
   "h": 802,
@@ -810,6 +828,16 @@
    860
   ]
  },
+ "ice-climber-belay-granite-snow": {
+  "color": "#bdc7cc",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
  "june-lake-chalet-summer": {
   "color": "#554e2b",
   "h": 640,
@@ -1246,6 +1274,25 @@
    1281
   ]
  },
+ "paddleboard-boy-and-mom-glassy-lake": {
+  "color": "#5b5d6e",
+  "h": 768,
+  "w": 1024,
+  "widths": [
+   480,
+   800,
+   1024
+  ]
+ },
+ "paddleboard-family-silver-lake-cliffs": {
+  "color": "#707e91",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
  "paddleboard-rush-creek-silver-lake": {
   "color": "#4d6265",
   "h": 768,
@@ -1310,6 +1357,15 @@
   "w": 280,
   "widths": [
    280
+  ]
+ },
+ "rappel-matthes-crest": {
+  "color": "#8a8477",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
   ]
  },
  "reversed-peak-triangle-cave": {
@@ -1394,6 +1450,15 @@
    480,
    800,
    1024
+  ]
+ },
+ "secret-spot-black-slab-climber": {
+  "color": "#495e72",
+  "h": 1026,
+  "w": 767,
+  "widths": [
+   480,
+   767
   ]
  },
  "sierra-lake-and-forest": {
@@ -1482,6 +1547,17 @@
    480,
    800,
    960
+  ]
+ },
+ "tuolumne-granite-spire-lake-view": {
+  "color": "#506a84",
+  "h": 2052,
+  "w": 1533,
+  "widths": [
+   480,
+   800,
+   1200,
+   1533
   ]
  },
  "upper-hall-railings": {
