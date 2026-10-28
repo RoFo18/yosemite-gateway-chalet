@@ -149,16 +149,6 @@
    860
   ]
  },
- "chalet-lawn-lodgepole-pines": {
-  "color": "#6e674e",
-  "h": 500,
-  "w": 860,
-  "widths": [
-   480,
-   800,
-   860
-  ]
- },
  "chalet-sign-at-dusk": {
   "color": "#544045",
   "h": 1174,
@@ -497,15 +487,6 @@
   "widths": [
    480,
    666
-  ]
- },
- "garage-climbing-wall": {
-  "color": "#7c5e39",
-  "h": 1024,
-  "w": 768,
-  "widths": [
-   480,
-   768
   ]
  },
  "garage-climbing-wall-full": {

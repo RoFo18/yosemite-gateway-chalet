@@ -28,7 +28,7 @@ related: [/the-chalet/, /inquire/, /rates-and-policies/]
 
 Every review gets read in this house, usually out loud, usually twice. A few of them earned an answer.
 
-{{ exchange("charles", "photo-right", "chalet-lawn-lodgepole-pines", "The chalet's log walls and stone foundation on a summer lawn among lodgepole pines and aspens", "35% 55%") }}
+{{ exchange("charles", "photo-right", "young-angler-fly-fishing-creek", "A young angler in a bright tie-dye hoodie fly fishing from a rock on a clear creek under aspens") }}
 
 {{ exchange("chad", "band") }}
 

@@ -26,7 +26,6 @@ WIDTHS = [480, 800, 1200, 1800]
 # source file -> descriptive name used across the site
 NAMES = {
     "044-1front2.jpg": "chalet-exterior-carson-peak",
-    "the-grounds-gallery-3.jpg": "chalet-lawn-lodgepole-pines",
     "the-grounds-gallery-4.jpg": "chalet-grounds-log-exterior",
     "the-grounds-gallery-5.jpg": "chalet-grounds-hammock-aspens",
     "the-grounds-gallery-6.jpg": "chalet-deck-and-forest",
@@ -178,7 +177,6 @@ NAMES = {
     "hq-la-parrilla-june-lake.jpg": "la-parrilla-june-lake",
     "hq-la-parrilla-yeti.jpg": "la-parrilla-yeti",
     "hq-tiger-bar-logo.jpg": "tiger-bar-logo",
-    "vintage-garage-climbing-wall.jpg": "garage-climbing-wall",
     "june-lake-general-store.jpg": "june-lake-general-store",
 }
 
