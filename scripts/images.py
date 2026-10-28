@@ -178,6 +178,7 @@ NAMES = {
     "hq-la-parrilla-yeti.jpg": "la-parrilla-yeti",
     "hq-tiger-bar-logo.jpg": "tiger-bar-logo",
     "june-lake-general-store.jpg": "june-lake-general-store",
+    "hydrotherapy-tub-red-glow-night.jpg": "hydrotherapy-tub-red-glow-night",
 }
 
 

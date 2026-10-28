@@ -222,6 +222,9 @@ def exchange(rid, layout="plain", img=None, alt="", fit=None):
     r = _RV[rid]
     q = f'<blockquote><p>{html.escape(r["text"])}</p></blockquote>{_cite(r)}'
     body = f'<div class="rx-body">{q}{_reply(r)}</div>'
+    if img and layout == "photo-top":
+        pic = picture(img, alt, "(min-width: 900px) 760px, 100vw", fit=fit)
+        return Markup(f'<figure class="rx rx-photo-top"><div class="rx-img">{pic}</div>{body}</figure>')
     if img:
         pic = picture(img, alt, "(min-width: 900px) 45vw, 100vw", fit=fit)
         return Markup(f'<figure class="rx rx-{layout}"><div class="rx-img">{pic}</div>{body}</figure>')
@@ -315,12 +318,15 @@ def locals_list():
         lab = {"url": "Website", "instagram": "Instagram", "facebook": "Facebook"}
         ls = "".join(f'<a href="{u}" rel="noopener" target="_blank">{lab[k]}</a>' for k, u in links)
         meta = " &middot; ".join(html.escape(x) for x in (b.get("address"), b.get("phone")) if x)
+        if b.get("section"):
+            items.append(f'</div><h2 class="lf-section">{html.escape(b["section"])}</h2>'
+                         '<p class="lf-section-note">Neighbors, not partners. When our dates are gone, these are the places we send people.</p><div class="lf-list">')
         img = ""
         if b.get("img"):
             cap = f'<figcaption>{html.escape(b["cap"])}</figcaption>' if b.get("cap") else ""
             img = f'<figure class="lf-img">{picture(b["img"], b["img_alt"], "(min-width: 900px) 30vw, 92vw", fit=b.get("img_fit"))}{cap}</figure>'
         guide = f'<p class="lf-guide">{html.escape(b["guide"])}</p>' if b.get("guide") else ""
-        items.append(f'<article class="lf{" has-img" if img else ""}">{img}<h2 id="{b["id"]}">{html.escape(b["name"])}</h2><p>{html.escape(b["what"])}</p>{guide}'
+        items.append(f'<article class="lf{" has-img" if img else ""}{" lf-wide" if b.get("wide") else ""}">{img}<h2 id="{b["id"]}">{html.escape(b["name"])}</h2><p>{html.escape(b["what"])}</p>{guide}'
                      f'{f"<p class=lf-meta>{meta}</p>" if meta else ""}{f"<p class=dine-links>{ls}</p>" if ls else ""}</article>')
         d = {"@type": b["kind"], "name": b["name"], "description": b["what"],
              "address": {"@type": "PostalAddress", "addressLocality": "June Lake", "addressRegion": "CA", "addressCountry": "US"}}

@@ -720,6 +720,17 @@
    860
   ]
  },
+ "hydrotherapy-tub-red-glow-night": {
+  "color": "#552b2d",
+  "h": 1200,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "hydrotherapy-tub-snow-forest": {
   "color": "#5b5f5b",
   "h": 1606,

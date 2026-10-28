@@ -2,22 +2,6 @@
 # /shoutouts.json, a plain feed that social-media tools and bots can read to write posts.
 # Only verified links. Keep every post under 240 characters, no em dashes.
 locals:
-  - id: ernies
-    name: Ernie's Tackle and Ski Shop
-    kind: SportingGoodsStore
-    what: Ski and snowboard rentals, tunes, fishing tackle, licenses and the best local report in June Lake. Jeremy runs the shop, and he is the one to ask.
-    address: 2604 Boulder Dr., June Lake, CA 93529
-    phone: (760) 648-7756
-    url: https://www.erniestackleandskishop.com/
-    instagram: https://www.instagram.com/erniestacklejl/
-    facebook: https://www.facebook.com/Erniestackleandski/
-    handle: "@erniestacklejl"
-    guide: "If Jeremy says the fish are on the Upper Owens, go to the Upper Owens. If Jeremy says they are not biting anywhere, go anyway, and buy a few more flies on the way out."
-    used_on: [/experiences/winter/, /fly-fishing/, /fly-fishing/june-lake-loop/]
-    posts:
-      - "Skiing June Mountain this week? Get your rentals and a tune at Ernie's Tackle and Ski Shop in June Lake village. Same crew sets you up on a fly rod all summer. @erniestacklejl"
-      - "Before you fish the June Lake Loop, stop at Ernie's. Flies, licenses and the only fishing report that matters. @erniestacklejl"
-      - "Forgot your gloves, your wax, or your waders? Ernie's in June Lake has it, and a good story to go with it. @erniestacklejl"
   - id: la-parrilla
     name: La Parrilla
     kind: Restaurant
@@ -34,6 +18,22 @@ locals:
       - "Best Mexican food in the Eastern Sierra, and we will not be talked out of it: La Parrilla, across the courtyard from June Lake Brewing. @laparrilla_158"
       - "Ski day, fishing day, any day: end it with tacos from La Parrilla and a pint across the courtyard at June Lake Brewing. @laparrilla_158"
       - "Skunked on the June Lake Loop? Happens to the best of us. The cure is La Parrilla, the best Mexican food in the Eastern Sierra, across the courtyard from June Lake Brewing. @laparrilla_158"
+  - id: ernies
+    name: Ernie's Tackle and Ski Shop
+    kind: SportingGoodsStore
+    what: Ski and snowboard rentals, tunes, fishing tackle, licenses and the best local report in June Lake. Jeremy runs the shop, and he is the one to ask.
+    address: 2604 Boulder Dr., June Lake, CA 93529
+    phone: (760) 648-7756
+    url: https://www.erniestackleandskishop.com/
+    instagram: https://www.instagram.com/erniestacklejl/
+    facebook: https://www.facebook.com/Erniestackleandski/
+    handle: "@erniestacklejl"
+    guide: "If Jeremy says the fish are on the Upper Owens, go to the Upper Owens. If Jeremy says they are not biting anywhere, go anyway, and buy a few more flies on the way out."
+    used_on: [/experiences/winter/, /fly-fishing/, /fly-fishing/june-lake-loop/]
+    posts:
+      - "Skiing June Mountain this week? Get your rentals and a tune at Ernie's Tackle and Ski Shop in June Lake village. Same crew sets you up on a fly rod all summer. @erniestacklejl"
+      - "Before you fish the June Lake Loop, stop at Ernie's. Flies, licenses and the only fishing report that matters. @erniestacklejl"
+      - "Forgot your gloves, your wax, or your waders? Ernie's in June Lake has it, and a good story to go with it. @erniestacklejl"
   - id: tiger-bar
     name: The Tiger Bar
     kind: BarOrPub
@@ -60,6 +60,18 @@ locals:
     posts:
       - "Staying on the June Lake Loop? The June Lake General Store has your groceries, your firewood and the thing you forgot to pack."
       - "Luis and his family run the June Lake General Store, and the whole town is better for it. Off season, check the hours before you go in the morning."
+  - id: sierra-moments
+    name: Sierra Moments Fishing Adventures
+    kind: TravelAgency
+    what: Family-friendly fishing and fly-fishing guide service in June Lake, run by Scott "Knot," with 50+ years on Eastern Sierra water.
+    phone: (760) 577-1247
+    url: https://www.sierramoments.com/
+    facebook: https://www.facebook.com/sierramoments
+    guide: "Knot has been on this water for fifty years. The fish have been here longer, but not by much, and he knows most of them personally."
+    used_on: [/fly-fishing/, /fly-fishing/upper-owens-river/, /fly-fishing/june-lake-loop/]
+    posts:
+      - "First trout on a fly rod? Call Knot at Sierra Moments Fishing Adventures in June Lake. Fifty years on Eastern Sierra water and very good with kids."
+      - "The Upper Owens, the June Lake Loop or a backcountry lake: Knot at Sierra Moments knows where the fish are this week."
   - id: sierra-mountain-guides
     name: Sierra Mountain Guides
     kind: TravelAgency
@@ -74,20 +86,9 @@ locals:
       - "Ski from the top of June Mountain to a hot tub. With Sierra Mountain Guides and Howie Schwartz, snow allowing, you can. Avalanche training required, good times included. @sierramountainguides"
       - "June Mountain has some of the best lift-assisted backcountry in the lower 48. Do it right: go with Sierra Mountain Guides. @sierramountainguides"
       - "Want to learn the backcountry yourself? Sierra Mountain Guides runs avalanche courses all winter in the Eastern Sierra. @sierramountainguides"
-  - id: sierra-moments
-    name: Sierra Moments Fishing Adventures
-    kind: TravelAgency
-    what: Family-friendly fishing and fly-fishing guide service in June Lake, run by Scott "Knot," with 50+ years on Eastern Sierra water.
-    phone: (760) 577-1247
-    url: https://www.sierramoments.com/
-    facebook: https://www.facebook.com/sierramoments
-    guide: "Knot has been on this water for fifty years. The fish have been here longer, but not by much, and he knows most of them personally."
-    used_on: [/fly-fishing/, /fly-fishing/upper-owens-river/, /fly-fishing/june-lake-loop/]
-    posts:
-      - "First trout on a fly rod? Call Knot at Sierra Moments Fishing Adventures in June Lake. Fifty years on Eastern Sierra water and very good with kids."
-      - "The Upper Owens, the June Lake Loop or a backcountry lake: Knot at Sierra Moments knows where the fish are this week."
   - id: frontier-pack-train
     name: Frontier Pack Train
+    wide: true
     kind: TouristAttraction
     what: Horseback rides from an hour to several days, from the pack station near Silver Lake on the June Lake Loop.
     phone: (760) 648-7701
@@ -97,6 +98,7 @@ locals:
       - "Horseback up Parker Bench with Mono Lake laid out below. Frontier Pack Train on the June Lake Loop, a few minutes from the chalet."
   - id: silver-lake-resort
     name: Silver Lake Resort
+    section: If we are full
     kind: LodgingBusiness
     what: Classic cabins on Silver Lake and a cafe with one of the best breakfasts on the June Lake Loop. Seasonal, roughly late spring to fall.
     address: Silver Lake, June Lake Loop, Highway 158
@@ -105,15 +107,6 @@ locals:
     posts:
       - "Breakfast at the Silver Lake Resort cafe, then a paddle on Silver Lake. That is a whole morning on the June Lake Loop, done right."
       - "Some Silver Lake Resort cabin weeks have been booked by the same families for generations. If you get one, keep it."
-  - id: june-lake-pines
-    name: June Lake Pines Cottages
-    kind: LodgingBusiness
-    what: Cottages in June Lake village, good value and well run for years.
-    address: June Lake village
-    url: https://www.junelakepines.com/
-    used_on: [/faq/]
-    posts:
-      - "Looking for a good-value base in June Lake village? June Lake Pines Cottages has been well run for years."
   - id: double-eagle
     name: Double Eagle Resort and Spa
     kind: Resort
@@ -127,3 +120,13 @@ locals:
     posts:
       - "Walk a mile through the aspens on the Forest Service trail and you are at the Double Eagle: massage, workout, pool, and a fishing pond for the little ones. @doubleeagleresort"
       - "When the kitchen at Eagle's Landing is on, it is really on. Breakfast with a waterfall view on the June Lake Loop. @doubleeagleresort"
+  - id: june-lake-pines
+    name: June Lake Pines Cottages
+    wide: true
+    kind: LodgingBusiness
+    what: Cottages in June Lake village, good value and well run for years.
+    address: June Lake village
+    url: https://www.junelakepines.com/
+    used_on: [/faq/]
+    posts:
+      - "Looking for a good-value base in June Lake village? June Lake Pines Cottages has been well run for years."
