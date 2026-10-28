@@ -44,7 +44,7 @@ lead: The chalet, the Loop it sits on, and the high country beyond, one photogra
   ("paddleboard-rush-creek-silver-lake", "Rush Creek above Silver Lake", "Five paddleboards wait in the garage. This slow meander up from Silver Lake is our favorite paddle."),
   ("grant-lake-cliff-jump", "Grant Lake in summer", "The biggest lake on the loop, with granite ledges and cold, clear water."),
   ("grant-lake-sunset-stone-throw", "Sunset at Grant Lake", "The wind drops in the evening and the sky over the Mono Basin catches fire."),
-  ("parker-bench-silver-lake-view", "Parker Bench", "A branch off the Parker Lake trail climbs to long views down the Loop to Silver Lake."),
+  ("parker-bench-silver-lake-view", "Parker Bench", "A branch off the Parker Lake trail climbs to long views down-canyon to Silver Lake."),
   ("june-lake-loop-fall-aspens", "October on the loop", "The aspens of the June Lake Loop are among the last in Mono County to turn gold."),
   ("wild-mustangs-mono-basin", "Wild mustangs", "Bands of wild horses roam the high desert around Mono Lake. Seeing one is never guaranteed, and always unforgettable."),
   ("skiing-june-mountain-corduroy", "June Mountain", "A mile from the door. Kids 12 and under ski free all season."),
