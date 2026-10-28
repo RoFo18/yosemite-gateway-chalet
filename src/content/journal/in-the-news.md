@@ -18,7 +18,9 @@ When we remodeled the chalet, we wanted it to last a long time and sit lightly o
 
 ## What makes it green
 
-The heat comes from the ground. Geothermal heat pumps pull steady warmth out of the earth under the chalet, which is a good trick in a place where the winter nights go well below zero. The tile is 43% recycled. The eleven-and-a-half-foot dining table and the bar stools are cut from local timber. The sheets and towels are organic cotton, and the house has recycling service.
+{{ figure("copper-faucet-detail", "The hand-hammered copper sink and faucet at the chalet's breakfast bar, against a counter of local oak", "Hand-hammered copper from Mexico, set in local wood.") }}
+
+The heat comes from the ground. Geothermal heat pumps pull steady warmth out of the earth under the chalet, which is a good trick in a place where the winter nights go well below zero. The tile is 43% recycled. The twelve-foot dining table and the bar stools are cut from local timber. The sheets and towels are organic cotton, and the house has recycling service.
 
 {{ guide_says("The ground under June Lake stays the same temperature all year. The air above it does not. Geothermal is just the house being smart enough to notice.") }}
 

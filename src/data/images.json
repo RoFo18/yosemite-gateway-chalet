@@ -260,6 +260,17 @@
    1064
   ]
  },
+ "dining-room-dinner-set": {
+  "color": "#a7693e",
+  "h": 1166,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "dining-room-doorway": {
   "color": "#955d34",
   "h": 500,
@@ -945,6 +956,17 @@
    480,
    800,
    837
+  ]
+ },
+ "la-parrilla-june-lake": {
+  "color": "#7e6e60",
+  "h": 669,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "light-through-the-canyon": {

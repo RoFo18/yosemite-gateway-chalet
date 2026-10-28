@@ -64,7 +64,7 @@ Book as early as you can for the winter holidays, Presidents' Day weekend, the F
 - Three suites, each with a private bath, plus a half bath downstairs
 - An outdoor hydrotherapy tub for six under Carson Peak, open all year
 - A Grand Room with a 21-foot ceiling, an open fire and an oak bar
-- A remodeled kitchen and an eleven-and-a-half-foot dining table
+- A remodeled kitchen and a twelve-foot dining table
 - Five paddleboards in the garage, and a mile to June Mountain
 - A flat $295 cleaning fee, $59 a night for a seventh and eighth guest, and the 15% lodging tax, nothing else
 

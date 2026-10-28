@@ -21,4 +21,4 @@ Grant Lake, the biggest, sits at the north end, open and wild, with granite ledg
 
 {{ guide_says("There are two kinds of people at the rope swing: the ones who go, and the ones who explain why they are not going. By the end of the afternoon, there is only one kind.") }}
 
-By late afternoon the wind comes up, the boards go back on the rack, and everybody drifts home sunburned and starving. The hot tub is waiting, then dinner at an eleven-and-a-half-foot table, then the creek outside the window. For more summer ideas, see [summer at June Lake](/experiences/summer/) and our [June Lake guide](/guides/june-lake/). [Send us your dates](/inquire/).
+By late afternoon the wind comes up, the boards go back on the rack, and everybody drifts home sunburned and starving. The hot tub is waiting, then dinner at a twelve-foot table, then the creek outside the window. For more summer ideas, see [summer at June Lake](/experiences/summer/) and our [June Lake guide](/guides/june-lake/). [Send us your dates](/inquire/).

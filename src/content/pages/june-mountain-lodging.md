@@ -67,7 +67,7 @@ From Southern California, US 395 is usually plowed and open; from the Bay Area, 
 
 ## After skiing
 
-Most nights you will cook, with a six-burner stove and an eleven-and-a-half-foot table waiting. When you would rather not, La Parrilla, just outside June Lake Brewing in the village, serves the best Mexican food in the Eastern Sierra, and the reborn Tiger Bar is a few minutes away. See [where to eat](/experiences/dining/).
+Most nights you will cook, with a six-burner stove and a twelve-foot table waiting. When you would rather not, La Parrilla, just outside June Lake Brewing in the village, serves the best Mexican food in the Eastern Sierra, and the reborn Tiger Bar is a few minutes away. See [where to eat](/experiences/dining/).
 
 ## Who it suits
 

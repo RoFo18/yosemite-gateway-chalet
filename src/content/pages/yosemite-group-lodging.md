@@ -16,7 +16,7 @@ faq:
   - q: How many people can stay at the chalet?
     a: Up to eight overnight guests, including infants, and no more than ten people on the property at any time. Mono County sets these limits.
   - q: How are the beds arranged for a group?
-    a: Three upstairs suites, each with a private bath, hold two California Kings and a queen. A pull-out couch in the master suite's loft and a pull-out futon in the Grand Room sleep two more.
+    a: Three upstairs suites, each with a private bath, hold two California Kings and a queen. A pull-out couch in the master suite's loft and a pull-out futon in the family room off the kitchen sleep two more.
   - q: Can we host an event or reunion at the chalet?
     a: No. The county limit of eight overnight guests and ten people on site rules out weddings, parties and reunions.
   - q: How many cars can we bring?
@@ -34,8 +34,8 @@ Most lodging inside and around Yosemite is built for couples: hotel rooms, motel
 | --- | --- |
 | Guests | Up to 8, including infants |
 | Bedrooms | 3 suites, each with a private bath, plus a half bath downstairs |
-| Beds | 2 California Kings, 1 queen, a pull-out sofa in the master loft, a pull-out futon in the Grand Room |
-| Gathering space | Grand Room with a 21-foot ceiling, open fire and oak bar; 11.5-foot dining table |
+| Beds | 2 California Kings, 1 queen, a pull-out sofa in the master loft, a pull-out futon in the family room off the kitchen |
+| Gathering space | Grand Room with a 21-foot ceiling, open fire and oak bar; 12-foot dining table |
 | Yosemite | 27 miles to the Tioga Pass entrance, 45 minutes to Tuolumne Meadows (seasonal) |
 | Fees | Flat $295 cleaning fee, $59 a night for a seventh and eighth guest, and Mono County's 15% lodging tax |
 | Parking | 3 cars |
@@ -44,11 +44,11 @@ Most lodging inside and around Yosemite is built for couples: hotel rooms, motel
 
 Upstairs, the **master suite** has a California King, a private two-person jacuzzi and a loft with a pull-out couch. The **Elsie Room** has a ruby-red claw-foot tub. The **River Room** is the quietest in the house, with Yost Creek below the window. Every suite has its own bath, so nobody waits in a hallway in the morning.
 
-Downstairs, a pull-out futon in the Grand Room sleeps one or two more. The [floorplan](/the-chalet/floorplan/) shows how the two levels fit together.
+Downstairs, a pull-out futon in the family room off the kitchen sleeps one or two more. The [floorplan](/the-chalet/floorplan/) shows how the two levels fit together.
 
 ## Cooking and gathering
 
-Groups eat in. The remodeled kitchen has a six-burner stove, a double oven and a handmade copper sink, and it is stocked down to the coffee grinder and the garlic press. Dinner goes on an eleven-and-a-half-foot table of local pine. After dark, the outdoor hydrotherapy tub seats six under Carson Peak and runs all year.
+Groups eat in. The remodeled kitchen has a six-burner stove, a double oven and a handmade copper sink, and it is stocked down to the coffee grinder and the garlic press. Dinner goes on a twelve-foot table of local pine. After dark, the outdoor hydrotherapy tub seats six under Carson Peak and runs all year.
 
 {{ quote("naomi") }}
 

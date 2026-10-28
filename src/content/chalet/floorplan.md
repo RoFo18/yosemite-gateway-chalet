@@ -21,11 +21,11 @@ related: [/the-chalet/, /the-chalet/master-suite/, /gallery/]
 <h2>Main level</h2>
 <p>Where everyone gathers. Steps lead up from the driveway to the front door, and the entry hall opens to the Grand Room on one side and the kitchen on the other.</p>
 <dl>
-<div><dt>Grand Room</dt><dd>Twenty-one-foot ceiling, open fireplace, oak bar and wet bar, and a pull-out futon that sleeps one or two</dd></div>
+<div><dt>Grand Room</dt><dd>Twenty-one-foot ceiling, open fireplace, oak bar and wet bar</dd></div>
 <div><dt>Deck and tub</dt><dd>Through the Grand Room doors, with the outdoor hydrotherapy tub under Carson Peak</dd></div>
 <div><dt>Kitchen</dt><dd>Remodeled, with a six-burner stove and a handmade copper sink</dd></div>
-<div><dt>Dining room</dt><dd>An eleven-and-a-half-foot table of local pine</dd></div>
-<div><dt>Family room</dt><dd>Wood stove, open to the kitchen</dd></div>
+<div><dt>Dining room</dt><dd>A twelve-foot table of local pine, and a shelf of puzzles and board games, chess included</dd></div>
+<div><dt>Family room</dt><dd>Wood stove, open to the kitchen, and a pull-out futon that sleeps one or two</dd></div>
 <div><dt>Mud room</dt><dd>Room for skis, boots and paddleboard gear</dd></div>
 <div><dt>Half bath</dt><dd>Off the entry hall</dd></div>
 </dl>

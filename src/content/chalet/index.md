@@ -51,13 +51,28 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <section class="ch-split">
 <div class="ch-media">{{ picture("kitchen-copper-sink", "The remodeled kitchen: cooktop, double oven and butcher block under log beams", "(min-width: 900px) 55vw, 100vw") }}</div>
 <div class="ch-copy">
-<h2>Kitchen and dining</h2>
+<h2>The kitchen</h2>
 <p>Completely remodeled, with a six-burner stove, a double oven and a handmade copper sink from Mexico. It is stocked down to the coffee grinder and the garlic press. Bring food, and nothing else.</p>
-<p>Dinner is served at an eleven-and-a-half-foot table of local pine. The family room next door has a wood stove, and it is where the late conversations end up.</p>
 </div>
 </section>
 
-{{ figure("family-room-wood-stove", "The family room: leather couches under log walls and beams, the oak breakfast bar with its copper sink, and the wood stove in the corner", "The family room, off the kitchen. The wood stove does the rest.") }}
+<section class="ch-split reverse">
+<div class="ch-media">{{ picture("dining-room-dinner-set", "Dinner set for a crowd on the twelve-foot pine table in the log-walled dining room, with wine, salad and green plates under pendant lights", "(min-width: 900px) 55vw, 100vw") }}</div>
+<div class="ch-copy">
+<h2>The dining room</h2>
+<p>A twelve-foot slab of local pine with benches on both sides, so nobody ends up at the kids' table. This is where the big dinners happen, and where the trip gets retold, a little taller each night.</p>
+<p>The shelves are stacked with puzzles and board games, chess included. Somebody always starts a thousand-piece puzzle on day one. Nobody ever finishes it, and that is part of the tradition.</p>
+</div>
+</section>
+
+<section class="ch-split">
+<div class="ch-media">{{ picture("log-sitting-room", "The family room off the kitchen: log walls, a leather loveseat and armchairs by the windows, and the pull-out futon under a Native-pattern blanket", "(min-width: 900px) 55vw, 100vw") }}</div>
+<div class="ch-copy">
+<h2>The family room</h2>
+<p>Off the kitchen, with a wood stove, leather chairs and windows onto the pines. It is where the late conversations end up.</p>
+<p>The couch under the blanket is a pull-out futon, and it sleeps one or two. That is the seventh and eighth bed people ask us about.</p>
+</div>
+</section>
 
 <section class="ch-split reverse">
 <div class="ch-media">{{ picture("mud-room-bench-and-cubbies", "The mud room: a log bench, open cubbies, a long row of coat hooks and windows onto the pines", "(min-width: 900px) 55vw, 100vw") }}</div>
@@ -89,7 +104,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <h3>To soak</h3>
 <p>Two hot tubs: the outdoor hydrotherapy tub for six, open all year under Carson Peak, and an indoor two-person jacuzzi in the master suite. Plus a claw-foot tub in the Elsie Room.</p>
 <h3>To sleep</h3>
-<p>Eight overnight guests: two California Kings and a queen in the three suites, all memory foam, plus a pull-out sofa in the master suite's loft and a pull-out futon in the Grand Room. Organic cotton sheets and towels.</p>
+<p>Eight overnight guests: two California Kings and a queen in the three suites, all memory foam, plus a pull-out sofa in the master suite's loft and a pull-out futon in the family room off the kitchen. Organic cotton sheets and towels.</p>
 </div>
 <div>
 <h3>To play</h3>

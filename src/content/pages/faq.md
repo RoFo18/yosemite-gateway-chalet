@@ -8,7 +8,7 @@ seo_title: FAQ | Yosemite Gateway Chalet, June Lake Vacation Rental
 description: "Answers about Yosemite Gateway Chalet: beds, fees, the hot tub, pets, weddings, snow, distance to Yosemite, parking, check-in and how to book."
 topic: Yosemite Gateway Chalet FAQ
 hero: dining-room-timber-table
-hero_alt: The chalet's eleven-and-a-half-foot dining table of local pine
+hero_alt: The chalet's twelve-foot dining table of local pine
 lead: The questions guests ask most, answered plainly.
 faq_title: Staying at the chalet
 faq_open: true
@@ -21,7 +21,7 @@ faq:
 - q: How many people does the chalet sleep?
   a: "Up to eight overnight guests, and infants count. No more than ten people may be on the property at any time. Mono County sets these limits for fire safety, our license depends on them, and we enforce them. Rates cover six; a seventh and eighth guest are $59 a night each, waived for active-duty military families."
 - q: What are the beds, and where is everyone sleeping?
-  a: 'Three suites upstairs, each with its own bath: the master suite has a California King and a loft above it with a pull-out sofa; the Elsie Room has a California King; the River Room has a queen. Downstairs, a pull-out futon in the Grand Room sleeps one or two more. All the beds are memory foam. The floorplan is on this page, and in more detail on the [floorplan page](/the-chalet/floorplan/).'
+  a: 'Three suites upstairs, each with its own bath: the master suite has a California King and a loft above it with a pull-out sofa; the Elsie Room has a California King; the River Room has a queen. Downstairs, a pull-out futon in the family room, off the kitchen, sleeps one or two more. All the beds are memory foam. The floorplan is on this page, and in more detail on the [floorplan page](/the-chalet/floorplan/).'
 - q: How private is the loft in the master suite?
   a: Like any loft, whoever sleeps there has a commanding view of the room below. It is open to the master bedroom below, so it suits children or close friends best.
 - q: Are there stairs?
@@ -83,7 +83,7 @@ faq:
 
 {{ figure("stair-landing-chandelier", "The stair landing: log railings, a brass chandelier and a dreamcatcher on the wall above the entry hall", "Yes, there are stairs. These are the good kind.") }}
 
-{{ figure("floorplan-main-level", "Main level floorplan: the Grand Room with its fireplace and pull-out futon, the kitchen, dining room, family room, mud room and the deck with the outdoor hot tub", "Main level: the Grand Room (with the pull-out futon), kitchen, dining, family room and the deck with the hot tub.") }}
+{{ figure("floorplan-main-level", "Main level floorplan: the Grand Room with its fireplace, the kitchen, dining room, family room with the pull-out futon, mud room and the deck with the outdoor hot tub", "Main level: the Grand Room, kitchen, dining, the family room (with the pull-out futon) and the deck with the hot tub.") }}
 
 {{ figure("floorplan-upper-level", "Upper level floorplan: the master suite with jacuzzi and loft, the Elsie Room with claw-foot tub, and the River Room, each with a private bath", "Upper level: three suites, each with its own bath. The master's loft is above its bedroom.") }}
 

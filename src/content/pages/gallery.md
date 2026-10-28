@@ -23,7 +23,7 @@ lead: The chalet, the Loop it sits on, and the high country beyond, one photogra
   ("grand-room-fireside-gathering", "The Grand Room", "Ceilings rise twenty-one feet over an open fireplace. This is where the day ends, whoever is staying."),
   ("grand-room-oak-bar-wine", "The oak bar", "Stools cut from local timber, and room for everyone to pull one up."),
   ("grand-room-evening-lamplight", "Evening lamplight", "Leather couches, a backgammon table and a fire that is easy to keep going."),
-  ("dining-room-timber-table", "An eleven-and-a-half-foot table", "Made from local pine, long enough for eight and the next morning's maps."),
+  ("dining-room-timber-table", "An twelve-foot table", "Made from local pine, long enough for eight and the next morning's maps."),
   ("dinner-at-the-chalet", "Dinner at home", "Some nights you cook. The kitchen is stocked down to the garlic press."),
   ("kitchen-copper-sink", "The kitchen", "Fully remodeled, with a handmade copper sink, a six-burner stove and a double oven."),
   ("family-room-wood-stove", "The family room", "A wood stove beside the kitchen. Late conversations end up here."),

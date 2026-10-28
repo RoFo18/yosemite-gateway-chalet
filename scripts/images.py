@@ -175,6 +175,8 @@ NAMES = {
     "hq-log-sitting-room.jpg": "log-sitting-room",
     "hq-drive-up-395-sierra.jpg": "drive-up-395-sierra",
     "hq-kachina-dolls-mantel.jpg": "kachina-dolls-mantel",
+    "hq-dining-room-dinner-set.jpg": "dining-room-dinner-set",
+    "hq-la-parrilla-june-lake.jpg": "la-parrilla-june-lake",
 }
 
 
