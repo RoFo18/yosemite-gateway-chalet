@@ -19,11 +19,10 @@ related: [/the-chalet/, /inquire/, /rates-and-policies/]
 
 {{ exchange("nicholas", "lead") }}
 
-<div class="light-trio">
-<figure>{{ picture("hydrotherapy-tub-snow-forest", "The stone-and-tile hydrotherapy tub in winter sun, snow on the lawn and tall pines and aspens behind", "(min-width: 760px) 33vw, 100vw") }}</figure>
-<figure>{{ picture("family-room-leather-sofa", "Leather couches by the windows in the family room, under log walls and beams", "(min-width: 760px) 33vw, 100vw") }}</figure>
-<figure>{{ picture("curio-cabinet-pottery", "Pueblo pottery and painted plates in a lit cabinet in the dining room", "(min-width: 760px) 33vw, 100vw") }}</figure>
-<figcaption>What the reviews keep coming back to: the tub, the fire, and a house that feels lived in.</figcaption>
+<div class="light-trio duo">
+<figure>{{ picture("family-room-leather-sofa", "Leather couches by the windows in the family room, under log walls and beams", "(min-width: 760px) 45vw, 100vw") }}</figure>
+<figure>{{ picture("curio-cabinet-pottery", "Pueblo pottery and painted plates in a lit cabinet in the dining room", "(min-width: 760px) 45vw, 100vw") }}</figure>
+<figcaption>What the reviews keep coming back to: the fire, the long couches, and a house that feels lived in.</figcaption>
 </div>
 
 ## We write back
@@ -36,7 +35,7 @@ Every review gets read in this house, usually out loud, usually twice. A few of 
 
 <div class="rx-pair">{{ exchange("naomi", "card") }}{{ exchange("jeff", "card") }}</div>
 
-{{ exchange("mark", "photo-left", "grand-room-fireside-evening", "Friends gathered around the Grand Room's stone fireplace on a winter evening") }}
+{{ exchange("mark", "photo-left", "hydrotherapy-tub-snow-forest", "The stone-and-tile hydrotherapy tub in winter sun, snow on the lawn and tall pines and aspens behind") }}
 
 {{ exchange("scott", "plain") }}
 
