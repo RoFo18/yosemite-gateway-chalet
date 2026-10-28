@@ -19,7 +19,7 @@ related: [/yosemite-national-park-lodging/, /guides/june-lake/, /faq/]
 
 ## Finding us
 
-From US 395, take Highway 158, the June Lake Loop, west into the canyon. Drive one mile past June Mountain. The chalet is on your left. After dark, look for the sign.
+From US 395, take Highway 158, the June Lake Loop, west into the mountains. Drive one mile past June Mountain. The chalet is on your left. After dark, look for the sign.
 
 {{ figure("yosemite-gateway-chalet-sign", "The Yosemite Gateway Chalet sign, black letters backlit on warm wood at night", "You have arrived.") }}
 

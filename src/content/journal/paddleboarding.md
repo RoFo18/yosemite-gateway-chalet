@@ -11,7 +11,7 @@ updated: 2026-10-27
 ---
 Summer on the June Lake Loop is a water day. Four lakes sit within a few miles of each other, and the creeks that connect them run cold and clear out of the high country. At the chalet, five full-size stand-up paddleboards and one kid-size board wait in the garage, so nobody has to rent anything, haul anything or drive into town. The only question is where to put in.
 
-Our answer is almost always Rush Creek, where it winds into Silver Lake. Put in on the lake and turn upstream. The creek slows as it meanders through the meadow, so clear you can count the trout under the board, and the canyon walls rise straight ahead, streaked with snow into early summer. Go in the morning, before the afternoon wind comes up, and you will often have the water to yourself.
+Our answer is almost always Rush Creek, where it winds into Silver Lake. Put in on the lake and turn upstream. The creek slows as it meanders through the meadow, so clear you can count the trout under the board, and the walls of the Loop rise straight ahead, streaked with snow into early summer. Go in the morning, before the afternoon wind comes up, and you will often have the water to yourself.
 
 {{ guide_says("Rush Creek is flat, cold and perfectly clear, which means everyone on the bank can see exactly how you fell in. Wear the thing you do not mind getting wet. You will get wet.") }}
 

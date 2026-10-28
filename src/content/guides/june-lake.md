@@ -48,7 +48,7 @@ sources:
 ---
 ## The June Lake Loop
 
-Highway 158 leaves US 395 south of Lee Vining, curves west into a glacial canyon below Carson Peak, and returns to 395 farther north, a horseshoe of about 14 miles. Along the way it passes June Lake and its village, Gull Lake, June Mountain, Silver Lake, Rush Creek and Grant Lake, with steep granite walls on one side and the Ansel Adams Wilderness beyond. People have called it the Switzerland of California for generations.
+Highway 158 leaves US 395 south of Lee Vining, curves west into a glacial valley below Carson Peak, and returns to 395 farther north, a horseshoe of about 14 miles. Along the way it passes June Lake and its village, Gull Lake, June Mountain, Silver Lake, Rush Creek and Grant Lake, with steep granite walls on one side and the Ansel Adams Wilderness beyond. People have called it the Switzerland of California for generations.
 
 The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, between the ski area and the Double Eagle Resort, about a mile up-canyon from the Fern Lake trailhead.
 
@@ -56,7 +56,7 @@ The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, betwee
 
 {{ figure("june-lake-loop-dock-morning", "A small aluminum rental boat tied to a wooden dock on a mirror-still lake, with morning mist and a snow-dusted granite peak reflected", "Morning on the loop, before anyone else is up.") }}
 
-**June Lake** is the one that gives the town its name, with a sandy beach, a marina and the village on its shore. **Gull Lake**, the smallest, is tucked into the village and has the calmest water for paddling. **Silver Lake** sits deep in the canyon under the cliffs, with phenomenal sunrises and some of the best trout water on the loop. **Grant Lake**, the largest, is a reservoir at the north end, open and windswept, with good bait fishing where the creek comes in. Our [fishing guide](/fly-fishing/) has the details.
+**June Lake** is the one that gives the town its name, with a sandy beach, a marina and the village on its shore. **Gull Lake**, the smallest, is tucked into the village and has the calmest water for paddling. **Silver Lake** sits deep in the Loop under the cliffs, with phenomenal sunrises and some of the best trout water on the loop. **Grant Lake**, the largest, is a reservoir at the north end, open and windswept, with good bait fishing where the creek comes in. Our [fishing guide](/fly-fishing/) has the details.
 
 ## June Mountain
 
@@ -74,7 +74,7 @@ June Mountain is a small, friendly ski area right on the loop, with about 2,580 
 
 ## A week from June Lake
 
-1. **Settle in.** Walk out the back door, a mile down-canyon and up the trail to Fern Lake, then tacos at La Parrilla in the village.
+1. **Settle in.** Walk out the back door, a mile down the Loop and up the trail to Fern Lake, then tacos at La Parrilla in the village.
 2. **Tuolumne Meadows.** Over Tioga Pass early for Cathedral Lakes or Lembert Dome. See [Tuolumne Meadows](/guides/tuolumne-meadows/).
 3. **The lakes.** Paddle Gull Lake, fish Silver Lake at sunrise, swim from the beach at June Lake.
 4. **Mono Lake and Bodie.** The tufa towers at dawn and the ghost town after lunch. See [sightseeing](/experiences/sightseeing/).

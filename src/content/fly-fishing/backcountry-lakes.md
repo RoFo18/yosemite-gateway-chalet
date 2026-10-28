@@ -27,7 +27,7 @@ places:
     containedIn: Ansel Adams Wilderness
 faq:
   - q: Can you fish Fern Lake from June Lake?
-    a: Yes. Fern Lake is about a mile down-canyon from the chalet's back door to the trailhead, then about 1.6 miles and roughly 1,600 feet of climbing to the lake, which holds brook trout that take dry flies.
+    a: Yes. Fern Lake is about a mile down the Loop from the chalet's back door to the trailhead, then about 1.6 miles and roughly 1,600 feet of climbing to the lake, which holds brook trout that take dry flies.
   - q: Are there golden trout near June Lake?
     a: California golden trout were stocked into high lakes throughout the Sierra Nevada decades ago, and some high basins in the Ansel Adams Wilderness hold them. Finding them is part of the deal.
   - q: What are the rules at Parker Lake?
@@ -44,7 +44,7 @@ sources:
 
 ## From the back door: Fern Lake
 
-Walk out of the chalet, about a mile down-canyon to the trailhead, then straight up: about 1.6 miles and 1,600 feet to a small cirque lake on the shoulder of Carson Peak. Brook trout, cruising the edges, eating dry flies with the enthusiasm of fish that do not see many. A half day, and you never touch the car. See the [hiking notes](/experiences/hiking/#fern-and-yost-lakes-from-the-chalet).
+Walk out of the chalet, about a mile down the Loop to the trailhead, then straight up: about 1.6 miles and 1,600 feet to a small cirque lake on the shoulder of Carson Peak. Brook trout, cruising the edges, eating dry flies with the enthusiasm of fish that do not see many. A half day, and you never touch the car. See the [hiking notes](/experiences/hiking/#fern-and-yost-lakes-from-the-chalet).
 
 ## Parker Lake
 

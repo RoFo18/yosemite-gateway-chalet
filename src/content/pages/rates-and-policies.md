@@ -39,7 +39,7 @@ Our family has been part of the June Lake community since 1968, and the chalet i
 
 ## The house rules
 
-June Lake is a small, quiet canyon. Sound carries over water and granite, and the neighbors can hear a mouse tiptoe across cotton. These rules are why the chalet still has its permit, its neighbors and its five-star reviews. They are not negotiable.
+The June Lake Loop is small and quiet. Sound carries over water and granite, and the neighbors can hear a mouse tiptoe across cotton. These rules are why the chalet still has its permit, its neighbors and its five-star reviews. They are not negotiable.
 
 **Guests: eight overnight, ten on the property, every person counts.** That includes infants. The limits are set by Mono County for fire safety, and our business license depends on them, so we enforce them. Over all our years of hosting, nearly every problem we have had came from parties of seven or more. Since we added the seventh and eighth guest fee, those problems have all but disappeared. Please be honest about your headcount. If it is not right, we will know.
 

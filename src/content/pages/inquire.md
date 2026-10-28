@@ -55,4 +55,4 @@ updated: 2026-10-27
 <div class="full"><button class="btn btn-solid" type="submit">Send inquiry</button></div>
 </form>
 
-Got a question before you send it? <button type="button" class="link-btn" data-chat-open>Ask the chat</button>. It knows the house and the canyon, and it can check your dates. You can also book instantly on [VRBO](https://www.vrbo.com/452799) or [Airbnb](https://www.airbnb.com/h/yosemitechalet).
+Got a question before you send it? <button type="button" class="link-btn" data-chat-open>Ask the chat</button>. It knows the house and the Loop, and it can check your dates. You can also book instantly on [VRBO](https://www.vrbo.com/452799) or [Airbnb](https://www.airbnb.com/h/yosemitechalet).

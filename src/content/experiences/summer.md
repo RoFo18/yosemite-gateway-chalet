@@ -15,7 +15,7 @@ related: [/experiences/hiking/, /fly-fishing/, /guides/tuolumne-meadows/]
 ---
 ## Paddleboards in the garage
 
-Five stand-up paddleboards and a kid-size board wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Carry them down to the shore of Silver Lake, a few minutes away, and you are on the water. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the canyon walls. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
+Five stand-up paddleboards and a kid-size board wait in the garage for guests, so there is nothing to rent and nothing to haul up from town. Carry them down to the shore of Silver Lake, a few minutes away, and you are on the water. Our favorite paddle is Rush Creek above Silver Lake, where the creek winds slowly through the meadow under the walls of the Loop. Put in on Silver Lake, turn upstream, and the peaks fill the view the whole way.
 
 {{ guide_says("The kid-size board is the most fought-over object in the house. Settle who gets it before you leave the driveway. Rush Creek is flat, cold and perfectly clear, which means everyone on the bank can see exactly how you fell in.", "Local knowledge") }}
 

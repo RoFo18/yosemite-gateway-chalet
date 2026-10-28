@@ -20,7 +20,7 @@ updated: 2026-10-27
 {% set g = pages["/guides/tuolumne-meadows/"] %}<li><a href="/guides/tuolumne-meadows/">{{ g.nav_title or g.title }}</a><p>Yosemite's high country: granite domes, a river you can wade, and none of the Valley's traffic. The park the postcards forgot.</p></li>
 {% set g = pages["/guides/yosemite-east-side-in-winter/"] %}<li><a href="/guides/yosemite-east-side-in-winter/">{{ g.nav_title or g.title }}</a><p>Tioga Road is closed. The east side is not. Here is what to do instead of sulking.</p></li>
 </ul></div></section>
-<section class="plan-group has-img"><div class="pg-img">{{ picture("fern-creek-falls", "Fern Creek tumbling down the canyon wall above the June Lake Loop", "(min-width: 900px) 34vw, 100vw") }}</div><div class="pg-body"><h2>June Lake</h2><ul class="plan-links pl-notes">
+<section class="plan-group has-img"><div class="pg-img">{{ picture("fern-creek-falls", "Fern Creek tumbling down the mountainside above the June Lake Loop", "(min-width: 900px) 34vw, 100vw") }}</div><div class="pg-body"><h2>June Lake</h2><ul class="plan-links pl-notes">
 {% set g = pages["/guides/june-lake/"] %}<li><a href="/guides/june-lake/">{{ g.nav_title or g.title }}</a><p>Four lakes, one mountain, one road in. Everything you need to look like you have been coming here for years.</p></li>
 {% set g = pages["/guides/june-lake-fall-colors/"] %}<li><a href="/guides/june-lake-fall-colors/">{{ g.nav_title or g.title }}</a><p>When the aspens go gold and where to stand when they do. Lower your expectations for getting anything else done.</p></li>
 {% set g = pages["/location/"] %}<li><a href="/location/">{{ g.nav_title or g.title }}</a><p>How to get here, and how long it really takes. Pack snacks. The drive up 395 is part of the trip.</p></li>

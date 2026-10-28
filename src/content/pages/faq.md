@@ -67,7 +67,7 @@ faq:
 - q: Can we have a small wedding at the chalet?
   a: "Technically, yes. If the whole thing, bride, groom, officiant, photographer and the aunt who cries at everything, fits inside eight overnight guests, ten people on the property and three cars, you are welcome to say your vows under Carson Peak. In practice, nobody wants a wedding that small, and small weddings always grow. So the honest answer is no: no weddings, parties or reunions. The limits come from Mono County, our business license depends on them, and we enforce them without exceptions."
 - q: Why is there a three-car limit?
-  a: "June Lake is a quiet canyon and our neighbors matter to us. No more than three cars at any time, and that includes a fourth car dropping someone off. If it is not one of your three, it does not pull in."
+  a: "The June Lake Loop is quiet, and our neighbors matter to us. No more than three cars at any time, and that includes a fourth car dropping someone off. If it is not one of your three, it does not pull in."
 - q: Are pets allowed?
   a: "No pets, anywhere on the property. Any animal, whether a service animal, an emotional support animal or anything else, must be approved in advance with real paperwork from a licensed physician (MD or DO) who treats you. Certificates bought online do not count. People with real disabilities depend on these accommodations, and we take that seriously."
 - q: Do you offer a military discount?

@@ -42,7 +42,7 @@ sources:
 ---
 {{ ff_facts("june-lake-loop") }}
 
-{{ figure("june-lake-loop-map", "Map of the June Lake Loop showing June, Gull, Silver and Grant lakes along Highway 158", "The loop: four lakes in one canyon, and the chalet in the middle of it.") }}
+{{ figure("june-lake-loop-map", "Map of the June Lake Loop showing June, Gull, Silver and Grant lakes along Highway 158", "The loop: four lakes on one loop, and the chalet in the middle of it.") }}
 
 ## The lakes
 

@@ -4,7 +4,7 @@
 (function () {
   if (window.YGCChat) return;
   var KEY = 'ygc-chat', OPEN = 'ygc-chat-open';
-  var GREETING = "Ask me about the place, the canyon, or what's open. Got dates in mind? I'll check the calendar and hand you the form.";
+  var GREETING = "Ask me about the place, the Loop, or what's open. Got dates in mind? I'll check the calendar and hand you the form.";
   var CHIPS = ['Is it open over Christmas?', 'Skiing with kids?', 'Can we bring the dog?', 'How far to Yosemite?'];
   var store = {
     get: function (k) { try { return sessionStorage.getItem(k); } catch (e) { return null; } },
@@ -37,7 +37,7 @@
   el.className = 'ygc-chat'; el.hidden = true;
   el.setAttribute('role', 'dialog'); el.setAttribute('aria-modal', 'false'); el.setAttribute('aria-labelledby', 'yc-title');
   el.innerHTML =
-    '<header class="yc-head"><div><p class="yc-title" id="yc-title">Ask about the chalet</p><p class="yc-sub">The house, the canyon, your dates</p></div>' +
+    '<header class="yc-head"><div><p class="yc-title" id="yc-title">Ask about the chalet</p><p class="yc-sub">The house, the Loop, your dates</p></div>' +
     '<button class="yc-x" type="button" aria-label="Close chat"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button></header>' +
     '<div class="yc-log" aria-live="polite"></div>' +
     '<div class="yc-chips"></div>' +

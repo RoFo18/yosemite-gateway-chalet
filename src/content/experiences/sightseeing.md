@@ -69,7 +69,7 @@ So set an alarm. Watch from the hot tub at dusk. Pick the hike that puts the sun
 <figure class="lt-a">{{ picture("light-through-the-canyon", "Late sunlight falling in hazy shafts through a forested canyon, with a granite knob lit in the distance", "(min-width: 760px) 33vw, 100vw") }}</figure>
 <figure>{{ picture("eastern-sierra-morning-water", "A clear mountain stream spilling over dark boulders at the foot of a granite wall and tall firs, in blue morning light", "(min-width: 760px) 33vw, 100vw") }}</figure>
 <figure>{{ picture("june-lake-loop-evening-clouds", "Golden clouds streaming across a teal evening sky above a dark mountain silhouette on the June Lake Loop", "(min-width: 760px) 33vw, 100vw") }}</figure>
-<figcaption>Late light in the canyon, a blue morning on the water, and the evening sky over the loop.</figcaption>
+<figcaption>Late light on the Loop, a blue morning on the water, and the evening sky over the loop.</figcaption>
 </div>
 
 ## Further afield

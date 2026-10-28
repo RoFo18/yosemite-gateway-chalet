@@ -18,13 +18,13 @@ Start on a horse, then go on foot. Every ride and hike on this page starts withi
 
 ## Horseback riding from the pack station
 
-Some of the best days our guests have here start a few minutes down the road at [Frontier Pack Train](https://www.monocounty.org/listing/frontier-pack-train/1103/), the June Lake Loop's own pack station near Silver Lake. Real wranglers, sure-footed horses matched to every rider from first-timer to expert, and trails that climb straight out of the canyon to views most visitors never see. In fall, they run a multi-day horse drive from June Lake to Bishop.
+Some of the best days our guests have here start a few minutes down the road at [Frontier Pack Train](https://www.monocounty.org/listing/frontier-pack-train/1103/), the June Lake Loop's own pack station near Silver Lake. Real wranglers, sure-footed horses matched to every rider from first-timer to expert, and trails that climb straight out of the Loop to views most visitors never see. In fall, they run a multi-day horse drive from June Lake to Bishop.
 
 {{ trail_card("Frontier Pack Train", [("Where", "Highway 158, near Silver Lake"), ("Rides", "One hour to several days"), ("Season", "Summer and early fall"), ("Book", "(760) 648-7701")], img="horseback-ride-above-june-lake", alt="A family on horseback on a ridge high above Silver Lake and the June Lake Loop", cap="Above Silver Lake. The horse does the climbing. You do the looking. It is the easiest way to get a whole family into the high country.", kicker="On horseback") }}
 
 ## Fern and Yost Lakes, from the chalet
 
-Leave the car at the house. Walk out the back door and about a mile down-canyon to the Fern Lake trailhead, then up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows. Yost Creek is the same water that runs past the hot tub, so you can follow it home.
+Leave the car at the house. Walk out the back door and about a mile down the Loop to the Fern Lake trailhead, then up to Fern Lake, a small lake in a cirque on the southern shoulder of Carson Peak. About a mile up, a branch splits off toward Yost Lake and Yost Meadow, a longer walk that many guests say rivals Tuolumne Meadows. Yost Creek is the same water that runs past the hot tub, so you can follow it home.
 
 {{ trail_card("Fern Lake and Yost Lake", [("Start", "The back door"), ("Back door to trailhead", "About 1 mile"), ("Trailhead to Fern Lake", "About 1.6 miles, 1,600 ft up"), ("Fern Lake round trip", "5 to 6 miles, half a day"), ("Trailhead to Yost Lake", "About 3.8 miles, past Yost Meadow"), ("Yost Lake round trip", "About 9 to 10 miles, a full day")], cap="The Fern Lake trail is steep from the first step, and it will tell you so. Everyone says it is only a mile and a half. Everyone says that at the bottom.") }}
 
@@ -58,7 +58,7 @@ The trailhead is on North Shore Drive, northeast of Gull Lake, which means you n
 
 ## Parker Lake
 
-{{ trail_card("Parker Lake", [("Trailhead", "About 8,000 ft"), ("Round trip", "About 4 miles"), ("Climb", "About 550 ft"), ("Option", "Parker Bench, up to 10 miles round trip")], img="parker-bench-silver-lake-view", alt="Hikers with packs on the Parker Bench trail, with Silver Lake far below in the June Lake canyon", cap="On the Parker Bench option, looking down to Silver Lake. The best first day at altitude on the loop.") }}
+{{ trail_card("Parker Lake", [("Trailhead", "About 8,000 ft"), ("Round trip", "About 4 miles"), ("Climb", "About 550 ft"), ("Option", "Parker Bench, up to 10 miles round trip")], img="parker-bench-silver-lake-view", alt="Hikers with packs on the Parker Bench trail, with Silver Lake far below on the June Lake Loop", cap="On the Parker Bench option, looking down to Silver Lake. The best first day at altitude on the loop.") }}
 
 About half a mile past Grant Lake heading toward Highway 395, turn left onto the dirt road signed for Parker Lake and follow signs to the trailhead. Past the first steep pitch, the trail levels out beside Parker Creek through meadow and aspen, and ends at a deep lake under the walls of the Sierra crest.
 
@@ -66,7 +66,7 @@ About half a mile past Grant Lake heading toward Highway 395, turn left onto the
 
 {{ figure("mono-lake-from-above-fern-lake", "Looking back at Mono Lake and the Mono Craters under a storm-lit sky, on the walk down from Parker Lake", "The view back to Mono Lake on the way down from Parker Lake. Stop and turn around. Everybody forgets to.") }}
 
-**The Parker Bench option.** At the junction signed for Silver Lake, turn left instead of continuing to Parker Lake. The trail climbs onto Parker Bench, a high sagebrush shoulder with long views down the canyon to Silver Lake and out to Mono Lake. It is spectacular in fall, when the aspens below turn.
+**The Parker Bench option.** At the junction signed for Silver Lake, turn left instead of continuing to Parker Lake. The trail climbs onto Parker Bench, a high sagebrush shoulder with long views down the Loop to Silver Lake and out to Mono Lake. It is spectacular in fall, when the aspens below turn.
 
 ## Glass Creek Meadow
 
