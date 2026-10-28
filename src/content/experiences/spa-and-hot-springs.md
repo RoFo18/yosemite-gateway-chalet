@@ -22,6 +22,8 @@ The Double Eagle's Creekside Spa is about a mile from the chalet, and you can wa
 
 About thirty-five minutes from the chalet, southeast of Mammoth Lakes, natural mineral springs have been gathered into rock tubs. They are anything but commercial and take some patience to find, and the views are worth it. Be considerate, and thank the volunteers who maintain them if you meet them.
 
+{{ guide_says("Hot springs are like fishing holes. Everybody knows where they are, nobody will tell you, and the good one is always taken by somebody who got there at dawn. Get there at dawn.") }}
+
 ## Travertine Hot Springs
 
 True hot spring devotees won't mind the fifty-minute drive north to Travertine Hot Springs, just south of Bridgeport, with views every bit as good. Take Highway 395 north and turn on Jack Sawyer Road about half a mile south of Bridgeport, just before the ranger station, then follow the dirt road about a mile. Travertine is clothing optional.

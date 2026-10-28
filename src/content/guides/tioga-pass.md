@@ -70,6 +70,8 @@ In practice the road most often opens in late May or June. A few recent referenc
 
 For every year since 1980 charted against the snowpack, and an estimator for this spring, see our analysis, [when does Tioga Pass open](/guides/tioga-pass-opening-dates/). The National Park Service publishes the full year-by-year record of opening and closing dates, with the April 1 snowpack for each year, on its historical dates page. Check it, and the current conditions page, before you plan around the pass.
 
+{{ guide_says("Every spring somebody asks us when Tioga opens. Same answer every year: when the Park Service says so, and not one day before. We charted forty-odd years of it anyway, because a guide has to do something while he waits.") }}
+
 ## When it closes
 
 The road closes for the season when real snow arrives, usually in November and occasionally in late October. Early storms can also shut it for a few days and then let it reopen. Once it closes for the winter, there is no way to drive into Yosemite from the east side. Read our guide to [Yosemite's east side in winter](/guides/yosemite-east-side-in-winter/) for what that means.

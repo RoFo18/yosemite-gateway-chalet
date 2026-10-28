@@ -49,6 +49,8 @@ Fall color in Mono County is a slow wave that rolls downhill. The aspens in the 
 
 No two years are the same. A dry summer, an early cold snap or a windstorm can move the peak by a week or more, or strip the leaves overnight. Mono County Tourism and California Fall Color both publish color reports through the season, and they are worth checking before you drive.
 
+{{ guide_says("Every October somebody calls to ask if the aspens are peaking. The aspens have never once returned our calls either. Check the report, then come anyway. Half gold on the Loop beats full gold most other places.") }}
+
 ## On the loop
 
 

@@ -298,7 +298,12 @@ def locals_list():
         lab = {"url": "Website", "instagram": "Instagram", "facebook": "Facebook"}
         ls = "".join(f'<a href="{u}" rel="noopener" target="_blank">{lab[k]}</a>' for k, u in links)
         meta = " &middot; ".join(html.escape(x) for x in (b.get("address"), b.get("phone")) if x)
-        items.append(f'<article class="lf"><h2 id="{b["id"]}">{html.escape(b["name"])}</h2><p>{html.escape(b["what"])}</p>'
+        img = ""
+        if b.get("img"):
+            cap = f'<figcaption>{html.escape(b["cap"])}</figcaption>' if b.get("cap") else ""
+            img = f'<figure class="lf-img">{picture(b["img"], b["img_alt"], "(min-width: 900px) 30vw, 92vw", fit=b.get("img_fit"))}{cap}</figure>'
+        guide = f'<p class="lf-guide">{html.escape(b["guide"])}</p>' if b.get("guide") else ""
+        items.append(f'<article class="lf{" has-img" if img else ""}">{img}<h2 id="{b["id"]}">{html.escape(b["name"])}</h2><p>{html.escape(b["what"])}</p>{guide}'
                      f'{f"<p class=lf-meta>{meta}</p>" if meta else ""}{f"<p class=dine-links>{ls}</p>" if ls else ""}</article>')
         d = {"@type": b["kind"], "name": b["name"], "description": b["what"],
              "address": {"@type": "PostalAddress", "addressLocality": "June Lake", "addressRegion": "CA", "addressCountry": "US"}}

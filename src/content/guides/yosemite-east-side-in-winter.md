@@ -75,6 +75,8 @@ From April to the [Tioga opening](/guides/tioga-pass-opening-dates/), the east s
 - Fill your tank in Lee Vining, June Lake or Mammoth. Services are far apart.
 - The chalet roof sheds snow. Park well away from the house.
 
+{{ guide_says("Chains are like rain jackets. You only ever need them on the trip you left them home.") }}
+
 ## Winter at the chalet
 
 The fire is lit, the tub is hot, and June Mountain is a mile away. Read about [winter at June Lake](/experiences/winter/).

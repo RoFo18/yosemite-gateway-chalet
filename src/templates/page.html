@@ -18,16 +18,18 @@
 {% endif %}
 <div class="page-body{% if page.wide %} wide{% endif %}">
   {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
-  {% if not page.faq_first %}<div class="prose">{{ body }}</div>{% endif %}
+  {% set body_in_faq = page.faq and (page.faq | selectattr('body') | list) %}
+  {% if not page.faq_first and not body_in_faq %}<div class="prose">{{ body }}</div>{% endif %}
   {% if page.faq %}
   <section class="faq" aria-labelledby="faq-h">
     <h2 id="faq-h">{{ page.faq_title or 'Questions' }}</h2>
     {% for q in page.faq %}
-    <details{% if loop.first and page.faq_open %} open{% endif %}><summary>{{ q.q }}</summary><div>{{ q.a | md }}</div></details>
+    {% if q.group %}<h3 class="faq-group">{{ q.group }}</h3>{% endif %}
+    <details{% if loop.first and page.faq_open %} open{% endif %}><summary>{{ q.q }}</summary><div>{{ q.a | md }}{% if q.img %}<figure class="faq-fig{% if q.img_portrait %} portrait{% endif %}">{{ picture(q.img, q.img_alt, "(min-width: 760px) 680px, 92vw", fit=q.img_fit) }}{% if q.cap %}<figcaption>{{ q.cap }}</figcaption>{% endif %}</figure>{% endif %}{% if q.body %}<div class="faq-body">{{ body }}</div>{% endif %}</div></details>
     {% endfor %}
   </section>
   {% endif %}
-  {% if page.faq_first %}<div class="prose">{{ body }}</div>{% endif %}
+  {% if page.faq_first and not body_in_faq %}<div class="prose">{{ body }}</div>{% endif %}
 </div>
 {% if related %}
 <section class="related" aria-labelledby="rel-h">

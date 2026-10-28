@@ -58,6 +58,8 @@ The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, betwee
 
 **June Lake** is the one that gives the town its name, with a sandy beach, a marina and the village on its shore. **Gull Lake**, the smallest, is tucked into the village and has the calmest water for paddling. **Silver Lake** sits deep in the Loop under the cliffs, with phenomenal sunrises and some of the best trout water on the loop. **Grant Lake**, the largest, is a reservoir at the north end, open and windswept, with good bait fishing where the creek comes in. Our [fishing guide](/fly-fishing/) has the details.
 
+{{ guide_says("Four lakes on one Loop, and every local will tell you a different one is the best. They are all right, and they are all lying about where they fish.") }}
+
 ## June Mountain
 
 June Mountain is a small, friendly ski area right on the loop, with about 2,580 vertical feet of terrain and far fewer crowds than its sister resort in Mammoth. It is also known for excellent lift-assisted backcountry skiing. See [winter at June Lake](/experiences/winter/).
@@ -88,7 +90,7 @@ June Lake is about five hours from Los Angeles on US 395 and under six from the 
 
 ## Essentials in the village
 
-The June Lake General Store has groceries, hardware, liquor and camping supplies. Ernie's Tackle and Ski Shop is the place for fishing advice and snowshoe rentals. Many businesses keep seasonal hours, so call ahead in spring and late fall.
+The [June Lake General Store](/local-favorites/#general-store) has groceries, hardware, liquor and camping supplies, and Luis and his family run it like the cornerstone of the town that it is. In the off season, check the hours before you count on it first thing in the morning. Most days it is open when you need it. Ernie's Tackle and Ski Shop is the place for fishing advice and snowshoe rentals. Many businesses keep seasonal hours, so call ahead in spring and late fall.
 
 ## Where to stay in June Lake
 

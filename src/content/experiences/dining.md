@@ -20,9 +20,7 @@ related: [/experiences/spa-and-hot-springs/, /guides/june-lake/, /the-chalet/]
 
 The best Mexican food in the Eastern Sierra, and it sits right next to June Lake Brewing in the village. Order at the window, grab a pint next door, and eat outside with the whole loop walking by.
 
-{{ figure("la-parrilla-yeti", "A yeti in a white shaggy costume ordering at La Parrilla's taco truck window on a sunny winter day, snow on the ground and the peaks behind", "Yes, that is a yeti. No, he did not wait his turn.") }}
-
-{{ guide_says("Folks drive four hundred miles looking for Bigfoot in the Sierra. Turns out he lives in June Lake, he orders the carne asada, and he tips better than most fishing guides. If the yeti says it is the best Mexican food on the east side, who are you to argue. Go after a day on the water and order like you got skunked, because you probably did.") }}
+{{ guide_says("Go after a day on the water and order like you got skunked, because you probably did. You will not be the only one in line with a story. The yeti eats here too, and he has a photo on our <a href=\"/local-favorites/#la-parrilla\">local favorites</a> page to prove it.") }}
 
 ## 2. The Tiger Bar
 

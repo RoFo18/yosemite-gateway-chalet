@@ -787,6 +787,16 @@
    800
   ]
  },
+ "june-lake-general-store": {
+  "color": "#5e6067",
+  "h": 1290,
+  "w": 980,
+  "widths": [
+   480,
+   800,
+   980
+  ]
+ },
  "june-lake-golden-light": {
   "color": "#565b53",
   "h": 768,

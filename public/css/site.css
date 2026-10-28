@@ -869,6 +869,14 @@ i.ffc{display:inline-block;width:14px;height:14px;vertical-align:-2px;margin-rig
 .prose .lf h2{font:500 1.6rem/1.15 var(--f-display);margin:0 0 .5rem}
 .prose .lf p{margin:0 0 .6rem}
 .prose .lf-meta{font-size:.86rem;color:var(--ink-3)}
+.lf-list{grid-auto-flow:dense}
+.lf-img{margin:0 0 1rem}
+@media (min-width:760px){.lf.has-img{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);column-gap:var(--s-6);align-items:start}
+.lf.has-img .lf-img{grid-row:1/span 8;margin:0}
+.lf.has-img>:not(.lf-img){grid-column:2}}
+.lf-img img{width:100%;height:auto;display:block}
+.prose .lf-img figcaption{margin-top:.5rem;font-size:.84rem;color:var(--ink-3)}
+.prose .lf-guide{font:italic 500 1.12rem/1.4 var(--f-display);color:var(--ink-2);border-left:2px solid var(--bronze);padding-left:.8rem}
 .plan-group{display:grid;grid-template-columns:1fr;gap:var(--s-5);margin:0 0 var(--s-7);padding-top:var(--s-6);border-top:1px solid var(--rule)}
 .plan-group.has-img{grid-template-columns:minmax(0,5fr) minmax(0,7fr);align-items:start;gap:clamp(1.5rem,4vw,3.5rem)}
 .pg-img img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block}
@@ -966,16 +974,14 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .link-btn{background:none;border:0;padding:0;font:inherit;color:inherit;text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 
 /* FAQ: floorplans tucked into a drop-down, a small stairs photo after the answers */
-.fp-drop{margin:var(--s-6) 0 var(--s-5);border:1px solid var(--rule);background:var(--paper)}
-.fp-drop summary{cursor:pointer;list-style:none;padding:1rem 1.2rem;font:500 .78rem/1 var(--f-text);letter-spacing:.16em;text-transform:uppercase;display:flex;justify-content:space-between;align-items:center}
-.fp-drop summary::-webkit-details-marker{display:none}
-.fp-drop summary::after{content:"+";font-size:1.2rem;color:var(--bronze)}
-.fp-drop[open] summary::after{content:"\2212"}
-.fp-drop>*:not(summary){margin-inline:1.2rem}
-.fp-drop .fig{width:auto!important;margin-left:1.2rem!important;margin-right:1.2rem!important}
-.faq-aside{display:grid;grid-template-columns:minmax(0,140px) minmax(0,1fr);gap:1.2rem;align-items:center;margin:var(--s-5) 0}
-.faq-aside img{width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;display:block}
-.faq-aside p{margin:0;color:var(--ink-2)}
-@media (min-width:760px){.faq-aside{grid-template-columns:200px minmax(0,1fr)}}
+.faq-group{font:500 .78rem/1.2 var(--f-text);letter-spacing:.16em;text-transform:uppercase;color:var(--bronze);margin:2.6rem 0 .2rem;padding-bottom:.7rem;border-bottom:1px solid var(--ink)}
+.faq h2+.faq-group{margin-top:1.2rem}
+.faq-fig{margin:1.2rem 0 0}
+.faq-fig img{width:100%;height:auto;display:block}
+.faq-fig.portrait{max-width:440px}
+.faq-fig figcaption{margin-top:.6rem;font-size:.86rem;color:var(--ink-3)}
+.faq-body{margin-top:1.2rem}
+.faq-body .fig{width:auto!important;max-width:100%!important;margin:0 0 1.2rem!important}
+.faq-body .fig img{width:100%;height:auto}
 .dine-logo{margin:.4rem 0 1rem}
 .dine-logo img{width:150px;height:auto;border-radius:12px;display:block}
