@@ -13,6 +13,12 @@ wide: true
 updated: 2026-10-28
 lead: The chalet, the Loop it sits on, and the high country beyond, one photograph at a time.
 ---
+<div class="light-strip" id="the-light">
+<figure>{{ picture("light-through-the-canyon", "Late sunlight falling in hazy shafts through a forested canyon, with a granite knob lit in the distance", "(min-width: 760px) 34vw, 100vw") }}</figure>
+<figure>{{ picture("eastern-sierra-morning-water", "A clear mountain stream spilling over dark boulders at the foot of a granite wall and tall firs, in blue morning light", "(min-width: 760px) 34vw, 100vw") }}</figure>
+<figure>{{ picture("june-lake-loop-evening-clouds", "Golden clouds streaming across a teal evening sky above a dark mountain silhouette on the June Lake Loop", "(min-width: 760px) 34vw, 100vw") }}</figure>
+</div>
+
 {{ story([
  ("The tub", [
   ("hydrotherapy-tub-night-steam", "Steam after dark", "The outdoor hydrotherapy tub seats six and runs all year. On cold nights the steam rises straight up into the pines."),
@@ -62,18 +68,7 @@ lead: The chalet, the Loop it sits on, and the high country beyond, one photogra
  ]),
 ]) }}
 
-<h2 id="chasing-the-light">Chasing the light</h2>
 
-Here is the thing nobody tells you about the Eastern Sierra: the mountains are the same all day, and they look completely different every hour. The granite is gray at noon. At first light it goes rose, then gold. In the late afternoon, sun falls through the canyons in long blue shafts, and in the evening the clouds over the loop light up like something is on fire behind the ridge. Photographers come for the scenery and stay for the light.
-
-So set an alarm. Watch from the hot tub at dusk. Pick the hike that puts the sun behind you. The place rewards anybody who pays attention to when, not just where.
-
-<div class="light-trio">
-<figure class="lt-a">{{ picture("light-through-the-canyon", "Late sunlight falling in hazy shafts through a forested canyon, with a granite knob lit in the distance", "(min-width: 760px) 33vw, 100vw") }}</figure>
-<figure>{{ picture("eastern-sierra-morning-water", "A clear mountain stream spilling over dark boulders at the foot of a granite wall and tall firs, in blue morning light", "(min-width: 760px) 33vw, 100vw") }}</figure>
-<figure>{{ picture("june-lake-loop-evening-clouds", "Golden clouds streaming across a teal evening sky above a dark mountain silhouette on the June Lake Loop", "(min-width: 760px) 33vw, 100vw") }}</figure>
-<figcaption>Late light on the Loop, a blue morning on the water, and the evening sky over the loop.</figcaption>
-</div>
 
 <div id="videos"></div>
 
