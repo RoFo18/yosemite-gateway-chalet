@@ -8,7 +8,7 @@ seo_title: Elsie Room with Claw-Foot Tub | Yosemite Gateway Chalet, June Lake
 description: The Elsie Room at Yosemite Gateway Chalet, with a ruby-red claw-foot bathtub, a memory foam bed, and views of the granite peaks above June Lake.
 topic: cabin with claw-foot tub near Yosemite
 hero: elsie-room-suite
-hero_alt: The Elsie Room, with a queen bed under a timber ceiling, windows on two sides and a sitting corner
+hero_alt: The Elsie Room, with a California King under a timber ceiling and windows on two sides looking into the pines
 lead: A ruby-red claw-foot tub and a window full of granite.
 updated: 2026-10-27
 related: [/the-chalet/master-suite/, /the-chalet/river-room/, /the-chalet/floorplan/]

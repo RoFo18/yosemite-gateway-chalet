@@ -81,6 +81,8 @@ faq:
 ---
 ## The floorplan
 
+{{ figure("stair-landing-chandelier", "The stair landing: log railings, a brass chandelier and a dreamcatcher on the wall above the entry hall", "Yes, there are stairs. These are the good kind.") }}
+
 {{ figure("floorplan-main-level", "Main level floorplan: the Grand Room with its fireplace and pull-out futon, the kitchen, dining room, family room, mud room and the deck with the outdoor hot tub", "Main level: the Grand Room (with the pull-out futon), kitchen, dining, family room and the deck with the hot tub.") }}
 
 {{ figure("floorplan-upper-level", "Upper level floorplan: the master suite with jacuzzi and loft, the Elsie Room with claw-foot tub, and the River Room, each with a private bath", "Upper level: three suites, each with its own bath. The master's loft is above its bedroom.") }}

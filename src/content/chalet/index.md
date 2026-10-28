@@ -7,7 +7,8 @@ seo_title: The Chalet | 4,000 sq ft Log Home in June Lake, Sleeps 8 | Yosemite G
 description: "Inside the Yosemite Gateway Chalet: three private suites, a 21-foot Grand Room with fireplace and oak bar, a gourmet kitchen, and a hot tub under Carson Peak."
 topic: June Lake vacation rental sleeps 8
 hero: grand-room-evening-lamplight
-hero_alt: The Grand Room in evening lamplight, log walls glowing
+hero_alt: The Grand Room, with leather couches around the stone fireplace, Kachina dolls on the mantel, and snow outside the tall windows
+hero_focus: 50% 60%
 hero_full: true
 kicker: The home
 business_schema: true
@@ -29,7 +30,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 </dl>
 
 <section class="ch-split">
-<div class="ch-media">{{ picture("grand-room-fireplace-and-bar", "The Grand Room: leather couches before the stone fireplace, with the oak bar beyond", "(min-width: 900px) 55vw, 100vw") }}</div>
+<div class="ch-media">{{ picture("grand-room-fireplace-and-bar", "The Grand Room: leather couches by the deck doors, with the oak bar and its row of bucket stools beyond", "(min-width: 900px) 55vw, 100vw") }}</div>
 <div class="ch-copy">
 <h2>The Grand Room</h2>
 <p>The heart of the house rises twenty-one and a half feet over an open fireplace. The oak bar has its own row of bucket stools, each cut from local timber, and a collection of Kachina dolls watches from above the mantel.</p>
@@ -37,14 +38,23 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 </div>
 </section>
 
-{{ figure("grand-room-daylight", "The Grand Room by day: leather couches, the stone fireplace, log walls and the oak bar with its bucket stools, sliding doors open to the deck", "The Grand Room by day, with the deck doors and the oak bar.") }}
-
 <section class="ch-split reverse">
-<div class="ch-media">{{ picture("kitchen-copper-sink", "The remodeled kitchen with its handmade copper sink and timber counters", "(min-width: 900px) 55vw, 100vw") }}</div>
+<div class="ch-media">{{ picture("kitchen-copper-sink", "The remodeled kitchen: cooktop, double oven and butcher block under log beams", "(min-width: 900px) 55vw, 100vw") }}</div>
 <div class="ch-copy">
 <h2>Kitchen and dining</h2>
 <p>Completely remodeled, with a six-burner stove, a double oven and a handmade copper sink from Mexico. It is stocked down to the coffee grinder and the garlic press. Bring food, and nothing else.</p>
 <p>Dinner is served at an eleven-and-a-half-foot table of local pine. The family room next door has a wood stove, and it is where the late conversations end up.</p>
+</div>
+</section>
+
+{{ figure("family-room-wood-stove", "The family room: leather couches under log walls and beams, the oak breakfast bar with its copper sink, and the wood stove in the corner", "The family room, off the kitchen. The wood stove does the rest.") }}
+
+<section class="ch-split reverse">
+<div class="ch-media">{{ picture("mud-room-bench-and-cubbies", "The mud room: a log bench, open cubbies, a long row of coat hooks and windows onto the pines", "(min-width: 900px) 55vw, 100vw") }}</div>
+<div class="ch-copy">
+<h2>The mud room</h2>
+<p>Every family knows the moment: four kids, four pairs of ski boots, wet gloves and somebody's waders, all coming through the door at once. Here they stop in the mud room, with a cubby for every person, a row of hooks for the jackets and a log bench to sit and pull off boots.</p>
+<p>The snow stays by the door. The rest of the house stays dry.</p>
 </div>
 </section>
 

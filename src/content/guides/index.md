@@ -14,7 +14,7 @@ lead: Everything you need to plan the trip, from people who have made every mist
 wide: true
 updated: 2026-10-27
 ---
-<section class="plan-group has-img"><div class="pg-img">{{ picture("white-mountain-summit-sunrise", "Sunrise from the summit of White Mountain, looking west across the Owens Valley to the Sierra crest", "(min-width: 900px) 34vw, 100vw") }}</div><div class="pg-body"><h2>Yosemite and Tioga Pass</h2><ul class="plan-links pl-notes">
+<section class="plan-group has-img"><div class="pg-img">{{ picture("mount-dana-tioga-pass", "The rocky summit cone of Mount Dana above Tioga Pass, on the edge of Yosemite", "(min-width: 900px) 34vw, 100vw") }}</div><div class="pg-body"><h2>Yosemite and Tioga Pass</h2><ul class="plan-links pl-notes">
 {% set g = pages["/guides/tioga-pass/"] %}<li><a href="/guides/tioga-pass/">{{ g.nav_title or g.title }}</a><p>The back door to Yosemite, 27 miles up the road. Most people go in the front door. Most people also wait in line.</p></li>
 {% set g = pages["/guides/tioga-pass-opening-dates/"] %}<li><a href="/guides/tioga-pass-opening-dates/">{{ g.nav_title or g.title }}</a><p>Forty-seven springs of data, charted. Spoiler: the snow decides, and the snow does not take questions.</p></li>
 {% set g = pages["/guides/tuolumne-meadows/"] %}<li><a href="/guides/tuolumne-meadows/">{{ g.nav_title or g.title }}</a><p>Yosemite's high country: granite domes, a river you can wade, and none of the Valley's traffic. The park the postcards forgot.</p></li>

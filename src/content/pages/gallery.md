@@ -27,6 +27,12 @@ lead: The chalet, the Loop it sits on, and the high country beyond, one photogra
   ("dinner-at-the-chalet", "Dinner at home", "Some nights you cook. The kitchen is stocked down to the garlic press."),
   ("kitchen-copper-sink", "The kitchen", "Fully remodeled, with a handmade copper sink, a six-burner stove and a double oven."),
   ("family-room-wood-stove", "The family room", "A wood stove beside the kitchen. Late conversations end up here."),
+  ("family-room-leather-sofa", "The family room couch", "Leather, a window full of pines and the breakfast bar a step away."),
+  ("copper-faucet-detail", "The copper sink", "Hand-hammered copper from Mexico, at the breakfast bar."),
+  ("mud-room-bench-and-cubbies", "The mud room", "A cubby for everybody, hooks for the jackets, and a bench for the boots."),
+  ("staircase-chandelier", "The stairs", "Log railings and a brass chandelier from the entry hall to the suites."),
+  ("curio-cabinet-pottery", "Pueblo pottery", "Pottery and painted plates collected over decades, in the dining room cabinet."),
+  ("dreamcatcher-detail", "On the landing", "A dreamcatcher on the wall above the stairs."),
  ]),
  ("Suites", [
   ("master-suite-bed", "The master suite", "A California King under a log ceiling, a private two-person jacuzzi, and a loft above."),
@@ -52,6 +58,19 @@ lead: The chalet, the Loop it sits on, and the high country beyond, one photogra
   ("fern-creek-falls", "Fern Creek", "Fern Creek tumbling down the mountainside above the Loop."),
  ]),
 ]) }}
+
+<h2 id="chasing-the-light">Chasing the light</h2>
+
+Here is the thing nobody tells you about the Eastern Sierra: the mountains are the same all day, and they look completely different every hour. The granite is gray at noon. At first light it goes rose, then gold. In the late afternoon, sun falls through the canyons in long blue shafts, and in the evening the clouds over the loop light up like something is on fire behind the ridge. Photographers come for the scenery and stay for the light.
+
+So set an alarm. Watch from the hot tub at dusk. Pick the hike that puts the sun behind you. The place rewards anybody who pays attention to when, not just where.
+
+<div class="light-trio">
+<figure class="lt-a">{{ picture("light-through-the-canyon", "Late sunlight falling in hazy shafts through a forested canyon, with a granite knob lit in the distance", "(min-width: 760px) 33vw, 100vw") }}</figure>
+<figure>{{ picture("eastern-sierra-morning-water", "A clear mountain stream spilling over dark boulders at the foot of a granite wall and tall firs, in blue morning light", "(min-width: 760px) 33vw, 100vw") }}</figure>
+<figure>{{ picture("june-lake-loop-evening-clouds", "Golden clouds streaming across a teal evening sky above a dark mountain silhouette on the June Lake Loop", "(min-width: 760px) 33vw, 100vw") }}</figure>
+<figcaption>Late light on the Loop, a blue morning on the water, and the evening sky over the loop.</figcaption>
+</div>
 
 <div id="videos"></div>
 

@@ -15,6 +15,8 @@ related: [/june-mountain-lodging/, /guides/yosemite-east-side-in-winter/, /faq/]
 ---
 ## Plowed out first
 
+{{ figure("chalet-winter-yost-creek", "The chalet in winter sun, with fresh snow on the lawn and Yost Creek running open past the pines", "The morning after a storm. Driveway plowed, creek still running.") }}
+
 Here is how a powder morning goes at most rentals around here. The house is up a side road. The road is plowed by one guy with one plow, and he had a long night. You wait. The kids are hungry and can feel you checking your phone. By the time you get out, the June Mountain lot is nearly full, the line of cars runs an eighth of a mile, and the people who stayed somewhere better are already three runs into bluebird fresh tracks.
 
 The chalet is right on Highway 158, and we hire professional plowing for the driveway. You are plowed out first, a mile from the lift, and in line while everyone else is still digging. That is the whole pitch. It is a good one.

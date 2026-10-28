@@ -7,6 +7,9 @@ kicker: Plans
 seo_title: Floorplan | Yosemite Gateway Chalet, 4,000 sq ft Log Home in June Lake
 description: "Main and upper level floorplans of the Yosemite Gateway Chalet: Grand Room, kitchen, dining, family room, deck and hydrotherapy tub below; three bedroom suites above."
 topic: June Lake cabin floorplan
+hero: upper-hall-railings
+hero_focus: 50% 55%
+hero_alt: "The upstairs hall: log railings around the open stairwell, the chandelier and an arched window onto the snow"
 lead: Living spaces and the tub on the main level. The three suites upstairs.
 updated: 2026-10-27
 wide: true
@@ -41,3 +44,5 @@ related: [/the-chalet/, /the-chalet/master-suite/, /gallery/]
 </dl>
 </div>
 </section>
+
+{{ figure("staircase-chandelier", "Looking up the log staircase from the entry to the upstairs hall, under a brass chandelier", "The stairs from the entry hall to the three suites. Plan on carrying the bags up once.") }}

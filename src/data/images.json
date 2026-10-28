@@ -159,12 +159,45 @@
    860
   ]
  },
+ "chalet-winter-sign": {
+  "color": "#685f54",
+  "h": 1143,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "chalet-winter-yost-creek": {
+  "color": "#736a5b",
+  "h": 1153,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "clarks-nutcracker": {
   "color": "#656658",
   "h": 526,
   "w": 350,
   "widths": [
    350
+  ]
+ },
+ "copper-faucet-detail": {
+  "color": "#78583e",
+  "h": 1165,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "crater-mountain-summit-view": {
@@ -206,6 +239,16 @@
    1024
   ]
  },
+ "curio-cabinet-pottery": {
+  "color": "#7c5234",
+  "h": 1550,
+  "w": 1064,
+  "widths": [
+   480,
+   800,
+   1064
+  ]
+ },
  "dining-room-doorway": {
   "color": "#955d34",
   "h": 500,
@@ -215,13 +258,14 @@
   ]
  },
  "dining-room-timber-table": {
-  "color": "#702c15",
-  "h": 500,
-  "w": 860,
+  "color": "#7e5a40",
+  "h": 1146,
+  "w": 1800,
   "widths": [
    480,
    800,
-   860
+   1200,
+   1800
   ]
  },
  "dinner-at-the-chalet": {
@@ -230,6 +274,16 @@
   "w": 438,
   "widths": [
    438
+  ]
+ },
+ "dreamcatcher-detail": {
+  "color": "#8a6544",
+  "h": 1534,
+  "w": 1072,
+  "widths": [
+   480,
+   800,
+   1072
   ]
  },
  "eastern-sierra-morning-water": {
@@ -253,12 +307,14 @@
   ]
  },
  "elsie-room-claw-foot-tub": {
-  "color": "#542a16",
-  "h": 500,
-  "w": 690,
+  "color": "#9e663a",
+  "h": 1142,
+  "w": 1800,
   "widths": [
    480,
-   690
+   800,
+   1200,
+   1800
   ]
  },
  "elsie-room-red-claw-foot-tub": {
@@ -272,13 +328,14 @@
   ]
  },
  "elsie-room-suite": {
-  "color": "#6a3e1b",
-  "h": 477,
-  "w": 1024,
+  "color": "#927953",
+  "h": 1224,
+  "w": 1800,
   "widths": [
    480,
    800,
-   1024
+   1200,
+   1800
   ]
  },
  "fall-aspen-meadow-eastern-sierra": {
@@ -322,6 +379,17 @@
    860
   ]
  },
+ "family-room-leather-sofa": {
+  "color": "#89603d",
+  "h": 1177,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "family-room-wide-view": {
   "color": "#67381a",
   "h": 195,
@@ -333,13 +401,14 @@
   ]
  },
  "family-room-wood-stove": {
-  "color": "#663719",
-  "h": 193,
-  "w": 859,
+  "color": "#89643f",
+  "h": 1155,
+  "w": 1800,
   "widths": [
    480,
    800,
-   859
+   1200,
+   1800
   ]
  },
  "fern-creek-falls": {
@@ -445,8 +514,8 @@
   ]
  },
  "grand-room-evening-lamplight": {
-  "color": "#361508",
-  "h": 1347,
+  "color": "#7e5434",
+  "h": 1157,
   "w": 1800,
   "widths": [
    480,
@@ -456,13 +525,14 @@
   ]
  },
  "grand-room-fireplace-and-bar": {
-  "color": "#674120",
-  "h": 463,
-  "w": 1024,
+  "color": "#8b5b38",
+  "h": 1153,
+  "w": 1800,
   "widths": [
    480,
    800,
-   1024
+   1200,
+   1800
   ]
  },
  "grand-room-fireside-evening": {
@@ -792,23 +862,25 @@
   ]
  },
  "kitchen-and-breakfast-bar": {
-  "color": "#55290b",
-  "h": 431,
-  "w": 860,
+  "color": "#835e36",
+  "h": 1159,
+  "w": 1800,
   "widths": [
    480,
    800,
-   860
+   1200,
+   1800
   ]
  },
  "kitchen-copper-sink": {
-  "color": "#643c10",
-  "h": 500,
-  "w": 860,
+  "color": "#98693d",
+  "h": 1161,
+  "w": 1800,
   "widths": [
    480,
    800,
-   860
+   1200,
+   1800
   ]
  },
  "kitchen-wide-view": {
@@ -970,6 +1042,17 @@
    1024
   ]
  },
+ "mud-room-bench-and-cubbies": {
+  "color": "#81705c",
+  "h": 1147,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "mule-deer-buck": {
   "color": "#606164",
   "h": 1200,
@@ -1079,13 +1162,14 @@
   ]
  },
  "river-room-suite": {
-  "color": "#816442",
-  "h": 960,
-  "w": 954,
+  "color": "#a4896f",
+  "h": 1150,
+  "w": 1800,
   "widths": [
    480,
    800,
-   954
+   1200,
+   1800
   ]
  },
  "rush-creek-meadow-carson-peak": {
@@ -1177,6 +1261,26 @@
    416
   ]
  },
+ "stair-landing-chandelier": {
+  "color": "#825529",
+  "h": 1544,
+  "w": 1076,
+  "widths": [
+   480,
+   800,
+   1076
+  ]
+ },
+ "staircase-chandelier": {
+  "color": "#956431",
+  "h": 1528,
+  "w": 1070,
+  "widths": [
+   480,
+   800,
+   1070
+  ]
+ },
  "tuolumne-granite-reflection": {
   "color": "#726b70",
   "h": 960,
@@ -1185,6 +1289,17 @@
    480,
    800,
    960
+  ]
+ },
+ "upper-hall-railings": {
+  "color": "#9f622f",
+  "h": 1177,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "upper-owens-river-meadow-cast": {
