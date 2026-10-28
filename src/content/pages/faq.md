@@ -12,6 +12,7 @@ hero_alt: The chalet's twelve-foot dining table of local pine
 lead: The questions guests ask most, answered plainly.
 faq_title: Staying at the chalet
 faq_open: true
+faq_first: true
 updated: 2026-10-27
 related:
 - /rates-and-policies/
@@ -79,12 +80,14 @@ faq:
 - q: How do we book?
   a: "Book direct: check our availability calendar on the Inquire page and send us your dates, and we will reply with an exact quote and no platform service fee. Or book instantly on VRBO (listing 452799) or Airbnb. Same chalet, same family, either way."
 ---
-## The floorplan
-
-{{ figure("stair-landing-chandelier", "The stair landing: log railings, a brass chandelier and a dreamcatcher on the wall above the entry hall", "Yes, there are stairs. These are the good kind.") }}
-
+<details class="fp-drop">
+<summary>See the floorplan</summary>
 {{ figure("floorplan-main-level", "Main level floorplan: the Grand Room with its fireplace, the kitchen, dining room, family room with the pull-out futon, mud room and the deck with the outdoor hot tub", "Main level: the Grand Room, kitchen, dining, the family room (with the pull-out futon) and the deck with the hot tub.") }}
-
 {{ figure("floorplan-upper-level", "Upper level floorplan: the master suite with jacuzzi and loft, the Elsie Room with claw-foot tub, and the River Room, each with a private bath", "Upper level: three suites, each with its own bath. The master's loft is above its bedroom.") }}
+<p>More detail on the <a href="/the-chalet/floorplan/">floorplan page</a>.</p>
+</details>
 
-For snow conditions, see [June Mountain](https://www.junemountain.com/). For anything else, [send an inquiry](/inquire/). We reply within a day.
+<div class="faq-aside">
+{{ picture("stair-landing-chandelier", "The stair landing: log railings, a brass chandelier and a dreamcatcher on the wall above the entry hall", "(min-width: 760px) 280px, 40vw") }}
+<p>Yes, there are stairs. These are the good kind. For snow conditions, see <a href="https://www.junemountain.com/" rel="noopener" target="_blank">June Mountain</a>. For anything else, <a href="/inquire/">send an inquiry</a> or tap Ask. We reply within a day.</p>
+</div>

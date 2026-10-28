@@ -73,7 +73,6 @@ NAMES = {
     "img-7697.jpg": "gull-lake-rope-swing",
     "grant-lake-jump.jpg": "grant-lake-cliff-jump",
     "sup-rush-creek-silver-lake.jpg": "paddleboard-rush-creek-silver-lake",
-    "garage-climbing-wall.jpg": "garage-climbing-wall",
     "sup-rush-creek-bw.jpg": "paddleboarding-rush-creek-family-bw",
     "parker-bench-silver-lake.jpg": "parker-bench-silver-lake-view",
     "kids-ski-cart-june-mountain.jpg": "kids-ski-free-june-mountain",
@@ -177,6 +176,9 @@ NAMES = {
     "hq-kachina-dolls-mantel.jpg": "kachina-dolls-mantel",
     "hq-dining-room-dinner-set.jpg": "dining-room-dinner-set",
     "hq-la-parrilla-june-lake.jpg": "la-parrilla-june-lake",
+    "hq-la-parrilla-yeti.jpg": "la-parrilla-yeti",
+    "hq-tiger-bar-logo.jpg": "tiger-bar-logo",
+    "graded-garage-climbing-wall.jpg": "garage-climbing-wall",
 }
 
 

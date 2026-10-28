@@ -500,7 +500,7 @@
   ]
  },
  "garage-climbing-wall": {
-  "color": "#6d6962",
+  "color": "#918877",
   "h": 1024,
   "w": 768,
   "widths": [
@@ -969,6 +969,16 @@
    1800
   ]
  },
+ "la-parrilla-yeti": {
+  "color": "#92898b",
+  "h": 1056,
+  "w": 1156,
+  "widths": [
+   480,
+   800,
+   1156
+  ]
+ },
  "light-through-the-canyon": {
   "color": "#434c58",
   "h": 1024,
@@ -1379,6 +1389,17 @@
    480,
    800,
    1070
+  ]
+ },
+ "tiger-bar-logo": {
+  "color": "#3b392d",
+  "h": 1226,
+  "w": 1254,
+  "widths": [
+   480,
+   800,
+   1200,
+   1254
   ]
  },
  "tuolumne-granite-reflection": {

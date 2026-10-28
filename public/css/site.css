@@ -964,3 +964,18 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .chat-open .chat-fab{opacity:0;pointer-events:none}
 @media (max-width:760px){.chat-fab{display:none}.t-inquire .chat-fab{display:inline-flex}}
 .link-btn{background:none;border:0;padding:0;font:inherit;color:inherit;text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+
+/* FAQ: floorplans tucked into a drop-down, a small stairs photo after the answers */
+.fp-drop{margin:var(--s-6) 0 var(--s-5);border:1px solid var(--rule);background:var(--paper)}
+.fp-drop summary{cursor:pointer;list-style:none;padding:1rem 1.2rem;font:500 .78rem/1 var(--f-text);letter-spacing:.16em;text-transform:uppercase;display:flex;justify-content:space-between;align-items:center}
+.fp-drop summary::-webkit-details-marker{display:none}
+.fp-drop summary::after{content:"+";font-size:1.2rem;color:var(--bronze)}
+.fp-drop[open] summary::after{content:"\2212"}
+.fp-drop>*:not(summary){margin-inline:1.2rem}
+.fp-drop .fig{width:auto!important;margin-left:1.2rem!important;margin-right:1.2rem!important}
+.faq-aside{display:grid;grid-template-columns:minmax(0,140px) minmax(0,1fr);gap:1.2rem;align-items:center;margin:var(--s-5) 0}
+.faq-aside img{width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;display:block}
+.faq-aside p{margin:0;color:var(--ink-2)}
+@media (min-width:760px){.faq-aside{grid-template-columns:200px minmax(0,1fr)}}
+.dine-logo{margin:.4rem 0 1rem}
+.dine-logo img{width:150px;height:auto;border-radius:12px;display:block}
