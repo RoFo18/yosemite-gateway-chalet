@@ -1025,7 +1025,3 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .prose .lf-section{font:500 clamp(1.8rem,1.4rem + 1.4vw,2.6rem)/1.15 var(--f-display);margin:var(--s-8) 0 .4rem;padding-top:var(--s-6);border-top:1px solid var(--ink)}
 .prose .lf-section-note{color:var(--ink-3);margin:0 0 var(--s-5)}
 @media (min-width:760px){.lf.lf-wide{grid-column:1/-1;columns:2;column-gap:var(--s-7)}.prose .lf.lf-wide h2{column-span:all}}
-.light-strip{position:relative;left:50%;width:100vw;margin:0 0 var(--s-8) -50vw;display:grid;grid-template-columns:1fr;gap:4px}
-.light-strip figure{margin:0;min-width:0}
-.light-strip img{width:100%;height:auto;display:block}
-@media (min-width:760px){.light-strip{grid-template-columns:repeat(3,minmax(0,1fr))}}

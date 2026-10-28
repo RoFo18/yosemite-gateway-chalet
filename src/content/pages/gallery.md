@@ -13,12 +13,6 @@ wide: true
 updated: 2026-10-28
 lead: The chalet, the Loop it sits on, and the high country beyond, one photograph at a time.
 ---
-<div class="light-strip" id="the-light">
-<figure>{{ picture("light-through-the-canyon", "Late sunlight falling in hazy shafts through a forested canyon, with a granite knob lit in the distance", "(min-width: 760px) 34vw, 100vw") }}</figure>
-<figure>{{ picture("eastern-sierra-morning-water", "A clear mountain stream spilling over dark boulders at the foot of a granite wall and tall firs, in blue morning light", "(min-width: 760px) 34vw, 100vw") }}</figure>
-<figure>{{ picture("june-lake-loop-evening-clouds", "Golden clouds streaming across a teal evening sky above a dark mountain silhouette on the June Lake Loop", "(min-width: 760px) 34vw, 100vw") }}</figure>
-</div>
-
 {{ story([
  ("The tub", [
   ("hydrotherapy-tub-night-steam", "Steam after dark", "The outdoor hydrotherapy tub seats six and runs all year. On cold nights the steam rises straight up into the pines."),
