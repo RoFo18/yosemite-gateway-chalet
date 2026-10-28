@@ -171,7 +171,7 @@ def video_tour(youtube_id, title, credit, minutes, upload_date, description,
     label = html.escape(f"Play {title}, {minutes} minutes", quote=True)
     thumb = f"https://i.ytimg.com/vi/{youtube_id}/maxresdefault.jpg"
     ld = {"@context": "https://schema.org", "@type": "VideoObject", "name": title, "description": description,
-          "thumbnailUrl": thumb, "uploadDate": upload_date, "duration": f"PT{int(minutes)}M{round((minutes % 1) * 60)}S",
+          "thumbnailUrl": thumb, "uploadDate": (upload_date if "T" in str(upload_date) else f"{upload_date}T12:00:00-08:00"), "duration": f"PT{int(minutes)}M{round((minutes % 1) * 60)}S",
           "embedUrl": f"https://www.youtube-nocookie.com/embed/{youtube_id}",
           "contentUrl": f"https://www.youtube.com/watch?v={youtube_id}"}
     mins = f"{int(minutes)}:{round((minutes % 1) * 60):02d}"
