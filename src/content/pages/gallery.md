@@ -5,11 +5,12 @@ eyebrow: The chalet and the country around it
 seo_title: "Photo Gallery | Yosemite Gateway Chalet, June Lake"
 description: "Photos of the Yosemite Gateway Chalet in June Lake: the outdoor hydrotherapy tub, the Grand Room, the suites, the grounds on Yost Creek, and the Eastern Sierra around them."
 topic: June Lake cabin photos
-hero: june-lake-chalet-summer
-hero_alt: The chalet in summer among aspens and pines
+hero: family-room-wood-stove
+hero_alt: The family room off the kitchen, with log walls and beams, leather couches by the windows, the wood stove and the bar with its copper sink
+hero_focus: 50% 55%
 kicker: Photographs
 wide: true
-updated: 2026-10-27
+updated: 2026-10-28
 lead: The chalet, the Loop it sits on, and the high country beyond, one photograph at a time.
 ---
 {{ story([
