@@ -26,6 +26,8 @@ On top of the nightly rate, every stay has:
 
 That is the whole list. No resort fee, no linen fee, no surprise at checkout.
 
+{{ figure("grand-room-oak-bar-wine", "Wine and glasses on the oak bar in the Grand Room, with the fire going and the log walls glowing", "Christmas week at the top of the range: the fire lit, the bar set, snow on the deck and the whole house to yourselves. Split eight ways, the $995 peak is about $125 a person a night.") }}
+
 **For active-duty military families,** we waive the seventh and eighth guest fee. Thank you for your service. Tell us when you inquire.
 
 ## Book direct, or don't. Your call.

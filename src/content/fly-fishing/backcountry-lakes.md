@@ -1,6 +1,9 @@
 ---
 url: /fly-fishing/backcountry-lakes/
 template: guide
+hero: light-through-the-canyon
+hero_focus: 50% 45%
+hero_alt: "Late sunlight falling in hazy shafts through forested slopes toward a granite knob in the high country"
 title: "Fly Fishing the Backcountry Lakes above June Lake"
 nav_title: Backcountry lakes
 eyebrow: On foot from the chalet and Silver Lake

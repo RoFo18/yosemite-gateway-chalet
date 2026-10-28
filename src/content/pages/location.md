@@ -7,8 +7,9 @@ kicker: Location
 seo_title: "Location and Directions | Yosemite Gateway Chalet, June Lake, CA"
 description: "Yosemite Gateway Chalet is at 4835 Highway 158 on the June Lake Loop, 27 miles from Yosemite's Tioga Pass entrance. Directions and drive times."
 topic: directions to June Lake
-hero: alpine-lake-below-sierra-peaks
-hero_alt: An alpine lake below snow-streaked peaks near June Lake
+hero: drive-up-395-sierra
+hero_focus: 42% 60%
+hero_alt: "Through the windshield on US 395: the road running north across the high desert toward the snow-dusted Sierra"
 lead: On the June Lake Loop in Mono County, one mile past June Mountain, at the edge of the Ansel Adams Wilderness.
 updated: 2026-10-27
 related: [/yosemite-national-park-lodging/, /guides/june-lake/, /faq/]

@@ -5,6 +5,9 @@ eyebrow: Notes from June Lake
 kicker: Journal
 seo_title: "Journal | Yosemite Gateway Chalet, June Lake"
 description: "Stories from the Yosemite Gateway Chalet and June Lake: paddleboarding Rush Creek, fall on the June Lake Loop, skiing June Mountain, the hot tub, and press."
+hero: kachina-dolls-mantel
+hero_focus: 50% 50%
+hero_alt: "Kachina dolls lined up along the log mantel in the Grand Room, one with arms spread wide"
 updated: 2026-10-27
 ---
 <ul class="posts">

@@ -30,6 +30,16 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 </dl>
 
 <section class="ch-split">
+<div class="ch-media"><a href="/gallery/#tub">{{ picture("hydrotherapy-tub-winter-guests", "Guests in the steaming outdoor hydrotherapy tub in winter, snow piled around it", "(min-width: 900px) 55vw, 100vw") }}</a></div>
+<div class="ch-copy">
+<h2>The hot tub</h2>
+<p>The outdoor hydrotherapy tub seats six and runs all year, just off the back deck, looking straight up at Carson Peak. Two creeks run through the two-thirds of an acre around it, and the national forest begins at the back fence. Most nights, Yost Creek is the only sound.</p>
+<p>A word of warning: people get in this tub planning to stay ten minutes. Then the stars come out over Carson Peak and somebody brings out another round of cocoa, and now it is midnight and nobody can feel their responsibilities. Plan accordingly.</p>
+<p><a class="link-arrow" href="/gallery/#tub">See the tub</a></p>
+</div>
+</section>
+
+<section class="ch-split reverse">
 <div class="ch-media">{{ picture("grand-room-fireplace-and-bar", "The Grand Room: leather couches by the deck doors, with the oak bar and its row of bucket stools beyond", "(min-width: 900px) 55vw, 100vw") }}</div>
 <div class="ch-copy">
 <h2>The Grand Room</h2>
@@ -38,7 +48,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 </div>
 </section>
 
-<section class="ch-split reverse">
+<section class="ch-split">
 <div class="ch-media">{{ picture("kitchen-copper-sink", "The remodeled kitchen: cooktop, double oven and butcher block under log beams", "(min-width: 900px) 55vw, 100vw") }}</div>
 <div class="ch-copy">
 <h2>Kitchen and dining</h2>
@@ -58,15 +68,6 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 </div>
 </section>
 
-<section class="ch-split">
-<div class="ch-media"><a href="/gallery/#tub">{{ picture("hydrotherapy-tub-winter-guests", "Guests in the steaming outdoor hydrotherapy tub in winter, snow piled around it", "(min-width: 900px) 55vw, 100vw") }}</a></div>
-<div class="ch-copy">
-<h2>The hot tub</h2>
-<p>The outdoor hydrotherapy tub seats six and runs all year, just off the back deck, looking straight up at Carson Peak. Two creeks run through the two-thirds of an acre around it, and the national forest begins at the back fence. Most nights, Yost Creek is the only sound.</p>
-<p>A word of warning: people get in this tub planning to stay ten minutes. Then the stars come out over Carson Peak and somebody brings out another round of cocoa, and now it is midnight and nobody can feel their responsibilities. Plan accordingly.</p>
-<p><a class="link-arrow" href="/gallery/#tub">See the tub</a></p>
-</div>
-</section>
 
 <section class="ch-suites" aria-labelledby="suites">
 <h2 id="suites">The suites</h2>

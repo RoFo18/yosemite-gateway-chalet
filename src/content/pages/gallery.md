@@ -29,6 +29,8 @@ lead: The chalet, the Loop it sits on, and the high country beyond, one photogra
   ("family-room-wood-stove", "The family room", "A wood stove beside the kitchen. Late conversations end up here."),
   ("family-room-leather-sofa", "The family room couch", "Leather, a window full of pines and the breakfast bar a step away."),
   ("copper-faucet-detail", "The copper sink", "Hand-hammered copper from Mexico, at the breakfast bar."),
+  ("garage-climbing-wall-full", "The climbing wall", "A full bouldering wall in the garage, under a stained-glass window."),
+  ("kachina-dolls-mantel", "The mantel", "Kachina dolls along the log mantel in the Grand Room."),
   ("mud-room-bench-and-cubbies", "The mud room", "A cubby for everybody, hooks for the jackets, and a bench for the boots."),
   ("staircase-chandelier", "The stairs", "Log railings and a brass chandelier from the entry hall to the suites."),
   ("curio-cabinet-pottery", "Pueblo pottery", "Pottery and painted plates collected over decades, in the dining room cabinet."),

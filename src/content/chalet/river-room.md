@@ -15,6 +15,8 @@ related: [/the-chalet/master-suite/, /the-chalet/elsie-room/, /the-chalet/floorp
 ---
 Listen to Yost Creek roll past as you look out at Carson Peak from a memory foam bed. Yost is a blue-line stream, which on the topo maps means it runs all year, so on a summer night you can open the window and fall asleep to it. Most guests do. The River Room sits away from the Grand Room and is the quietest place to sleep in the chalet. The bathroom is completely remodeled.
 
+{{ figure("river-room-bed-windows", "The River Room's queen bed with two lamps glowing, under a pine ceiling, with a window into the pines and an angled window onto the aspens", "Two lamps, two windows, and the creek outside both of them.") }}
+
 {{ facts([("Bed", "Memory foam"), ("Bath", "Private, remodeled"), ("View", "Carson Peak and Yost Creek")]) }}
 
 [Inquire about dates](/inquire/)

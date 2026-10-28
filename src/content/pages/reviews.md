@@ -17,6 +17,13 @@ related: [/the-chalet/, /inquire/, /rates-and-policies/]
 
 {{ quote("nicholas", "rv-lead") }}
 
+<div class="light-trio">
+<figure>{{ picture("hydrotherapy-tub-snow-forest", "The stone-and-tile hydrotherapy tub in winter sun, snow on the lawn and tall pines and aspens behind", "(min-width: 760px) 33vw, 100vw") }}</figure>
+<figure>{{ picture("family-room-leather-sofa", "Leather couches by the windows in the family room, under log walls and beams", "(min-width: 760px) 33vw, 100vw") }}</figure>
+<figure>{{ picture("curio-cabinet-pottery", "Pueblo pottery and painted plates in a lit cabinet in the dining room", "(min-width: 760px) 33vw, 100vw") }}</figure>
+<figcaption>What the reviews keep coming back to: the tub, the fire, and a house that feels lived in.</figcaption>
+</div>
+
 {{ reviews_wall(skip=["nicholas"]) }}
 
 Every review is quoted as the guest posted it, with the guest's name as the platform shows it. Read them all, including the few that were less than glowing, on [VRBO](https://www.vrbo.com/452799) and [Airbnb](https://www.airbnb.com/rooms/59105/reviews).

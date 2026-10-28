@@ -159,6 +159,17 @@
    860
   ]
  },
+ "chalet-sign-at-dusk": {
+  "color": "#544045",
+  "h": 1174,
+  "w": 1776,
+  "widths": [
+   480,
+   800,
+   1200,
+   1776
+  ]
+ },
  "chalet-winter-sign": {
   "color": "#685f54",
   "h": 1143,
@@ -284,6 +295,17 @@
    480,
    800,
    1072
+  ]
+ },
+ "drive-up-395-sierra": {
+  "color": "#495a60",
+  "h": 1202,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "eastern-sierra-morning-water": {
@@ -473,6 +495,17 @@
   "widths": [
    480,
    768
+  ]
+ },
+ "garage-climbing-wall-full": {
+  "color": "#4a483c",
+  "h": 1385,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "garage-climbing-wall-handholds": {
@@ -695,6 +728,16 @@
    860
   ]
  },
+ "hydrotherapy-tub-snow-forest": {
+  "color": "#5b5f5b",
+  "h": 1606,
+  "w": 1066,
+  "widths": [
+   480,
+   800,
+   1066
+  ]
+ },
  "hydrotherapy-tub-stone-surround": {
   "color": "#745e59",
   "h": 1030,
@@ -843,6 +886,17 @@
    1651
   ]
  },
+ "kachina-dolls-mantel": {
+  "color": "#845941",
+  "h": 1176,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "kid-paddleboard-rush-creek-carson-peak": {
   "color": "#748286",
   "h": 1024,
@@ -902,6 +956,17 @@
    768
   ]
  },
+ "log-sitting-room": {
+  "color": "#563923",
+  "h": 1191,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "lundy-canyon-fall-aspens": {
   "color": "#627893",
   "h": 768,
@@ -923,13 +988,14 @@
   ]
  },
  "master-suite-bed": {
-  "color": "#6d3913",
-  "h": 493,
-  "w": 1024,
+  "color": "#664126",
+  "h": 1199,
+  "w": 1800,
   "widths": [
    480,
    800,
-   1024
+   1200,
+   1800
   ]
  },
  "master-suite-evening": {
@@ -943,13 +1009,14 @@
   ]
  },
  "master-suite-jacuzzi-and-beds": {
-  "color": "#774713",
-  "h": 442,
-  "w": 1024,
+  "color": "#b0773d",
+  "h": 1184,
+  "w": 1800,
   "widths": [
    480,
    800,
-   1024
+   1200,
+   1800
   ]
  },
  "master-suite-loft": {
@@ -1159,6 +1226,17 @@
    800,
    1200,
    1280
+  ]
+ },
+ "river-room-bed-windows": {
+  "color": "#a0876d",
+  "h": 1139,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "river-room-suite": {

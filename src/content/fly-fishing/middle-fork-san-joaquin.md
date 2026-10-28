@@ -1,6 +1,9 @@
 ---
 url: /fly-fishing/middle-fork-san-joaquin/
 template: guide
+hero: eastern-sierra-morning-water
+hero_focus: 50% 70%
+hero_alt: "Clear water spilling over dark boulders at the foot of a granite wall and tall firs, in blue morning light"
 title: "Fly Fishing the Middle Fork San Joaquin"
 nav_title: Middle Fork San Joaquin
 eyebrow: Freestone pocket water at Reds Meadow, 50 minutes from the chalet

@@ -39,7 +39,6 @@ NAMES = {
     "family-kitchen-gallery-2.jpg": "family-room-evening",
     "family-kitchen-gallery-5.jpg": "kitchen-wide-view",
     "family-kitchen-gallery-6.jpg": "family-room-wide-view",
-    "master-bedroom-gallery-1.jpg": "master-suite-bed",
     "master-bedroom-gallery-2.jpg": "master-suite-evening",
     "master-bedroom-gallery-3.jpg": "master-suite-window-snow-peaks",
     "outdoor-hydrotherapy-pool-gallery-1.jpg": "hydrotherapy-tub-night-steam",
@@ -105,7 +104,6 @@ NAMES = {
     "new-saddlebag-lake.jpg": "saddlebag-lake-tioga",
     "new-mono-fissures.jpg": "mono-lake-black-point-fissures",
     "new-horseback-june-lake.jpg": "horseback-ride-above-june-lake",
-    "new-master-suite-jacuzzi-vanity.jpg": "master-suite-jacuzzi-and-beds",
     "new-master-suite-loft.jpg": "master-suite-loft",
     "new-secret-spot-lakes.jpg": "secret-spot-alpine-lakes",
     "new-elsie-red-tub.jpg": "elsie-room-red-claw-foot-tub",
@@ -168,6 +166,15 @@ NAMES = {
     "hq-grand-room-evening-lamplight.jpg": "grand-room-evening-lamplight",
     "hq-grand-room-fireplace-and-bar.jpg": "grand-room-fireplace-and-bar",
     "hq-river-room-suite.jpg": "river-room-suite",
+    "hq-hydrotherapy-tub-snow-forest.jpg": "hydrotherapy-tub-snow-forest",
+    "hq-river-room-bed-windows.jpg": "river-room-bed-windows",
+    "hq-chalet-sign-at-dusk.jpg": "chalet-sign-at-dusk",
+    "hq-master-suite-jacuzzi-and-beds.jpg": "master-suite-jacuzzi-and-beds",
+    "hq-master-suite-bed.jpg": "master-suite-bed",
+    "hq-garage-climbing-wall-full.jpg": "garage-climbing-wall-full",
+    "hq-log-sitting-room.jpg": "log-sitting-room",
+    "hq-drive-up-395-sierra.jpg": "drive-up-395-sierra",
+    "hq-kachina-dolls-mantel.jpg": "kachina-dolls-mantel",
 }
 
 

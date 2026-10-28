@@ -7,8 +7,9 @@ kicker: Food and drink
 seo_title: "Where to Eat in June Lake | Yosemite Gateway Chalet"
 description: "Where we eat near the chalet: La Parrilla, the best Mexican food in the Eastern Sierra, the reborn Tiger Bar, Eagle's Landing and Silver Lake Resort."
 topic: June Lake restaurants
-hero: grand-room-oak-bar-wine
-hero_alt: "Wine on the oak bar in the Grand Room"
+hero: copper-faucet-detail
+hero_focus: 40% 45%
+hero_alt: "The hand-hammered copper sink and faucet at the chalet's breakfast bar"
 lead: Some nights you will cook in the gourmet kitchen. On the others, here is where we go.
 updated: 2026-10-27
 related: [/experiences/spa-and-hot-springs/, /guides/june-lake/, /the-chalet/]
