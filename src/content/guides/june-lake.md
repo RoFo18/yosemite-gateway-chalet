@@ -50,7 +50,7 @@ sources:
 
 Highway 158 leaves US 395 south of Lee Vining, curves west into a glacial valley below Carson Peak, and returns to 395 farther north, a horseshoe of about 14 miles. Along the way it passes June Lake and its village, Gull Lake, June Mountain, Silver Lake, Rush Creek and Grant Lake, with steep granite walls on one side and the Ansel Adams Wilderness beyond. People have called it the Switzerland of California for generations.
 
-The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, between the ski area and the Double Eagle Resort, about a mile up-canyon from the Fern Lake trailhead.
+The Yosemite Gateway Chalet sits on the loop one mile past June Mountain, between the ski area and the Double Eagle Resort, about a mile up the Loop from the Fern Lake trailhead.
 
 ## The four lakes
 
