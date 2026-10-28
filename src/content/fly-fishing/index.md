@@ -9,8 +9,8 @@ card: Hot Creek, the Upper Owens, Crowley, the East Walker, the Middle Fork and 
 seo_title: "Fly Fishing June Lake and the Eastern Sierra: Waters, Hatches, Flies and Regulations"
 description: "The complete guide to fly fishing June Lake and the Eastern Sierra: Hot Creek, the Upper Owens, Crowley Lake, the East Walker, the Middle Fork San Joaquin, Rush Creek and the backcountry lakes, with hatch charts, flies, current regulations and a live where-to-fish tool."
 topic: fly fishing June Lake and the Eastern Sierra
-hero: fly-fishing-rush-creek
-hero_alt: A fly fisher working a run on Rush Creek in the Eastern Sierra
+hero: rush-creek-wading-angler
+hero_alt: A fly fisher wading a clear, glassy run of Rush Creek between willows under a bare Sierra ridge
 ff_tool: true
 published: 2026-10-27
 updated: 2026-10-27

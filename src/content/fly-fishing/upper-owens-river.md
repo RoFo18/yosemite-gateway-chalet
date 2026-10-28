@@ -42,6 +42,8 @@ sources:
 
 ## The river
 
+{{ figure("upper-owens-river-meadow-cast", "An angler in a ball cap casting across the Upper Owens River as it bends through green meadow grass under the Glass Mountains and a sky full of clouds", "The Upper Owens in high summer. Stay back from the bank. The fish can see you long before you see them.") }}
+
 Big Springs pours out of the ground just east of Highway 395, and from there the Owens snakes through a wide sagebrush meadow toward Crowley Lake. Undercut banks, deep bends, weed lines and grass that hangs over the water: every bend is a hiding place, and every hiding place has a fish under it. Resident browns and rainbows live here all year.
 
 Then twice a year the lake comes to visit.

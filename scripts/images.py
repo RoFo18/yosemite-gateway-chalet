@@ -78,7 +78,6 @@ NAMES = {
     "dscn6533-001.jpg": "eastern-sierra-sunset-panorama",
     "2012-02-16-12-47-33.pdf000.jpg": "june-mountain-winter-forest",
     "56ski-june-mtn2.jpg": "skiing-june-mountain-corduroy",
-    "55fishing.jpg": "fly-fishing-rush-creek",
     "hot-springs.jpg": "hot-creek-eastern-sierra",
     "hotsprings-2.jpg": "natural-hot-spring-soak",
     "img-7697.jpg": "gull-lake-rope-swing",
@@ -154,6 +153,10 @@ NAMES = {
     "new-june-lake-panorama.jpg": "june-lake-panorama",
     "new-lundy-canyon-fall-aspens.jpg": "lundy-canyon-fall-aspens",
     "new-lundy-canyon-waterfall-fall-color.jpg": "lundy-canyon-waterfall-fall-color",
+    "new-hot-creek-canyon-from-above.jpg": "hot-creek-canyon-from-above",
+    "new-upper-owens-river-meadow-cast.jpg": "upper-owens-river-meadow-cast",
+    "new-rush-creek-meadow-carson-peak.jpg": "rush-creek-meadow-carson-peak",
+    "new-rush-creek-wading-angler.jpg": "rush-creek-wading-angler",
 }
 
 

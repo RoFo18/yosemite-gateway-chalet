@@ -46,6 +46,8 @@ sources:
 
 ## What you are getting into
 
+{{ figure("hot-creek-canyon-from-above", "Hot Creek winding through its gorge of white volcanic rock and steaming turquoise pools, with the snowy Sierra crest behind", "Hot Creek from the rim of the gorge. The blue pools are hot springs; the fish live in the cold water between them.") }}
+
 Hot Creek is warm springs feeding cold snowmelt, which makes for steady temperatures, thick weed beds and a food supply that would embarrass most rivers. The result is an absurd number of trout in a small, clear creek, and every one of them gets a good long look at your fly. Rainbows and browns, mostly 10 to 16 inches, with the occasional fish near 20.
 
 It is not a numbers game for beginners. It is a numbers game for people who can land a size 22 spinner on a dinner plate, drag-free, the first time.

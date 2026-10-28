@@ -60,6 +60,8 @@ sources:
 
 ## Rush Creek
 
+{{ figure("rush-creek-meadow-carson-peak", "Rush Creek bending through a bright green meadow and willows, with Carson Peak and the June Lake Loop peaks under summer clouds", "Rush Creek between Silver and Grant. It looks easy. The browns in the undercut banks would like a word.") }}
+
 Between Silver and Grant, Rush Creek runs through meadow and willow, with a mix of wild and planted trout; that section opens the Saturday before Memorial Day and closes September 30. Below Grant Lake Dam, Rush Creek runs down to Mono Lake as a wild trout stream managed by the state, open all year, barbless artificial lures, catch and release. Small nymphs and dries in the undercuts and riffles do the work.
 
 {{ figure("fly-casting-below-granite", "An angler in a red cap stripping in line beside a clear creek below granite cliffs and spring aspens", "Spring on a freestone creek below the granite. Short casts, clear water, rising fish.") }}

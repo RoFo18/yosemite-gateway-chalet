@@ -397,16 +397,6 @@
    666
   ]
  },
- "fly-fishing-rush-creek": {
-  "color": "#747858",
-  "h": 634,
-  "w": 1127,
-  "widths": [
-   480,
-   800,
-   1127
-  ]
- },
  "garage-climbing-wall": {
   "color": "#6d6962",
   "h": 1024,
@@ -594,6 +584,16 @@
    480,
    800,
    994
+  ]
+ },
+ "hot-creek-canyon-from-above": {
+  "color": "#76736f",
+  "h": 900,
+  "w": 900,
+  "widths": [
+   480,
+   800,
+   900
   ]
  },
  "hot-creek-eastern-sierra": {
@@ -1088,6 +1088,28 @@
    954
   ]
  },
+ "rush-creek-meadow-carson-peak": {
+  "color": "#778570",
+  "h": 1348,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
+ "rush-creek-wading-angler": {
+  "color": "#6b7c7b",
+  "h": 1362,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "saddlebag-lake-tioga": {
   "color": "#516789",
   "h": 768,
@@ -1163,6 +1185,17 @@
    480,
    800,
    960
+  ]
+ },
+ "upper-owens-river-meadow-cast": {
+  "color": "#74838d",
+  "h": 1346,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "white-mountain-summit-sunrise": {
