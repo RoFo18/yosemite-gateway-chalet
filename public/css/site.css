@@ -1042,10 +1042,11 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .page-hero.pano{display:block;min-height:0;background:var(--night);overflow:hidden}
 .page-hero.pano::after{display:none}
 .page-hero.pano .ph-img,.page-hero.pano .ph-img img{position:relative;inset:auto;height:auto}
-.page-hero.pano .ph-img img{display:block;width:100%;aspect-ratio:1024/251;min-height:220px;object-fit:cover}
+.page-hero.pano .ph-img img{display:block;width:100%;height:auto;min-height:220px;object-fit:cover}
 .page-hero.pano .ph-copy{position:relative}
 .page-hero.pano .ph-copy{padding-top:clamp(1.6rem,4vw,2.6rem)}
 .fig-pair{display:grid;grid-template-columns:1fr;gap:clamp(10px,1.4vw,18px);margin:2.4rem 0}
 .fig-pair .fig{margin:0!important}
 .even-figs .fig-pair .fig img{aspect-ratio:3/4}
 @media (min-width:640px){.fig-pair{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.fig-pair .fig{width:auto!important;max-width:100%!important;margin-left:0!important;margin-right:0!important}.fig-pair .fig img{width:100%;height:auto;max-height:none;aspect-ratio:3/4;object-fit:cover}.fig-pair .fig figcaption{text-align:left}

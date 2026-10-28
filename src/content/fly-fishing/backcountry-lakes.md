@@ -49,6 +49,8 @@ sources:
 
 Walk out of the chalet, about a mile down-canyon to the trailhead, then straight up: about 1.6 miles and 1,600 feet to a small cirque lake on the shoulder of Carson Peak. Brook trout, cruising the edges, eating dry flies with the enthusiasm of fish that do not see many. A half day, and you never touch the car. See the [hiking notes](/experiences/hiking/#fern-and-yost-lakes-from-the-chalet).
 
+{{ figure("fern-lake-cirque-summer", "Fern Lake in early summer: clear shallow water reflecting the snow-streaked cirque and a stand of pines under a deep blue sky", "Fern Lake, up the trail from the chalet. The brookies cruise those shallows like they own them, because they do.") }}
+
 ## Parker Lake
 
 Short, easy and pretty, with a twist: Parker Lake has its own rules, open all year, artificial lures only, a 14-inch minimum and two fish. The browns and brookies have had time to grow. Parker Creek below it is catch and release all year.
@@ -56,6 +58,8 @@ Short, easy and pretty, with a twist: Parker Lake has its own rules, open all ye
 ## Agnew, Gem and beyond
 
 From the Silver Lake trailhead, the Rush Creek Trail climbs hard to Agnew Lake, then on to Gem and Waugh lakes, and eventually into the high basins around Thousand Island Lake below Banner and Ritter peaks. The higher you go, the fewer people, and the more likely you are to meet brookies, rainbows and, in some basins above 10,000 feet, goldens. Overnight trips need an Inyo National Forest wilderness permit.
+
+<div class="fig-pair">{{ figure("banner-ritter-backcountry-bw", "Banner Peak and Mount Ritter under a heavy sky, seen across a high meadow past the bleached trunks of a fallen whitebark pine", "Banner and Ritter, the deep end of the Ansel Adams Wilderness.") }}{{ figure("mount-banner-memorial-plaque", "A bronze plaque on a boulder below Banner Peak remembering Conrad and Anna Rettenbacher, who died climbing Mt. Banner in July 1934", "A plaque below Banner Peak, from 1934. The mountains up here are beautiful, and they are serious.") }}</div>
 
 {{ guide_says("Golden trout are the most beautiful fish in California and they choose to live at ten thousand feet, which is nature's way of saying you have to earn it. Pack light. Except for the fly boxes. Bring all of the fly boxes.") }}
 
