@@ -52,7 +52,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <div class="ch-media">{{ picture("kitchen-copper-sink", "The remodeled kitchen: cooktop, double oven and butcher block under log beams", "(min-width: 900px) 55vw, 100vw") }}</div>
 <div class="ch-copy">
 <h2>The kitchen</h2>
-<p>Completely remodeled, with a six-burner stove, a double oven and a handmade copper sink from Mexico. It is stocked down to the coffee grinder and the garlic press. Bring food, and nothing else.</p>
+<p>Completely remodeled, with a six-burner stove, a double oven and a handmade copper sink from Mexico. It is stocked down to the coffee grinder and the garlic press. Bring food, your spices and your coffee, and maybe a pack of filters. There is no pod machine, and there never will be.</p>
 </div>
 </section>
 

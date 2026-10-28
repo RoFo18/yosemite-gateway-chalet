@@ -70,7 +70,7 @@ faq:
 - q: Do we need to bring linens or towels?
   a: No. The house is equipped with organic cotton sheets and towels for the beds, the baths and the tubs.
 - q: What should we bring for the kitchen?
-  a: Just food. The kitchen is fully stocked, down to the coffee maker, coffee grinder and garlic press, and we provide salt and olive oil. Somebody always brings a good knife from home anyway. You will not need it.
+  a: "Food, your spices, and your coffee. The kitchen is stocked down to the coffee maker, the grinder and the garlic press, and we leave salt and olive oil, but bring your own spices, your coffee and a pack of coffee filters to be safe. And no, there is no pod machine. This is a log cabin, not a dentist's waiting room. Somebody always brings a good knife from home anyway. You will not need it."
 - q: Is there a washer and dryer?
   a: Yes, a high-end washer and dryer in the garage. Bring your own laundry detergent. We try to keep some in stock, but we cannot promise it, and the general store does not always have it either.
 - q: Where are the extra paper towels and toilet paper?

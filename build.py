@@ -211,6 +211,23 @@ def quote(rid, cls=""):
     return Markup(f'<figure class="rv-pull {cls}"><blockquote><p>{html.escape(r["text"])}</p></blockquote>{_cite(r)}</figure>')
 
 
+def _reply(r):
+    if not r.get("reply"):
+        return ""
+    return (f'<aside class="rx-reply"><p class="rx-k">Robert writes back</p><p class="rx-t">{html.escape(r["reply"])}</p></aside>')
+
+
+def exchange(rid, layout="plain", img=None, alt="", fit=None):
+    """A guest review with the host's reply. Layouts: plain, card, band, photo-left, photo-right."""
+    r = _RV[rid]
+    q = f'<blockquote><p>{html.escape(r["text"])}</p></blockquote>{_cite(r)}'
+    body = f'<div class="rx-body">{q}{_reply(r)}</div>'
+    if img:
+        pic = picture(img, alt, "(min-width: 900px) 45vw, 100vw", fit=fit)
+        return Markup(f'<figure class="rx rx-{layout}"><div class="rx-img">{pic}</div>{body}</figure>')
+    return Markup(f'<figure class="rx rx-{layout}">{body}</figure>')
+
+
 def reviews_wall(skip=()):
     items = "".join(f'<figure class="rv"><blockquote><p>{html.escape(r["text"])}</p></blockquote>{_cite(r)}</figure>'
                     for r in REVIEWS["reviews"] if r["id"] not in skip)
@@ -559,7 +576,7 @@ def main():
 
     env = Environment(loader=FileSystemLoader(os.path.join(SRC, "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, ff_calendar=ff_calendar, ff_drive=ff_drive, ff_facts=ff_facts, ff_tool=ff_tool, guide_says=guide_says, locals_list=locals_list, distance_table=distance_table, note=note, film=film,
+    helpers = dict(picture=picture, figure=figure, gallery=gallery, story=story, glance=glance, video_tour=video_tour, quote=quote, exchange=exchange, reviews_wall=reviews_wall, review_scores=review_scores, tioga_data=tioga_data, tioga=tioga, ff_calendar=ff_calendar, ff_drive=ff_drive, ff_facts=ff_facts, ff_tool=ff_tool, guide_says=guide_says, locals_list=locals_list, distance_table=distance_table, note=note, film=film,
                    facts=facts, trail_card=trail_card, P=P, IMAGES=IMAGES)
     import hashlib
     def asset_v(rel):

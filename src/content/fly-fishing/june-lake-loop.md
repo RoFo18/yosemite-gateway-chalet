@@ -77,7 +77,7 @@ Between Silver and Grant, Rush Creek runs through meadow and willow, with a mix 
 
 ## Gear and a guide
 
-Ernie's Tackle and Ski Shop in the village has gear and a report. For a day on the loop with someone who has fished it for years, call Knot at [Sierra Moments](https://www.sierramoments.com/), (760) 577-1247. He is excellent with kids, which matters when your kids are the ones holding the rod.
+Ernie's Tackle and Ski Shop in the village has gear and a report; ask Jeremy. For a day on the loop with someone who has fished it for years, call Knot at [Sierra Moments](https://www.sierramoments.com/), (760) 577-1247. He is excellent with kids, which matters when your kids are the ones holding the rod.
 
 The chalet's five stand-up paddleboards will get you to water the shore anglers cannot reach. No fishing in the pond on the chalet grounds, though. That fish has suffered enough.
 

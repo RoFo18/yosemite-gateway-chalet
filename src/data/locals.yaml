@@ -5,14 +5,14 @@ locals:
   - id: ernies
     name: Ernie's Tackle and Ski Shop
     kind: SportingGoodsStore
-    what: Ski and snowboard rentals, tunes, fishing tackle, licenses and the best local report in June Lake.
+    what: Ski and snowboard rentals, tunes, fishing tackle, licenses and the best local report in June Lake. Jeremy runs the shop, and he is the one to ask.
     address: 2604 Boulder Dr., June Lake, CA 93529
     phone: (760) 648-7756
     url: https://www.erniestackleandskishop.com/
     instagram: https://www.instagram.com/erniestacklejl/
     facebook: https://www.facebook.com/Erniestackleandski/
     handle: "@erniestacklejl"
-    guide: "If Ernie's says the fish are on the Upper Owens, go to the Upper Owens. If Ernie's says they are not biting anywhere, go anyway, and buy a few more flies on the way out."
+    guide: "If Jeremy says the fish are on the Upper Owens, go to the Upper Owens. If Jeremy says they are not biting anywhere, go anyway, and buy a few more flies on the way out."
     used_on: [/experiences/winter/, /fly-fishing/, /fly-fishing/june-lake-loop/]
     posts:
       - "Skiing June Mountain this week? Get your rentals and a tune at Ernie's Tackle and Ski Shop in June Lake village. Same crew sets you up on a fly rod all summer. @erniestacklejl"
@@ -21,8 +21,8 @@ locals:
   - id: la-parrilla
     name: La Parrilla
     kind: Restaurant
-    what: The best Mexican food in the Eastern Sierra, at the window outside June Lake Brewing.
-    address: June Lake village, outside June Lake Brewing
+    what: The best Mexican food in the Eastern Sierra, across the courtyard from June Lake Brewing.
+    address: June Lake village, across the courtyard from June Lake Brewing
     instagram: https://www.instagram.com/laparrilla_158/
     handle: "@laparrilla_158"
     img: la-parrilla-yeti
@@ -31,9 +31,9 @@ locals:
     guide: "Folks drive four hundred miles looking for Bigfoot in the Sierra. Turns out he lives in June Lake, he orders the carne asada, and he tips better than most fishing guides."
     used_on: [/experiences/dining/]
     posts:
-      - "Best Mexican food in the Eastern Sierra, and we will not be talked out of it: La Parrilla, at the window outside June Lake Brewing. @laparrilla_158"
-      - "Ski day, fishing day, any day: end it with tacos from La Parrilla and a pint next door at June Lake Brewing. @laparrilla_158"
-      - "Skunked on the June Lake Loop? Happens to the best of us. The cure is La Parrilla, the best Mexican food in the Eastern Sierra, right next to June Lake Brewing. @laparrilla_158"
+      - "Best Mexican food in the Eastern Sierra, and we will not be talked out of it: La Parrilla, across the courtyard from June Lake Brewing. @laparrilla_158"
+      - "Ski day, fishing day, any day: end it with tacos from La Parrilla and a pint across the courtyard at June Lake Brewing. @laparrilla_158"
+      - "Skunked on the June Lake Loop? Happens to the best of us. The cure is La Parrilla, the best Mexican food in the Eastern Sierra, across the courtyard from June Lake Brewing. @laparrilla_158"
   - id: tiger-bar
     name: The Tiger Bar
     kind: BarOrPub
@@ -50,15 +50,15 @@ locals:
   - id: general-store
     name: June Lake General Store
     kind: GroceryStore
-    what: Groceries, coffee, firewood, hardware, camping supplies and whatever you forgot to pack, in June Lake village. Luis, the owner, is a solid family man and a great guy, and the store is one of the cornerstones of the June Lake community. We are lucky to have him.
+    what: Groceries, firewood, hardware, camping supplies and whatever you forgot to pack, in June Lake village. Luis, the owner, is a solid family man and a great guy, and the store is one of the cornerstones of the June Lake community. We are lucky to have him.
     address: June Lake village
     img: june-lake-general-store
     img_alt: "The June Lake General Store: a steep A-frame gable with a pine wreath and icicle lights, white double doors, and two carved bears holding trout on Welcome stumps, with pumpkins out front"
     cap: Two carved bears holding trout. That is how you know you are in the right place.
-    guide: "In the off season, check the hours before you count on it for morning coffee. Most days it is open right when you need it, which is more than you can say for the road."
+    guide: "In the off season, check the hours before you count on it first thing in the morning. Most days it is open right when you need it, which is more than you can say for the road."
     used_on: [/guides/june-lake/]
     posts:
-      - "Staying on the June Lake Loop? The June Lake General Store has your groceries, your coffee, your firewood and the thing you forgot to pack."
+      - "Staying on the June Lake Loop? The June Lake General Store has your groceries, your firewood and the thing you forgot to pack."
       - "Luis and his family run the June Lake General Store, and the whole town is better for it. Off season, check the hours before you go in the morning."
   - id: sierra-mountain-guides
     name: Sierra Mountain Guides
@@ -101,7 +101,6 @@ locals:
     what: Classic cabins on Silver Lake and a cafe with one of the best breakfasts on the June Lake Loop. Seasonal, roughly late spring to fall.
     address: Silver Lake, June Lake Loop, Highway 158
     url: https://www.silverlakeresort.net/store-cafe/
-    guide: "If you ever land a cabin week, do not tell anybody how you got it."
     used_on: [/experiences/dining/, /faq/]
     posts:
       - "Breakfast at the Silver Lake Resort cafe, then a paddle on Silver Lake. That is a whole morning on the June Lake Loop, done right."
@@ -112,7 +111,6 @@ locals:
     what: Cottages in June Lake village, good value and well run for years.
     address: June Lake village
     url: https://www.junelakepines.com/
-    guide: "Good value, well run, no surprises. In a resort town, that is the whole review."
     used_on: [/faq/]
     posts:
       - "Looking for a good-value base in June Lake village? June Lake Pines Cottages has been well run for years."
@@ -124,7 +122,7 @@ locals:
     url: https://doubleeagle.com/
     instagram: https://www.instagram.com/doubleeagleresort/
     handle: "@doubleeagleresort"
-    guide: "Walk over through the aspens. You will want the walk home to finish whatever the massage did not."
+    guide: "Walk over through the aspens. Get the massage and take the long way home. Your legs will thank you twice."
     used_on: [/experiences/dining/, /experiences/spa-and-hot-springs/, /faq/]
     posts:
       - "Walk a mile through the aspens on the Forest Service trail and you are at the Double Eagle: massage, workout, pool, and a fishing pond for the little ones. @doubleeagleresort"

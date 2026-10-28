@@ -18,7 +18,7 @@ related: [/experiences/spa-and-hot-springs/, /guides/june-lake/, /the-chalet/]
 
 <span class="dine-links"><a href="https://www.instagram.com/laparrilla_158/" rel="noopener" target="_blank">Instagram</a></span>
 
-The best Mexican food in the Eastern Sierra, and it sits right next to June Lake Brewing in the village. Order at the window, grab a pint next door, and eat outside with the whole loop walking by.
+The best Mexican food in the Eastern Sierra, and it sits across the courtyard from June Lake Brewing in the village. Order at the window, grab a pint across the courtyard, and eat outside with the whole loop walking by.
 
 {{ guide_says("Go after a day on the water and order like you got skunked, because you probably did. You will not be the only one in line with a story. The yeti eats here too, and he has a photo on our <a href=\"/local-favorites/#la-parrilla\">local favorites</a> page to prove it.") }}
 

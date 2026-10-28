@@ -178,7 +178,7 @@ NAMES = {
     "hq-la-parrilla-june-lake.jpg": "la-parrilla-june-lake",
     "hq-la-parrilla-yeti.jpg": "la-parrilla-yeti",
     "hq-tiger-bar-logo.jpg": "tiger-bar-logo",
-    "graded-garage-climbing-wall.jpg": "garage-climbing-wall",
+    "vintage-garage-climbing-wall.jpg": "garage-climbing-wall",
     "june-lake-general-store.jpg": "june-lake-general-store",
 }
 

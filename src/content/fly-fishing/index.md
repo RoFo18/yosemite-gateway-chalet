@@ -151,7 +151,7 @@ A rule we take seriously: when the water reaches about 70°F, stop fishing for t
 
 The air is thin and dry at 7,600 feet. Drink more water than you think, wear a hat, and expect the afternoon wind on the big lakes to arrive exactly when the fish start eating.
 
-Forgot something? [Ernie's Tackle and Ski Shop](https://www.erniestackleandskishop.com/) in June Lake village, 2604 Boulder Drive, (760) 648-7756, has flies, tippet, licenses and the most honest fishing report on the loop. Follow them on [Instagram](https://www.instagram.com/erniestacklejl/).
+Forgot something? [Ernie's Tackle and Ski Shop](https://www.erniestackleandskishop.com/) in June Lake village, 2604 Boulder Drive, (760) 648-7756, has flies, tippet, licenses and the most honest fishing report on the loop. Ask for Jeremy. Follow them on [Instagram](https://www.instagram.com/erniestacklejl/).
 
 {{ guide_says("I have fished every rod weight there is, and I can tell you the right one is whichever one you brought. The fish do not know. The fish cannot read the label. Neither, frankly, can most guides.") }}
 

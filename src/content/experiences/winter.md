@@ -64,7 +64,7 @@ Our ranking of lift-accessed backcountry in the lower 48. The terrain is theirs;
 
 ## Rentals, tunes and gear: Ernie's
 
-For ski and snowboard rentals, tunes, wax, and anything you forgot, go to [Ernie's Tackle and Ski Shop](https://www.erniestackleandskishop.com/) in June Lake village, 2604 Boulder Drive, (760) 648-7756. The same people who will set you up on a fly rod in summer will set your bindings in winter, and both conversations are worth having. Follow them on [Instagram](https://www.instagram.com/erniestacklejl/).
+For ski and snowboard rentals, tunes, wax, and anything you forgot, go to [Ernie's Tackle and Ski Shop](https://www.erniestackleandskishop.com/) in June Lake village, 2604 Boulder Drive, (760) 648-7756. Jeremy and his crew, who will set you up on a fly rod in summer, will set your bindings in winter, and both conversations are worth having. Follow them on [Instagram](https://www.instagram.com/erniestacklejl/).
 
 ## Mammoth Mountain
 

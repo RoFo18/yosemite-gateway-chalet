@@ -9,6 +9,7 @@ reviews:
     when: July 2026
     source: Airbnb
     text: "Robert's chalet is a gorgeous sanctuary in one of my favorite areas of California. I've stayed at many places in June Lake over the last 35 years, but Robert's home is in a class all its own. Can't wait to return for years to come!"
+    reply: "Thirty-five years on the Loop, Nicholas, and you still had room to be impressed. We will take it. The tub is hot, the fire is laid, and as far as we are concerned your name is already on next summer."
   - id: heather
     name: Heather D.
     when: March 2023
@@ -25,11 +26,13 @@ reviews:
     when: August 2026
     source: Airbnb
     text: "Easily one of the best fishing trips we've had. Robert was very responsive, couldn't ask for a better host. The house is amazing. Definitely going back."
+    reply: "Scott, thank you. The fish may remember it differently. Between the Upper Owens, Hot Creek and the Loop, there is more good water within half an hour or so of the chalet than most people fish in a lifetime. Come back in the fall, when the browns get careless and the aspens go gold."
   - id: mark
     name: Mark
     when: February 2026
     source: Airbnb
     text: "Amazing vacation in a beautiful cabin with everything you need! The outdoor hot tub was a perfect way to relax after a day of skiing. The great room was a cozy spot to hang with a fire and watch a movie. I definitely recommend Robert's chalet."
+    reply: "Mark, the Grand Room ceiling rises twenty-one and a half feet, so there is room for a big fire and a bigger argument about the movie. Thank you for staying. June Mountain is a mile away, kids twelve and under ski free, and the tub will be warm whenever you are ready for round two."
   - id: daniella
     name: Daniella A.
     when: April 2023
@@ -45,11 +48,13 @@ reviews:
     when: October 2024
     source: VRBO
     text: "We loved the three separate rooms, each with it's own bathroom. The large kitchen and dining room were perfect for our needs."
+    reply: "Three suites with three private baths, Naomi. It is the closest thing to world peace we have found for a family trip. Nobody waits for the shower, and nobody has to listen to anybody else snore. Except whoever drew the loft."
   - id: charles
     name: Charles C.
     when: July 2023
     source: VRBO
     text: "This property is phenomenal! There is a stream running around the property. The kids caught a couple trout and threw them back. Property owner was very responsive."
+    reply: "Charles, those trout have been caught and released by more kids than any fish in Mono County. They are professionals at this point. Yost Creek runs all year, right past the hot tub, and the national forest starts at the back fence. Bring the kids back. The fish are expecting them."
   - id: bill
     name: Bill A.
     when: July 2025
@@ -60,11 +65,13 @@ reviews:
     when: February 2023
     source: VRBO
     text: "We had a fantastic trip, love this place… A true winter wonderland chalet… we got snowed in but with the hot tub, it was perfect!!"
+    reply: "Chad, for the record, Caltrans snowed you in. We plow our driveway first. But if you have to be stuck somewhere, a log house with a hot tub, a fireplace and June Mountain a mile away is the place to do it. Thank you for leaning into it. That is the right way to get snowed in."
   - id: jeff
     name: Jeff B.
     when: April 2025
     source: VRBO
     text: "This log \"cabin\" is a large yet comfortable and homey residence perfectly located in June Lake for any mountain related activities. We found the access to skiing and the quaint village just right."
+    reply: "Jeff, we saw those quotation marks around cabin. Fair. Four thousand square feet is a lot of cabin. We just never could bring ourselves to call it anything fancier. The bears would talk."
   - id: patricia
     name: Patricia K.
     when: September 2025
@@ -80,6 +87,7 @@ reviews:
     when: August 2026
     source: VRBO
     text: "Huge house Very welcome and warm hosting"
+    reply: "Short review, big house, Moshe. We will take both. Thank you."
   - id: feb26
     name: A returning guest
     when: February 2026
