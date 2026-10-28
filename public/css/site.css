@@ -865,6 +865,8 @@ i.ffc{display:inline-block;width:14px;height:14px;vertical-align:-2px;margin-rig
 .gs{margin:var(--s-6) 0;padding:1.1rem 1.3rem 1.2rem;background:#18241d;color:var(--on-dark);border-left:3px solid #d9b27a}
 .prose .gs-k{font:500 .68rem/1 var(--f-text);letter-spacing:.18em;text-transform:uppercase;color:#d9b27a;margin:0 0 .55rem}
 .prose .gs-t{font:italic 500 1.22rem/1.42 var(--f-display);color:var(--on-dark);margin:0}
+.prose .gs a{color:#d9b27a;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.prose .gs a:hover,.prose .gs a:focus-visible{color:#fff}
 .lf-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:var(--s-6) var(--s-7);margin:var(--s-5) 0 var(--s-7)}
 .lf{border-top:1px solid var(--rule);padding-top:var(--s-4)}
 .prose .lf h2{font:500 1.6rem/1.15 var(--f-display);margin:0 0 .5rem}
