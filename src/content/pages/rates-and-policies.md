@@ -72,4 +72,4 @@ The June Lake Loop is small and quiet. Sound carries over water and granite, and
 
 **Fishing.** No fishing in the pond on the grounds. See our [fishing guide](/fly-fishing/) for the lakes nearby.
 
-**Snow and bears.** The roof sheds snow, so park well away from the house and approach with care. Clean all food and trash out of your car when you arrive.
+**Snow and bears.** The roof sheds snow, so park well away from the house and approach with care. Clean all food and trash out of your car when you arrive, and leave the car unlocked: a bear that finds the door open will sniff around and leave, and one that finds it locked comes in through the window.

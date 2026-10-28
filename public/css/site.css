@@ -1032,3 +1032,18 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .pow-drop[open] summary::after{content:"\2212"}
 .pow-drop .fig{margin-top:.4rem}
 .page-hero.dim::after{background:linear-gradient(180deg,rgba(12,16,13,.5) 0%,rgba(12,16,13,.08) 28%,rgba(12,16,13,.2) 50%,rgba(12,16,13,.82) 100%)}
+/* Pages where every photo shares one frame: column width, 4:3 */
+.even-figs .fig,.even-figs .fig-wide,.even-figs .fig-portrait{width:100%!important;max-width:100%!important;margin-left:0!important;margin-right:0!important;float:none}
+.even-figs .fig img{width:100%;height:auto;max-height:none;aspect-ratio:4/3;object-fit:cover}
+.even-figs .fig figcaption{text-align:left;margin-inline:0}
+/* Panorama header: the whole photo, edge to edge, with the title beneath it */
+.page-hero.pano{display:block;min-height:0;background:var(--night);overflow:hidden}
+.page-hero.pano::after{display:none}
+.page-hero.pano .ph-img,.page-hero.pano .ph-img img{position:relative;inset:auto;height:auto}
+.page-hero.pano .ph-img img{display:block;width:100%;aspect-ratio:1024/251;min-height:220px;object-fit:cover}
+.page-hero.pano .ph-copy{position:relative}
+.page-hero.pano .ph-copy{padding-top:clamp(1.6rem,4vw,2.6rem)}
+.fig-pair{display:grid;grid-template-columns:1fr;gap:clamp(10px,1.4vw,18px);margin:2.4rem 0}
+.fig-pair .fig{margin:0!important}
+.even-figs .fig-pair .fig img{aspect-ratio:3/4}
+@media (min-width:640px){.fig-pair{grid-template-columns:repeat(2,minmax(0,1fr))}}

@@ -2,15 +2,16 @@
 url: /experiences/summer/
 title: Lakes and Paddleboarding at June Lake
 nav_title: Lakes and paddleboarding
-eyebrow: Climbing, riding, birding and lake days
+eyebrow: Paddleboards, rope swings and lake days
 kicker: Summer
-seo_title: "Summer in June Lake: Paddleboarding, Lakes, Climbing | Yosemite Gateway Chalet"
-description: "Summer from the chalet: six paddleboards, one kid-size, for Rush Creek and Silver Lake, Grant Lake swims, Gull Lake's rope swing, bouldering, birding and races."
+seo_title: "Summer in June Lake: Paddleboarding, Lakes and Rope Swings | Yosemite Gateway Chalet"
+description: "Summer from the chalet: six paddleboards, one kid-size, for Rush Creek and Silver Lake, Gull Lake's rope swing, Grant Lake swims and the June Lake beach."
 topic: summer in June Lake
 hero: paddleboards-silver-lake-shore
 hero_alt: "Four paddleboards pulled up on the shore of Silver Lake under the aspens"
 lead: Most June Lake locals came for the winter and stayed for the summer.
-updated: 2026-10-27
+updated: 2026-10-28
+even_figs: true
 related: [/experiences/hiking/, /fly-fishing/, /guides/tuolumne-meadows/]
 ---
 ## Paddleboards in the garage
@@ -23,30 +24,14 @@ For trout, see [fishing the June Lake Loop](/fly-fishing/).
 
 ## Lake days
 
-{{ figure("june-lake-panorama", "June Lake end to end: blue water ringed by Jeffrey pines and a sand beach, with Carson Peak and the June Lake Loop peaks under big summer clouds", "June Lake, the whole thing, with the beach on the near shore. Paddle the length of it before lunch and you have earned the afternoon.", "full") }}
-
-{{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", "A summer leap into Grant Lake.", "right") }}
+{{ figure("gull-lake-rope-swing-pair", "Two swimmers on the Gull Lake rope swing, one letting go mid-air and one swinging out over the water, with log homes on the hill behind", "Gull Lake. One lets go, one hangs on, and both of them are getting wet.") }}
 
 Four lakes sit on the loop, and each has its own kind of summer day. Gull Lake is the closest water to the chalet, with a marina and a rope swing that has launched generations of summers. June Lake has a sandy beach for a slow afternoon. Grant Lake, the largest, is open and wild at the north end of the loop, with granite ledges along the shore and cold, clear water.
 
+<div class="fig-pair">{{ figure("grant-lake-cliff-jump", "A boy leaping from a granite ledge into Grant Lake on a bright summer day", "A summer leap into Grant Lake.") }}{{ figure("gull-lake-rope-swing-silhouette", "A swimmer silhouetted at the top of the rope swing's arc against a deep blue sky, knees tucked, the lake and the far shore below", "The top of the arc. This is the moment to let go. Everybody learns that a second too late.") }}</div>
+
 Check the water and your landing before you jump, and keep an eye on afternoon wind, which comes up fast on the bigger lakes.
 
-## Rock climbing and bouldering
+{{ guide_says("The rope swing at Gull Lake has taught more physics to more teenagers than any school in Mono County. The lesson is always the same: let go at the top, not on the way back.") }}
 
-{{ figure("bouldering-silhouette-mono-basin", "A climber silhouetted under a steep overhang at dusk, with snowy Sierra peaks on the horizon", "Bouldering near the Mono Lake tufas at last light.") }}
-
-June Lake is surrounded by published climbing areas, including the Bachar Boulders, Big Springs, the Aeolian Buttes, Deadman Summit and the Ice Cream Boulders, along with many spots nobody has written up. The granite domes of [Tuolumne Meadows](/guides/tuolumne-meadows/) are forty-five minutes away.
-
-## Horseback riding
-
-The June Lake pack station is a few minutes down the road. See [horseback riding from the chalet](/experiences/hiking/#horseback-riding-from-the-pack-station) for rides from an hour to several days.
-
-## Birding
-
-{{ figure("clarks-nutcracker", "A Clark's Nutcracker on a pine bough", None, "left") }}
-
-The chalet sits where the Sierra Nevada meets the Great Basin, which makes for some of the best birding in North America. Look for Ospreys, Gray-crowned Rosy Finches, Golden Eagles and Sage Thrashers. Grant Lake, ten minutes away, is one of the top birding spots on the loop, and just beyond it the Mono Basin holds more than 325 recorded species. Even if you can't tell a Turkey Vulture from an eagle, plenty of birds visit the chalet's own grounds.
-
-## Races
-
-After a race there is nothing better than your own hot tub, a massage down the road, and a California King bed. The Eastern Sierra calendar has included the June Lake Triathlon in early summer, the Mammoth Half Marathon, the Eastern Sierra Double Century, the High Sierra Fall Century and the Tioga Pass Run in September. Check each event for current dates.
+Climbers, see [bouldering, rock and ice climbing near June Lake](/experiences/climbing/).

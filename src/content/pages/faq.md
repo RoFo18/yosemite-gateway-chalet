@@ -60,6 +60,12 @@ faq:
   a: Yes. Mammoth Yosemite Airport is about 25 minutes from the chalet, with seasonal commercial service and rental cars. In winter, a storm can delay connections. The mountains do not check your itinerary.
 - q: Will we get snowed in?
   a: Not by us. The chalet sits right on Highway 158, not up a side road, and we hire professional plowing for the driveway, so you are plowed out first and on the June Mountain lift while guests up the back roads are still waiting. What we cannot plow is the highway. In a major storm, Caltrans can close Highway 395 and parts of 158, and chain controls are common. That is weather, not us. We will work with you as best we can, but we do not control the road, so carry chains and check Caltrans QuickMap before you drive.
+- q: Do we need to worry about bears?
+  a: 'Bears, yes. People, hardly at all. Like most rural towns, June Lake has very little crime. The bears are the bigger risk to your car, by a mile. Take every bit of food, trash and anything that smells good out of the car the moment you arrive, and do not leave it in the car overnight. Pro tip: leave the car unlocked. A black bear knows how to work a door handle. If the door opens, he climbs in, sniffs around, decides you are boring and leaves. He will not close the door behind him, because nobody raised him right, but he will not tear the car apart either. Lock it, and he comes in through the window.'
+  img: bear-broken-minivan-window
+  img_portrait: true
+  img_alt: A red minivan with its rear side window torn out by a bear, glass in the track and muddy paw prints down the door
+  cap: This minivan was locked. The bear let himself in anyway.
 - group: In the house
   q: What are check-in and check-out times?
   a: Check-in begins at 4:30 pm. Check-out is at 10:00 am. Nobody likes that second number, us included.
@@ -70,7 +76,7 @@ faq:
 - q: Do we need to bring linens or towels?
   a: No. The house is equipped with organic cotton sheets and towels for the beds, the baths and the tubs.
 - q: What should we bring for the kitchen?
-  a: "Food, your spices, and your coffee. The kitchen is stocked down to the coffee maker, the grinder and the garlic press, and we leave salt and olive oil, but bring your own spices, your coffee and a pack of coffee filters to be safe. And no, there is no pod machine. This is a log cabin, not a dentist's waiting room. Somebody always brings a good knife from home anyway. You will not need it."
+  a: Food, your spices, and your coffee. The kitchen is stocked down to the coffee maker, the grinder and the garlic press, and we leave salt and olive oil, but bring your own spices, your coffee and a pack of coffee filters to be safe. And no, there is no pod machine. This is a log cabin, not a dentist's waiting room. Somebody always brings a good knife from home anyway. You will not need it.
 - q: Is there a washer and dryer?
   a: Yes, a high-end washer and dryer in the garage. Bring your own laundry detergent. We try to keep some in stock, but we cannot promise it, and the general store does not always have it either.
 - q: Where are the extra paper towels and toilet paper?

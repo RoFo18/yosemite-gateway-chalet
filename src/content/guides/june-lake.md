@@ -9,10 +9,11 @@ card: The June Lake Loop, its four lakes, June Mountain, and how to spend a week
 seo_title: "June Lake, California Guide: The June Lake Loop, Four Lakes, June Mountain"
 description: "A local guide to June Lake, California: the 14-mile June Lake Loop, June, Gull, Silver and Grant Lakes, June Mountain, fishing, fall color, the seasons, and how close it is to Yosemite."
 topic: June Lake California
-hero: gull-lake-fiery-sunset
-hero_alt: "A fiery sunset over Gull Lake, with snow on the granite peaks reflected in the water"
+hero: june-lake-panorama
+hero_pano: true
+hero_alt: "June Lake end to end: blue water ringed by Jeffrey pines and a sand beach, with Carson Peak and the Loop's peaks under big summer clouds"
 published: 2026-10-26
-updated: 2026-10-27
+updated: 2026-10-28
 lead: June Lake is a small mountain village on the June Lake Loop, a horseshoe of Highway 158 off US 395 in Mono County. Four lakes, a ski mountain and the Ansel Adams Wilderness sit inside a few miles, and Yosemite's Tioga Pass entrance is 27 miles away.
 glance:
   Where: Mono County, Eastern Sierra
@@ -72,6 +73,8 @@ June Mountain is a small, friendly ski area right on the loop, with about 2,580 
 
 **Summer** is for hiking, paddling, fishing, climbing and day trips over Tioga Pass to Tuolumne Meadows. Afternoons can bring thunderstorms.
 
+{{ figure("gull-lake-fiery-sunset", "A fiery sunset over Gull Lake, with snow on the granite peaks reflected in the water", "Gull Lake at the end of an October day.") }}
+
 **Fall** is the secret. The aspens on the loop turn gold, usually in October, the crowds thin out, and the light is the best of the year. See our [fall colors guide](/guides/june-lake-fall-colors/).
 
 ## A week from June Lake
@@ -81,7 +84,7 @@ June Mountain is a small, friendly ski area right on the loop, with about 2,580 
 3. **The lakes.** Paddle Gull Lake, fish Silver Lake at sunrise, swim from the beach at June Lake.
 4. **Mono Lake and Bodie.** The tufa towers at dawn and the ghost town after lunch. See [sightseeing](/experiences/sightseeing/).
 5. **Tioga Pass.** Gaylor Lakes, or a long day up Mount Dana. See [Tioga Pass](/guides/tioga-pass/).
-6. **Mammoth.** The gondola, Devils Postpile, or the hot springs.
+6. **Mammoth.** The gondola, or the hot springs.
 7. **Rest.** A long morning, the spa, and the hydrotherapy tub at sunset.
 
 ## Getting to June Lake

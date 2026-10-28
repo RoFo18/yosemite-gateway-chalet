@@ -40,7 +40,7 @@ FOOTER = [
               ("Gallery", "/gallery/"), ("Guest reviews", "/reviews/"), ("Rates and policies", "/rates-and-policies/"), ("Inquire", "/inquire/")]),
     ("Things to do", [("Skiing June Mountain", "/experiences/winter/"), ("Fly fishing, and where to fish today", "/fly-fishing/"),
                       ("Lakes and paddleboarding", "/experiences/summer/"),
-                      ("Horseback riding and hiking", "/experiences/hiking/"), ("Mono Lake and hidden places", "/experiences/sightseeing/"),
+                      ("Horseback riding and hiking", "/experiences/hiking/"), ("Climbing", "/experiences/climbing/"), ("Mono Lake and hidden places", "/experiences/sightseeing/"),
                       ("Hot springs and the spa", "/experiences/spa-and-hot-springs/"),
                       ("Where to eat", "/experiences/dining/")]),
     ("Plan your trip", [("Tioga Pass", "/guides/tioga-pass/"), ("When Tioga Pass opens", "/guides/tioga-pass-opening-dates/"), ("Tuolumne Meadows", "/guides/tuolumne-meadows/"),
@@ -76,7 +76,7 @@ def picture(name, alt, sizes="100vw", cls="", eager=False, fit=None):
         f'{load} style="{style}"></picture>')
 
 
-def figure(name, alt, caption=None, layout="wide"):
+def figure(name, alt, caption=None, layout="wide", fit=None):
     """Body photos are always large: content width plus a bleed, or full width.
     Old "right", "left" and "small" layouts now render wide too. Portrait photos
     are centred at a generous width instead of being stretched edge to edge."""
@@ -88,7 +88,7 @@ def figure(name, alt, caption=None, layout="wide"):
     sizes = {"wide": "(min-width: 1200px) 1180px, 100vw", "full": "100vw",
              "portrait": "(min-width: 900px) 720px, 100vw"}.get(layout, "100vw")
     cap = f"<figcaption>{caption}</figcaption>" if caption else ""
-    return Markup(f'<figure class="fig fig-{layout}">{picture(name, alt, sizes)}{cap}</figure>')
+    return Markup(f'<figure class="fig fig-{layout}">{picture(name, alt, sizes, fit=fit)}{cap}</figure>')
 
 
 def gallery(items, cols=3):
@@ -511,7 +511,7 @@ def place_ld(p):
 # ------------------------------------------------------------------ chat knowledge base
 CHAT_PAGES = ["/the-chalet/", "/the-chalet/floorplan/", "/rates-and-policies/", "/faq/", "/location/",
               "/experiences/winter/", "/experiences/summer/", "/experiences/hiking/", "/experiences/dining/",
-              "/experiences/sightseeing/", "/experiences/spa-and-hot-springs/", "/local-favorites/",
+              "/experiences/sightseeing/", "/experiences/climbing/", "/experiences/spa-and-hot-springs/", "/local-favorites/",
               "/fly-fishing/", "/guides/june-lake/", "/guides/tioga-pass/", "/guides/june-lake-fall-colors/"]
 
 

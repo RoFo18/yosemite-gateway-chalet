@@ -62,6 +62,17 @@
    1703
   ]
  },
+ "bear-broken-minivan-window": {
+  "color": "#6f5252",
+  "h": 1320,
+  "w": 1336,
+  "widths": [
+   480,
+   800,
+   1200,
+   1336
+  ]
+ },
  "bodie-wagon-wheel": {
   "color": "#656048",
   "h": 768,
@@ -691,6 +702,25 @@
    1387
   ]
  },
+ "gull-lake-rope-swing-pair": {
+  "color": "#7285a9",
+  "h": 735,
+  "w": 1069,
+  "widths": [
+   480,
+   800,
+   1069
+  ]
+ },
+ "gull-lake-rope-swing-silhouette": {
+  "color": "#496ba8",
+  "h": 1024,
+  "w": 768,
+  "widths": [
+   480,
+   768
+  ]
+ },
  "horseback-ride-above-june-lake": {
   "color": "#6a655e",
   "h": 790,
@@ -1163,6 +1193,16 @@
    1024
   ]
  },
+ "mono-pass-sign-bloody-canyon": {
+  "color": "#89878a",
+  "h": 766,
+  "w": 1026,
+  "widths": [
+   480,
+   800,
+   1026
+  ]
+ },
  "mount-dana-tioga-pass": {
   "color": "#545d69",
   "h": 768,
@@ -1506,6 +1546,17 @@
    480,
    800,
    1024
+  ]
+ },
+ "wild-mustangs-sagebrush-morning": {
+  "color": "#6c7177",
+  "h": 1350,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "winter-walk-home-from-fern-creek": {

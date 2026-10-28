@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block main %}
 {% if page.hero %}
-<header class="page-hero tall">
+<header class="page-hero {% if page.hero_pano %}pano{% else %}tall{% endif %}">
   {{ picture(page.hero, page.hero_alt, '100vw', 'ph-img', eager=True, fit=page.hero_focus) }}
   <div class="ph-copy">
     <nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>
