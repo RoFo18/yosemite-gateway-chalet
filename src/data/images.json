@@ -83,6 +83,17 @@
    1336
   ]
  },
+ "boat-dusk-on-the-lake": {
+  "color": "#3e5b64",
+  "h": 960,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
  "bodie-wagon-wheel": {
   "color": "#656048",
   "h": 768,
@@ -769,6 +780,28 @@
   "widths": [
    480,
    768
+  ]
+ },
+ "hammock-boots-chalet-lawn": {
+  "color": "#405233",
+  "h": 957,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
+  ]
+ },
+ "high-meadow-alpenglow": {
+  "color": "#626268",
+  "h": 960,
+  "w": 1280,
+  "widths": [
+   480,
+   800,
+   1200,
+   1280
   ]
  },
  "horseback-ride-above-june-lake": {
@@ -1673,6 +1706,17 @@
   "w": 382,
   "widths": [
    382
+  ]
+ },
+ "waterfall-above-the-loop": {
+  "color": "#788993",
+  "h": 1350,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "white-mountain-summit-sunrise": {

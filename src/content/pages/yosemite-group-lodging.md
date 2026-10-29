@@ -60,6 +60,8 @@ Our [Tuolumne Meadows guide](/guides/tuolumne-meadows/) and [Tioga Pass guide](/
 
 ## Groups in every season
 
+{{ figure("boat-dusk-on-the-lake", "A woman paddling a small boat across a still lake at dusk, the forest and peaks in silhouette against a pale sky", "Out on the water at dusk, after everyone else has gone in.") }}
+
 **Summer and fall** are for Yosemite's high country, the four lakes of the loop and five paddleboards in the garage. **Winter** is for [June Mountain](/june-mountain-lodging/), a mile away, where kids 12 and under ski free. **Spring** brings the trout opener and the first long days.
 
 ## House rules that matter for groups
