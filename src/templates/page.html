@@ -3,12 +3,21 @@
 {% if page.hero %}
 <header class="page-hero{% if page.hero_pano %} pano{% endif %}{% if page.hero_tall %} tall{% endif %}{% if page.hero_xtall %} xtall{% endif %}{% if page.hero_dim %} dim{% endif %}">
   {{ picture(page.hero, page.hero_alt, '100vw', 'ph-img', eager=True, fit=page.hero_focus) }}
+  {% if page.hero_video %}<video class="ph-video" muted loop playsinline preload="none" aria-hidden="true" tabindex="-1" data-src="{{ page.hero_video }}"></video>{% endif %}
   <div class="ph-copy">
     {% if not page.hide_crumbs %}<nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>{% endif %}
     {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
     <h1>{{ page.title }}</h1>
+    {% if page.film %}<p class="ph-film-row"><button type="button" class="btn btn-solid-light ph-film" data-film="{{ page.film.src }}" data-film-title="{{ page.film.title }}"><span class="film-icon" aria-hidden="true"></span>{{ page.film.label }}</button></p>{% endif %}
   </div>
 </header>
+{% if page.film %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoObject","name":{{ page.film.title | tojson }},"description":{{ page.film.description | tojson }},"thumbnailUrl":"{{ SITE }}/og/{{ page.film.poster }}.jpg","uploadDate":{{ page.film.upload | tojson }},"duration":"{{ page.film.duration }}","contentUrl":"{{ SITE }}{{ page.film.src }}"}</script>{% endif %}
+{% if page.film %}<dialog class="film-dlg" aria-label="{{ page.film.title }}">
+  <div class="fd-stage"><video class="fd-video" controls playsinline preload="none"></video>
+    <div class="fd-end" hidden><p class="fd-end-k">That is June Lake.</p><p class="fd-end-t">Now picture the hot tub at the end of it.</p><p class="fd-end-btns"><a class="btn btn-solid-light" href="/inquire/#availability">Check dates</a><button type="button" class="btn btn-ghost-light fd-again">Watch again</button></p></div>
+  </div>
+  <button type="button" class="fd-x" aria-label="Close the film"><svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+</dialog>{% endif %}
 {% else %}
 <header class="page-head">
   {% if not page.hide_crumbs %}<nav class="crumbs" aria-label="Breadcrumb">{% for n, u in crumbs[:-1] %}<a href="{{ u }}">{{ n }}</a><span aria-hidden="true">/</span>{% endfor %}</nav>{% endif %}

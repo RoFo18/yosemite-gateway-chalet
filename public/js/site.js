@@ -88,6 +88,33 @@
     });
   });
 
+  // Living header: a silent loop behind the title, on screens wide enough, when motion and data are welcome
+  document.querySelectorAll('.ph-video[data-src]').forEach(function (v) {
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var save = navigator.connection && navigator.connection.saveData;
+    if (reduce || save || !window.matchMedia('(min-width: 760px)').matches) return;
+    v.src = v.getAttribute('data-src');
+    v.addEventListener('playing', function () { v.classList.add('on'); }, { once: true });
+    var p = v.play(); if (p && p.catch) p.catch(function () {});
+  });
+
+  // The film: plays in a dialog with sound, and ends on a way to book
+  var dlg = document.querySelector('.film-dlg'), fb = document.querySelector('.ph-film');
+  if (dlg && fb && dlg.showModal) {
+    var fv = dlg.querySelector('.fd-video'), end = dlg.querySelector('.fd-end');
+    var shut = function () { fv.pause(); dlg.close(); };
+    fb.addEventListener('click', function () {
+      if (!fv.src) fv.src = fb.getAttribute('data-film');
+      end.hidden = true; dlg.showModal(); fv.currentTime = 0;
+      var p = fv.play(); if (p && p.catch) p.catch(function () {});
+    });
+    fv.addEventListener('ended', function () { end.hidden = false; });
+    dlg.querySelector('.fd-again').addEventListener('click', function () { end.hidden = true; fv.currentTime = 0; fv.play(); });
+    dlg.querySelector('.fd-x').addEventListener('click', shut);
+    dlg.addEventListener('click', function (e) { if (e.target === dlg) shut(); });
+    dlg.addEventListener('cancel', function () { fv.pause(); });
+  }
+
   // Carousels
   document.querySelectorAll('[data-carousel]').forEach(function (c) {
     var track = c.querySelector('[data-track]'), slides = track.children, n = slides.length;

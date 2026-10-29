@@ -7,11 +7,20 @@ kicker: Things to do
 seo_title: "Things to Do near June Lake, Tioga Pass and Mammoth | Yosemite Gateway Chalet"
 description: "Things to do from the Yosemite Gateway Chalet: ski June Mountain (kids 12 and under free), Yosemite via Tioga Pass, paddleboard the June Lake Loop, hike and ride horseback, Mono Lake, fall color and hot springs."
 topic: things to do in June Lake
-hero: mono-craters-sunset-rays
-hero_focus: 50% 55%
-hero_alt: "Sunset rays fanning over the Mono Craters and the Mono Basin"
+hero: june-lake-film-poster
+hero_focus: 50% 50%
+hero_alt: "Dawn on the June Lake Loop: a still lake reflecting clouds and the peaks above it"
+hero_video: /video/june-lake-loop.mp4
+film:
+  src: /video/june-lake-film.mp4
+  title: "June Lake from the air, a 74-second film"
+  label: "Watch the June Lake film, 1:14"
+  poster: june-lake-film-poster
+  duration: PT1M14S
+  upload: "2026-10-28T21:50:00-07:00"
+  description: "A 74-second film of the June Lake Loop from the air and on the water: still lakes at dawn, Rush Creek, the high country, the marina and the night sky, ending at the Yosemite Gateway Chalet."
 lead: Skiing a mile from the door, Yosemite over the pass, four lakes on the loop and the strangest landscapes in California within an hour. Here is what our guests come for, most popular first.
-updated: 2026-10-27
+updated: 2026-10-28
 wide: true
 related: [/guides/tioga-pass/, /fly-fishing/, /guides/]
 ---

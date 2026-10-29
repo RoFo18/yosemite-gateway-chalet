@@ -889,6 +889,17 @@
    800
   ]
  },
+ "june-lake-film-poster": {
+  "color": "#545f62",
+  "h": 1012,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "june-lake-general-store": {
   "color": "#5e6067",
   "h": 1290,
