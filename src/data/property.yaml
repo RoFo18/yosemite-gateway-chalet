@@ -76,7 +76,8 @@ amenities:
   - Geothermal heat pumps
   - Five stand-up paddleboards for guests, plus a kid-size board
   - Indoor climbing wall in the garage
-  - Parking for three cars
+  - Driveway parking for three cars (the garage holds the climbing wall, so no garage parking)
+  - Pack and play for infants
 
 distances:
   - {place: June Mountain Ski Area, value: "1", unit: mi, note: "2 minutes"}

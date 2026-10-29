@@ -12,7 +12,7 @@ hero_alt: The chalet's twelve-foot dining table of local pine
 lead: The questions guests ask most, answered plainly.
 faq_title: Staying at the chalet
 faq_open: true
-updated: 2026-10-28
+updated: 2026-10-29
 related:
 - /rates-and-policies/
 - /location/
@@ -38,6 +38,8 @@ faq:
   cap: The stairs. As stairs go, these are the good kind.
 - q: Is the chalet good for kids?
   a: 'Very. Kids 12 and under ski free all season at June Mountain, a mile away. There is a kid-size paddleboard alongside the five full-size boards, a climbing wall in the garage for stormy afternoons, and Yost Meadow is a walk from the back door. They will sleep like somebody paid them to. One rule: guests under 18 may not use the hot tub.'
+- q: Do you have a crib or a pack and play?
+  a: Yes. A pack and play lives in the River Room closet, so you can leave yours at home and use the trunk space for ski boots. Infants count toward the eight-guest limit.
 - q: Are pets allowed?
   a: No pets, anywhere on the property. Any animal, whether a service animal, an emotional support animal or anything else, must be approved in advance with real paperwork from a licensed physician (MD or DO) who treats you. Certificates bought online do not count. People with real disabilities depend on these accommodations, and we take that seriously.
 - group: What it costs, and booking
@@ -99,6 +101,8 @@ faq:
   a: 'Technically, yes. If the whole thing, bride, groom, officiant, photographer and the aunt who cries at everything, fits inside eight overnight guests, ten people on the property and three cars, you are welcome to say your vows under Carson Peak. In practice, nobody wants a wedding that small, and small weddings always grow. So the honest answer is no: no weddings, parties or reunions. The limits come from Mono County, our business license depends on them, and we enforce them without exceptions.'
 - q: Why is there a three-car limit?
   a: The June Lake Loop is quiet, and our neighbors matter to us. No more than three cars at any time, and that includes a fourth car dropping someone off. If it is not one of your three, it does not pull in.
+- q: Can we park in the garage?
+  a: No. The garage holds the climbing wall, the paddleboards and the washer and dryer, so there is no room for a car. Park in the driveway, three cars at most, and keep clear of the roofline in winter. The roof sheds snow, and it does not check whose car is underneath.
 - group: If we are full
   q: Where do you recommend if you are full?
   a: 'Honestly? Book earlier. There may be bigger houses in June Lake, but this is the nicest chalet you can rent here, and it is a commercially zoned lodging property, licensed and inspected, owned and run by the same family that answers your inquiry. A lot of vacation rentals are run by property managers who are thinking about powder and fishing before they are thinking about you. We own it and we manage it. That is the difference. If our dates are gone, here is where we send people: [Silver Lake Resort](https://www.silverlakeresort.net/store-cafe/), with classic cabins on the lake and one of the best breakfasts on the Loop. It is seasonal, and some cabin weeks have been booked by the same families for generations, so a summer week there opens up about as often as somebody writes it into a will. Next, [June Lake Pines Cottages](https://www.junelakepines.com/) in the village, good value and well run for years. And the [Double Eagle Resort](https://doubleeagle.com/), a mile from the chalet, with a spa, a gym, a pool and a fishing pond for little kids. Then book us for next year, before somebody else does.'
