@@ -42,8 +42,6 @@ The fast way down is the scree run on the back side: a long chute of loose grave
 
 ## Reversed Peak
 
-{{ figure("family-hike-toward-reversed-peak", "Two small children with backpacks following an adult with a big pack along a sunny trail through sage and pines toward granite peaks", "Backpacking toward Reversed Peak. You are still inside the June Lake Loop.") }}
-
 The trailhead is on North Shore Drive, northeast of Gull Lake, which means you never leave the June Lake Loop, and yet by the first switchback it feels like you have. It is a good first overnight for small backpackers: isolated, beautiful, and close enough to bail to a hot tub if somebody mutinies. The Snow Lakes, small basins that hold water in spring, are the highlight, and the trail continues past Aerie Crag to the summit.
 
 {{ trail_card("Reversed Peak", [("Trailhead", "North Shore Drive, by Gull Lake"), ("Summit", "About 9,500 ft"), ("Best for", "A first family overnight"), ("Water", "Scarce; carry it")], img="reversed-peak-triangle-cave", alt="The view through a triangular gap in the rock near the top of Reversed Peak, framing snowy peaks and the June Lake Loop far below", cap="Near the top, a triangle in the rock frames the whole range. We are not telling you exactly where. Finding it is half the fun.") }}

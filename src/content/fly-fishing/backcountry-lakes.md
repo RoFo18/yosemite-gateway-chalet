@@ -49,7 +49,6 @@ sources:
 
 Walk out of the chalet, about a mile down-canyon to the trailhead, then straight up: about 1.6 miles and 1,600 feet to a small cirque lake on the shoulder of Carson Peak. Brook trout, cruising the edges, eating dry flies with the enthusiasm of fish that do not see many. A half day, and you never touch the car. See the [hiking notes](/experiences/hiking/#fern-and-yost-lakes-from-the-chalet).
 
-{{ figure("fern-lake-cirque-summer", "Fern Lake in early summer: clear shallow water reflecting the snow-streaked cirque and a stand of pines under a deep blue sky", "Fern Lake, up the trail from the chalet. The brookies cruise those shallows like they own them, because they do.") }}
 
 ## Parker Lake
 

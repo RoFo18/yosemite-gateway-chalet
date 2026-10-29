@@ -893,7 +893,7 @@ i.ffc{display:inline-block;width:14px;height:14px;vertical-align:-2px;margin-rig
 .page-body .prose ul.plan-links li a{font:500 1.22rem/1.3 var(--f-display);padding:.8rem 0;letter-spacing:0;text-transform:none}
 
 /* home: out the back door */
-.backdoor{max-width:var(--max);margin:0 auto;padding:var(--s-9) var(--gutter) var(--s-8);display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);grid-template-areas:"head a" "tall a" "tall b" "c c";gap:clamp(1rem,2vw,1.6rem) clamp(1.5rem,4vw,3.5rem)}
+.backdoor{max-width:var(--max);margin:0 auto;padding:var(--s-9) var(--gutter) var(--s-8);display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);grid-template-areas:"head a" "tall a" "c c";gap:clamp(1rem,2vw,1.6rem) clamp(1.5rem,4vw,3.5rem)}
 .backdoor-head{grid-area:head;align-self:end}
 .backdoor-head h2{margin-bottom:1.2rem}
 .backdoor-head p{color:var(--ink-2);max-width:44ch}
@@ -906,7 +906,7 @@ i.ffc{display:inline-block;width:14px;height:14px;vertical-align:-2px;margin-rig
 .bd-b{grid-area:b}.bd-b img{aspect-ratio:4/3}
 .bd-c{grid-area:c}.bd-d{grid-area:d}.bd-c img{aspect-ratio:16/9}
 .backdoor figcaption,.fam figcaption{font-size:.86rem;color:var(--ink-3);margin-top:.55rem;line-height:1.5}
-@media (max-width:860px){.backdoor{grid-template-columns:1fr 1fr;grid-template-areas:"head head" "a a" "tall b" "c c";padding-block:var(--s-8)}.bd-b{align-self:start}.bd-b img{aspect-ratio:3/4}}
+@media (max-width:860px){.backdoor{grid-template-columns:1fr 1fr;grid-template-areas:"head head" "tall a" "c c";padding-block:var(--s-8)}.bd-a{align-self:start}.bd-a img{aspect-ratio:3/4}}
 
 /* home: families */
 .fam{background:var(--paper);border-block:1px solid var(--rule)}

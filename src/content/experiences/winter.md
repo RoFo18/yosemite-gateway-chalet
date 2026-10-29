@@ -15,23 +15,23 @@ lead: June Mountain is a mile from the door, the kids ski free, and in a good sn
 updated: 2026-10-28
 related: [/june-mountain-lodging/, /guides/yosemite-east-side-in-winter/, /faq/]
 ---
-## Plowed out first
+## A mile from the lift
 
 {{ figure("chalet-winter-yost-creek", "The chalet in winter sun, with fresh snow on the lawn and Yost Creek running open past the pines", "The morning after a storm. Driveway plowed, creek still running.") }}
 
-Here is how a powder morning goes at most rentals around here. The house is up a side road. The road is plowed by one guy with one plow, and he had a long night. You wait. The kids are hungry and can feel you checking your phone. By the time you get out, the June Mountain lot is nearly full, the line of cars runs an eighth of a mile, and the people who stayed somewhere better are already three runs into bluebird fresh tracks.
-
-The chalet is right on Highway 158, and we hire professional plowing for the driveway. You are plowed out first, a mile from the lift, and in line while everyone else is still digging. That is the whole pitch. It is a good one.
+The chalet sits right on Highway 158, one mile from the lifts at June Mountain. We hire professional plowing for the driveway, so on a powder morning you are out the door, parked and in line for first chair while your coffee is still hot. After the last run, you are back in the hot tub before the sun is off Carson Peak. That is the whole pitch. It is a good one.
 
 <details class="pow-drop"><summary>What you are racing for</summary>
 {{ figure("fresh-powder-tree-slope", "Fresh powder on an open slope dotted with pines, a few lone ski tracks curving through it under a bright winter sky", "Nobody in the history of skiing has ever said, I sure am glad I slept in on the powder day.") }}
 </details>
 
-{{ guide_says("Powder has a half-life of about ninety minutes on a Saturday. Every one of those minutes you spend watching a side road for a snowplow is a minute somebody from Los Angeles spends in your line. We are not saying stay with us out of spite. We are saying it is a factor.", "Local knowledge") }}
+{{ guide_says("Powder has a half-life of about ninety minutes on a Saturday. From a mile away, you get all ninety.", "Local knowledge") }}
 
 ## June Mountain
 
 A mile from the chalet, [June Mountain](https://www.junemountain.com/) has 2,580 vertical feet for every level and a fraction of the crowds at its big neighbor.
+
+If you ski more than a few days a season, the full Ikon Pass covers unlimited days at June Mountain and Mammoth, with no blackout dates. Ski a week, ski a month, and the lift ticket math stops mattering. Check [IkonPass.com](https://www.ikonpass.com/local-passes/june-mountain) for this season's terms.
 
 ### Kids 12 and under ski free
 
