@@ -35,7 +35,7 @@ If you ski more than a few days a season, the full Ikon Pass covers unlimited da
 
 ### Kids 12 and under ski free
 
-{{ figure("kids-ski-free-june-mountain", "Two young skiers in helmets and goggles riding home in a gear cart beside a pair of skis", "Done for the day, and it cost nothing: kids 12 and under ski free at June Mountain.") }}
+{{ figure("kids-skiing-june-mountain-smiles", "Three kids grinning on a sunny June Mountain run, two on skis and one kneeling with a snowboard, with Mono Lake far below", "Bluebird day, big grins, and Mono Lake down below. Kids 12 and under ski free at June Mountain.") }}
 
 For parents, this is the deciding number. A family can spend more on kids' lift tickets in a weekend than on the house. At June Mountain, kids 12 and under ski free all season with a no-cost child season pass, reserved on IkonPass.com or picked up at the ticket office. With the mountain a mile away, little legs can quit whenever they like and be back by the fire in ten minutes. Check [June Mountain](https://junemountain.com/explore-june-mountain/kids-ski-and-ride-free) for current terms.
 

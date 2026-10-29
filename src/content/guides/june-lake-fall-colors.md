@@ -82,6 +82,8 @@ No two years are the same. A dry summer, an early cold snap or a windstorm can m
 
 ## Fall at the chalet
 
+{{ figure("chalet-fall-aspens-sign", "The Yosemite Gateway Chalet in October, its log walls and stone garage framed by blazing gold aspens, with the carved sign by the driveway and a granite spire behind", "The chalet in October. You do not have to drive anywhere to see the color.") }}
+
 Fall is a quiet, beautiful time to stay. The summer crowds are gone, the fire is lit in the evenings, and the hydrotherapy tub is at its best on a cold, clear night. Keep an eye on the weather if you plan to cross Tioga Pass, since the first storm of the season can close the road. See our [Tioga Pass guide](/guides/tioga-pass/). If you can only come once, come in October. You will thank us, and then you will book next October.
 
 

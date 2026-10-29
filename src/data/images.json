@@ -179,6 +179,17 @@
    1800
   ]
  },
+ "chalet-fall-aspens-sign": {
+  "color": "#76633b",
+  "h": 960,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
+  ]
+ },
  "chalet-grounds-hammock-aspens": {
   "color": "#5c5c40",
   "h": 500,
@@ -1035,6 +1046,17 @@
   "widths": [
    480,
    767
+  ]
+ },
+ "kids-skiing-june-mountain-smiles": {
+  "color": "#95949d",
+  "h": 1202,
+  "w": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1800
   ]
  },
  "kitchen-and-breakfast-bar": {

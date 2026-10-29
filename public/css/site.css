@@ -911,16 +911,16 @@ i.ffc{display:inline-block;width:14px;height:14px;vertical-align:-2px;margin-rig
 
 /* home: families */
 .fam{background:var(--paper);border-block:1px solid var(--rule)}
-.fam{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:clamp(2rem,5vw,5rem);align-items:center;padding:var(--s-9) max(var(--gutter),calc((100vw - var(--max)) / 2 + var(--gutter)))}
+.fam{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,6fr);gap:clamp(2rem,5vw,5rem);align-items:center;padding:var(--s-9) max(var(--gutter),calc((100vw - var(--max)) / 2 + var(--gutter)))}
 .fam figure{margin:0}
-.fam-lead img{display:block;width:100%;aspect-ratio:3/4;object-fit:cover}
+.fam-lead img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
 .fam-copy h2{margin-bottom:1.4rem}
 .fam-copy>p{color:var(--ink-2);max-width:48ch}
 .fam-copy>p+p,.fam-more+p{margin-top:1.6rem}
 .fam-more{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin-top:2rem}
 .fam-more img{display:block;width:100%;aspect-ratio:1/1;object-fit:cover}
 .fam-more strong{color:var(--ink);font-weight:500}
-@media (max-width:860px){.fam{grid-template-columns:1fr;padding-block:var(--s-8)}.fam-lead img{aspect-ratio:4/5}}
+@media (max-width:860px){.fam{grid-template-columns:1fr;padding-block:var(--s-8)}.fam-lead img{aspect-ratio:3/2}}
 
 /* small phones (iPhone SE and up) */
 .btn{max-width:100%}
