@@ -86,8 +86,14 @@
   <p class="foot-small">&copy; {{ P.name }}. Also on <a href="{{ P.booking.vrbo_url }}" rel="noopener" target="_blank">VRBO</a> and <a href="{{ P.booking.airbnb_url }}" rel="noopener" target="_blank">Airbnb</a>.</p>
 </footer>
 
+{% if CHAT_ON %}
 <div class="mobile-bar"><a class="btn btn-solid" href="/inquire/#availability">Check dates</a><button class="btn btn-line" type="button" data-chat-open>Ask</button></div>
+{% else %}
+<div class="mobile-bar solo"><a class="btn btn-solid" href="/inquire/#availability">Check dates</a></div>
+{% endif %}
+{% if CHAT_ON %}
 <button class="chat-fab" type="button" data-chat-open data-v="{{ CHAT_V }}" aria-label="Ask about the chalet"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3h11A2.5 2.5 0 0 1 20 5.5v8a2.5 2.5 0 0 1-2.5 2.5H10l-4.2 3.6c-.5.4-1.3.1-1.3-.6V16A2.5 2.5 0 0 1 4 13.5z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg><span>Ask</span></button>
+{% endif %}
 
 <dialog class="lightbox" id="lightbox" aria-label="Photo">
   <button class="lb-close" type="button" aria-label="Close photo">&times;</button>

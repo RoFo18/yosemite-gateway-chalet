@@ -356,6 +356,7 @@ table.data td.num{white-space:nowrap;color:var(--ink);font-weight:500}
   .mobile-bar.show{transform:none}
   .mobile-bar .btn{min-height:46px;padding:.7rem}
   .site-foot{padding-bottom:70px}
+  .mobile-bar.solo{grid-template-columns:1fr}
   .t-inquire .mobile-bar{display:none}
 }
 

@@ -88,6 +88,7 @@ const sse = (obj) => `data: ${JSON.stringify(obj)}\n\n`;
 
 export default async (req, context) => {
   if (req.method !== "POST") return new Response("Method not allowed", { status: 405 });
+  if (KB.on === false) return Response.json({ message: "The chat is paused for now. The [inquiry form](/inquire/) is open, and the owners answer within a day." }, { status: 503 });
   const origin = req.headers.get("origin") || "";
   const site = new URL(req.url).origin;
   if (origin && !ALLOWED.test(origin) && origin !== site) return new Response("Forbidden", { status: 403 });

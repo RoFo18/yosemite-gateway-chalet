@@ -13,6 +13,8 @@ When you send an inquiry, we receive the name, email address, phone number, date
 
 Bookings made on VRBO are governed by VRBO's own privacy policy.
 
+{% if CHAT_ON %}
 The chat on this site sends your questions to Anthropic, the company that makes the Claude AI model, to write the answers, and to our own calendar to check dates. We do not store chat conversations, and the chat never asks for your name, phone number or payment details. The conversation is kept only in your own browser tab, and it is gone when you close the tab. Anthropic's handling of that data is covered by its own privacy policy.
+{% endif %}
 
 To ask about or remove information you have sent us, [send a message through the inquiry form](/inquire/).
