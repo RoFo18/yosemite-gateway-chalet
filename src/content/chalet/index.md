@@ -110,7 +110,7 @@ related: [/the-chalet/master-suite/, /the-chalet/floorplan/, /gallery/]
 <h3>To play</h3>
 <p>Five stand-up paddleboards and a kid-size one, a backgammon table by the fire, and, for a stormy afternoon, a climbing wall in the garage for the afternoon the thunderstorm rolls in.</p>
 <h3>To live</h3>
-<p>Wifi throughout, a high-end washer and dryer, a mud room for skis and boots, firewood waiting on arrival, and parking for three cars.</p>
+<p>Air conditioning and wifi throughout, a high-end washer and dryer, a mud room for skis and boots, firewood waiting on arrival, and parking for three cars.</p>
 </div>
 </div>
 </section>

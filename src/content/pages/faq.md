@@ -73,6 +73,8 @@ faq:
   a: Check-in begins at 4:30 pm. Check-out is at 10:00 am. Nobody likes that second number, us included.
 - q: Is the hot tub open year round?
   a: Yes. The outdoor hydrotherapy tub runs all year, in summer under the stars and in winter with snow banked around it. Guests under 18, pregnant guests, and anyone with a heart condition or pacemaker may not use it.
+- q: Is there air conditioning?
+  a: Yes. The chalet has air conditioning, so an August afternoon in the Sierra stays comfortable inside. In winter, geothermal heat pumps keep the house warm when the nights drop well below zero.
 - q: Is there wifi?
   a: Yes, throughout the house. Strong enough for the one person who swore they would not check work email.
 - q: Do we need to bring linens or towels?
