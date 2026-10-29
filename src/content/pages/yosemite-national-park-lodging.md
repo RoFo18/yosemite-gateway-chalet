@@ -41,7 +41,7 @@ sources:
 
 ## The east side in brief
 
-{{ figure("high-meadow-alpenglow", "A wide golden meadow in early winter, the last sun lighting a peak at the end of the valley and patches of snow in the grass", "Last light on a high meadow, with nobody else in it.") }}
+{{ figure("high-meadow-alpenglow", "Yost Meadow at first light in early winter, the sun just touching a peak at the end of the valley and patches of snow in the golden grass", "Yost Meadow at first light, a walk from the chalet's back door. Nobody else in it.") }}
 
 The Yosemite Gateway Chalet is 5.75 miles from the park boundary as the crow flies. Yosemite Valley gets the crowds. The east side, where Highway 120 climbs from the Mono Basin over Tioga Pass to Tuolumne Meadows, is the quieter, higher half of the park. There are no large hotels up here. Lodging inside the park along Tioga Road is limited and seasonal, so most people stay outside the park on US 395 and drive in.
 

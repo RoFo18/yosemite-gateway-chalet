@@ -56,7 +56,7 @@ Book as early as you can for the winter holidays, Presidents' Day weekend, the F
 
 ## June Lake by season
 
-{{ figure("waterfall-above-the-loop", "Snowmelt pouring down a granite slope in early summer, with sage-green hills and a blue lake below", "Early summer, when the snowmelt comes down off the mountains all at once.") }}
+{{ figure("waterfall-above-the-loop", "Horsetail Falls pouring down a granite slope above Rush Creek in early summer, with Silver Lake and the June Lake Loop below", "Horsetail Falls above Rush Creek, a short way from Silver Lake, when the snowmelt comes down all at once.") }}
 
 **Winter** brings deep snow, June Mountain a mile away and Mammoth thirty minutes south. **Spring** brings the trout opener and, when [Tioga Road opens](/guides/tioga-pass-opening-dates/), Yosemite's high country. **Summer** is lake days, hiking and day trips to Tuolumne Meadows. **Fall** is the secret: golden aspens, empty trails and the best light of the year. Our [June Lake guide](/guides/june-lake/) covers the loop in full.
 
