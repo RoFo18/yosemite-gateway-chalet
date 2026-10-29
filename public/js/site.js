@@ -329,3 +329,15 @@
       });
   })();
 })();
+
+// Open a FAQ answer when the page is reached by its anchor (e.g. /faq/#when-does-tioga-pass-close).
+(function () {
+  function openFromHash() {
+    var id = decodeURIComponent((location.hash || '').slice(1));
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (el && el.tagName === 'DETAILS') { el.open = true; el.scrollIntoView(); }
+  }
+  window.addEventListener('hashchange', openFromHash);
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', openFromHash); else openFromHash();
+})();

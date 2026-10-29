@@ -34,7 +34,7 @@
     <h2 id="faq-h">{{ page.faq_title or 'Questions' }}</h2>
     {% for q in page.faq %}
     {% if q.group %}<h3 class="faq-group">{{ q.group }}</h3>{% endif %}
-    <details{% if loop.first and page.faq_open %} open{% endif %}><summary>{{ q.q }}</summary><div>{{ q.a | md }}{% if q.img %}<figure class="faq-fig{% if q.img_portrait %} portrait{% endif %}">{{ picture(q.img, q.img_alt, "(min-width: 760px) 680px, 92vw", fit=q.img_fit) }}{% if q.cap %}<figcaption>{{ q.cap }}</figcaption>{% endif %}</figure>{% endif %}{% if q.body %}<div class="faq-body">{{ body }}</div>{% endif %}</div></details>
+    <details{% if q.id %} id="{{ q.id }}"{% endif %}{% if loop.first and page.faq_open %} open{% endif %}><summary>{{ q.q }}</summary><div>{{ q.a | md }}{% if q.img %}<figure class="faq-fig{% if q.img_portrait %} portrait{% endif %}">{{ picture(q.img, q.img_alt, "(min-width: 760px) 680px, 92vw", fit=q.img_fit) }}{% if q.cap %}<figcaption>{{ q.cap }}</figcaption>{% endif %}</figure>{% endif %}{% if q.body %}<div class="faq-body">{{ body }}</div>{% endif %}</div></details>
     {% endfor %}
   </section>
   {% endif %}
