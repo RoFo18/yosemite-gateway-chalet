@@ -178,6 +178,7 @@ NAMES = {
     "hq-la-parrilla-yeti.jpg": "la-parrilla-yeti",
     "hq-tiger-bar-logo.jpg": "tiger-bar-logo",
     "june-lake-general-store.jpg": "june-lake-general-store",
+    "vrbo-bear-window.jpg": "vrbo-bear-window",
     "chalet-fall-aspens-sign.jpg": "chalet-fall-aspens-sign",
     "kids-skiing-june-mountain-smiles.jpg": "kids-skiing-june-mountain-smiles",
     "mount-banner-memorial-plaque.jpg": "mount-banner-memorial-plaque",

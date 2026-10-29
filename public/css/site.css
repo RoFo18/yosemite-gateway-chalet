@@ -1056,3 +1056,16 @@ p:has(> .link-arrow + .link-arrow) > .link-arrow{margin-left:0}
 .reach li:nth-child(odd){padding-right:1rem}
 .reach-n{font:500 1.7rem/1 var(--f-display);color:var(--ink)}
 .reach-l{font-size:.86rem;color:var(--ink-3);line-height:1.35}
+/* The VRBO Bear */
+.bear{display:grid;grid-template-columns:1fr;gap:var(--s-5);margin:var(--s-8) 0;padding:clamp(1.4rem,4vw,2.6rem);background:var(--paper);border:1px solid var(--rule);border-top:3px solid var(--bronze)}
+.bear-img{margin:0;max-width:300px}
+.bear-img img{width:100%;height:auto;display:block;border:6px solid #fff;box-shadow:0 2px 14px rgba(24,32,28,.14);transform:rotate(-2deg)}
+.prose .bear-k{font:500 .68rem/1 var(--f-text);letter-spacing:.18em;text-transform:uppercase;color:var(--bronze);margin:0 0 .6rem}
+.prose .bear h2{margin:0 0 .8rem}
+.prose .bear-intro{color:var(--ink-2);margin:0 0 1.2rem}
+.prose .bear-q{margin:0 0 1.2rem;padding:0;border:0}
+.prose .bear-q p{font:italic 500 clamp(1.5rem,2.6vw,2rem)/1.25 var(--f-display);color:var(--ink);margin:0}
+.prose .bear-lines{list-style:none;margin:0 0 1.2rem;padding:0;display:grid;gap:.7rem}
+.prose .bear-lines li{font:500 1.12rem/1.4 var(--f-display);color:var(--ink-2);padding-left:1rem;border-left:2px solid var(--rule)}
+.prose .bear-sign{font:italic 500 1.15rem/1.4 var(--f-display);color:var(--ink);margin:0}
+@media (min-width:760px){.bear{grid-template-columns:240px minmax(0,1fr);align-items:start;gap:var(--s-6)}.bear-img{position:sticky;top:120px}}

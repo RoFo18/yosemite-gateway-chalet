@@ -26,6 +26,24 @@ related: [/the-chalet/, /inquire/, /rates-and-policies/]
 <figcaption>What the reviews keep coming back to: the tub, the fire, and a house that feels lived in.</figcaption>
 </div>
 
+<section class="bear" aria-labelledby="bear-h">
+<figure class="bear-img">{{ picture("vrbo-bear-window", "The VRBO Bear, a small stuffed teddy bear, sitting on a windowsill at the chalet looking out at the pines and Yost Creek", "(min-width: 760px) 300px, 70vw") }}</figure>
+<div class="bear-copy">
+<p class="bear-k">September 2017, from VRBO</p>
+<h2 id="bear-h">The night the VRBO Bear checked in</h2>
+<p class="bear-intro">Years ago VRBO sent its traveling mascot, the VRBO Bear, to stay a while and write it up. His review, in his own words:</p>
+<blockquote class="bear-q"><p>&ldquo;A picturesque, tranquil mountain home resembling something right out of a dream.&rdquo;</p></blockquote>
+<ul class="bear-lines">
+<li>&ldquo;TWO hot tubs are available, one outdoor and one in the master suite - and both worked flawlessly!&rdquo;</li>
+<li>&ldquo;The Bear&rsquo;s favorite, however, was the Grand Room, a lofty living room complete with a large bar, stools, leather couches, fireplace, and even a backgammon table.&rdquo;</li>
+<li>&ldquo;Serene babbling brooks form a border between the chalet and surrounding wilderness.&rdquo;</li>
+<li>&ldquo;The Bear mainly chose this location for its proximity to Tuolumne Meadows in Yosemite National Park.&rdquo;</li>
+</ul>
+<p class="bear-sign">&ldquo;The Bear enjoyed this pristine getaway and will be dreaming of visiting again!&rdquo;</p>
+<aside class="rx-reply"><p class="rx-k">Robert writes back</p><p class="rx-t">Easiest guest we ever had. No cars, no dog, no questions about the wifi, and he tested both hot tubs, which is more than most people admit to. The window seat is still yours, Bear.</p></aside>
+</div>
+</section>
+
 ## We write back
 
 Every review gets read in this house, usually out loud, usually twice. A few of them earned an answer.
